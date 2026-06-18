@@ -1,0 +1,663 @@
+[
+  {
+    "title": "Hva er discgolf?",
+    "primaryKeyword": "hva er discgolf?",
+    "secondaryKeywords": [
+      "hva er discgolf? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "nybegynnerguide.html",
+      "utstyrsguide.html",
+      "regler.html"
+    ],
+    "suggestedSources": [
+      "PDGA beginner guide",
+      "Latitude 64 beginner guide",
+      "Reddit r/discgolf beginner threads"
+    ],
+    "category": "Nybegynnerguider",
+    "slug": "hva-er-discgolf"
+  },
+  {
+    "title": "PDGA-regler forklart på norsk",
+    "primaryKeyword": "pdga-regler forklart på norsk",
+    "secondaryKeywords": [
+      "pdga-regler forklart på norsk guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "regler.html",
+      "turneringer-ranking.html",
+      "nybegynnerguide.html"
+    ],
+    "suggestedSources": [
+      "PDGA Official Rules",
+      "PDGA Competition Manual"
+    ],
+    "category": "Regler",
+    "slug": "pdga-regler-forklart-pa-norsk"
+  },
+  {
+    "title": "Flight numbers forklart",
+    "primaryKeyword": "flight numbers forklart",
+    "secondaryKeywords": [
+      "flight numbers forklart guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "utstyrsguide.html",
+      "nybegynnerguide.html",
+      "artikler.html"
+    ],
+    "suggestedSources": [
+      "Producer product pages",
+      "PDGA approved discs",
+      "Norwegian retailers",
+      "Reddit player experience threads"
+    ],
+    "category": "Ulike disktyper",
+    "slug": "flight-numbers-forklart"
+  },
+  {
+    "title": "PDGA-rating forklart",
+    "primaryKeyword": "pdga-rating forklart",
+    "secondaryKeywords": [
+      "pdga-rating forklart guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "turneringer-ranking.html",
+      "regler.html",
+      "artikler.html"
+    ],
+    "suggestedSources": [
+      "PDGA ratings",
+      "PDGA World Rankings",
+      "StatMando"
+    ],
+    "category": "PDGA",
+    "slug": "pdga-rating-forklart"
+  },
+  {
+    "title": "Hva er en mando?",
+    "primaryKeyword": "hva er en mando?",
+    "secondaryKeywords": [
+      "hva er en mando? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "regler.html",
+      "turneringer-ranking.html",
+      "nybegynnerguide.html"
+    ],
+    "suggestedSources": [
+      "PDGA Official Rules",
+      "PDGA Competition Manual"
+    ],
+    "category": "Regler",
+    "slug": "hva-er-en-mando"
+  },
+  {
+    "title": "Hva er OB?",
+    "primaryKeyword": "hva er ob?",
+    "secondaryKeywords": [
+      "hva er ob? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "regler.html",
+      "turneringer-ranking.html",
+      "nybegynnerguide.html"
+    ],
+    "suggestedSources": [
+      "PDGA Official Rules",
+      "PDGA Competition Manual"
+    ],
+    "category": "Regler",
+    "slug": "hva-er-ob"
+  },
+  {
+    "title": "Hva er par i discgolf?",
+    "primaryKeyword": "hva er par i discgolf?",
+    "secondaryKeywords": [
+      "hva er par i discgolf? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "nybegynnerguide.html",
+      "utstyrsguide.html",
+      "regler.html"
+    ],
+    "suggestedSources": [
+      "PDGA beginner guide",
+      "Latitude 64 beginner guide",
+      "Reddit r/discgolf beginner threads"
+    ],
+    "category": "Nybegynnerguider",
+    "slug": "hva-er-par-i-discgolf"
+  },
+  {
+    "title": "Hva er hyzer?",
+    "primaryKeyword": "hva er hyzer?",
+    "secondaryKeywords": [
+      "hva er hyzer? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "nybegynnerguide.html",
+      "artikler.html",
+      "utstyrsguide.html"
+    ],
+    "suggestedSources": [
+      "PDGA beginner guide",
+      "Overthrow Disc Golf / technique trend signal",
+      "Reddit form-check discussions"
+    ],
+    "category": "Kasteteknikk",
+    "slug": "hva-er-hyzer"
+  },
+  {
+    "title": "Hva er anhyzer?",
+    "primaryKeyword": "hva er anhyzer?",
+    "secondaryKeywords": [
+      "hva er anhyzer? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "nybegynnerguide.html",
+      "artikler.html",
+      "utstyrsguide.html"
+    ],
+    "suggestedSources": [
+      "PDGA beginner guide",
+      "Overthrow Disc Golf / technique trend signal",
+      "Reddit form-check discussions"
+    ],
+    "category": "Kasteteknikk",
+    "slug": "hva-er-anhyzer"
+  },
+  {
+    "title": "Hva er turn?",
+    "primaryKeyword": "hva er turn?",
+    "secondaryKeywords": [
+      "hva er turn? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "utstyrsguide.html",
+      "nybegynnerguide.html",
+      "artikler.html"
+    ],
+    "suggestedSources": [
+      "Producer product pages",
+      "PDGA approved discs",
+      "Norwegian retailers",
+      "Reddit player experience threads"
+    ],
+    "category": "Ulike disktyper",
+    "slug": "hva-er-turn"
+  },
+  {
+    "title": "Hva er fade?",
+    "primaryKeyword": "hva er fade?",
+    "secondaryKeywords": [
+      "hva er fade? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "utstyrsguide.html",
+      "nybegynnerguide.html",
+      "artikler.html"
+    ],
+    "suggestedSources": [
+      "Producer product pages",
+      "PDGA approved discs",
+      "Norwegian retailers",
+      "Reddit player experience threads"
+    ],
+    "category": "Ulike disktyper",
+    "slug": "hva-er-fade"
+  },
+  {
+    "title": "Hva er glide?",
+    "primaryKeyword": "hva er glide?",
+    "secondaryKeywords": [
+      "hva er glide? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "utstyrsguide.html",
+      "nybegynnerguide.html",
+      "artikler.html"
+    ],
+    "suggestedSources": [
+      "Producer product pages",
+      "PDGA approved discs",
+      "Norwegian retailers",
+      "Reddit player experience threads"
+    ],
+    "category": "Ulike disktyper",
+    "slug": "hva-er-glide"
+  },
+  {
+    "title": "Hva er speed?",
+    "primaryKeyword": "hva er speed?",
+    "secondaryKeywords": [
+      "hva er speed? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "utstyrsguide.html",
+      "nybegynnerguide.html",
+      "artikler.html"
+    ],
+    "suggestedSources": [
+      "Producer product pages",
+      "PDGA approved discs",
+      "Norwegian retailers",
+      "Reddit player experience threads"
+    ],
+    "category": "Ulike disktyper",
+    "slug": "hva-er-speed"
+  },
+  {
+    "title": "Hva er en putter?",
+    "primaryKeyword": "hva er en putter?",
+    "secondaryKeywords": [
+      "hva er en putter? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "utstyrsguide.html",
+      "nybegynnerguide.html",
+      "artikler.html"
+    ],
+    "suggestedSources": [
+      "Producer product pages",
+      "PDGA approved discs",
+      "Norwegian retailers",
+      "Reddit player experience threads"
+    ],
+    "category": "Ulike disktyper",
+    "slug": "hva-er-en-putter"
+  },
+  {
+    "title": "Hva er en midrange?",
+    "primaryKeyword": "hva er en midrange?",
+    "secondaryKeywords": [
+      "hva er en midrange? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "utstyrsguide.html",
+      "nybegynnerguide.html",
+      "artikler.html"
+    ],
+    "suggestedSources": [
+      "Producer product pages",
+      "PDGA approved discs",
+      "Norwegian retailers",
+      "Reddit player experience threads"
+    ],
+    "category": "Ulike disktyper",
+    "slug": "hva-er-en-midrange"
+  },
+  {
+    "title": "Hva er en fairway driver?",
+    "primaryKeyword": "hva er en fairway driver?",
+    "secondaryKeywords": [
+      "hva er en fairway driver? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "utstyrsguide.html",
+      "nybegynnerguide.html",
+      "artikler.html"
+    ],
+    "suggestedSources": [
+      "Producer product pages",
+      "PDGA approved discs",
+      "Norwegian retailers",
+      "Reddit player experience threads"
+    ],
+    "category": "Ulike disktyper",
+    "slug": "hva-er-en-fairway-driver"
+  },
+  {
+    "title": "Hva er en distance driver?",
+    "primaryKeyword": "hva er en distance driver?",
+    "secondaryKeywords": [
+      "hva er en distance driver? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "utstyrsguide.html",
+      "nybegynnerguide.html",
+      "artikler.html"
+    ],
+    "suggestedSources": [
+      "Producer product pages",
+      "PDGA approved discs",
+      "Norwegian retailers",
+      "Reddit player experience threads"
+    ],
+    "category": "Ulike disktyper",
+    "slug": "hva-er-en-distance-driver"
+  },
+  {
+    "title": "Hvordan fungerer en discgolfbane?",
+    "primaryKeyword": "hvordan fungerer en discgolfbane?",
+    "secondaryKeywords": [
+      "hvordan fungerer en discgolfbane? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "baneguide.html",
+      "utstyrsguide.html",
+      "turneringer-ranking.html"
+    ],
+    "suggestedSources": [
+      "UDisc Norway course pages",
+      "Norwegian clubs",
+      "Disc Golf Metrix"
+    ],
+    "category": "Norske baner",
+    "slug": "hvordan-fungerer-en-discgolfbane"
+  },
+  {
+    "title": "Hvordan finner du turneringer i Norge?",
+    "primaryKeyword": "hvordan finner du turneringer i norge?",
+    "secondaryKeywords": [
+      "hvordan finner du turneringer i norge? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "turneringer-ranking.html",
+      "regler.html",
+      "baneguide.html"
+    ],
+    "suggestedSources": [
+      "NAIF Disksport terminliste",
+      "PDGA event search",
+      "Disc Golf Scene Norway",
+      "Disc Golf Metrix"
+    ],
+    "category": "Turneringer",
+    "slug": "hvordan-finner-du-turneringer-i-norge"
+  },
+  {
+    "title": "Hvordan melder du deg på turnering?",
+    "primaryKeyword": "hvordan melder du deg på turnering?",
+    "secondaryKeywords": [
+      "hvordan melder du deg på turnering? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "turneringer-ranking.html",
+      "regler.html",
+      "baneguide.html"
+    ],
+    "suggestedSources": [
+      "NAIF Disksport terminliste",
+      "PDGA event search",
+      "Disc Golf Scene Norway",
+      "Disc Golf Metrix"
+    ],
+    "category": "Turneringer",
+    "slug": "hvordan-melder-du-deg-pa-turnering"
+  },
+  {
+    "title": "Hva er Disc Golf Scene?",
+    "primaryKeyword": "hva er disc golf scene?",
+    "secondaryKeywords": [
+      "hva er disc golf scene? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "turneringer-ranking.html",
+      "regler.html",
+      "baneguide.html"
+    ],
+    "suggestedSources": [
+      "NAIF Disksport terminliste",
+      "PDGA event search",
+      "Disc Golf Scene Norway",
+      "Disc Golf Metrix"
+    ],
+    "category": "Turneringer",
+    "slug": "hva-er-disc-golf-scene"
+  },
+  {
+    "title": "Hva er UDisc?",
+    "primaryKeyword": "hva er udisc?",
+    "secondaryKeywords": [
+      "hva er udisc? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "baneguide.html",
+      "utstyrsguide.html",
+      "turneringer-ranking.html"
+    ],
+    "suggestedSources": [
+      "UDisc Norway course pages",
+      "Norwegian clubs",
+      "Disc Golf Metrix"
+    ],
+    "category": "Norske baner",
+    "slug": "hva-er-udisc"
+  },
+  {
+    "title": "Hva er Disc Golf Metrix?",
+    "primaryKeyword": "hva er disc golf metrix?",
+    "secondaryKeywords": [
+      "hva er disc golf metrix? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "turneringer-ranking.html",
+      "regler.html",
+      "baneguide.html"
+    ],
+    "suggestedSources": [
+      "NAIF Disksport terminliste",
+      "PDGA event search",
+      "Disc Golf Scene Norway",
+      "Disc Golf Metrix"
+    ],
+    "category": "Turneringer",
+    "slug": "hva-er-disc-golf-metrix"
+  },
+  {
+    "title": "Hva gjør en discgolfklubb?",
+    "primaryKeyword": "hva gjør en discgolfklubb?",
+    "secondaryKeywords": [
+      "hva gjør en discgolfklubb? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Lav/Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "baneguide.html",
+      "turneringer-ranking.html",
+      "artikler.html"
+    ],
+    "suggestedSources": [
+      "Norwegian disc golf clubs",
+      "NAIF Disksport",
+      "Disc Golf Scene"
+    ],
+    "category": "Norske klubber",
+    "slug": "hva-gjor-en-discgolfklubb"
+  },
+  {
+    "title": "Hvordan velge riktig disk?",
+    "primaryKeyword": "hvordan velge riktig disk?",
+    "secondaryKeywords": [
+      "hvordan velge riktig disk? guide",
+      "discgolf norge",
+      "frisbeegolf"
+    ],
+    "searchIntent": "Evergreen informasjon",
+    "estimatedTrafficPotential": "Høy",
+    "competitionLevel": "Middels",
+    "priority": "Høy",
+    "contentPlan": "Lag en tidløs forklaring med definisjoner, norsk kontekst, eksempler og kildepeker. Oppdater bare når regler/data endres.",
+    "internalLinks": [
+      "utstyrsguide.html",
+      "nybegynnerguide.html",
+      "artikler.html"
+    ],
+    "suggestedSources": [
+      "Producer product pages",
+      "PDGA approved discs",
+      "Norwegian retailers",
+      "Reddit player experience threads"
+    ],
+    "category": "Utstyr",
+    "slug": "hvordan-velge-riktig-disk"
+  }
+]

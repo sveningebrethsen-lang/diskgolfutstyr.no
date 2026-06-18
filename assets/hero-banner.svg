@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="title">
+  <title id="title">Abstrakt Kompassdisk hero-banner</title>
+  <rect width="1600" height="900" fill="#0F172A"/>
+  <path d="M0 670C250 555 420 670 640 555c250-130 420-310 960-170v515H0Z" fill="#172033"/>
+  <path d="M1040 156 1126 418 1370 490 1106 572 986 790 908 524 650 455 920 366 1040 156Z" fill="#FFFFFF" opacity="0.12"/>
+  <path d="M1140 255 1190 424 1350 473 1174 528 1096 675 1045 499 880 456 1053 398 1140 255Z" fill="#22C55E" opacity="0.52"/>
+  <ellipse cx="1035" cy="492" rx="360" ry="92" transform="rotate(-8 1035 492)" fill="#22C55E" opacity="0.86"/>
+  <ellipse cx="1035" cy="492" rx="260" ry="48" transform="rotate(-8 1035 492)" fill="none" stroke="#FFFFFF" stroke-width="10" opacity="0.65"/>
+  <path d="M705 520c165-70 430-100 670-50" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" opacity="0.38"/>
+  <path d="M124 154h420" stroke="#FFFFFF" stroke-width="1.4" opacity="0.12"/>
+  <path d="M124 214h320" stroke="#FFFFFF" stroke-width="1.4" opacity="0.1"/>
+  <path d="M124 274h520" stroke="#FFFFFF" stroke-width="1.4" opacity="0.08"/>
+  <circle cx="144" cy="156" r="7" fill="#22C55E"/>
+  <circle cx="318" cy="214" r="5" fill="#22C55E" opacity="0.7"/>
+  <circle cx="524" cy="274" r="5" fill="#22C55E" opacity="0.45"/>
+</svg>

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "disc-golf-towel",
+    "name": "Discgolf-håndkle",
+    "brand": "Generisk",
+    "category": "accessory",
+    "type": "towel",
+    "beginner_friendly": true,
+    "suitable_for": "Våte norske runder og bedre grep",
+    "pros": ["Billig", "Nyttig på nesten alle runder", "Reduserer glatt grep"],
+    "cons": ["Må tørkes/vaskes", "Ikke en erstatning for god teknikk"],
+    "description": "Et enkelt tilbehør som ofte gir mer praktisk nytte enn en ekstra driver.",
+    "source_urls": [],
+    "affiliate_url": "#",
+    "last_checked": "2026-06-03"
+  },
+  {
+    "id": "disc-retriever",
+    "name": "Disc retriever",
+    "brand": "Generisk",
+    "category": "accessory",
+    "type": "retriever",
+    "beginner_friendly": false,
+    "suitable_for": "Baner med vann, bratte skråninger eller mye kratt",
+    "pros": ["Kan redde tapte disker", "Nyttig på vannhull", "Kan spare penger over tid"],
+    "cons": ["Ikke nødvendig første runde", "Tar plass i bagen"],
+    "description": "Et tilbehør som blir mer relevant når du spiller baner der disker ofte havner utilgjengelig.",
+    "source_urls": [],
+    "affiliate_url": "#",
+    "last_checked": "2026-06-03"
+  }
+]

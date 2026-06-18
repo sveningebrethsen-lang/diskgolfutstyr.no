@@ -1,0 +1,18 @@
+[
+  {
+    "id": "mvp-black-hole-practice",
+    "name": "MVP Black Hole Practice",
+    "brand": "MVP Disc Sports",
+    "category": "basket",
+    "type": "practice basket",
+    "portable": true,
+    "beginner_friendly": true,
+    "suitable_for": "Puttingtrening hjemme og hagebruk",
+    "pros": ["Kan brukes hjemme", "Flyttbar", "Relevant for puttingtrening"],
+    "cons": ["Må vurderes for støy i boligområde", "Ikke det samme som fast banekurv"],
+    "description": "Et research-basert eksempel på hjemmekurv for puttingtrening.",
+    "source_urls": ["https://mvpdiscsports.com/products/baskets/black-hole-practice/"],
+    "affiliate_url": "#",
+    "last_checked": "2026-06-03"
+  }
+]

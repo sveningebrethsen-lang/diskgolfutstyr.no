@@ -1,0 +1,824 @@
+[
+  {
+    "id": "krokhol-disc-golf-course",
+    "name": "Krokhol Disc Golf Course",
+    "slug": "krokhol-disc-golf-course",
+    "city": "Siggerud",
+    "municipality": "Nordre Follo",
+    "county": "Akershus",
+    "country": "Norge",
+    "holes": 18,
+    "difficulty": "Svært krevende",
+    "beginner_friendly": false,
+    "family_friendly": null,
+    "course_type": "Golfbane/skog og åpent terreng",
+    "terrain": "Blandet skog, åpne partier og høydeforskjell",
+    "short_description": "Krokhol er en større og mer krevende bane ved Oslo-området, mest aktuell for spillere som tåler lengde, høydeforskjell og tekniske hull.",
+    "good_for": [
+      "viderekomne",
+      "turneringsspillere",
+      "banetur"
+    ],
+    "facilities": [
+      "Se oppdatert kilde for fasiliteter og booking"
+    ],
+    "udisc_url": "https://udisc.com/courses/krokhol-disc-golf-course-TKtF",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Krokhol%20Disc%20Golf%20Course",
+    "source_urls": [
+      "https://www.pdga.com/course-directory/course/krokhol-disc-golf-course",
+      "https://udisc.com/courses/krokhol-disc-golf-course-TKtF"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "PDGA og UDisc viser 18 hull. Status, betaling og åpningstid må sjekkes før spill."
+  },
+  {
+    "id": "klemetsrud-diskgolfbane",
+    "name": "Klemetsrud diskgolfbane",
+    "slug": "klemetsrud-diskgolfbane",
+    "city": "Oslo",
+    "municipality": "Oslo",
+    "county": "Oslo",
+    "country": "Norge",
+    "holes": 18,
+    "difficulty": "Krevende",
+    "beginner_friendly": false,
+    "family_friendly": null,
+    "course_type": "Skogsbane",
+    "terrain": "Skog og tekniske fairwayer",
+    "short_description": "Klemetsrud virker som et teknisk 18-hullsvalg for spillere som vil ha en mer krevende Oslo-runde.",
+    "good_for": [
+      "viderekomne",
+      "teknisk trening",
+      "lokale spillere"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/courses/klemetsrud-diskgolfbane-qVbT",
+    "club_url": "https://www.klemetsrudil.no/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Klemetsrud%20diskgolfbane",
+    "source_urls": [
+      "https://udisc.com/courses/klemetsrud-diskgolfbane-qVbT"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc viser 18 hull. Sjekk ukesgolf og eventuell stenging før casual runde."
+  },
+  {
+    "id": "holmenkollen-discgolfpark",
+    "name": "Holmenkollen DiscGolfpark",
+    "slug": "holmenkollen-discgolfpark",
+    "city": "Oslo",
+    "municipality": "Oslo",
+    "county": "Oslo",
+    "country": "Norge",
+    "holes": 18,
+    "difficulty": "Middels",
+    "beginner_friendly": false,
+    "family_friendly": null,
+    "course_type": "Park/skianlegg",
+    "terrain": "Kupert park- og skiterreng",
+    "short_description": "Holmenkollen er en 18-hullsbane i kupert terreng. Den kan være fin for spillere som vil ha Oslo-nær bane med utsikt, men helt nye spillere bør starte roligere.",
+    "good_for": [
+      "hobbyspillere",
+      "viderekomne",
+      "Oslo-runde"
+    ],
+    "facilities": [
+      "Se oppdatert kilde for toalett og sesong"
+    ],
+    "udisc_url": "https://udisc.com/courses/holmenkollen-disc-golfpark-Zh8g",
+    "club_url": "https://www.skiforeningen.no/holmenkollen/se-og-gjore/holmenkollen-frisbeegolf/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Holmenkollen%20DiscGolfpark",
+    "source_urls": [
+      "https://udisc.com/courses/holmenkollen-disc-golfpark-Zh8g"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc viser 18 hull og sesongstatus."
+  },
+  {
+    "id": "ekeberg-frisbeegolfbane",
+    "name": "Ekeberg Frisbeegolfbane",
+    "slug": "ekeberg-frisbeegolfbane",
+    "city": "Oslo",
+    "municipality": "Oslo",
+    "county": "Oslo",
+    "country": "Norge",
+    "holes": 18,
+    "difficulty": "Middels",
+    "beginner_friendly": false,
+    "family_friendly": null,
+    "course_type": "Parkbane",
+    "terrain": "Park og blandet terreng",
+    "short_description": "Ekeberg er en mye spilt Oslo-bane. Den er aktuell for mange nivåer, men nye spillere bør ta hensyn til andre brukere og tempo på banen.",
+    "good_for": [
+      "Oslo-spillere",
+      "hobbyspillere",
+      "trening"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/places/no/oslo-region-norway",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Ekeberg%20Frisbeegolfbane",
+    "source_urls": [
+      "https://udisc.com/places/no/oslo-region-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc byoversikt viser Ekeberg som 18-hullsbane i Oslo."
+  },
+  {
+    "id": "hauketo-diskgolfbane",
+    "name": "Hauketo Diskgolfbane",
+    "slug": "hauketo-diskgolfbane",
+    "city": "Oslo",
+    "municipality": "Oslo",
+    "county": "Oslo",
+    "country": "Norge",
+    "holes": 11,
+    "difficulty": "Lett",
+    "beginner_friendly": true,
+    "family_friendly": true,
+    "course_type": "Lavterskelbane",
+    "terrain": "Ukjent",
+    "short_description": "Hauketo er markert som lett og nybegynnervennlig i UDisc sin Oslo-oversikt, og kan derfor være et aktuelt førstevalg i byen.",
+    "good_for": [
+      "nybegynnere",
+      "kort runde",
+      "første runde"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/places/no/oslo-region-norway",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Hauketo%20Diskgolfbane",
+    "source_urls": [
+      "https://udisc.com/places/no/oslo-region-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "Byoversikt oppgir 11 hull og beginner-friendly. Sjekk egen baneinfo før du drar."
+  },
+  {
+    "id": "lambertseter-diskgolfbane",
+    "name": "Lambertseter Diskgolfbane",
+    "slug": "lambertseter-diskgolfbane",
+    "city": "Oslo",
+    "municipality": "Oslo",
+    "county": "Oslo",
+    "country": "Norge",
+    "holes": 9,
+    "difficulty": "Lett",
+    "beginner_friendly": true,
+    "family_friendly": true,
+    "course_type": "Lavterskelbane",
+    "terrain": "Ukjent",
+    "short_description": "Lambertseter er et kortere Oslo-alternativ som UDisc markerer som lett og nybegynnervennlig.",
+    "good_for": [
+      "nybegynnere",
+      "kort runde",
+      "familier"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/places/no/oslo-region-norway",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Lambertseter%20Diskgolfbane",
+    "source_urls": [
+      "https://udisc.com/places/no/oslo-region-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "Byoversikt oppgir 9 hull og beginner-friendly."
+  },
+  {
+    "id": "alvoen-frisbeegolfbane",
+    "name": "Alvøen Frisbeegolfbane",
+    "slug": "alvoen-frisbeegolfbane",
+    "city": "Bergen",
+    "municipality": "Bergen",
+    "county": "Vestland",
+    "country": "Norge",
+    "holes": 9,
+    "difficulty": "Krevende",
+    "beginner_friendly": false,
+    "family_friendly": null,
+    "course_type": "Ukjent",
+    "terrain": "Ukjent",
+    "short_description": "Alvøen fremstår som et mer krevende Bergen-alternativ, og bør vurderes etter nivå og dagsform.",
+    "good_for": [
+      "viderekomne",
+      "Bergen-spillere"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/places/no/bergen-norway",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Alv%C3%B8en%20Frisbeegolfbane",
+    "source_urls": [
+      "https://udisc.com/places/no/bergen-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc byoversikt oppgir 9 hull og hard difficulty."
+  },
+  {
+    "id": "sondre-hetlevik",
+    "name": "Søndre Hetlevik",
+    "slug": "sondre-hetlevik",
+    "city": "Bergen",
+    "municipality": "Bergen",
+    "county": "Vestland",
+    "country": "Norge",
+    "holes": 18,
+    "difficulty": "Lett til middels",
+    "beginner_friendly": true,
+    "family_friendly": null,
+    "course_type": "Ukjent",
+    "terrain": "Ukjent",
+    "short_description": "Søndre Hetlevik er et 18-hullsvalg i Bergen som UDisc markerer som nybegynnervennlig, men runden er lengre enn korte lavterskelbaner.",
+    "good_for": [
+      "nybegynnere",
+      "hobbyspillere",
+      "18-hulls runde"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/places/no/bergen-norway",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=S%C3%B8ndre%20Hetlevik%20discgolf",
+    "source_urls": [
+      "https://udisc.com/places/no/bergen-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc byoversikt oppgir 18 hull og beginner-friendly."
+  },
+  {
+    "id": "kalandeid-il",
+    "name": "Kalandeid IL",
+    "slug": "kalandeid-il",
+    "city": "Bergen",
+    "municipality": "Bergen",
+    "county": "Vestland",
+    "country": "Norge",
+    "holes": 9,
+    "difficulty": "Lett",
+    "beginner_friendly": true,
+    "family_friendly": true,
+    "course_type": "Lavterskelbane",
+    "terrain": "Ukjent",
+    "short_description": "Kalandeid IL er et kortere Bergen-alternativ som kan passe nye spillere basert på tilgjengelig UDisc-informasjon.",
+    "good_for": [
+      "nybegynnere",
+      "kort runde",
+      "familier"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/places/no/bergen-norway",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Kalandeid%20IL%20discgolf",
+    "source_urls": [
+      "https://udisc.com/places/no/bergen-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc byoversikt oppgir 9 hull og beginner-friendly."
+  },
+  {
+    "id": "dragvoll-diskgolfarena",
+    "name": "Dragvoll Diskgolfarena",
+    "slug": "dragvoll-diskgolfarena",
+    "city": "Trondheim",
+    "municipality": "Trondheim",
+    "county": "Trøndelag",
+    "country": "Norge",
+    "holes": 18,
+    "difficulty": "Krevende",
+    "beginner_friendly": false,
+    "family_friendly": null,
+    "course_type": "Teknisk bane",
+    "terrain": "Teknisk og kupert",
+    "short_description": "Dragvoll er en etablert 18-hullsbane i Trondheim som passer best for spillere som vil ha en lengre og mer teknisk runde.",
+    "good_for": [
+      "viderekomne",
+      "turnering",
+      "teknisk trening"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/courses/dragvoll-diskgolfpark-J0NI",
+    "club_url": "https://www.trondheimfrisbeeklubb.no/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Dragvoll%20Diskgolfarena",
+    "source_urls": [
+      "https://udisc.com/courses/dragvoll-diskgolfpark-J0NI",
+      "https://udisc.com/places/trondheim-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc viser 18 hull. Sjekk booking og klubbinfo."
+  },
+  {
+    "id": "hallset-diskgolfpark",
+    "name": "Hallset Diskgolfpark",
+    "slug": "hallset-diskgolfpark",
+    "city": "Trondheim",
+    "municipality": "Trondheim",
+    "county": "Trøndelag",
+    "country": "Norge",
+    "holes": 6,
+    "difficulty": "Lett",
+    "beginner_friendly": true,
+    "family_friendly": true,
+    "course_type": "Kort parkbane",
+    "terrain": "Park",
+    "short_description": "Hallset er en kort 6-hullsbane i Trondheim som virker godt egnet for første runder og korte treningsøkter.",
+    "good_for": [
+      "nybegynnere",
+      "familier",
+      "kort runde"
+    ],
+    "facilities": [],
+    "udisc_url": "https://app.udisc.com/courses/hallset-diskgolfpark-E1lw",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Hallset%20Diskgolfpark",
+    "source_urls": [
+      "https://app.udisc.com/courses/hallset-diskgolfpark-E1lw",
+      "https://udisc.com/places/trondheim-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc oppgir 6 hull og beginner-friendly."
+  },
+  {
+    "id": "trolla-diskgolfpark",
+    "name": "Trolla Diskgolfpark",
+    "slug": "trolla-diskgolfpark",
+    "city": "Trondheim",
+    "municipality": "Trondheim",
+    "county": "Trøndelag",
+    "country": "Norge",
+    "holes": 10,
+    "difficulty": "Middels",
+    "beginner_friendly": false,
+    "family_friendly": null,
+    "course_type": "Ukjent",
+    "terrain": "Ukjent",
+    "short_description": "Trolla ligger høyt i UDisc sin Trondheim-oversikt og kan være aktuell for spillere som vil ha en middels krevende runde.",
+    "good_for": [
+      "hobbyspillere",
+      "Trondheim-runde"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/places/trondheim-norway",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Trolla%20Diskgolfpark",
+    "source_urls": [
+      "https://udisc.com/places/trondheim-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc byoversikt oppgir 10 hull og moderate difficulty."
+  },
+  {
+    "id": "bolgane-frisbeegolfpark",
+    "name": "Bølgane Frisbeegolfpark",
+    "slug": "bolgane-frisbeegolfpark",
+    "city": "Kristiansand",
+    "municipality": "Kristiansand",
+    "county": "Agder",
+    "country": "Norge",
+    "holes": 18,
+    "difficulty": "Middels",
+    "beginner_friendly": null,
+    "family_friendly": null,
+    "course_type": "Blandet bane",
+    "terrain": "Åpne hull og lettere skog",
+    "short_description": "Bølgane er en 18-hullsbane i Kristiansand med blandet terreng. Høyt gress og lokale forhold kan påvirke runden.",
+    "good_for": [
+      "hobbyspillere",
+      "18-hulls runde",
+      "Kristiansand"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/courses/bolgane-frisbeegolfpark-8egx",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=B%C3%B8lgane%20Frisbeegolfpark",
+    "source_urls": [
+      "https://udisc.com/courses/bolgane-frisbeegolfpark-8egx"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc viser 18 hull. Sjekk lokale forhold, spesielt i vekstsesong."
+  },
+  {
+    "id": "sukkevann-frisbeegolfpark",
+    "name": "Sukkevann Frisbeegolfpark",
+    "slug": "sukkevann-frisbeegolfpark",
+    "city": "Kristiansand",
+    "municipality": "Kristiansand",
+    "county": "Agder",
+    "country": "Norge",
+    "holes": 27,
+    "difficulty": "Lett til svært krevende",
+    "beginner_friendly": true,
+    "family_friendly": null,
+    "course_type": "Større baneområde",
+    "terrain": "Ukjent",
+    "short_description": "Sukkevann er et større baneområde i Kristiansand-regionen og kan ha alternativer for flere nivåer. Sjekk layout før du velger runde.",
+    "good_for": [
+      "flere nivåer",
+      "trening",
+      "Kristiansand"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/courses?placeId=lillesand-norway",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Sukkevann%20Frisbeegolfpark",
+    "source_urls": [
+      "https://udisc.com/courses?placeId=lillesand-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc oversikt nær Lillesand/Kristiansand oppgir 27 hull og beginner-friendly."
+  },
+  {
+    "id": "skimore-drammen",
+    "name": "Skimore Drammen",
+    "slug": "skimore-drammen",
+    "city": "Drammen",
+    "municipality": "Drammen",
+    "county": "Buskerud",
+    "country": "Norge",
+    "holes": 18,
+    "difficulty": "Ukjent",
+    "beginner_friendly": false,
+    "family_friendly": null,
+    "course_type": "Skianlegg",
+    "terrain": "Kupert skianlegg",
+    "short_description": "Skimore Drammen er en ny 18-hullsbane i kupert terreng. Siden banen er ny, bør spillere sjekke oppdatert status før de drar.",
+    "good_for": [
+      "viderekomne",
+      "lokale spillere",
+      "ny bane"
+    ],
+    "facilities": [
+      "Se UDisc for heis, parkering og status"
+    ],
+    "udisc_url": "https://udisc.com/courses/skimore-drammen-o4Ol",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Skimore%20Drammen%20discgolf",
+    "source_urls": [
+      "https://udisc.com/courses/skimore-drammen-o4Ol"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc viser etablert 2026 og difficulty pending."
+  },
+  {
+    "id": "kvernhuset-discgolfpark",
+    "name": "Kvernhuset DiscGolfpark",
+    "slug": "kvernhuset-discgolfpark",
+    "city": "Fredrikstad",
+    "municipality": "Fredrikstad",
+    "county": "Østfold",
+    "country": "Norge",
+    "holes": 9,
+    "difficulty": "Lett til middels",
+    "beginner_friendly": true,
+    "family_friendly": null,
+    "course_type": "Skole-/skogsområde",
+    "terrain": "Kort og teknisk",
+    "short_description": "Kvernhuset er en kort 9-hullsbane i Fredrikstad. Den kan være aktuell for nybegynnere, men tekniske partier og andre brukere bør tas hensyn til.",
+    "good_for": [
+      "nybegynnere",
+      "kort runde",
+      "lokale spillere"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/courses/kvernhuset-disc-golfpark-tp6J",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Kvernhuset%20DiscGolfpark",
+    "source_urls": [
+      "https://udisc.com/courses/kvernhuset-disc-golfpark-tp6J",
+      "https://udisc.com/places/fredrikstad-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc viser 9 hull og beginner-friendly i byoversikten."
+  },
+  {
+    "id": "ambjornrod-skole-discgolfbane",
+    "name": "Ambjørnrød Skole Discgolfbane",
+    "slug": "ambjornrod-skole-discgolfbane",
+    "city": "Fredrikstad",
+    "municipality": "Fredrikstad",
+    "county": "Østfold",
+    "country": "Norge",
+    "holes": 9,
+    "difficulty": "Lett",
+    "beginner_friendly": true,
+    "family_friendly": true,
+    "course_type": "Skolebane",
+    "terrain": "Ukjent",
+    "short_description": "Ambjørnrød er en kort skolebane i Fredrikstad som kan passe korte lavterskelrunder når området er tilgjengelig.",
+    "good_for": [
+      "nybegynnere",
+      "familier",
+      "kort runde"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/places/fredrikstad-norway",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Ambj%C3%B8rnr%C3%B8d%20Skole%20Discgolfbane",
+    "source_urls": [
+      "https://udisc.com/places/fredrikstad-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc byoversikt oppgir 9 hull og beginner-friendly."
+  },
+  {
+    "id": "skien-frisbeegolfbane",
+    "name": "Skien Frisbeegolfbane",
+    "slug": "skien-frisbeegolfbane",
+    "city": "Skien",
+    "municipality": "Skien",
+    "county": "Telemark",
+    "country": "Norge",
+    "holes": 18,
+    "difficulty": "Middels",
+    "beginner_friendly": false,
+    "family_friendly": null,
+    "course_type": "Ukjent",
+    "terrain": "Ukjent",
+    "short_description": "Skien Frisbeegolfbane er et 18-hullsvalg i Grenland og en naturlig hovedbane for spillere som søker discgolf i Skien.",
+    "good_for": [
+      "hobbyspillere",
+      "18-hulls runde",
+      "Grenland"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/places/skien-norway",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Skien%20Frisbeegolfbane",
+    "source_urls": [
+      "https://udisc.com/places/skien-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc byoversikt oppgir 18 hull."
+  },
+  {
+    "id": "kollmyr-frisbeegolf",
+    "name": "Kollmyr Frisbeegolf",
+    "slug": "kollmyr-frisbeegolf",
+    "city": "Skien",
+    "municipality": "Skien",
+    "county": "Telemark",
+    "country": "Norge",
+    "holes": 9,
+    "difficulty": "Lett",
+    "beginner_friendly": true,
+    "family_friendly": true,
+    "course_type": "Lavterskelbane",
+    "terrain": "Ukjent",
+    "short_description": "Kollmyr er et kortere Skien-alternativ som virker godt egnet for nye spillere basert på UDisc sin byoversikt.",
+    "good_for": [
+      "nybegynnere",
+      "kort runde",
+      "familier"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/places/skien-norway",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Kollmyr%20Frisbeegolf",
+    "source_urls": [
+      "https://udisc.com/places/skien-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc byoversikt oppgir 9 hull og beginner-friendly."
+  },
+  {
+    "id": "porsgrunn-heistad",
+    "name": "Porsgrunn - Heistad",
+    "slug": "porsgrunn-heistad",
+    "city": "Porsgrunn",
+    "municipality": "Porsgrunn",
+    "county": "Telemark",
+    "country": "Norge",
+    "holes": 18,
+    "difficulty": "Middels",
+    "beginner_friendly": false,
+    "family_friendly": null,
+    "course_type": "Blandet bane",
+    "terrain": "Åpent og skog",
+    "short_description": "Heistad er en 18-hullsbane i Porsgrunn med variert terreng. Sjekk lokale restriksjoner og ukesgolf før du spiller.",
+    "good_for": [
+      "hobbyspillere",
+      "Grenland",
+      "18-hulls runde"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/courses/porsgrunn-heistad-jbco",
+    "club_url": "https://www.pdsk.no/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Porsgrunn%20Heistad%20discgolf",
+    "source_urls": [
+      "https://udisc.com/courses/porsgrunn-heistad-jbco",
+      "https://udisc.com/places/porsgrunn-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc viser 18 hull og sesong/restriksjoner."
+  },
+  {
+    "id": "porsgrunn-kjolnes",
+    "name": "Porsgrunn - Kjølnes",
+    "slug": "porsgrunn-kjolnes",
+    "city": "Porsgrunn",
+    "municipality": "Porsgrunn",
+    "county": "Telemark",
+    "country": "Norge",
+    "holes": 18,
+    "difficulty": "Lett",
+    "beginner_friendly": true,
+    "family_friendly": true,
+    "course_type": "Park/skoleområde",
+    "terrain": "Relativt kort baneområde",
+    "short_description": "Kjølnes er en nyere 18-hullsbane i Porsgrunn som UDisc markerer som lett. Vær ekstra oppmerksom på andre brukere i området.",
+    "good_for": [
+      "nybegynnere",
+      "hobbyspillere",
+      "Grenland"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/courses/porsgrunn-kjolnes-XKUD",
+    "club_url": "https://www.pdsk.no/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Porsgrunn%20Kj%C3%B8lnes%20discgolf",
+    "source_urls": [
+      "https://udisc.com/courses/porsgrunn-kjolnes-XKUD"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc viser 18 hull, easy difficulty og etablert 2024."
+  },
+  {
+    "id": "charlottenlund-discgolfbane",
+    "name": "Charlottenlund Discgolfbane",
+    "slug": "charlottenlund-discgolfbane",
+    "city": "Tromsø",
+    "municipality": "Tromsø",
+    "county": "Troms",
+    "country": "Norge",
+    "holes": 13,
+    "difficulty": "Teknisk/kort",
+    "beginner_friendly": null,
+    "family_friendly": null,
+    "course_type": "Park/skianlegg",
+    "terrain": "Kort og teknisk",
+    "short_description": "Charlottenlund er en 13-hullsbane i Tromsø. Sesong, vær og føre bør sjekkes før runden.",
+    "good_for": [
+      "Tromsø-spillere",
+      "kort runde",
+      "teknisk trening"
+    ],
+    "facilities": [
+      "Se UDisc for tilgjengelige fasiliteter"
+    ],
+    "udisc_url": "https://udisc.com/courses/charlottenlund-discgolfbane-0aHf",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Charlottenlund%20Discgolfbane",
+    "source_urls": [
+      "https://udisc.com/courses/charlottenlund-discgolfbane-0aHf"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc viser 13 hull og etablert 2015."
+  },
+  {
+    "id": "orndalen-diskgolfpark",
+    "name": "Ørndalen diskgolfpark",
+    "slug": "orndalen-diskgolfpark",
+    "city": "Tromsø",
+    "municipality": "Tromsø",
+    "county": "Troms",
+    "country": "Norge",
+    "holes": 18,
+    "difficulty": "Middels til svært krevende",
+    "beginner_friendly": false,
+    "family_friendly": null,
+    "course_type": "Skogsbane",
+    "terrain": "Kupert og teknisk",
+    "short_description": "Ørndalen er et 18-hullsvalg i Tromsø for spillere som tåler teknisk og kupert terreng.",
+    "good_for": [
+      "viderekomne",
+      "Tromsø-spillere",
+      "teknisk runde"
+    ],
+    "facilities": [],
+    "udisc_url": "https://app.udisc.com/courses/orndalen-diskgolfpark-FrIE",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=%C3%98rndalen%20diskgolfpark",
+    "source_urls": [
+      "https://app.udisc.com/courses/orndalen-diskgolfpark-FrIE"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc viser 18 hull, sesong og begrensninger ved arrangementer."
+  },
+  {
+    "id": "sandnes-disc-golf-park",
+    "name": "Sandnes Disc Golf Park",
+    "slug": "sandnes-disc-golf-park",
+    "city": "Sandnes",
+    "municipality": "Sandnes",
+    "county": "Rogaland",
+    "country": "Norge",
+    "holes": 20,
+    "difficulty": "Svært krevende",
+    "beginner_friendly": false,
+    "family_friendly": null,
+    "course_type": "Større bane",
+    "terrain": "Ukjent",
+    "short_description": "Sandnes Disc Golf Park virker som et krevende alternativ i Stavanger/Sandnes-regionen, og passer best for spillere med litt erfaring.",
+    "good_for": [
+      "viderekomne",
+      "Sandnes",
+      "konkurransepreget runde"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/courses?placeId=stavanger-norway",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Sandnes%20Disc%20Golf%20Park",
+    "source_urls": [
+      "https://udisc.com/courses?placeId=stavanger-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc søkeresultat for Stavanger-regionen oppgir 20 hull og very hard difficulty."
+  },
+  {
+    "id": "egeland-diskgolfpark",
+    "name": "Egeland Diskgolfpark",
+    "slug": "egeland-diskgolfpark",
+    "city": "Stavanger",
+    "municipality": "Stavanger",
+    "county": "Rogaland",
+    "country": "Norge",
+    "holes": 9,
+    "difficulty": "Lett",
+    "beginner_friendly": true,
+    "family_friendly": true,
+    "course_type": "Lavterskelbane",
+    "terrain": "Ukjent",
+    "short_description": "Egeland er et kortere Stavanger-alternativ som kan passe nye spillere basert på UDisc sin regionale oversikt.",
+    "good_for": [
+      "nybegynnere",
+      "Stavanger",
+      "kort runde"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/courses?placeId=stavanger-norway",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Egeland%20Diskgolfpark",
+    "source_urls": [
+      "https://udisc.com/courses?placeId=stavanger-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc søkeresultat oppgir 9 hull og beginner-friendly."
+  },
+  {
+    "id": "enga-discgolfpark-offisiell",
+    "name": "Enga Discgolfpark Offisiell",
+    "slug": "enga-discgolfpark-offisiell",
+    "city": "Bodø",
+    "municipality": "Bodø",
+    "county": "Nordland",
+    "country": "Norge",
+    "holes": 18,
+    "difficulty": "Krevende",
+    "beginner_friendly": false,
+    "family_friendly": null,
+    "course_type": "Skianlegg",
+    "terrain": "Kupert og langt",
+    "short_description": "Enga er en krevende 18-hullsbane i Bodø. Den passer best for spillere som tåler lengde og høydeforskjell.",
+    "good_for": [
+      "viderekomne",
+      "Bodø",
+      "lang runde"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/courses/enga-discgolfpark-offisiell-tYlm",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Enga%20Discgolfpark%20Bod%C3%B8",
+    "source_urls": [
+      "https://udisc.com/courses/enga-discgolfpark-offisiell-tYlm",
+      "https://udisc.com/places/bodo-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc viser 18 hull og hard difficulty. Layout kan endres."
+  },
+  {
+    "id": "borg-golfbane",
+    "name": "Borg Golfbane",
+    "slug": "borg-golfbane",
+    "city": "Ålesund",
+    "municipality": "Ålesund",
+    "county": "Møre og Romsdal",
+    "country": "Norge",
+    "holes": 6,
+    "difficulty": "Lett",
+    "beginner_friendly": true,
+    "family_friendly": true,
+    "course_type": "Kort bane",
+    "terrain": "Ukjent",
+    "short_description": "Borg Golfbane er et kort Ålesund-alternativ som kan passe en lavterskelrunde.",
+    "good_for": [
+      "nybegynnere",
+      "familier",
+      "kort runde"
+    ],
+    "facilities": [],
+    "udisc_url": "https://udisc.com/places/no/alesund-norway",
+    "club_url": "",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Borg%20Golfbane%20discgolf",
+    "source_urls": [
+      "https://udisc.com/places/no/alesund-norway"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "UDisc byoversikt oppgir 6 hull og beginner-friendly."
+  }
+]

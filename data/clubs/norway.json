@@ -1,0 +1,156 @@
+[
+  {
+    "id": "stovner-frisbeeklubb",
+    "name": "Stovner Frisbeeklubb",
+    "slug": "stovner-frisbeeklubb",
+    "city": "Oslo",
+    "municipality": "Oslo",
+    "county": "Oslo",
+    "website_url": "https://www.stovnerfrisbee.no/",
+    "facebook_url": "",
+    "instagram_url": "",
+    "contact_url": "https://www.stovnerfrisbee.no/",
+    "associated_courses": [
+      "Stovner Discgolfpark"
+    ],
+    "short_description": "Oslo-klubb med aktivitet knyttet til Stovner-miljøet og lokale arrangementer.",
+    "source_urls": [
+      "https://www.stovnerfrisbee.no/"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "Ikke et samarbeid. Bruk klubbens egen side for oppdatert informasjon."
+  },
+  {
+    "id": "muselunden-frisbeeklubb",
+    "name": "Muselunden Frisbeeklubb",
+    "slug": "muselunden-frisbeeklubb",
+    "city": "Oslo",
+    "municipality": "Oslo",
+    "county": "Oslo",
+    "website_url": "https://muselunden.idrettenonline.no/next/page/hjem",
+    "facebook_url": "",
+    "instagram_url": "",
+    "contact_url": "https://muselunden.no/kontakt-1",
+    "associated_courses": [
+      "Muselunden DiscGolfPark"
+    ],
+    "short_description": "Oslo-klubb knyttet til Muselunden-miljøet. God kandidat for lokale rettelser og baneinfo senere.",
+    "source_urls": [
+      "https://muselunden.idrettenonline.no/next/page/hjem",
+      "https://muselunden.no/kontakt-1"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "Kontaktinfo bør sjekkes på klubbens side før bruk."
+  },
+  {
+    "id": "ekeberg-sendeplateklubb",
+    "name": "Ekeberg Sendeplateklubb",
+    "slug": "ekeberg-sendeplateklubb",
+    "city": "Oslo",
+    "municipality": "Oslo",
+    "county": "Oslo",
+    "website_url": "https://ekebergsk.com/",
+    "facebook_url": "",
+    "instagram_url": "",
+    "contact_url": "https://ekebergsk.com/",
+    "associated_courses": [
+      "Ekeberg Frisbeegolfbane",
+      "Krokhol Disc Golf Course"
+    ],
+    "short_description": "Oslo-basert disksportklubb som er relevant for Ekeberg og Krokhol-kontekst.",
+    "source_urls": [
+      "https://ekebergsk.com/krokhol/"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "Kilden omtaler Krokhol-etableringen. Ikke påstå samarbeid med Diskgolfguiden."
+  },
+  {
+    "id": "trondheim-frisbeeklubb",
+    "name": "Trondheim Frisbeeklubb",
+    "slug": "trondheim-frisbeeklubb",
+    "city": "Trondheim",
+    "municipality": "Trondheim",
+    "county": "Trøndelag",
+    "website_url": "https://www.trondheimfrisbeeklubb.no/",
+    "facebook_url": "",
+    "instagram_url": "",
+    "contact_url": "https://www.trondheimfrisbeeklubb.no/",
+    "associated_courses": [
+      "Dragvoll Diskgolfarena",
+      "Hallset Diskgolfpark"
+    ],
+    "short_description": "Trondheim-klubb med relevant aktivitet for baner, lokale serier og turneringer i området.",
+    "source_urls": [
+      "https://www.discgolfscene.com/club/3376/trondheim-frisbeeklubb",
+      "https://www.trondheimfrisbeeklubb.no/"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "Disc Golf Scene viser klubb- og turneringskontekst."
+  },
+  {
+    "id": "kristiansand-frisbeegolfklubb",
+    "name": "Kristiansand Frisbeegolfklubb",
+    "slug": "kristiansand-frisbeegolfklubb",
+    "city": "Kristiansand",
+    "municipality": "Kristiansand",
+    "county": "Agder",
+    "website_url": "https://kfgk.no/",
+    "facebook_url": "https://www.facebook.com/groups/423005157734224",
+    "instagram_url": "",
+    "contact_url": "https://kfgk.no/",
+    "associated_courses": [
+      "Bølgane Frisbeegolfpark"
+    ],
+    "short_description": "Kristiansand-klubb relevant for Bølgane og lokalt discgolfmiljø i Agder.",
+    "source_urls": [
+      "https://kfgk.no/",
+      "https://kfgk.no/?page_id=2253"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "Klubbens side bør brukes for siste nytt."
+  },
+  {
+    "id": "porsgrunn-disksportklubb",
+    "name": "Porsgrunn Disksportklubb",
+    "slug": "porsgrunn-disksportklubb",
+    "city": "Porsgrunn",
+    "municipality": "Porsgrunn",
+    "county": "Telemark",
+    "website_url": "https://www.pdsk.no/",
+    "facebook_url": "",
+    "instagram_url": "",
+    "contact_url": "https://www.pdsk.no/",
+    "associated_courses": [
+      "Porsgrunn - Heistad",
+      "Porsgrunn - Kjølnes"
+    ],
+    "short_description": "Grenland-klubb med aktivitet rundt Porsgrunn-banene og lavterskel klubbmiljø.",
+    "source_urls": [
+      "https://www.pdsk.no/",
+      "https://aktivitetsportalenporsgrunn.no/aktivitetstilbyder/porsgrunn-disksportklubb/"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "Aktivitetsportalen og klubbside brukes som kilder."
+  },
+  {
+    "id": "baerum-frisbeeklubb",
+    "name": "Bærum Frisbeeklubb",
+    "slug": "baerum-frisbeeklubb",
+    "city": "Bærum",
+    "municipality": "Bærum",
+    "county": "Akershus",
+    "website_url": "https://www.baerumfrisbeeklubb.no/",
+    "facebook_url": "",
+    "instagram_url": "",
+    "contact_url": "https://www.baerumfrisbeeklubb.no/",
+    "associated_courses": [
+      "Vollen Frisbeegolf"
+    ],
+    "short_description": "Akershus-klubb som er relevant for spillere vest for Oslo.",
+    "source_urls": [
+      "https://www.baerumfrisbeeklubb.no/"
+    ],
+    "last_checked": "2026-06-03",
+    "notes": "Sjekk klubbens side for oppdatert aktivitet."
+  }
+]

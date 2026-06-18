@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Krokhol Disc Golf Course",
+    "region": "Østlandet",
+    "location": "Siggerud / Oslo-området",
+    "profileStatus": "Prioritert baneprofil",
+    "why": "Høy interesse, turneringsrelevans og naturlig førstevalg for norsk baneseksjon.",
+    "bestFor": "Erfarne spillere, turneringsspillere og reisende discgolfere",
+    "sourceStatus": "Må verifiseres manuelt mot UDisc, arrangør eller klubb før detaljert guide publiseres.",
+    "sourceUrl": "https://udisc.com/best-disc-golf-courses/norway"
+  },
+  {
+    "name": "Øverås Diskgolfpark",
+    "region": "Vestlandet / Midt-Norge",
+    "location": "Møre og Romsdal",
+    "profileStatus": "Prioritert baneprofil",
+    "why": "Relevant for konkurransespillere og norsk toppbane-innhold.",
+    "bestFor": "Erfarne spillere og baneturister",
+    "sourceStatus": "Må verifiseres manuelt med oppdaterte bane- og turneringskilder.",
+    "sourceUrl": "https://udisc.com/best-disc-golf-courses/norway"
+  },
+  {
+    "name": "Hestehagen Diskgolfbane",
+    "region": "Østlandet",
+    "location": "Tønsberg-området",
+    "profileStatus": "Turneringsrelevant",
+    "why": "Aktuell i norsk turneringskontekst og nyttig for spillere på Østlandet.",
+    "bestFor": "Turneringsspillere og lokale spillere",
+    "sourceStatus": "Må verifiseres manuelt mot NAIF/Metrix/klubb.",
+    "sourceUrl": "https://amerikanskeidretter.no/terminliste-2026/"
+  },
+  {
+    "name": "Valdres Discgolfpark",
+    "region": "Østlandet",
+    "location": "Valdres",
+    "profileStatus": "Turneringsrelevant",
+    "why": "God kandidat for reise-, turnerings- og baneprofilinnhold.",
+    "bestFor": "Erfarne spillere og helgeturer",
+    "sourceStatus": "Må verifiseres manuelt før publisering av detaljer.",
+    "sourceUrl": "https://amerikanskeidretter.no/terminliste-2026/"
+  },
+  {
+    "name": "Glåmos Diskgolfbane",
+    "region": "Midt-Norge",
+    "location": "Røros-området",
+    "profileStatus": "Prioritert baneprofil",
+    "why": "Sterk kandidat for norsk baneinnhold utenfor de største byene.",
+    "bestFor": "Reisende spillere og konkurranseinteresserte",
+    "sourceStatus": "Må verifiseres manuelt med klubb/UDisc/Metrix.",
+    "sourceUrl": "https://udisc.com/best-disc-golf-courses/norway"
+  },
+  {
+    "name": "Klemetsrud Diskgolfbane",
+    "region": "Østlandet",
+    "location": "Oslo",
+    "profileStatus": "Lokal SEO-kandidat",
+    "why": "Oslo-nær bane som passer godt i en regional baneguide.",
+    "bestFor": "Lokale spillere og nybegynnere som leter etter bane i Oslo-området",
+    "sourceStatus": "Må verifiseres manuelt før vanskelighetsgrad oppgis.",
+    "sourceUrl": "https://udisc.com/"
+  },
+  {
+    "name": "Furutangen Diskgolfpark",
+    "region": "Østlandet",
+    "location": "Innlandet",
+    "profileStatus": "Turneringsrelevant",
+    "why": "Aktuell for sesong- og konkurranseinnhold.",
+    "bestFor": "Konkurransespillere og tilreisende",
+    "sourceStatus": "Må verifiseres manuelt med terminliste og banekilder.",
+    "sourceUrl": "https://amerikanskeidretter.no/terminliste-2026/"
+  },
+  {
+    "name": "Kodal Diskgolfbane",
+    "region": "Østlandet",
+    "location": "Sandefjord-området",
+    "profileStatus": "Turneringsrelevant",
+    "why": "God kandidat for baneprofil knyttet til norsk konkurransekalender.",
+    "bestFor": "Lokale spillere og turneringsspillere",
+    "sourceStatus": "Må verifiseres manuelt.",
+    "sourceUrl": "https://amerikanskeidretter.no/terminliste-2026/"
+  },
+  {
+    "name": "Ålgård Diskgolfpark",
+    "region": "Vestlandet",
+    "location": "Rogaland",
+    "profileStatus": "Regional kandidat",
+    "why": "Viktig for å dekke Rogaland og sørvestlig baneinnhold.",
+    "bestFor": "Lokale spillere, junior/master og tilreisende",
+    "sourceStatus": "Må verifiseres manuelt.",
+    "sourceUrl": "https://amerikanskeidretter.no/terminliste-2026/"
+  },
+  {
+    "name": "Sandnes Diskgolfbane",
+    "region": "Vestlandet",
+    "location": "Rogaland",
+    "profileStatus": "Regional kandidat",
+    "why": "Søkevennlig baneprofil for et aktivt område.",
+    "bestFor": "Lokale spillere og nybegynnere i regionen",
+    "sourceStatus": "Må verifiseres manuelt.",
+    "sourceUrl": "https://udisc.com/"
+  },
+  {
+    "name": "Jervskogen",
+    "region": "Midt-Norge",
+    "location": "Trøndelag",
+    "profileStatus": "Regional kandidat",
+    "why": "Bør inngå i regional oversikt for Trøndelag.",
+    "bestFor": "Lokale spillere og konkurranseinteresserte",
+    "sourceStatus": "Må verifiseres manuelt.",
+    "sourceUrl": "https://udisc.com/"
+  },
+  {
+    "name": "Ørland Discgolfpark",
+    "region": "Midt-Norge",
+    "location": "Trøndelag",
+    "profileStatus": "Baneprofil-kandidat",
+    "why": "God kandidat for å utvide portalen utover de mest kjente Østlandsbanene.",
+    "bestFor": "Lokale spillere og reisende",
+    "sourceStatus": "Må verifiseres manuelt.",
+    "sourceUrl": "https://udisc.com/best-disc-golf-courses/norway"
+  }
+]

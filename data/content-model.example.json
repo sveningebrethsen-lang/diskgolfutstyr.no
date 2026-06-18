@@ -1,0 +1,108 @@
+{
+  "categories": [
+    {
+      "id": "nybegynnerguider",
+      "name": "Nybegynnerguider",
+      "description": "Grunnleggende guider for nye spillere.",
+      "parentId": null
+    },
+    {
+      "id": "diskguider",
+      "name": "Diskguider",
+      "description": "Guider om puttere, midrange, fairway-drivere og stabilitet.",
+      "parentId": null
+    },
+    {
+      "id": "produkttester",
+      "name": "Produkttester",
+      "description": "Egne tester og researchbaserte produktvurderinger.",
+      "parentId": null
+    }
+  ],
+  "manufacturers": [
+    {
+      "id": "innova",
+      "name": "Innova",
+      "country": "USA",
+      "website": "",
+      "notes": "Bred distribusjon og mange klassiske molds."
+    },
+    {
+      "id": "latitude-64",
+      "name": "Latitude 64",
+      "country": "Sverige",
+      "website": "",
+      "notes": "Sterk tilgjengelighet i Norden."
+    }
+  ],
+  "products": [
+    {
+      "id": "innova-dx-aviar",
+      "name": "Innova DX Aviar",
+      "manufacturerId": "innova",
+      "type": "putter",
+      "stability": "stable",
+      "speed": 2,
+      "glide": 3,
+      "turn": 0,
+      "fade": 1,
+      "plastics": ["DX"],
+      "recommendedLevels": ["nybegynner"],
+      "useCases": ["putting", "korte innspill", "teknikk"],
+      "pros": ["Nøytral", "Rimelig", "Godt grep"],
+      "cons": ["Baseplast slites raskere"],
+      "affiliateUrl": "",
+      "image": "",
+      "contentStatus": "research",
+      "testedByUs": false,
+      "testIds": []
+    }
+  ],
+  "articles": [
+    {
+      "id": "hvilke-disker-trenger-nybegynner",
+      "title": "Hvilke disker trenger en nybegynner?",
+      "slug": "hvilke-disker-trenger-nybegynner",
+      "categoryId": "nybegynnerguider",
+      "seoTitle": "Hvilke disker trenger en nybegynner? | Disc golf-guide",
+      "metaDescription": "Et enkelt oppsett for nye disc golf-spillere: putter, midrange og når du bør legge til fairway-driver.",
+      "primaryKeyword": "disker nybegynner disc golf",
+      "secondaryKeywords": ["disc golf startsett", "putter midrange driver"],
+      "searchIntent": "informasjon/kjøp",
+      "difficulty": "Lav",
+      "estimatedValue": "Høy",
+      "affiliatePotential": "Høy",
+      "status": "planned",
+      "evidenceLevel": "research",
+      "relatedProductIds": ["innova-dx-aviar"],
+      "internalLinks": ["understable-stable-overstable", "beste-putter-nybegynner"],
+      "notes": "Skal være en anti-overkjøp-guide, ikke en tynn produktliste."
+    }
+  ],
+  "tests": [
+    {
+      "id": "puttertest-nybegynnere-2026",
+      "title": "Beste puttere for nybegynnere",
+      "status": "planned",
+      "testType": "field-test",
+      "productIds": ["innova-dx-aviar"],
+      "testers": [
+        {
+          "name": "",
+          "skillLevel": "nybegynner",
+          "dominantThrow": "RHBH"
+        }
+      ],
+      "method": {
+        "summary": "5 spillere putter 100 putter hver fra 5, 7 og 10 meter.",
+        "location": "",
+        "weather": "",
+        "date": "",
+        "metrics": ["treffprosent", "grep", "komfort", "chain-outs"]
+      },
+      "results": [],
+      "conclusion": "",
+      "contentStatus": "not-tested-yet"
+    }
+  ]
+}

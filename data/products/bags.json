@@ -1,0 +1,34 @@
+[
+  {
+    "id": "dynamic-discs-trooper",
+    "name": "Dynamic Discs Trooper",
+    "brand": "Dynamic Discs",
+    "category": "bag",
+    "type": "backpack",
+    "capacity": "Middels kapasitet",
+    "beginner_friendly": true,
+    "suitable_for": "Nybegynnere som vil ha egen discgolfsekk",
+    "pros": ["Mer organisert enn vanlig sekk", "Aktuell som første dedikerte bag", "Plass til flere disker og flaske"],
+    "cons": ["Mindre robust enn dyrere turneringssekker", "Kan være mer enn du trenger første uke"],
+    "description": "Et research-basert eksempel på en rimelig første discgolfsekk.",
+    "source_urls": ["https://www.dynamicdiscs.com/products/dynamic-discs-trooper-backpack"],
+    "affiliate_url": "#",
+    "last_checked": "2026-06-03"
+  },
+  {
+    "id": "latitude-64-core-pro",
+    "name": "Latitude 64 Core Pro",
+    "brand": "Latitude 64",
+    "category": "bag",
+    "type": "backpack",
+    "capacity": "Middels til høy kapasitet",
+    "beginner_friendly": false,
+    "suitable_for": "Spillere som går mange runder og vil ha mer komfort",
+    "pros": ["Mer kapasitet og organisering", "Bedre komfort på lengre runder", "Aktuell for viderekomne"],
+    "cons": ["Høyere prisnivå", "Ikke nødvendig for helt nye spillere"],
+    "description": "Et eksempel på neste steg når en enkel løsning ikke lenger holder.",
+    "source_urls": ["https://www.latitude64.com/disc-golf-products/bags/"],
+    "affiliate_url": "#",
+    "last_checked": "2026-06-03"
+  }
+]

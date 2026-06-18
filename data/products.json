@@ -1,0 +1,171 @@
+[
+  {
+    "navn": "Innova DX Aviar",
+    "type": "putter",
+    "stabilitet": "stable",
+    "plast": "DX",
+    "anbefaltNiva": "nybegynner",
+    "bruksomrade": "Putting, korte innspill og læring av ren utløsing",
+    "fordeler": [
+      "Nøytral og forutsigbar for mange nye spillere",
+      "Rimelig plast som gir godt grep",
+      "Lett å finne i mange butikker"
+    ],
+    "ulemper": [
+      "DX-plast blir raskere slitt enn premiumplast",
+      "Kan føles dyp i hånden for noen"
+    ],
+    "affiliateUrl": "",
+    "testetAvOss": false,
+    "notatStatus": "Basert på research",
+    "kortNotat": "Et trygt eksempel på en klassisk nybegynnerputter. Bør testes i hånden før kjøp hvis mulig."
+  },
+  {
+    "navn": "Discraft Buzzz",
+    "type": "midrange",
+    "stabilitet": "stable",
+    "plast": "ESP eller Z",
+    "anbefaltNiva": "nybegynner til viderekommen",
+    "bruksomrade": "Rette kast, kontrollerte hyzere og formtrening",
+    "fordeler": [
+      "God kombinasjon av glide og kontroll",
+      "Kan brukes lenge etter nybegynnerfasen",
+      "Mange plastvalg"
+    ],
+    "ulemper": [
+      "Kan være litt rask for helt ferske spillere",
+      "Premiumplast koster mer"
+    ],
+    "affiliateUrl": "",
+    "testetAvOss": false,
+    "notatStatus": "Basert på research",
+    "kortNotat": "Et researchbasert eksempel på en allsidig midrange som ofte anbefales fordi den avslører kasteteknikk uten å være ekstrem."
+  },
+  {
+    "navn": "Innova Champion Mako3",
+    "type": "midrange",
+    "stabilitet": "stable",
+    "plast": "Champion",
+    "anbefaltNiva": "nybegynner til viderekommen",
+    "bruksomrade": "Rette linjer, touch-kast og teknikktrening",
+    "fordeler": [
+      "Veldig rett flyvebane ved rolig arm",
+      "God til å lære vinkelkontroll",
+      "Slitesterk plast"
+    ],
+    "ulemper": [
+      "Tilgir ikke alltid dårlig vinkel",
+      "Mindre nyttig i sterk motvind"
+    ],
+    "affiliateUrl": "",
+    "testetAvOss": false,
+    "notatStatus": "Basert på research",
+    "kortNotat": "Et godt eksempel på en teknikkdisk: nyttig når målet er å kaste rettere, ikke bare lenger."
+  },
+  {
+    "navn": "Latitude 64 River",
+    "type": "fairway-driver",
+    "stabilitet": "understable til stable",
+    "plast": "Opto",
+    "anbefaltNiva": "nybegynner til viderekommen",
+    "bruksomrade": "Kontrollerte driverkast, hyzerflip og lengde uten distance-driver",
+    "fordeler": [
+      "Mye glide ved moderat armhastighet",
+      "Mer kontrollerbar enn raske distance-drivere",
+      "Passer godt på trange skogshull"
+    ],
+    "ulemper": [
+      "Kan vende for mye i motvind",
+      "Krever litt vinkelkontroll"
+    ],
+    "affiliateUrl": "",
+    "testetAvOss": false,
+    "notatStatus": "Basert på research",
+    "kortNotat": "Et researchbasert eksempel på en fairway-driver for spillere som vil ha mer lengde uten å hoppe rett til raske drivere."
+  },
+  {
+    "navn": "Innova Leopard3",
+    "type": "fairway-driver",
+    "stabilitet": "understable til stable",
+    "plast": "Champion eller Star",
+    "anbefaltNiva": "nybegynner til viderekommen",
+    "bruksomrade": "Første driver, kontrollerte turnovers og rette fairwaykast",
+    "fordeler": [
+      "Lavere krav til armhastighet enn mange drivere",
+      "Kan brukes til flere linjer",
+      "God overgang fra midrange til driver"
+    ],
+    "ulemper": [
+      "Ikke ideell som eneste driver i sterk vind",
+      "Kan bli for understable etter mye slitasje i baseplast"
+    ],
+    "affiliateUrl": "",
+    "testetAvOss": false,
+    "notatStatus": "Basert på research",
+    "kortNotat": "Et nøkternt eksempel på en første fairway-driver før man vurderer raskere disker."
+  },
+  {
+    "navn": "Dynamic Discs Trooper",
+    "type": "bag",
+    "stabilitet": "ikke relevant",
+    "plast": "tekstil",
+    "anbefaltNiva": "nybegynner til viderekommen",
+    "bruksomrade": "Rimelig ryggsekk for runder med flere disker, flaske og småting",
+    "fordeler": [
+      "Mye kapasitet for prisen",
+      "Enkel ryggsekkform",
+      "Passer når starterbag blir for liten"
+    ],
+    "ulemper": [
+      "Mindre robust enn dyrere konkurransebagger",
+      "Begrenset organisering"
+    ],
+    "affiliateUrl": "",
+    "testetAvOss": false,
+    "notatStatus": "Basert på research",
+    "kortNotat": "Et eksempel på en prisgunstig første ryggsekkbag. Sjekk lokale alternativer og garanti før kjøp."
+  },
+  {
+    "navn": "Latitude 64 Core Pro",
+    "type": "bag",
+    "stabilitet": "ikke relevant",
+    "plast": "tekstil",
+    "anbefaltNiva": "viderekommen",
+    "bruksomrade": "Mer komfort og kapasitet for spillere som går mange runder",
+    "fordeler": [
+      "Bedre organisering enn enkle starterbagger",
+      "God kapasitet til flere disker",
+      "Aktuell for faste ukesrunder og turneringer"
+    ],
+    "ulemper": [
+      "Høyere pris enn enkel skulderbag",
+      "Kan være mer bag enn en helt ny spiller trenger"
+    ],
+    "affiliateUrl": "",
+    "testetAvOss": false,
+    "notatStatus": "Basert på research",
+    "kortNotat": "Et researchbasert eksempel på neste steg når man faktisk spiller ofte nok til å trenge bedre bærekomfort."
+  },
+  {
+    "navn": "Typisk 3-disc startsett",
+    "type": "startsett",
+    "stabilitet": "variert",
+    "plast": "baseplast",
+    "anbefaltNiva": "nybegynner",
+    "bruksomrade": "Første runder med putter, midrange og fairway-driver",
+    "fordeler": [
+      "Lav inngangspris",
+      "Gir deg tre hovedroller med en gang",
+      "Enkelt å kjøpe som gave"
+    ],
+    "ulemper": [
+      "Diskene er ikke alltid optimale for alle armer",
+      "Baseplast slites raskere",
+      "Noen sett inkluderer for rask driver"
+    ],
+    "affiliateUrl": "",
+    "testetAvOss": false,
+    "notatStatus": "Basert på research",
+    "kortNotat": "Brukes som eksempel på hva et startsett bør vurderes opp mot. Prioriter lettkastede disker fremfor høy hastighet."
+  }
+]

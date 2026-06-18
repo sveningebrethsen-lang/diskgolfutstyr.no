@@ -1,0 +1,33 @@
+# Local dependencies and build caches
+node_modules/
+.cache/
+.parcel-cache/
+.vite/
+dist/
+build/
+coverage/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs and temporary files
+*.log
+*.pid
+*.tmp
+tmp/
+temp/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Local screenshots and QA artifacts not meant for GitHub Pages
+screenshots/
+*.png.tmp
