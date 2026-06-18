@@ -1,13 +1,13 @@
 # Launch-checklist
 
-Bruk denne sjekklisten før Diskgolfguiden.no publiseres eller oppdateres.
+Bruk denne sjekklisten før Diskgolfutstyr.no publiseres eller oppdateres.
 
 ## SEO
 
 - Hver publiserte side har unik `title`.
 - Hver publiserte side har relevant meta description.
 - Hver publiserte side har én H1.
-- Canonical peker til riktig URL på `https://diskgolfguiden.no/`.
+- Canonical peker til riktig URL på `https://diskgolfutstyr.no/`.
 - Sitemap inneholder bare publiserte sider.
 - `robots.txt` peker til sitemap.
 - Viktige sider har internlenker til neste naturlige steg.

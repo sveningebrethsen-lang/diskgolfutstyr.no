@@ -4,7 +4,7 @@ Dette dokumentet gjelder fremtidige fysiske tester. Ingen eksisterende research-
 
 ## Krav for fysisk test
 
-En artikkel kan merkes som fysisk test når Diskgolfguiden faktisk har brukt produktet etter en dokumentert metode.
+En artikkel kan merkes som fysisk test når Diskgolfutstyr faktisk har brukt produktet etter en dokumentert metode.
 
 Minimum:
 
@@ -56,7 +56,7 @@ For kurver bør testen vurdere:
 
 ## Bilder
 
-Bilder kan brukes når Diskgolfguiden har tatt dem selv eller har eksplisitt tillatelse. Bilder bør dokumentere produkt, teststed og relevante detaljer.
+Bilder kan brukes når Diskgolfutstyr har tatt dem selv eller har eksplisitt tillatelse. Bilder bør dokumentere produkt, teststed og relevante detaljer.
 
 ## Subjektive vurderinger
 

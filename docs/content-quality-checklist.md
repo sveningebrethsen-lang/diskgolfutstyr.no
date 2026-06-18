@@ -21,11 +21,11 @@
 - Ikke skriv at noe er testet hvis det ikke er testet.
 - Research-basert sammenligning merkes med:
 
-> Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfguiden.
+> Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfutstyr.
 
 - Fysisk test merkes kun når testen faktisk finnes:
 
-> Dette er en fysisk test utført av Diskgolfguiden.
+> Dette er en fysisk test utført av Diskgolfutstyr.
 
 ## Redaksjonell standard
 

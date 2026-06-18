@@ -1,6 +1,6 @@
-# Diskgolfguiden.no
+# Diskgolfutstyr.no
 
-Diskgolfguiden.no er en statisk norsk discgolfportal for nybegynnere, hobbyspillere og turneringsspillere. Siden dekker guider, regler, teknikk, trening, utstyr, research-baserte sammenligninger, baner, klubber og turneringer.
+Diskgolfutstyr.no er en statisk norsk discgolfportal for nybegynnere, hobbyspillere og turneringsspillere. Siden dekker guider, regler, teknikk, trening, utstyr, research-baserte sammenligninger, baner, klubber og turneringer.
 
 Prosjektet er laget for GitHub Pages uten backend, database, serverfunksjoner eller API-nøkler.
 
@@ -57,7 +57,7 @@ Det finnes ingen `package.json`; scripts kjøres direkte med Node.
 
 ## Publisering til GitHub Pages
 
-GitHub Pages brukes fra branch `main` og folder `/root`. `CNAME` peker til `diskgolfguiden.no`.
+GitHub Pages brukes fra branch `main` og folder `/root`. `CNAME` peker til `diskgolfutstyr.no`.
 
 Se `docs/github-pages-deployment.md` for publiseringssjekk.
 

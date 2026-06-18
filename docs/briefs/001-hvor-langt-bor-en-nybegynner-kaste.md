@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Hvor langt bør en nybegynner kaste? |
-| Endelig SEO-title | Hvor langt bør en nybegynner kaste? | Diskgolfguiden |
+| Endelig SEO-title | Hvor langt bør en nybegynner kaste? | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til hvor langt bør en nybegynner kaste? med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/hvor-langt-bor-en-nybegynner-kaste.html |
 | Hovedsøkeord | hvor langt bør en nybegynner kaste? |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

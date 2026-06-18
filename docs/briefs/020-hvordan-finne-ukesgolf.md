@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Hvordan finne ukesgolf |
-| Endelig SEO-title | Hvordan finne ukesgolf | Diskgolfguiden |
+| Endelig SEO-title | Hvordan finne ukesgolf | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til hvordan finne ukesgolf med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/hvordan-finne-ukesgolf.html |
 | Hovedsøkeord | hvordan finne ukesgolf |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

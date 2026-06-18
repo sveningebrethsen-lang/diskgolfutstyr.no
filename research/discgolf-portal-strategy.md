@@ -1,4 +1,4 @@
-# Diskgolfguiden.no as a Norwegian disc golf portal
+# Diskgolfutstyr.no as a Norwegian disc golf portal
 
 Mål: utvikle siden fra utstyrsguide til den mest nyttige norske ressursen for disc golf, uten backend i første versjon.
 

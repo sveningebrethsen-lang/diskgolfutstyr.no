@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Discgolf om våren |
-| Endelig SEO-title | Discgolf om våren | Diskgolfguiden |
+| Endelig SEO-title | Discgolf om våren | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til discgolf om våren med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/discgolf-om-varen-oppdatert.html |
 | Hovedsøkeord | discgolf om våren |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

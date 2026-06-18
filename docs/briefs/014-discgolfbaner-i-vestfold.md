@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Discgolfbaner i Vestfold |
-| Endelig SEO-title | Discgolfbaner i Vestfold | Diskgolfguiden |
+| Endelig SEO-title | Discgolfbaner i Vestfold | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til discgolfbaner i vestfold med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/discgolfbaner-i-vestfold.html |
 | Hovedsøkeord | discgolfbaner i vestfold |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

@@ -1,7 +1,7 @@
 import { existsSync, readdirSync, readFileSync, statSync, writeFileSync } from "node:fs";
 import { dirname, join, relative } from "node:path";
 
-const baseUrl = "https://diskgolfguiden.no/";
+const baseUrl = "https://diskgolfutstyr.no/";
 const refs = /(?:href|src)="([^"]+)"/g;
 
 function walk(dir) {
@@ -69,7 +69,7 @@ function resolveTarget(file, target) {
 
 const htmlFiles = walk(".");
 const sitemap = readFileSync("sitemap.xml", "utf8");
-const sitemapUrls = new Set([...sitemap.matchAll(/<loc>https:\/\/diskgolfguiden\.no\/(.*?)<\/loc>/g)].map((match) => match[1]));
+const sitemapUrls = new Set([...sitemap.matchAll(/<loc>https:\/\/diskgolfutstyr\.no\/(.*?)<\/loc>/g)].map((match) => match[1]));
 
 const pageByUrl = new Map();
 for (const file of htmlFiles) {

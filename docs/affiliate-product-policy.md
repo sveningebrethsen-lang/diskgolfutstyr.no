@@ -1,6 +1,6 @@
 # Affiliate and product policy
 
-Produktanbefalinger på Diskgolfguiden skal være nyttige først og kommersielle etterpå.
+Produktanbefalinger på Diskgolfutstyr skal være nyttige først og kommersielle etterpå.
 
 ## Hvordan produkter velges
 
@@ -16,7 +16,7 @@ Produkter kan velges fordi de:
 
 Research-basert innhold skal merkes tydelig:
 
-> Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfguiden.
+> Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfutstyr.
 
 ## Fysisk test
 

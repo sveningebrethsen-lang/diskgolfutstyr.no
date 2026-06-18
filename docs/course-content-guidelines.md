@@ -1,6 +1,6 @@
 # Course content guidelines
 
-Diskgolfguidens banesider skal være nyttige, kildebaserte og forsiktige. Målet er å hjelpe norske spillere å finne riktig bane uten å kopiere UDisc, klubber eller anmeldelser.
+Diskgolfutstyrs banesider skal være nyttige, kildebaserte og forsiktige. Målet er å hjelpe norske spillere å finne riktig bane uten å kopiere UDisc, klubber eller anmeldelser.
 
 ## Hvordan banesider skal skrives
 

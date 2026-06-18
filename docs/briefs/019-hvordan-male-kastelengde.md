@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Hvordan måle kastelengde |
-| Endelig SEO-title | Hvordan måle kastelengde | Diskgolfguiden |
+| Endelig SEO-title | Hvordan måle kastelengde | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til hvordan måle kastelengde med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/hvordan-male-kastelengde.html |
 | Hovedsøkeord | hvordan måle kastelengde |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

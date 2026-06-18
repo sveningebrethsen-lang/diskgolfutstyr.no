@@ -119,11 +119,11 @@ const standardForbidden = [
 ];
 
 write("docs/maintenance-manual.md", `
-# Vedlikeholdshåndbok for Diskgolfguiden.no
+# Vedlikeholdshåndbok for Diskgolfutstyr.no
 
 Sist oppdatert: ${today}
 
-Diskgolfguiden.no er en statisk norsk discgolfportal på GitHub Pages. Siden har innhold om nybegynnere, regler, teknikk, trening, utstyr, tester, sammenligninger, baner, klubber og turneringer. Målet med vedlikeholdet er å holde innholdet nyttig, korrekt og ærlig over tid.
+Diskgolfutstyr.no er en statisk norsk discgolfportal på GitHub Pages. Siden har innhold om nybegynnere, regler, teknikk, trening, utstyr, tester, sammenligninger, baner, klubber og turneringer. Målet med vedlikeholdet er å holde innholdet nyttig, korrekt og ærlig over tid.
 
 ## Repo-struktur
 
@@ -386,7 +386,7 @@ write("docs/sitemap-robots-maintenance.md", `
 
 Sist oppdatert: ${today}
 
-\`sitemap.xml\` skal inneholde publiserte, indekserbare sider. \`robots.txt\` skal peke til \`https://diskgolfguiden.no/sitemap.xml\`.
+\`sitemap.xml\` skal inneholde publiserte, indekserbare sider. \`robots.txt\` skal peke til \`https://diskgolfutstyr.no/sitemap.xml\`.
 
 ## Skal være i sitemap
 
@@ -410,7 +410,7 @@ write("docs/github-pages-deployment.md", `
 
 Sist oppdatert: ${today}
 
-Siden publiseres som statisk nettsted fra branch \`main\`, folder \`/root\`. \`CNAME\` inneholder \`diskgolfguiden.no\`.
+Siden publiseres som statisk nettsted fra branch \`main\`, folder \`/root\`. \`CNAME\` inneholder \`diskgolfutstyr.no\`.
 
 ## Før publisering
 
@@ -474,7 +474,7 @@ write("docs/performance-maintenance.md", `
 
 Sist oppdatert: ${today}
 
-Diskgolfguiden.no skal være rask på mobil og GitHub Pages. Prosjektet bruker små SVG-er, én CSS-fil og lett JavaScript.
+Diskgolfutstyr.no skal være rask på mobil og GitHub Pages. Prosjektet bruker små SVG-er, én CSS-fil og lett JavaScript.
 
 ## Sjekkpunkter
 
@@ -720,9 +720,9 @@ Sist oppdatert: ${today}
 `);
 
 const readme = `
-# Diskgolfguiden.no
+# Diskgolfutstyr.no
 
-Diskgolfguiden.no er en statisk norsk discgolfportal for nybegynnere, hobbyspillere og turneringsspillere. Siden dekker guider, regler, teknikk, trening, utstyr, research-baserte sammenligninger, baner, klubber og turneringer.
+Diskgolfutstyr.no er en statisk norsk discgolfportal for nybegynnere, hobbyspillere og turneringsspillere. Siden dekker guider, regler, teknikk, trening, utstyr, research-baserte sammenligninger, baner, klubber og turneringer.
 
 Prosjektet er laget for GitHub Pages uten backend, database, serverfunksjoner eller API-nøkler.
 
@@ -779,7 +779,7 @@ Det finnes ingen \`package.json\`; scripts kjøres direkte med Node.
 
 ## Publisering til GitHub Pages
 
-GitHub Pages brukes fra branch \`main\` og folder \`/root\`. \`CNAME\` peker til \`diskgolfguiden.no\`.
+GitHub Pages brukes fra branch \`main\` og folder \`/root\`. \`CNAME\` peker til \`diskgolfutstyr.no\`.
 
 Se \`docs/github-pages-deployment.md\` for publiseringssjekk.
 

@@ -2,7 +2,7 @@
 
 Sist oppdatert: 2026-06-03
 
-`sitemap.xml` skal inneholde publiserte, indekserbare sider. `robots.txt` skal peke til `https://diskgolfguiden.no/sitemap.xml`.
+`sitemap.xml` skal inneholde publiserte, indekserbare sider. `robots.txt` skal peke til `https://diskgolfutstyr.no/sitemap.xml`.
 
 ## Skal være i sitemap
 

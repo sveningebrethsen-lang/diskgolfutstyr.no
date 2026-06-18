@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { basename } from "node:path";
 
-const baseUrl = "https://diskgolfguiden.no";
+const baseUrl = "https://diskgolfutstyr.no";
 const updated = "2026-06-03";
 
 const publishedPages = [
@@ -75,7 +75,7 @@ function pageUrl(pagePath) {
 }
 
 function titleOf(html) {
-  return (html.match(/<title>(.*?)<\/title>/s) || [])[1] || "Diskgolfguiden";
+  return (html.match(/<title>(.*?)<\/title>/s) || [])[1] || "Diskgolfutstyr";
 }
 
 function descriptionOf(html) {
@@ -109,13 +109,13 @@ function ensureProperty(html, property, content) {
 function ensureHeader(html, file) {
   const sub = file.includes("/");
   const prefix = sub ? "/" : "";
-  const nav = `<header class="site-header"><div class="nav-wrap"><a class="brand" href="${prefix}index.html"><img src="${prefix}assets/logo-full.svg" alt="Diskgolfguiden"></a><button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>☰</button><nav class="nav" aria-label="Hovedmeny" data-nav><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}artikler.html">Guider</a><a href="${prefix}regler.html">Regler</a><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}tester.html">Tester</a><a href="${prefix}baneguide.html">Baner</a></nav></div></header>`;
+  const nav = `<header class="site-header"><div class="nav-wrap"><a class="brand" href="${prefix}index.html"><img src="${prefix}assets/logo-full.svg" alt="Diskgolfutstyr"></a><button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>☰</button><nav class="nav" aria-label="Hovedmeny" data-nav><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}artikler.html">Guider</a><a href="${prefix}regler.html">Regler</a><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}tester.html">Tester</a><a href="${prefix}baneguide.html">Baner</a></nav></div></header>`;
   return html.replace(/<header class="site-header">[\s\S]*?<\/header>/, nav);
 }
 
 function breadcrumbs(pagePath, html) {
   const items = [
-    { name: "Diskgolfguiden", item: `${baseUrl}/` }
+    { name: "Diskgolfutstyr", item: `${baseUrl}/` }
   ];
   if (pagePath.startsWith("guider/")) items.push({ name: "Guider", item: `${baseUrl}/artikler.html` });
   if (pagePath.startsWith("tester/")) items.push({ name: "Tester", item: `${baseUrl}/tester.html` });
@@ -139,13 +139,13 @@ function schemaFor(pagePath, html) {
     schemas.push({
       "@context": "https://schema.org",
       "@type": "WebSite",
-      name: "Diskgolfguiden",
+      name: "Diskgolfutstyr",
       url: `${baseUrl}/`,
       inLanguage: "nb-NO",
       description: descriptionOf(html),
       publisher: {
         "@type": "Organization",
-        name: "Diskgolfguiden",
+        name: "Diskgolfutstyr",
         url: `${baseUrl}/`,
         logo: `${baseUrl}/assets/logo-icon.svg`
       }
@@ -153,7 +153,7 @@ function schemaFor(pagePath, html) {
     schemas.push({
       "@context": "https://schema.org",
       "@type": "Organization",
-      name: "Diskgolfguiden",
+      name: "Diskgolfutstyr",
       url: `${baseUrl}/`,
       logo: `${baseUrl}/assets/logo-icon.svg`
     });
@@ -172,11 +172,11 @@ function schemaFor(pagePath, html) {
       mainEntityOfPage: pageUrl(pagePath),
       author: {
         "@type": "Organization",
-        name: "Diskgolfguiden"
+        name: "Diskgolfutstyr"
       },
       publisher: {
         "@type": "Organization",
-        name: "Diskgolfguiden",
+        name: "Diskgolfutstyr",
         logo: {
           "@type": "ImageObject",
           url: `${baseUrl}/assets/logo-icon.svg`

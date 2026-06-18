@@ -21,6 +21,6 @@
 
 Obligatorisk ved research-basert innhold:
 
-> Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfguiden.
+> Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfutstyr.
 
 Ikke bruk "best i test", "testvinner" eller "vi har testet" uten fysisk test.

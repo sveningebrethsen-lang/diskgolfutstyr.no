@@ -1,6 +1,6 @@
 # Outreach-plan
 
-Diskgolfguiden skal bygge autoritet uten spam.
+Diskgolfutstyr skal bygge autoritet uten spam.
 
 ## Prinsipper
 
@@ -23,16 +23,16 @@ Diskgolfguiden skal bygge autoritet uten spam.
 
 ## E-postmal: banedata
 
-Emne: Rettelse/oppdatering av baneinfo på Diskgolfguiden
+Emne: Rettelse/oppdatering av baneinfo på Diskgolfutstyr
 
 Hei!
 
-Jeg bygger Diskgolfguiden.no som en uavhengig norsk discgolfportal. Vi har en statisk baneprofil for [bane/område], og vil gjerne sikre at fakta som navn, antall hull, status og relevante lenker er riktig.
+Jeg bygger Diskgolfutstyr.no som en uavhengig norsk discgolfportal. Vi har en statisk baneprofil for [bane/område], og vil gjerne sikre at fakta som navn, antall hull, status og relevante lenker er riktig.
 
 Har dere en offisiell kilde vi bør lenke til, eller noe som bør rettes?
 
 Vennlig hilsen
-Diskgolfguiden
+Diskgolfutstyr
 
 ## E-postmal: bildebruk
 
@@ -40,35 +40,35 @@ Emne: Forespørsel om tillatelse til å bruke banebilde
 
 Hei!
 
-Diskgolfguiden.no ønsker å lage bedre norske baneprofiler. Kan vi bruke ett eller flere av deres bilder av [bane], med tydelig kreditering og lenke til deres side?
+Diskgolfutstyr.no ønsker å lage bedre norske baneprofiler. Kan vi bruke ett eller flere av deres bilder av [bane], med tydelig kreditering og lenke til deres side?
 
 Vi bruker ikke bilder uten eksplisitt tillatelse.
 
 Vennlig hilsen
-Diskgolfguiden
+Diskgolfutstyr
 
 ## E-postmal: affiliate/samarbeid
 
-Emne: Mulig affiliate/samarbeid med Diskgolfguiden
+Emne: Mulig affiliate/samarbeid med Diskgolfutstyr
 
 Hei!
 
-Diskgolfguiden.no er en norsk discgolfportal under oppbygging. Vi ønsker primært å lage nyttige guider, tester og produktforklaringer, og vurderer affiliate som sekundær inntektskilde.
+Diskgolfutstyr.no er en norsk discgolfportal under oppbygging. Vi ønsker primært å lage nyttige guider, tester og produktforklaringer, og vurderer affiliate som sekundær inntektskilde.
 
 Har dere et affiliateprogram eller relevante retningslinjer for samarbeid?
 
 Vi merker alle annonselenker tydelig og skiller kommersielt innhold fra redaksjonelle vurderinger.
 
 Vennlig hilsen
-Diskgolfguiden
+Diskgolfutstyr
 
 ## E-postmal: rettelse
 
-Emne: Rettelse til Diskgolfguiden
+Emne: Rettelse til Diskgolfutstyr
 
 Hei!
 
-Takk for at dere hjelper oss å holde Diskgolfguiden riktig. Send gjerne:
+Takk for at dere hjelper oss å holde Diskgolfutstyr riktig. Send gjerne:
 
 - hvilken side det gjelder
 - hva som er feil
@@ -78,4 +78,4 @@ Takk for at dere hjelper oss å holde Diskgolfguiden riktig. Send gjerne:
 Vi oppdaterer statiske sider manuelt og legger inn ny `last_checked`-dato når data er kontrollert.
 
 Vennlig hilsen
-Diskgolfguiden
+Diskgolfutstyr

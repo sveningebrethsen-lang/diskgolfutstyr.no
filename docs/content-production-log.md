@@ -73,7 +73,7 @@ Brukte kildepeker:
 - Produktkort har placeholder-CTA med `#`; ekte affiliate-lenker må legges inn senere med `rel="sponsored nofollow"`.
 - Ingen produkter er fysisk testet ennå.
 - FAQPage structured data brukes på sider med faktiske FAQ-seksjoner.
-- Noen råd er generelle og bør revideres med egne testnotater når Diskgolfguiden begynner å samle erfaringer.
+- Noen råd er generelle og bør revideres med egne testnotater når Diskgolfutstyr begynner å samle erfaringer.
 
 ### Neste fase
 
@@ -144,7 +144,7 @@ Produktklyngen lenker til:
 
 Alle produktsidene er merket med:
 
-> Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfguiden.
+> Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfutstyr.
 
 Ingen sider bruker fysisk test-merking.
 
@@ -247,7 +247,7 @@ Prioriter i fase 8:
 
 Klynge: **Autoritet, klubber, turneringer, trening og redaksjonell troverdighet**
 
-Mål: gjøre Diskgolfguiden mer komplett som norsk portal, uten backend, falske samarbeid, falske turneringer eller kopiert innhold.
+Mål: gjøre Diskgolfutstyr mer komplett som norsk portal, uten backend, falske samarbeid, falske turneringer eller kopiert innhold.
 
 ### Autoritetssider laget
 

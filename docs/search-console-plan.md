@@ -1,13 +1,13 @@
 # Search Console-plan
 
-Denne planen brukes etter lansering av Diskgolfguiden.no.
+Denne planen brukes etter lansering av Diskgolfutstyr.no.
 
 ## Oppsett
 
-1. Legg til `diskgolfguiden.no` i Google Search Console.
+1. Legg til `diskgolfutstyr.no` i Google Search Console.
 2. Velg helst domeneverifisering hvis DNS er tilgjengelig.
 3. Bruk URL-prefix hvis domeneverifisering er vanskelig.
-4. Send inn `https://diskgolfguiden.no/sitemap.xml`.
+4. Send inn `https://diskgolfutstyr.no/sitemap.xml`.
 5. Sjekk at viktige sider kan indekseres.
 
 ## Første kontroll

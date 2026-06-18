@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Approach-kast forklart |
-| Endelig SEO-title | Approach-kast forklart | Diskgolfguiden |
+| Endelig SEO-title | Approach-kast forklart | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til approach-kast forklart med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/approach-kast-forklart.html |
 | Hovedsøkeord | approach-kast forklart |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

@@ -82,7 +82,7 @@ function brief(index, [title, slug, cluster, priority, intent]) {
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | ${title} |
-| Endelig SEO-title | ${title} | Diskgolfguiden |
+| Endelig SEO-title | ${title} | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til ${title.toLowerCase()} med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/${slug}.html |
 | Hovedsøkeord | ${title.toLowerCase()} |
@@ -97,7 +97,7 @@ function brief(index, [title, slug, cluster, priority, intent]) {
 | Affiliate-merking | ${affiliate} |
 | Research-merking | ${research} |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | ${today} |
 
 ## Hovedspørsmål
@@ -289,7 +289,7 @@ write("docs/templates/product-guide-template.md", `
 
 Obligatorisk ved research-basert innhold:
 
-> Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfguiden.
+> Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfutstyr.
 
 Ikke bruk "best i test", "testvinner" eller "vi har testet" uten fysisk test.
 `);
@@ -661,7 +661,7 @@ write("docs/tone-of-voice.md", `
 
 Sist oppdatert: ${today}
 
-Diskgolfguiden skal skrive norsk, praktisk, tydelig og hjelpsomt. Tonen skal ikke være ovenfra-og-ned, for teknisk for nybegynnere, for selgende eller AI-aktig.
+Diskgolfutstyr skal skrive norsk, praktisk, tydelig og hjelpsomt. Tonen skal ikke være ovenfra-og-ned, for teknisk for nybegynnere, for selgende eller AI-aktig.
 
 ## Eksempler
 

@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Nybegynnervennlige baner i Oslo |
-| Endelig SEO-title | Nybegynnervennlige baner i Oslo | Diskgolfguiden |
+| Endelig SEO-title | Nybegynnervennlige baner i Oslo | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til nybegynnervennlige baner i oslo med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/nybegynnervennlige-baner-i-oslo.html |
 | Hovedsøkeord | nybegynnervennlige baner i oslo |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

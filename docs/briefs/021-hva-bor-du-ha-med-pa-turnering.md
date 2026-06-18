@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Hva bør du ha med på turnering? |
-| Endelig SEO-title | Hva bør du ha med på turnering? | Diskgolfguiden |
+| Endelig SEO-title | Hva bør du ha med på turnering? | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til hva bør du ha med på turnering? med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/hva-bor-du-ha-med-pa-turnering.html |
 | Hovedsøkeord | hva bør du ha med på turnering? |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

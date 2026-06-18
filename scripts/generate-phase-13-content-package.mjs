@@ -36,11 +36,11 @@ function pills(links) {
 
 function header(depth = "root") {
   const prefix = depth === "root" ? "" : "/";
-  return `<header class="site-header"><div class="nav-wrap"><a class="brand" href="${prefix}index.html"><img src="${prefix}assets/logo-full.svg" alt="Diskgolfguiden"></a><button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>☰</button><nav class="nav" aria-label="Hovedmeny" data-nav><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}artikler.html">Guider</a><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}baner/">Baner</a><a href="${prefix}klubber/">Klubber</a><a href="${prefix}turneringer/">Turneringer</a><a href="${prefix}om.html">Om</a></nav></div></header>`;
+  return `<header class="site-header"><div class="nav-wrap"><a class="brand" href="${prefix}index.html"><img src="${prefix}assets/logo-full.svg" alt="Diskgolfutstyr"></a><button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>☰</button><nav class="nav" aria-label="Hovedmeny" data-nav><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}artikler.html">Guider</a><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}baner/">Baner</a><a href="${prefix}klubber/">Klubber</a><a href="${prefix}turneringer/">Turneringer</a><a href="${prefix}om.html">Om</a></nav></div></header>`;
 }
 
 function footer() {
-  return `<footer class="site-footer"><div class="footer-inner"><div class="footer-brand"><img src="/assets/logo-light.svg" alt="Diskgolfguiden"><span>Uavhengig norsk discgolfportal. Praktiske guider, tydelig merking og kilder synlig.</span></div><div class="footer-links"><a href="/nybegynnerguide.html">Nybegynner</a><a href="/artikler.html">Guider</a><a href="/utstyr/">Utstyr</a><a href="/baner/">Baner</a><a href="/turneringer/">Turneringer</a><a href="/redaksjonelle-retningslinjer/">Retningslinjer</a></div></div></footer>`;
+  return `<footer class="site-footer"><div class="footer-inner"><div class="footer-brand"><img src="/assets/logo-light.svg" alt="Diskgolfutstyr"><span>Uavhengig norsk discgolfportal. Praktiske guider, tydelig merking og kilder synlig.</span></div><div class="footer-links"><a href="/nybegynnerguide.html">Nybegynner</a><a href="/artikler.html">Guider</a><a href="/utstyr/">Utstyr</a><a href="/baner/">Baner</a><a href="/turneringer/">Turneringer</a><a href="/redaksjonelle-retningslinjer/">Retningslinjer</a></div></div></footer>`;
 }
 
 function faqSchema(faq) {
@@ -63,23 +63,23 @@ function page({ file, url, title, description, h1, eyebrow, lead, meta = [], toc
       "@type": type,
       headline: h1,
       description,
-      image: "https://diskgolfguiden.no/assets/hero-banner.svg",
+      image: "https://diskgolfutstyr.no/assets/hero-banner.svg",
       datePublished: today,
       dateModified: today,
       inLanguage: "nb-NO",
       mainEntityOfPage: url,
-      author: { "@type": "Organization", name: "Diskgolfguiden" },
+      author: { "@type": "Organization", name: "Diskgolfutstyr" },
       publisher: {
         "@type": "Organization",
-        name: "Diskgolfguiden",
-        logo: { "@type": "ImageObject", url: "https://diskgolfguiden.no/assets/logo-icon.svg" }
+        name: "Diskgolfutstyr",
+        logo: { "@type": "ImageObject", url: "https://diskgolfutstyr.no/assets/logo-icon.svg" }
       }
     },
     {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       itemListElement: [
-        { "@type": "ListItem", position: 1, name: "Diskgolfguiden", item: "https://diskgolfguiden.no/" },
+        { "@type": "ListItem", position: 1, name: "Diskgolfutstyr", item: "https://diskgolfutstyr.no/" },
         { "@type": "ListItem", position: 2, name: h1, item: url }
       ]
     },
@@ -103,7 +103,7 @@ function page({ file, url, title, description, h1, eyebrow, lead, meta = [], toc
   <meta property="og:description" content="${description}">
   <meta property="og:type" content="article">
   <meta property="og:url" content="${url}">
-  <meta property="og:image" content="https://diskgolfguiden.no/assets/hero-banner.svg">
+  <meta property="og:image" content="https://diskgolfutstyr.no/assets/hero-banner.svg">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
   <link rel="canonical" href="${url}">
@@ -146,7 +146,7 @@ const commonSources = [
 
 page({
   file: "guider/hvor-langt-bor-en-nybegynner-kaste.html",
-  url: "https://diskgolfguiden.no/guider/hvor-langt-bor-en-nybegynner-kaste.html",
+  url: "https://diskgolfutstyr.no/guider/hvor-langt-bor-en-nybegynner-kaste.html",
   title: "Hvor langt bør en nybegynner kaste? | Praktisk norsk guide",
   description: "Hvor langt en nybegynner bør kaste i discgolf, hva som er normalt, og hvorfor kontroll er viktigere enn maksimal lengde.",
   h1: "Hvor langt bør en nybegynner kaste?",
@@ -171,7 +171,7 @@ page({
 
 page({
   file: "guider/hvorfor-nybegynnere-bor-vente-med-distance-drivers.html",
-  url: "https://diskgolfguiden.no/guider/hvorfor-nybegynnere-bor-vente-med-distance-drivers.html",
+  url: "https://diskgolfutstyr.no/guider/hvorfor-nybegynnere-bor-vente-med-distance-drivers.html",
   title: "Hvorfor nybegynnere bør vente med distance drivers",
   description: "Derfor bør nye discgolfspillere ofte starte med putter, midrange og rolig fairway-driver før raske distance drivers.",
   h1: "Hvorfor nybegynnere bør vente med distance drivers",
@@ -204,7 +204,7 @@ page({
 
 page({
   file: "guider/hvorfor-gar-disken-alltid-til-venstre.html",
-  url: "https://diskgolfguiden.no/guider/hvorfor-gar-disken-alltid-til-venstre.html",
+  url: "https://diskgolfutstyr.no/guider/hvorfor-gar-disken-alltid-til-venstre.html",
   title: "Hvorfor går disken alltid til venstre? | Vanlige årsaker",
   description: "Forklaring på hvorfor disken ofte går til venstre for nye høyrehendte backhand-spillere, og hva du kan gjøre med det.",
   h1: "Hvorfor går disken alltid til venstre?",
@@ -230,12 +230,12 @@ page({
   sources: commonSources
 });
 
-const commercialDisclaimer = `<p class="disclaimer">Noen lenker kan være annonselenker. Det koster deg ikke noe ekstra, men kan gi Diskgolfguiden en liten provisjon. Anbefalingene skal være redaksjonelt uavhengige.</p>`;
-const researchNote = `<p class="research-note">Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfguiden.</p>`;
+const commercialDisclaimer = `<p class="disclaimer">Noen lenker kan være annonselenker. Det koster deg ikke noe ekstra, men kan gi Diskgolfutstyr en liten provisjon. Anbefalingene skal være redaksjonelt uavhengige.</p>`;
+const researchNote = `<p class="research-note">Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfutstyr.</p>`;
 
 page({
   file: "utstyr/baseplast-vs-premiumplast.html",
-  url: "https://diskgolfguiden.no/utstyr/baseplast-vs-premiumplast.html",
+  url: "https://diskgolfutstyr.no/utstyr/baseplast-vs-premiumplast.html",
   title: "Baseplast vs premiumplast | Hva bør du velge?",
   description: "Forskjellen på baseplast og premiumplast i discgolf, hva nybegynnere bør velge, og hvordan plast påvirker grep, slitestyrke og pris.",
   h1: "Baseplast vs premiumplast",
@@ -270,7 +270,7 @@ page({
 
 page({
   file: "utstyr/lett-disk-vs-tung-disk.html",
-  url: "https://diskgolfguiden.no/utstyr/lett-disk-vs-tung-disk.html",
+  url: "https://diskgolfutstyr.no/utstyr/lett-disk-vs-tung-disk.html",
   title: "Lett disk vs tung disk | Guide for nybegynnere",
   description: "Hva er forskjellen på lette og tunge discgolfdisker, og hvilken vekt bør nye spillere vurdere?",
   h1: "Lett disk vs tung disk",
@@ -304,7 +304,7 @@ page({
 
 page({
   file: "utstyr/disc-retriever-verdt-det.html",
-  url: "https://diskgolfguiden.no/utstyr/disc-retriever-verdt-det.html",
+  url: "https://diskgolfutstyr.no/utstyr/disc-retriever-verdt-det.html",
   title: "Disc retriever: er det verdt det?",
   description: "Når en disc retriever kan være nyttig, hvem som bør vurdere det, og hva du bør tenke på før du kjøper.",
   h1: "Disc retriever: er det verdt det?",
@@ -345,7 +345,7 @@ const beginnerOslo = courses.filter((course) => course.county === "Oslo" && cour
 
 page({
   file: "baner/discgolfbaner-naer-oslo/index.html",
-  url: "https://diskgolfguiden.no/baner/discgolfbaner-naer-oslo/",
+  url: "https://diskgolfutstyr.no/baner/discgolfbaner-naer-oslo/",
   title: "Discgolfbaner nær Oslo | Baner å vurdere",
   description: "Finn discgolfbaner nær Oslo med forsiktig vurdering av nivå, kilder og tips for nye spillere.",
   h1: "Discgolfbaner nær Oslo",
@@ -376,7 +376,7 @@ page({
 
 page({
   file: "baner/nybegynnervennlige-baner-i-oslo/index.html",
-  url: "https://diskgolfguiden.no/baner/nybegynnervennlige-baner-i-oslo/",
+  url: "https://diskgolfutstyr.no/baner/nybegynnervennlige-baner-i-oslo/",
   title: "Nybegynnervennlige discgolfbaner i Oslo",
   description: "Forsiktig oversikt over discgolfbaner i Oslo som kan passe nybegynnere, med tips før første runde og kilder.",
   h1: "Nybegynnervennlige discgolfbaner i Oslo",
@@ -405,7 +405,7 @@ page({
 
 page({
   file: "teknikk/approach-kast-forklart/index.html",
-  url: "https://diskgolfguiden.no/teknikk/approach-kast-forklart/",
+  url: "https://diskgolfutstyr.no/teknikk/approach-kast-forklart/",
   title: "Approach-kast forklart | Kontroll fra kort avstand",
   description: "Hva approach-kast er i discgolf, når du bruker dem, vanlige feil og enkle øvelser for bedre kontroll.",
   h1: "Approach-kast forklart",
@@ -433,7 +433,7 @@ page({
 
 page({
   file: "trening/puttingovelser-hjemme/index.html",
-  url: "https://diskgolfguiden.no/trening/puttingovelser-hjemme/",
+  url: "https://diskgolfutstyr.no/trening/puttingovelser-hjemme/",
   title: "Puttingøvelser hjemme | Discgolf-trening uten bane",
   description: "Enkle puttingøvelser du kan gjøre hjemme eller i hagen, med fokus på rutine, kontroll og trygg progresjon.",
   h1: "Puttingøvelser hjemme",
@@ -461,7 +461,7 @@ page({
 
 page({
   file: "turneringer/hva-bor-du-ha-med-pa-turnering/index.html",
-  url: "https://diskgolfguiden.no/turneringer/hva-bor-du-ha-med-pa-turnering/",
+  url: "https://diskgolfutstyr.no/turneringer/hva-bor-du-ha-med-pa-turnering/",
   title: "Hva bør du ha med på discgolfturnering?",
   description: "Praktisk pakkeliste for din første discgolfturnering, med utstyr, klær, regler og forberedelser.",
   h1: "Hva bør du ha med på discgolfturnering?",
@@ -494,7 +494,7 @@ page({
 
 page({
   file: "guider/hvordan-unnga-a-miste-disker-i-hoyt-gress.html",
-  url: "https://diskgolfguiden.no/guider/hvordan-unnga-a-miste-disker-i-hoyt-gress.html",
+  url: "https://diskgolfutstyr.no/guider/hvordan-unnga-a-miste-disker-i-hoyt-gress.html",
   title: "Hvordan unngå å miste disker i høyt gress",
   description: "Praktiske råd for å unngå å miste discgolfdisker i høyt gress, vått føre og norsk sommersesong.",
   h1: "Hvordan unngå å miste disker i høyt gress",
@@ -566,7 +566,7 @@ const urls = [
 
 let sitemap = read("sitemap.xml");
 for (const urlPath of urls) {
-  const loc = `https://diskgolfguiden.no/${urlPath}`;
+  const loc = `https://diskgolfutstyr.no/${urlPath}`;
   if (!sitemap.includes(loc)) {
     sitemap = sitemap.replace("</urlset>", `  <url><loc>${loc}</loc><lastmod>${today}</lastmod></url>\n</urlset>`);
   }

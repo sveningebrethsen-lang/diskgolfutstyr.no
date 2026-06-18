@@ -1,10 +1,10 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
-const baseUrl = "https://diskgolfguiden.no";
+const baseUrl = "https://diskgolfutstyr.no";
 const updatedIso = "2026-06-03";
 const updatedDisplay = "3. juni 2026";
-const researchNotice = "Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfguiden.";
-const affiliateNotice = "Noen lenker kan være annonselenker. Det koster deg ikke noe ekstra, men kan gi Diskgolfguiden en liten provisjon. Anbefalingene skal være redaksjonelt uavhengige.";
+const researchNotice = "Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfutstyr.";
+const affiliateNotice = "Noen lenker kan være annonselenker. Det koster deg ikke noe ekstra, men kan gi Diskgolfutstyr en liten provisjon. Anbefalingene skal være redaksjonelt uavhengige.";
 
 const discs = JSON.parse(readFileSync("data/products/discs.json", "utf8"));
 const bags = JSON.parse(readFileSync("data/products/bags.json", "utf8"));
@@ -18,15 +18,15 @@ const sourceMap = {
   innovaStarter: ["Innova Starter Set", "https://www.innovadiscs.com/disc-golf-starter-set/", "eksempel på startsett"],
   latitudeBeginner: ["Latitude 64 Beginner Guide", "https://latitude64.com/disc-golf-beginner-guide", "produsentguide om nybegynnerutstyr"],
   udisc: ["UDisc", "https://udisc.com/", "baner og discgolfkontekst"],
-  affiliate: ["Affiliate-info", "/affiliate-info.html", "hvordan Diskgolfguiden merker annonselenker"]
+  affiliate: ["Affiliate-info", "/affiliate-info.html", "hvordan Diskgolfutstyr merker annonselenker"]
 };
 
 function nav(prefix = "/") {
-  return `<header class="site-header"><div class="nav-wrap"><a class="brand" href="${prefix}index.html"><img src="${prefix}assets/logo-full.svg" alt="Diskgolfguiden"></a><button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>☰</button><nav class="nav" aria-label="Hovedmeny" data-nav><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}artikler.html">Guider</a><a href="${prefix}regler.html">Regler</a><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}tester.html">Tester</a><a href="${prefix}baneguide.html">Baner</a></nav></div></header>`;
+  return `<header class="site-header"><div class="nav-wrap"><a class="brand" href="${prefix}index.html"><img src="${prefix}assets/logo-full.svg" alt="Diskgolfutstyr"></a><button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>☰</button><nav class="nav" aria-label="Hovedmeny" data-nav><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}artikler.html">Guider</a><a href="${prefix}regler.html">Regler</a><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}tester.html">Tester</a><a href="${prefix}baneguide.html">Baner</a></nav></div></header>`;
 }
 
 function footer(prefix = "/") {
-  return `<footer class="site-footer"><div class="footer-inner"><div class="footer-brand"><img src="${prefix}assets/logo-light.svg" alt="Diskgolfguiden"><span>Produktguider med tydelig research-merking. Affiliate sekundært.</span></div><div class="footer-links"><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}affiliate-info.html">Affiliate-info</a><a href="${prefix}om.html">Om</a></div></div></footer>`;
+  return `<footer class="site-footer"><div class="footer-inner"><div class="footer-brand"><img src="${prefix}assets/logo-light.svg" alt="Diskgolfutstyr"><span>Produktguider med tydelig research-merking. Affiliate sekundært.</span></div><div class="footer-links"><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}affiliate-info.html">Affiliate-info</a><a href="${prefix}om.html">Om</a></div></div></footer>`;
 }
 
 function esc(value) {
@@ -90,14 +90,14 @@ function schema(page) {
       dateModified: updatedIso,
       inLanguage: "nb-NO",
       mainEntityOfPage: `${baseUrl}/${page.path}`,
-      author: { "@type": "Organization", name: "Diskgolfguiden" },
-      publisher: { "@type": "Organization", name: "Diskgolfguiden", logo: { "@type": "ImageObject", url: `${baseUrl}/assets/logo-icon.svg` } }
+      author: { "@type": "Organization", name: "Diskgolfutstyr" },
+      publisher: { "@type": "Organization", name: "Diskgolfutstyr", logo: { "@type": "ImageObject", url: `${baseUrl}/assets/logo-icon.svg` } }
     },
     {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       itemListElement: [
-        { "@type": "ListItem", position: 1, name: "Diskgolfguiden", item: `${baseUrl}/` },
+        { "@type": "ListItem", position: 1, name: "Diskgolfutstyr", item: `${baseUrl}/` },
         { "@type": "ListItem", position: 2, name: "Utstyr", item: `${baseUrl}/utstyrsguide.html` },
         { "@type": "ListItem", position: 3, name: page.h1, item: `${baseUrl}/${page.path}` }
       ]
@@ -520,7 +520,7 @@ writeFileSync("utstyrsguide.html", hub(), "utf8");
 
 const sitemapPath = "sitemap.xml";
 const current = readFileSync(sitemapPath, "utf8");
-const existing = [...current.matchAll(/<loc>https:\/\/diskgolfguiden\.no\/(.*?)<\/loc>/g)].map((m) => m[1]);
+const existing = [...current.matchAll(/<loc>https:\/\/diskgolfutstyr\.no\/(.*?)<\/loc>/g)].map((m) => m[1]);
 const next = Array.from(new Set([...existing, ...pages.map((p) => p.path), "utstyrsguide.html"]));
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${next.map((p) => `  <url><loc>${baseUrl}/${p}</loc><lastmod>${updatedIso}</lastmod></url>`).join("\n")}\n</urlset>\n`;
 writeFileSync(sitemapPath, sitemap, "utf8");

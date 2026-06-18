@@ -1,12 +1,12 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const updated = "3. juni 2026";
-const baseUrl = "https://diskgolfguiden.no";
+const baseUrl = "https://diskgolfutstyr.no";
 
 const nav = `
   <header class="site-header">
     <div class="nav-wrap">
-      <a class="brand" href="/index.html"><img src="/assets/logo-full.svg" alt="Diskgolfguiden"></a>
+      <a class="brand" href="/index.html"><img src="/assets/logo-full.svg" alt="Diskgolfutstyr"></a>
       <button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>☰</button>
       <nav class="nav" aria-label="Hovedmeny" data-nav>
         <a href="/nybegynnerguide.html">Start her</a>
@@ -25,7 +25,7 @@ const footer = `
   <footer class="site-footer">
     <div class="footer-inner">
       <div class="footer-brand">
-        <img src="/assets/logo-light.svg" alt="Diskgolfguiden">
+        <img src="/assets/logo-light.svg" alt="Diskgolfutstyr">
         <span>Uavhengig norsk portal for discgolf. Guider først, affiliate sekundært.</span>
       </div>
       <div class="footer-links">
@@ -179,7 +179,7 @@ const pages = [
   {
     path: "guider/hvilke-disker-trenger-en-nybegynner.html",
     category: "Nybegynner / Utstyr",
-    seoTitle: "Hvilke disker trenger en nybegynner? | Diskgolfguiden",
+    seoTitle: "Hvilke disker trenger en nybegynner? | Diskgolfutstyr",
     title: "Hvilke disker trenger en nybegynner?",
     h1: "Hvilke disker trenger en nybegynner?",
     description: "Se hvilke discgolfdisker nybegynnere faktisk trenger, hvorfor få disker er best i starten og når du bør legge til driver.",
@@ -216,7 +216,7 @@ const pages = [
   {
     path: "guider/putter-midrange-og-driver-forklart.html",
     category: "Disktyper",
-    seoTitle: "Putter, midrange og driver forklart | Diskgolfguiden",
+    seoTitle: "Putter, midrange og driver forklart | Diskgolfutstyr",
     title: "Putter, midrange og driver forklart",
     h1: "Putter, midrange og driver forklart",
     description: "Forstå forskjellen på putter, midrange, fairway-driver og distance-driver, og når du bør bruke hver disktype.",
@@ -301,7 +301,7 @@ const pages = [
   {
     path: "guider/vanlige-feil-for-nybegynnere.html",
     category: "Vanlige feil",
-    seoTitle: "Vanlige feil for nybegynnere i discgolf | Diskgolfguiden",
+    seoTitle: "Vanlige feil for nybegynnere i discgolf | Diskgolfutstyr",
     title: "Vanlige feil for nybegynnere",
     h1: "Vanlige feil for nybegynnere i discgolf",
     description: "Unngå de vanligste feilene nye discgolfspillere gjør: for raske drivere, for mye kraft, dårlig banevalg og uklare regler.",
@@ -338,10 +338,10 @@ const pages = [
     seoTitle: "Beste discgolf-startsett for nybegynnere | Research-basert guide",
     title: "Beste discgolf-startsett for nybegynnere",
     h1: "Beste valg for discgolf-startsett",
-    description: "Research-basert guide til discgolf-startsett for nybegynnere, med tydelig merking av at produktene ikke er fysisk testet av Diskgolfguiden.",
+    description: "Research-basert guide til discgolf-startsett for nybegynnere, med tydelig merking av at produktene ikke er fysisk testet av Diskgolfutstyr.",
     ingress: "Et godt startsett bør gjøre sporten enklere, ikke gi deg en for rask driver og tre disker du ikke forstår. Her er hva du bør se etter før du kjøper.",
     evidence: "Research-basert sammenligning",
-    researchNotice: "Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfguiden.",
+    researchNotice: "Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfutstyr.",
     internalLinks: [links.discs, links.choose, links.types, links.flight],
     sources: [commonSources.innovaStarter, commonSources.pdgaBeginner, commonSources.latitudeBeginner],
     sections: [
@@ -360,7 +360,7 @@ const pages = [
     description: "Research-basert sammenligning av fairway-drivere og distance-drivere for nybegynnere og hobbyspillere.",
     ingress: "Mange nye spillere kjøper distance-driver for tidlig. For de fleste gir en fairway-driver mer kontroll, mindre frustrasjon og ofte bedre faktisk resultat.",
     evidence: "Research-basert sammenligning",
-    researchNotice: "Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfguiden.",
+    researchNotice: "Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfutstyr.",
     internalLinks: [links.discs, links.flight, links.choose, links.mistakes],
     sources: [commonSources.pdgaBeginner, commonSources.latitudeBeginner, commonSources.innovaComparison],
     sections: [
@@ -393,24 +393,24 @@ const hubPages = [
   {
     path: "tester.html",
     category: "Tester",
-    seoTitle: "Tester av discgolfutstyr | Diskgolfguiden",
+    seoTitle: "Tester av discgolfutstyr | Diskgolfutstyr",
     title: "Tester",
     h1: "Tester og testplaner",
-    description: "Oversikt over testinnhold på Diskgolfguiden, med tydelig skille mellom fysisk test og researchbasert innhold.",
+    description: "Oversikt over testinnhold på Diskgolfutstyr, med tydelig skille mellom fysisk test og researchbasert innhold.",
     ingress: "Her samles testinnhold. Første versjon inneholder researchbaserte sider og testplaner, ikke falske best-i-test-påstander.",
-    researchNotice: "Ingen test omtales som fysisk test før den faktisk er gjennomført av Diskgolfguiden.",
+    researchNotice: "Ingen test omtales som fysisk test før den faktisk er gjennomført av Diskgolfutstyr.",
     internalLinks: [links.starter, links.equipment, links.discs],
     sources: [commonSources.pdgaBeginner, commonSources.innovaStarter],
     sections: [
       { id: "publisert", heading: "Publisert nå", body: "<div class=\"grid\"><article class=\"card\"><h3>Beste discgolf-startsett</h3><p>Research-basert guide til hva et godt startsett bør inneholde.</p><a href=\"/tester/beste-discgolf-startsett.html\">Les guiden</a></article></div>" },
-      { id: "testmerking", heading: "Slik merkes tester", body: "<p>Fysiske tester merkes med: “Dette er en fysisk test utført av Diskgolfguiden.” Researchbaserte sammenligninger merkes tydelig med at produktene ikke er fysisk testet.</p>" },
+      { id: "testmerking", heading: "Slik merkes tester", body: "<p>Fysiske tester merkes med: “Dette er en fysisk test utført av Diskgolfutstyr.” Researchbaserte sammenligninger merkes tydelig med at produktene ikke er fysisk testet.</p>" },
       { id: "neste", heading: "Neste tester som bør gjennomføres", body: "<ul><li>3-disk starterbag</li><li>Puttere på korte putter</li><li>Midrange for rette kast</li><li>Fairway-driver for nybegynnere</li></ul>" }
     ]
   },
   {
     path: "sammenligninger.html",
     category: "Sammenligninger",
-    seoTitle: "Sammenligninger av disker og utstyr | Diskgolfguiden",
+    seoTitle: "Sammenligninger av disker og utstyr | Diskgolfutstyr",
     title: "Sammenligninger",
     h1: "Sammenligninger",
     description: "Researchbaserte sammenligninger av disker, disktyper og discgolfutstyr, tydelig merket når det ikke er fysisk test.",

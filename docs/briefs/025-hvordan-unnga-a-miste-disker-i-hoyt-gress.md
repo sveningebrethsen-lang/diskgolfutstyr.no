@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Hvordan unngå å miste disker i høyt gress |
-| Endelig SEO-title | Hvordan unngå å miste disker i høyt gress | Diskgolfguiden |
+| Endelig SEO-title | Hvordan unngå å miste disker i høyt gress | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til hvordan unngå å miste disker i høyt gress med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/hvordan-unnga-a-miste-disker-i-hoyt-gress.html |
 | Hovedsøkeord | hvordan unngå å miste disker i høyt gress |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

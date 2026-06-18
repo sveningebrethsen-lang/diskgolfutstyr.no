@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Slik får du renere backhand-release |
-| Endelig SEO-title | Slik får du renere backhand-release | Diskgolfguiden |
+| Endelig SEO-title | Slik får du renere backhand-release | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til slik får du renere backhand-release med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/renere-backhand-release.html |
 | Hovedsøkeord | slik får du renere backhand-release |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

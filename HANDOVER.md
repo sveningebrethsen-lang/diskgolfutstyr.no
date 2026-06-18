@@ -1,17 +1,17 @@
-# Handover: Diskgolfguiden.no
+# Handover: Diskgolfutstyr.no
 
 Sist oppdatert: 2026-06-18
 
 ## Kort status
 
-Diskgolfguiden.no er bygget som en statisk norsk discgolfportal for GitHub Pages. Prosjektet har ingen backend, database, API-nokler eller serverfunksjoner. Lokal forhåndsvisning kan kjøres med Docker/nginx, og siden er strukturert rundt guider, utstyr, baner, klubber, turneringer, trening, teknikk, tester og redaksjonell dokumentasjon.
+Diskgolfutstyr.no er bygget som en statisk norsk discgolfportal for GitHub Pages. Prosjektet har ingen backend, database, API-nokler eller serverfunksjoner. Lokal forhåndsvisning kan kjøres med Docker/nginx, og siden er strukturert rundt guider, utstyr, baner, klubber, turneringer, trening, teknikk, tester og redaksjonell dokumentasjon.
 
 Prosjektet er ikke en aktiv Lovable/React-app i repoet. Det finnes ingen `package.json`. Frontenden er ren statisk HTML/CSS/JS.
 
 ## Teknisk oppsett
 
 - Hostingmål: GitHub Pages
-- Domene: `diskgolfguiden.no`
+- Domene: `diskgolfutstyr.no`
 - Lokal server: Docker med nginx
 - Docker image brukt sist: `discgolf-side`
 - Lokal URL brukt sist: `http://127.0.0.1:8080/`
@@ -232,7 +232,7 @@ Mulige fase 14-retninger:
 
 ## Hovedregel videre
 
-Diskgolfguiden skal være nyttig og troverdig før den er stor.
+Diskgolfutstyr skal være nyttig og troverdig før den er stor.
 
 Ikke masseproduser artikler bare for volum. Prioriter sider som:
 

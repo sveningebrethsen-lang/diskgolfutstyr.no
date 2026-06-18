@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Puttingøvelser hjemme |
-| Endelig SEO-title | Puttingøvelser hjemme | Diskgolfguiden |
+| Endelig SEO-title | Puttingøvelser hjemme | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til puttingøvelser hjemme med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/puttingovelser-hjemme.html |
 | Hovedsøkeord | puttingøvelser hjemme |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

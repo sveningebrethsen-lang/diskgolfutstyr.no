@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Baseplast vs premiumplast forklart |
-| Endelig SEO-title | Baseplast vs premiumplast forklart | Diskgolfguiden |
+| Endelig SEO-title | Baseplast vs premiumplast forklart | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til baseplast vs premiumplast forklart med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/baseplast-vs-premiumplast.html |
 | Hovedsøkeord | baseplast vs premiumplast forklart |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Ja, men kun tydelig merket og uten falske priser/testpåstander. |
 | Research-merking | Research-basert. Må merkes hvis konkrete produkter sammenlignes. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

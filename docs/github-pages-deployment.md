@@ -2,7 +2,7 @@
 
 Sist oppdatert: 2026-06-03
 
-Siden publiseres som statisk nettsted fra branch `main`, folder `/root`. `CNAME` inneholder `diskgolfguiden.no`.
+Siden publiseres som statisk nettsted fra branch `main`, folder `/root`. `CNAME` inneholder `diskgolfutstyr.no`.
 
 ## Før publisering
 

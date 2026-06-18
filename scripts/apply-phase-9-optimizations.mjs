@@ -5,7 +5,7 @@ const date = "2026-06-03";
 const metadataUpdates = [
   {
     file: "index.html",
-    title: "Diskgolfguiden.no | Norsk discgolfportal for utstyr, baner og regler",
+    title: "Diskgolfutstyr.no | Norsk discgolfportal for utstyr, baner og regler",
     description: "Start her for norske discgolfguider, baner, utstyr, regler, klubber, turneringer og trening uten falske tester eller tynn affiliate."
   },
   {

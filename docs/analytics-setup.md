@@ -1,13 +1,13 @@
 # Analytics-oppsett
 
-Diskgolfguiden.no har ikke aktiv analytics med privat tracking-ID i repoet. Det er bevisst: private nøkler, tokens og konto-ID-er skal ikke committes.
+Diskgolfutstyr.no har ikke aktiv analytics med privat tracking-ID i repoet. Det er bevisst: private nøkler, tokens og konto-ID-er skal ikke committes.
 
 ## Google Search Console
 
-1. Legg domenet `diskgolfguiden.no` til i Google Search Console.
+1. Legg domenet `diskgolfutstyr.no` til i Google Search Console.
 2. Verifiser domenet via DNS hos domeneleverandør.
 3. Send inn sitemap:
-   `https://diskgolfguiden.no/sitemap.xml`
+   `https://diskgolfutstyr.no/sitemap.xml`
 4. Følg med på indeksering, søkeord, klikk og eventuelle tekniske feil.
 
 ## Google Analytics
@@ -26,7 +26,7 @@ Plausible er et lett alternativ som kan passe en statisk side.
 Eksempel med placeholder:
 
 ```html
-<script defer data-domain="diskgolfguiden.no" src="https://plausible.io/js/script.js"></script>
+<script defer data-domain="diskgolfutstyr.no" src="https://plausible.io/js/script.js"></script>
 ```
 
 Legg kun inn scriptet når domenet er satt opp i Plausible.

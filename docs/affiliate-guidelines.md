@@ -13,7 +13,7 @@ Affiliate skal være sekundært og tydelig merket.
 
 Relevante utstyrssider bør ha teksten:
 
-> Noen lenker kan være annonselenker. Det koster deg ikke noe ekstra, men kan gi Diskgolfguiden en liten provisjon.
+> Noen lenker kan være annonselenker. Det koster deg ikke noe ekstra, men kan gi Diskgolfutstyr en liten provisjon.
 
 ## Hva man ikke skal påstå
 
@@ -38,4 +38,4 @@ En god anbefaling bør vise:
 
 Bruk denne teksten på research-baserte tester og sammenligninger:
 
-> Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfguiden.
+> Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfutstyr.

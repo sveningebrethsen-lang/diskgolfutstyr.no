@@ -1,6 +1,6 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
-const baseUrl = "https://diskgolfguiden.no";
+const baseUrl = "https://diskgolfutstyr.no";
 const updatedIso = "2026-06-03";
 const updatedDisplay = "3. juni 2026";
 const statusNotice = "Dette er en statisk, kildebasert side. Informasjon om klubber, turneringer og baner kan endre seg. Sjekk alltid offisiell kilde før du melder deg på, møter opp eller planlegger reise.";
@@ -55,7 +55,7 @@ const clubs = [
     short_description: "Oslo-basert disksportklubb som er relevant for Ekeberg og Krokhol-kontekst.",
     source_urls: ["https://ekebergsk.com/krokhol/"],
     last_checked: updatedIso,
-    notes: "Kilden omtaler Krokhol-etableringen. Ikke påstå samarbeid med Diskgolfguiden."
+    notes: "Kilden omtaler Krokhol-etableringen. Ikke påstå samarbeid med Diskgolfutstyr."
   },
   {
     id: "trondheim-frisbeeklubb",
@@ -134,7 +134,7 @@ const sourceMap = {
   metrix: ["Disc Golf Metrix", "https://discgolfmetrix.com/?locale=no&u=main", "turneringer, scoring og Metrix-rating"],
   naif: ["NAIF Amerikanske Idretter", "https://amerikanskeidretter.no/", "norsk forbundskontekst"],
   udiscNorway: ["UDisc Norge", "https://udisc.com/places/norway", "baner og lokale miljøer"],
-  clubs: ["Klubbdata", "/data/clubs/norway.json", "statisk kildebank for Diskgolfguiden"]
+  clubs: ["Klubbdata", "/data/clubs/norway.json", "statisk kildebank for Diskgolfutstyr"]
 };
 
 function esc(value) {
@@ -146,11 +146,11 @@ function attr(value) {
 }
 
 function nav(prefix = "/") {
-  return `<header class="site-header"><div class="nav-wrap"><a class="brand" href="${prefix}index.html"><img src="${prefix}assets/logo-full.svg" alt="Diskgolfguiden"></a><button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>☰</button><nav class="nav" aria-label="Hovedmeny" data-nav><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}artikler.html">Guider</a><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}baner/">Baner</a><a href="${prefix}klubber/">Klubber</a><a href="${prefix}turneringer/">Turneringer</a><a href="${prefix}om.html">Om</a></nav></div></header>`;
+  return `<header class="site-header"><div class="nav-wrap"><a class="brand" href="${prefix}index.html"><img src="${prefix}assets/logo-full.svg" alt="Diskgolfutstyr"></a><button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>☰</button><nav class="nav" aria-label="Hovedmeny" data-nav><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}artikler.html">Guider</a><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}baner/">Baner</a><a href="${prefix}klubber/">Klubber</a><a href="${prefix}turneringer/">Turneringer</a><a href="${prefix}om.html">Om</a></nav></div></header>`;
 }
 
 function footer(prefix = "/") {
-  return `<footer class="site-footer"><div class="footer-inner"><div class="footer-brand"><img src="${prefix}assets/logo-light.svg" alt="Diskgolfguiden"><span>Uavhengig norsk discgolfportal. Guider først, affiliate sekundært, kilder synlig.</span></div><div class="footer-links"><a href="${prefix}baner/">Baner</a><a href="${prefix}klubber/">Klubber</a><a href="${prefix}turneringer/">Turneringer</a><a href="${prefix}teknikk/">Teknikk</a><a href="${prefix}trening/">Trening</a><a href="${prefix}redaksjonelle-retningslinjer/">Retningslinjer</a><a href="${prefix}kontakt/">Kontakt</a><a href="${prefix}personvern/">Personvern</a></div></div></footer>`;
+  return `<footer class="site-footer"><div class="footer-inner"><div class="footer-brand"><img src="${prefix}assets/logo-light.svg" alt="Diskgolfutstyr"><span>Uavhengig norsk discgolfportal. Guider først, affiliate sekundært, kilder synlig.</span></div><div class="footer-links"><a href="${prefix}baner/">Baner</a><a href="${prefix}klubber/">Klubber</a><a href="${prefix}turneringer/">Turneringer</a><a href="${prefix}teknikk/">Teknikk</a><a href="${prefix}trening/">Trening</a><a href="${prefix}redaksjonelle-retningslinjer/">Retningslinjer</a><a href="${prefix}kontakt/">Kontakt</a><a href="${prefix}personvern/">Personvern</a></div></div></footer>`;
 }
 
 function pills(items) {
@@ -177,8 +177,8 @@ function schemas(page) {
       dateModified: updatedIso,
       inLanguage: "nb-NO",
       mainEntityOfPage: `${baseUrl}/${page.path}`,
-      author: { "@type": "Organization", name: "Diskgolfguiden" },
-      publisher: { "@type": "Organization", name: "Diskgolfguiden", logo: { "@type": "ImageObject", url: `${baseUrl}/assets/logo-icon.svg` } }
+      author: { "@type": "Organization", name: "Diskgolfutstyr" },
+      publisher: { "@type": "Organization", name: "Diskgolfutstyr", logo: { "@type": "ImageObject", url: `${baseUrl}/assets/logo-icon.svg` } }
     },
     {
       "@context": "https://schema.org",
@@ -273,12 +273,12 @@ writePage("klubber", pageShell({
   h1: "Discgolfklubber i Norge",
   eyebrow: "Klubber",
   intro: "Klubber er ofte veien inn til ukesgolf, dugnad, turneringer og lokale spillere. Denne første klubbseksjonen er forsiktig og kildebasert.",
-  breadcrumb: [{ name: "Diskgolfguiden", path: "" }, { name: "Klubber", path: "klubber/" }],
+  breadcrumb: [{ name: "Diskgolfutstyr", path: "" }, { name: "Klubber", path: "klubber/" }],
   sources: ["clubs", "naif", "dgsNorway"],
   related: [["/baner/", "Discgolfbaner i Norge"], ["/turneringer/", "Turneringer"], ["/guider/hvordan-begynne-med-discgolf.html", "Hvordan begynne"], ["/guider/discgolf-etikette.html", "Etikette"], ["/kontakt/", "Send klubbinfo"]],
   faq: [
     { q: "Må jeg være medlem i klubb for å spille discgolf?", a: "Som regel kan du spille mange baner uten klubbmedlemskap, men klubb kan gi miljø, ukesgolf, opplæring og dugnadsfellesskap." },
-    { q: "Er Diskgolfguiden samarbeidspartner med klubbene?", a: "Nei. Klubbene er listet som kildebasert informasjon, ikke som samarbeidspartnere." },
+    { q: "Er Diskgolfutstyr samarbeidspartner med klubbene?", a: "Nei. Klubbene er listet som kildebasert informasjon, ikke som samarbeidspartnere." },
     { q: "Hvordan retter jeg klubbdata?", a: "Bruk kontaktsiden og send kilde, klubbnavn, område og hva som bør endres." }
   ],
   sections: [
@@ -307,11 +307,11 @@ for (const city of clubCities) {
     h1: city.title,
     eyebrow: "Lokal klubbguide",
     intro: city.intro,
-    breadcrumb: [{ name: "Diskgolfguiden", path: "" }, { name: "Klubber", path: "klubber/" }, { name: city.title, path: `klubber/${city.slug}/` }],
+    breadcrumb: [{ name: "Diskgolfutstyr", path: "" }, { name: "Klubber", path: "klubber/" }, { name: city.title, path: `klubber/${city.slug}/` }],
     sources: items.length ? [...new Set(items.flatMap((club) => club.source_urls))] : ["udiscNorway", "dgsNorway"],
     sections: [
       { id: "klubber", heading: "Klubber og miljøer", body: items.length ? `<div class="course-grid">${items.map(clubCard).join("")}</div>` : `<p class="notice">Vi har ikke nok verifisert klubbdata til å liste en konkret klubb her ennå. Siden beholdes fordi mange søker lokalt etter klubb, og oppdateres når åpne kilder er kontrollert.</p>` },
-      { id: "finn", heading: "Slik finner du lokalt miljø", body: "<ul><li>Sjekk lokale baner og oppslag om ukesgolf.</li><li>Se etter arrangementer i Metrix eller Disc Golf Scene.</li><li>Spør lokale spillere eller arrangører på banen.</li><li>Send gjerne kilde til Diskgolfguiden hvis en klubb mangler.</li></ul>" },
+      { id: "finn", heading: "Slik finner du lokalt miljø", body: "<ul><li>Sjekk lokale baner og oppslag om ukesgolf.</li><li>Se etter arrangementer i Metrix eller Disc Golf Scene.</li><li>Spør lokale spillere eller arrangører på banen.</li><li>Send gjerne kilde til Diskgolfutstyr hvis en klubb mangler.</li></ul>" },
       { id: "lenker", heading: "Nyttige lokale steg", body: pills([["/baner/", "Finn bane"], ["/turneringer/", "Turneringer"], ["/guider/slik-spiller-du-forste-runde.html", "Første runde"], ["/kontakt/", "Send rettelse"]]) }
     ]
   }));
@@ -327,7 +327,7 @@ const tournamentPages = [
     sections: [
       ["hva", "Hva er en discgolfturnering?", "<p>En turnering er en organisert runde eller flere runder med felles regler, scoreføring og ofte klasser. Noen er åpne lavterskelarrangementer, andre krever påmelding og følger PDGA-regelverk.</p>"],
       ["delta", "Hvem kan delta?", "<p>Mange lokale arrangementer tar imot nye spillere, men krav varierer. Les alltid eventside, divisjoner, betaling, kanselleringsregler og spillerinfo.</p>"],
-      ["pamelding", "Påmelding og terminliste", "<p>Bruk offisielle kilder som Disc Golf Scene, Disc Golf Metrix, PDGA og arrangørens egen side. Diskgolfguiden lenker til kilder, men publiserer ikke kommende datoer uten manuell kontroll.</p>"],
+      ["pamelding", "Påmelding og terminliste", "<p>Bruk offisielle kilder som Disc Golf Scene, Disc Golf Metrix, PDGA og arrangørens egen side. Diskgolfutstyr lenker til kilder, men publiserer ikke kommende datoer uten manuell kontroll.</p>"],
       ["forbered", "Hva bør du ha med?", "<ul><li>Disker du kjenner godt.</li><li>Mini marker hvis arrangementet krever det.</li><li>Vann, mat og klær etter vær.</li><li>Telefon med score/app hvis arrangøren bruker det.</li><li>Regelkunnskap og rolig tempo.</li></ul>"],
       ["videre", "Gå videre", pills([["/turneringer/hvordan-bli-med/", "Hvordan bli med"], ["/turneringer/forste-turnering/", "Første turnering"], ["/turneringer/pdga-rating/", "PDGA-rating"], ["/turneringer/klasser/", "Klasser"], ["/turneringer/terminliste/", "Terminliste-kilder"]])]
     ]
@@ -381,8 +381,8 @@ const tournamentPages = [
     slug: "terminliste",
     title: "Terminliste for discgolf - hvor finner du oppdaterte turneringer?",
     h1: "Terminliste for discgolf",
-    description: "Her finner du sikre kilder til discgolfturneringer i Norge uten at Diskgolfguiden publiserer uverifiserte datoer.",
-    intro: "Turneringsdatoer endrer seg. Derfor peker Diskgolfguiden til offisielle kilder i stedet for å vedlikeholde en manuell falsk kalender.",
+    description: "Her finner du sikre kilder til discgolfturneringer i Norge uten at Diskgolfutstyr publiserer uverifiserte datoer.",
+    intro: "Turneringsdatoer endrer seg. Derfor peker Diskgolfutstyr til offisielle kilder i stedet for å vedlikeholde en manuell falsk kalender.",
     sections: [
       ["kilder", "Kilder til terminliste", "<ul><li>Disc Golf Scene for mange PDGA- og klubbarrangementer.</li><li>Disc Golf Metrix for live score, klubbserier og lokale arrangementer.</li><li>PDGA event search for sanksjonerte arrangementer.</li><li>NAIF og arrangør/klubb for norsk konkurransekontekst.</li></ul>"],
       ["bruk", "Slik bruker du kildene", "<p>Sjekk dato, bane, klasse, påmeldingsfrist, refund policy, spillerinfo og om arrangementet er fullt. Lagre eventside og følg arrangørens oppdateringer.</p>"]
@@ -399,11 +399,11 @@ for (const page of tournamentPages) {
     h1: page.h1,
     eyebrow: "Turneringer",
     intro: page.intro,
-    breadcrumb: [{ name: "Diskgolfguiden", path: "" }, { name: "Turneringer", path: "turneringer/" }, ...(page.slug ? [{ name: page.h1, path: `${path}/` }] : [])],
+    breadcrumb: [{ name: "Diskgolfutstyr", path: "" }, { name: "Turneringer", path: "turneringer/" }, ...(page.slug ? [{ name: page.h1, path: `${path}/` }] : [])],
     sources: ["pdgaRules", "dgsNorway", "metrix", "naif"],
     related: [["/guider/discgolf-regler-for-nybegynnere.html", "Regler"], ["/klubber/", "Klubber"], ["/baner/", "Baner"], ["/teknikk/putting-rutine/", "Putting-rutine"], ["/utstyr/discgolf-utstyrsliste.html", "Utstyrsliste"]],
     faq: page.slug ? [] : [
-      { q: "Publiserer Diskgolfguiden kommende turneringer?", a: "Ikke i denne fasen. Vi lenker til offisielle kilder for å unngå utdatert eller feil terminliste." },
+      { q: "Publiserer Diskgolfutstyr kommende turneringer?", a: "Ikke i denne fasen. Vi lenker til offisielle kilder for å unngå utdatert eller feil terminliste." },
       { q: "Kan nybegynnere spille turnering?", a: "Ja, mange arrangementer er åpne for nye spillere, men les alltid krav, klasse og format." }
     ],
     sections: page.sections.map(([id, heading, body]) => ({ id, heading, body }))
@@ -429,7 +429,7 @@ for (const [slug, h1, intro, tips] of seasonal) {
     h1,
     eyebrow: "Sesongguide",
     intro,
-    breadcrumb: [{ name: "Diskgolfguiden", path: "" }, { name: "Guider", path: "artikler.html" }, { name: h1, path: `guider/${slug}/` }],
+    breadcrumb: [{ name: "Diskgolfutstyr", path: "" }, { name: "Guider", path: "artikler.html" }, { name: h1, path: `guider/${slug}/` }],
     sources: ["pdgaRules", "udiscNorway"],
     related: [["/baner/", "Finn bane"], ["/utstyr/discgolf-utstyrsliste.html", "Utstyrsliste"], ["/guider/slik-spiller-du-forste-runde.html", "Første runde"], ["/teknikk/kast-i-vind/", "Kast i vind"]],
     sections: [
@@ -466,7 +466,7 @@ for (const [area, slug, h1, title, description, intro, hubLinks] of techniquePag
     h1,
     eyebrow: area === "teknikk" ? "Teknikk" : "Trening",
     intro,
-    breadcrumb: [{ name: "Diskgolfguiden", path: "" }, { name: area === "teknikk" ? "Teknikk" : "Trening", path: `${area}/` }, ...(slug ? [{ name: h1, path: `${path}/` }] : [])],
+    breadcrumb: [{ name: "Diskgolfutstyr", path: "" }, { name: area === "teknikk" ? "Teknikk" : "Trening", path: `${area}/` }, ...(slug ? [{ name: h1, path: `${path}/` }] : [])],
     sources: ["pdgaRules"],
     related: [["/guider/backhand-for-nybegynnere.html", "Backhand for nybegynnere"], ["/guider/forehand-for-nybegynnere.html", "Forehand for nybegynnere"], ["/guider/putting-for-nybegynnere.html", "Putting"], ["/utstyr/beste-discgolfdisker-for-nybegynnere.html", "Diskvalg"], ["/turneringer/", "Turneringer"]],
     sections: isHub ? [
@@ -482,23 +482,23 @@ for (const [area, slug, h1, title, description, intro, hubLinks] of techniquePag
 }
 
 const authorityPages = [
-  ["redaksjonelle-retningslinjer", "Redaksjonelle retningslinjer", "Redaksjonelle retningslinjer for Diskgolfguiden", "Slik lager Diskgolfguiden guider, bruker kilder, merker affiliate og retter feil.", "Diskgolfguiden er en uavhengig norsk discgolfside under oppbygging. Vi skal være ærlige om kilder, usikkerhet og hva som faktisk er testet.", [
+  ["redaksjonelle-retningslinjer", "Redaksjonelle retningslinjer", "Redaksjonelle retningslinjer for Diskgolfutstyr", "Slik lager Diskgolfutstyr guider, bruker kilder, merker affiliate og retter feil.", "Diskgolfutstyr er en uavhengig norsk discgolfside under oppbygging. Vi skal være ærlige om kilder, usikkerhet og hva som faktisk er testet.", [
     ["metode", "Hvordan guider lages", "<p>Guider bygges fra åpne kilder, egne redaksjonelle vurderinger og etter hvert egne testnotater. Vi skal ikke fylle sider med generisk tekst bare for å rangere i Google.</p>"],
     ["kilder", "Kilder og rettelser", "<p>Kilder lenkes der fakta kan endre seg. Feil kan sendes via kontaktsiden med kilde og kort forklaring.</p>"],
-    ["tester", "Fysisk test vs research", "<p>Fysisk test brukes bare når Diskgolfguiden faktisk har testet. Research-basert sammenligning merkes tydelig og skal ikke kalles testvinner.</p>"],
+    ["tester", "Fysisk test vs research", "<p>Fysisk test brukes bare når Diskgolfutstyr faktisk har testet. Research-basert sammenligning merkes tydelig og skal ikke kalles testvinner.</p>"],
     ["affiliate", "Affiliate", "<p>Affiliate-lenker skal merkes med disclosure og `rel=\"sponsored nofollow\"`. Anbefalinger skal være redaksjonelt uavhengige.</p>"],
     ["banedata", "Banedata", "<p>Banedata kontrolleres mot åpne kilder og merkes med sist sjekket dato. Usikre felt skal stå som ukjent.</p>"]
   ]],
-  ["kontakt", "Kontakt Diskgolfguiden", "Kontakt Diskgolfguiden", "Send tips om baner, klubber, rettelser, produkter eller samarbeid uten skjema og uten backend.", "Diskgolfguiden bruker ikke kontaktskjema i denne statiske versjonen. Send heller en kort e-post med kilde og hva saken gjelder.", [
+  ["kontakt", "Kontakt Diskgolfutstyr", "Kontakt Diskgolfutstyr", "Send tips om baner, klubber, rettelser, produkter eller samarbeid uten skjema og uten backend.", "Diskgolfutstyr bruker ikke kontaktskjema i denne statiske versjonen. Send heller en kort e-post med kilde og hva saken gjelder.", [
     ["send", "Hva kan du sende inn?", "<ul><li>Tips om ny bane.</li><li>Rettelse til banedata.</li><li>Tips om klubb eller turnering.</li><li>Forslag til artikkel.</li><li>Henvendelse fra butikk eller mulig samarbeidspartner.</li></ul>"],
-    ["epost", "E-post", "<p><a class=\"button\" href=\"mailto:tips@diskgolfguiden.no?subject=Tips%20til%20Diskgolfguiden\">Send tips på e-post</a></p><p class=\"muted\">Hvis e-postadressen ikke er aktiv ennå, bør den opprettes før offentlig lansering.</p>"],
+    ["epost", "E-post", "<p><a class=\"button\" href=\"mailto:tips@diskgolfutstyr.no?subject=Tips%20til%20Diskgolfutstyr\">Send tips på e-post</a></p><p class=\"muted\">Hvis e-postadressen ikke er aktiv ennå, bør den opprettes før offentlig lansering.</p>"],
     ["mal", "Hva bør meldingen inneholde?", "<ul><li>Kort emne.</li><li>Hvilken side det gjelder.</li><li>Kilde eller lenke.</li><li>Hva som bør endres.</li><li>Om du ønsker svar.</li></ul>"]
   ]],
-  ["personvern", "Personvern", "Personvern for Diskgolfguiden", "Enkel personvernerklæring for en statisk GitHub Pages-side uten backend, skjema eller database.", "Diskgolfguiden er statisk i første versjon. Vi samler ikke inn persondata via egne skjemaer eller backend.", [
+  ["personvern", "Personvern", "Personvern for Diskgolfutstyr", "Enkel personvernerklæring for en statisk GitHub Pages-side uten backend, skjema eller database.", "Diskgolfutstyr er statisk i første versjon. Vi samler ikke inn persondata via egne skjemaer eller backend.", [
     ["data", "Hva samles inn?", "<p>Siden har ingen egen database, innlogging eller kontaktskjema. GitHub Pages og nettleseren kan likevel håndtere tekniske logger som vanlige nettsider.</p>"],
     ["analytics", "Analytics", "<p>Analytics kan bli lagt til senere. Hvis det skjer, skal denne siden oppdateres med hvilken tjeneste som brukes og hvordan den fungerer.</p>"],
-    ["affiliate", "Affiliate og eksterne lenker", "<p>Noen lenker kan bli annonselenker. Eksterne nettsteder har egne personvernregler og er utenfor Diskgolfguidens kontroll.</p>"],
-    ["kontakt", "Kontakt", "<p>Hvis du sender e-post til Diskgolfguiden, behandles informasjonen du selv velger å sende. Ikke send sensitive personopplysninger.</p>"]
+    ["affiliate", "Affiliate og eksterne lenker", "<p>Noen lenker kan bli annonselenker. Eksterne nettsteder har egne personvernregler og er utenfor Diskgolfutstyrs kontroll.</p>"],
+    ["kontakt", "Kontakt", "<p>Hvis du sender e-post til Diskgolfutstyr, behandles informasjonen du selv velger å sende. Ikke send sensitive personopplysninger.</p>"]
   ]]
 ];
 
@@ -508,10 +508,10 @@ for (const [slug, h1, title, description, intro, sections] of authorityPages) {
     title,
     description,
     h1,
-    eyebrow: "Om Diskgolfguiden",
+    eyebrow: "Om Diskgolfutstyr",
     intro,
     badge: "Redaksjonelt",
-    breadcrumb: [{ name: "Diskgolfguiden", path: "" }, { name: h1, path: `${slug}/` }],
+    breadcrumb: [{ name: "Diskgolfutstyr", path: "" }, { name: h1, path: `${slug}/` }],
     sources: ["pdgaRules", "clubs"],
     related: [["/om.html", "Om siden"], ["/affiliate-info.html", "Affiliate-info"], ["/kontakt/", "Kontakt"], ["/personvern/", "Personvern"], ["/klubber/", "Klubber"]],
     sections: sections.map(([id, heading, body]) => ({ id, heading, body }))
@@ -519,7 +519,7 @@ for (const [slug, h1, title, description, intro, sections] of authorityPages) {
 }
 
 const sitemapPath = "sitemap.xml";
-const existing = [...readFileSync(sitemapPath, "utf8").matchAll(/<loc>https:\/\/diskgolfguiden\.no\/(.*?)<\/loc>/g)].map((m) => m[1]);
+const existing = [...readFileSync(sitemapPath, "utf8").matchAll(/<loc>https:\/\/diskgolfutstyr\.no\/(.*?)<\/loc>/g)].map((m) => m[1]);
 const newPaths = [
   "klubber/",
   ...clubCities.map((city) => `klubber/${city.slug}/`),

@@ -1,6 +1,6 @@
 # Revenue plan
 
-Diskgolfguiden skal tjene penger uten å ofre tillit.
+Diskgolfutstyr skal tjene penger uten å ofre tillit.
 
 ## 1. Affiliate
 

@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Hvorfor går disken alltid til venstre? |
-| Endelig SEO-title | Hvorfor går disken alltid til venstre? | Diskgolfguiden |
+| Endelig SEO-title | Hvorfor går disken alltid til venstre? | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til hvorfor går disken alltid til venstre? med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/hvorfor-gar-disken-alltid-til-venstre.html |
 | Hovedsøkeord | hvorfor går disken alltid til venstre? |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

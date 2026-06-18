@@ -2,7 +2,7 @@
 
 Sist oppdatert: 2026-06-03
 
-Diskgolfguiden.no skal være rask på mobil og GitHub Pages. Prosjektet bruker små SVG-er, én CSS-fil og lett JavaScript.
+Diskgolfutstyr.no skal være rask på mobil og GitHub Pages. Prosjektet bruker små SVG-er, én CSS-fil og lett JavaScript.
 
 ## Sjekkpunkter
 

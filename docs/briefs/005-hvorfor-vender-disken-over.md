@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Hvorfor vender disken over? |
-| Endelig SEO-title | Hvorfor vender disken over? | Diskgolfguiden |
+| Endelig SEO-title | Hvorfor vender disken over? | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til hvorfor vender disken over? med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/hvorfor-vender-disken-over.html |
 | Hovedsøkeord | hvorfor vender disken over? |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

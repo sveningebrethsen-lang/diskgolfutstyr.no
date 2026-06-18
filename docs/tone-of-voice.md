@@ -2,7 +2,7 @@
 
 Sist oppdatert: 2026-06-03
 
-Diskgolfguiden skal skrive norsk, praktisk, tydelig og hjelpsomt. Tonen skal ikke være ovenfra-og-ned, for teknisk for nybegynnere, for selgende eller AI-aktig.
+Diskgolfutstyr skal skrive norsk, praktisk, tydelig og hjelpsomt. Tonen skal ikke være ovenfra-og-ned, for teknisk for nybegynnere, for selgende eller AI-aktig.
 
 ## Eksempler
 

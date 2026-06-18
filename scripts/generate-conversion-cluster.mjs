@@ -1,11 +1,11 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
-const baseUrl = "https://diskgolfguiden.no";
+const baseUrl = "https://diskgolfutstyr.no";
 const updatedIso = "2026-06-03";
 const updatedDisplay = "3. juni 2026";
-const affiliateNotice = "Noen lenker kan være annonselenker. Det koster deg ikke noe ekstra, men kan gi Diskgolfguiden en liten provisjon. Anbefalingene skal være redaksjonelt uavhengige.";
-const researchNotice = "Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfguiden.";
-const evaluationNotice = "Når produkter ikke er fysisk testet av Diskgolfguiden, baserer vi vurderingen på produsentdata, offentlige spesifikasjoner, kjent bruk i discgolfmiljøet og tilgjengelige spillererfaringer. Vi markerer tydelig når en artikkel er research-basert.";
+const affiliateNotice = "Noen lenker kan være annonselenker. Det koster deg ikke noe ekstra, men kan gi Diskgolfutstyr en liten provisjon. Anbefalingene skal være redaksjonelt uavhengige.";
+const researchNotice = "Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfutstyr.";
+const evaluationNotice = "Når produkter ikke er fysisk testet av Diskgolfutstyr, baserer vi vurderingen på produsentdata, offentlige spesifikasjoner, kjent bruk i discgolfmiljøet og tilgjengelige spillererfaringer. Vi markerer tydelig når en artikkel er research-basert.";
 
 const discs = JSON.parse(readFileSync("data/products/discs.json", "utf8"));
 const bags = JSON.parse(readFileSync("data/products/bags.json", "utf8"));
@@ -35,11 +35,11 @@ function esc(value) {
 }
 
 function nav(prefix = "/") {
-  return `<header class="site-header"><div class="nav-wrap"><a class="brand" href="${prefix}index.html"><img src="${prefix}assets/logo-full.svg" alt="Diskgolfguiden"></a><button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>☰</button><nav class="nav" aria-label="Hovedmeny" data-nav><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}artikler.html">Guider</a><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}baner/">Baner</a><a href="${prefix}klubber/">Klubber</a><a href="${prefix}turneringer/">Turneringer</a><a href="${prefix}om.html">Om</a></nav></div></header>`;
+  return `<header class="site-header"><div class="nav-wrap"><a class="brand" href="${prefix}index.html"><img src="${prefix}assets/logo-full.svg" alt="Diskgolfutstyr"></a><button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>☰</button><nav class="nav" aria-label="Hovedmeny" data-nav><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}artikler.html">Guider</a><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}baner/">Baner</a><a href="${prefix}klubber/">Klubber</a><a href="${prefix}turneringer/">Turneringer</a><a href="${prefix}om.html">Om</a></nav></div></header>`;
 }
 
 function footer(prefix = "/") {
-  return `<footer class="site-footer"><div class="footer-inner"><div class="footer-brand"><img src="${prefix}assets/logo-light.svg" alt="Diskgolfguiden"><span>Uavhengig norsk discgolfportal. Guider først, affiliate sekundært og tydelig merket.</span></div><div class="footer-links"><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}tester.html">Tester</a><a href="${prefix}sammenligninger.html">Sammenligninger</a><a href="${prefix}affiliate-info.html">Affiliate-info</a><a href="${prefix}redaksjonelle-retningslinjer/">Retningslinjer</a><a href="${prefix}personvern/">Personvern</a></div></div></footer>`;
+  return `<footer class="site-footer"><div class="footer-inner"><div class="footer-brand"><img src="${prefix}assets/logo-light.svg" alt="Diskgolfutstyr"><span>Uavhengig norsk discgolfportal. Guider først, affiliate sekundært og tydelig merket.</span></div><div class="footer-links"><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}tester.html">Tester</a><a href="${prefix}sammenligninger.html">Sammenligninger</a><a href="${prefix}affiliate-info.html">Affiliate-info</a><a href="${prefix}redaksjonelle-retningslinjer/">Retningslinjer</a><a href="${prefix}personvern/">Personvern</a></div></div></footer>`;
 }
 
 function productCta(product, placement = "product-card", text = "Se produkt") {
@@ -101,14 +101,14 @@ function schema(page) {
       dateModified: updatedIso,
       inLanguage: "nb-NO",
       mainEntityOfPage: `${baseUrl}/${page.path}`,
-      author: { "@type": "Organization", name: "Diskgolfguiden" },
-      publisher: { "@type": "Organization", name: "Diskgolfguiden", logo: { "@type": "ImageObject", url: `${baseUrl}/assets/logo-icon.svg` } }
+      author: { "@type": "Organization", name: "Diskgolfutstyr" },
+      publisher: { "@type": "Organization", name: "Diskgolfutstyr", logo: { "@type": "ImageObject", url: `${baseUrl}/assets/logo-icon.svg` } }
     },
     {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       itemListElement: [
-        { "@type": "ListItem", position: 1, name: "Diskgolfguiden", item: `${baseUrl}/` },
+        { "@type": "ListItem", position: 1, name: "Diskgolfutstyr", item: `${baseUrl}/` },
         { "@type": "ListItem", position: 2, name: page.parentName, item: `${baseUrl}/${page.parentPath}` },
         { "@type": "ListItem", position: 3, name: page.h1, item: `${baseUrl}/${page.path}` }
       ]
@@ -358,7 +358,7 @@ for (const [slug, title, intro, products] of comparisonPages) {
 }
 
 const sitemapPath = "sitemap.xml";
-const existing = [...readFileSync(sitemapPath, "utf8").matchAll(/<loc>https:\/\/diskgolfguiden\.no\/(.*?)<\/loc>/g)].map((m) => m[1]);
+const existing = [...readFileSync(sitemapPath, "utf8").matchAll(/<loc>https:\/\/diskgolfutstyr\.no\/(.*?)<\/loc>/g)].map((m) => m[1]);
 const additions = ["utstyr/", ...productPages.map((p) => p.path), ...comparisonPages.map(([slug]) => `sammenligninger/${slug}.html`)];
 const urls = Array.from(new Set([...existing, ...additions])).sort((a, b) => a.localeCompare(b, "nb"));
 writeFileSync(sitemapPath, `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((url) => `  <url><loc>${baseUrl}/${url}</loc><lastmod>${updatedIso}</lastmod></url>`).join("\n")}\n</urlset>\n`, "utf8");

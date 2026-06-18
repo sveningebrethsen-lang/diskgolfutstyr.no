@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Glow discgolf: utstyr og regler |
-| Endelig SEO-title | Glow discgolf: utstyr og regler | Diskgolfguiden |
+| Endelig SEO-title | Glow discgolf: utstyr og regler | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til glow discgolf: utstyr og regler med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/glow-discgolf-utstyr-og-regler.html |
 | Hovedsøkeord | glow discgolf: utstyr og regler |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Ja, men kun tydelig merket og uten falske priser/testpåstander. |
 | Research-merking | Research-basert. Må merkes hvis konkrete produkter sammenlignes. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

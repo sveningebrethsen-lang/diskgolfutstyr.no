@@ -17,7 +17,7 @@ function escapeHtml(value) {
 
 function statusBadge(product) {
   if (product.testetAvOss) {
-    return '<span class="badge badge-tested">Fysisk testet av Diskgolfguiden</span>';
+    return '<span class="badge badge-tested">Fysisk testet av Diskgolfutstyr</span>';
   }
 
   return '<span class="badge badge-research">Research-basert - ikke fysisk testet</span>';

@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Discgolfbaner nær Bergen |
-| Endelig SEO-title | Discgolfbaner nær Bergen | Diskgolfguiden |
+| Endelig SEO-title | Discgolfbaner nær Bergen | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til discgolfbaner nær bergen med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/discgolfbaner-naer-bergen.html |
 | Hovedsøkeord | discgolfbaner nær bergen |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

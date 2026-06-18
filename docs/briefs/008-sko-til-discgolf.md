@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Sko til discgolf: hva bør du se etter? |
-| Endelig SEO-title | Sko til discgolf: hva bør du se etter? | Diskgolfguiden |
+| Endelig SEO-title | Sko til discgolf: hva bør du se etter? | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til sko til discgolf: hva bør du se etter? med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/sko-til-discgolf.html |
 | Hovedsøkeord | sko til discgolf: hva bør du se etter? |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Ja, men kun tydelig merket og uten falske priser/testpåstander. |
 | Research-merking | Research-basert. Må merkes hvis konkrete produkter sammenlignes. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

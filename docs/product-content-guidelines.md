@@ -1,6 +1,6 @@
 # Product content guidelines
 
-Produktinnhold på Diskgolfguiden skal være nyttig, ærlig og tydelig merket. Affiliate kan komme senere, men skal ikke styre anbefalingene.
+Produktinnhold på Diskgolfutstyr skal være nyttig, ærlig og tydelig merket. Affiliate kan komme senere, men skal ikke styre anbefalingene.
 
 ## Hvordan produktsider skal skrives
 
@@ -27,15 +27,15 @@ Skriv praktisk norsk. Ikke bruk aggressiv salgstekst.
 
 Bruk denne teksten på research-baserte produktsider:
 
-> Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfguiden.
+> Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfutstyr.
 
 Research-basert betyr at siden kan bruke produsentdata, offentlige spesifikasjoner og generell spillererfaring, men ikke egne testresultater.
 
 ## Fysisk test
 
-Bruk fysisk test-merking kun når produktet faktisk er testet av Diskgolfguiden:
+Bruk fysisk test-merking kun når produktet faktisk er testet av Diskgolfutstyr:
 
-> Dette er en fysisk test utført av Diskgolfguiden.
+> Dette er en fysisk test utført av Diskgolfutstyr.
 
 En fysisk test bør dokumentere:
 

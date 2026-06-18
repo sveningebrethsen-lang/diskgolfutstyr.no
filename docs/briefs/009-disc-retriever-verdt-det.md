@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Disc retriever: verdt det? |
-| Endelig SEO-title | Disc retriever: verdt det? | Diskgolfguiden |
+| Endelig SEO-title | Disc retriever: verdt det? | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til disc retriever: verdt det? med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/disc-retriever-verdt-det.html |
 | Hovedsøkeord | disc retriever: verdt det? |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Ja, men kun tydelig merket og uten falske priser/testpåstander. |
 | Research-merking | Research-basert. Må merkes hvis konkrete produkter sammenlignes. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

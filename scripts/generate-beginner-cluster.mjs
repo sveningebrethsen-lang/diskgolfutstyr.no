@@ -1,10 +1,10 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
-const baseUrl = "https://diskgolfguiden.no";
+const baseUrl = "https://diskgolfutstyr.no";
 const updatedDisplay = "3. juni 2026";
 const updatedIso = "2026-06-03";
 
-const researchLabel = "Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfguiden.";
+const researchLabel = "Dette er en research-basert sammenligning basert på produsentdata, offentlige spesifikasjoner og spillererfaringer. Produktene er ikke fysisk testet av Diskgolfutstyr.";
 
 const sources = {
   pdgaBeginner: ["PDGA - Disc golf beginner guide", "https://www.pdga.com/node/276016", "grunnleggende forklaring av sporten"],
@@ -44,11 +44,11 @@ const links = {
 };
 
 function nav(prefix = "/") {
-  return `<header class="site-header"><div class="nav-wrap"><a class="brand" href="${prefix}index.html"><img src="${prefix}assets/logo-full.svg" alt="Diskgolfguiden"></a><button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>☰</button><nav class="nav" aria-label="Hovedmeny" data-nav><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}artikler.html">Guider</a><a href="${prefix}regler.html">Regler</a><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}tester.html">Tester</a><a href="${prefix}baneguide.html">Baner</a></nav></div></header>`;
+  return `<header class="site-header"><div class="nav-wrap"><a class="brand" href="${prefix}index.html"><img src="${prefix}assets/logo-full.svg" alt="Diskgolfutstyr"></a><button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>☰</button><nav class="nav" aria-label="Hovedmeny" data-nav><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}artikler.html">Guider</a><a href="${prefix}regler.html">Regler</a><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}tester.html">Tester</a><a href="${prefix}baneguide.html">Baner</a></nav></div></header>`;
 }
 
 function footer(prefix = "/") {
-  return `<footer class="site-footer"><div class="footer-inner"><div class="footer-brand"><img src="${prefix}assets/logo-light.svg" alt="Diskgolfguiden"><span>Uavhengig norsk portal for discgolf. Guider først, affiliate sekundært.</span></div><div class="footer-links"><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}artikler.html">Guider</a><a href="${prefix}affiliate-info.html">Affiliate-info</a><a href="${prefix}om.html">Om</a></div></div></footer>`;
+  return `<footer class="site-footer"><div class="footer-inner"><div class="footer-brand"><img src="${prefix}assets/logo-light.svg" alt="Diskgolfutstyr"><span>Uavhengig norsk portal for discgolf. Guider først, affiliate sekundært.</span></div><div class="footer-links"><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}artikler.html">Guider</a><a href="${prefix}affiliate-info.html">Affiliate-info</a><a href="${prefix}om.html">Om</a></div></div></footer>`;
 }
 
 function sourceList(keys) {
@@ -90,10 +90,10 @@ function jsonLd(page) {
     dateModified: updatedIso,
     inLanguage: "nb-NO",
     mainEntityOfPage: `${baseUrl}/${page.path}`,
-    author: { "@type": "Organization", name: "Diskgolfguiden" },
+    author: { "@type": "Organization", name: "Diskgolfutstyr" },
     publisher: {
       "@type": "Organization",
-      name: "Diskgolfguiden",
+      name: "Diskgolfutstyr",
       logo: { "@type": "ImageObject", url: `${baseUrl}/assets/logo-icon.svg` }
     }
   };
@@ -101,7 +101,7 @@ function jsonLd(page) {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Diskgolfguiden", item: `${baseUrl}/` },
+      { "@type": "ListItem", position: 1, name: "Diskgolfutstyr", item: `${baseUrl}/` },
       { "@type": "ListItem", position: 2, name: "Nybegynner", item: `${baseUrl}/nybegynnerguide.html` },
       { "@type": "ListItem", position: 3, name: page.h1, item: `${baseUrl}/${page.path}` }
     ]
@@ -297,7 +297,7 @@ const pages = [
     description: "Research-basert guide til gode discgolfdisker for nybegynnere, med tydelig merking av at produktene ikke er fysisk testet.",
     ingress: "Dette er ikke en fysisk test. Målet er å vise typer og konkrete alternativer nye spillere ofte kan vurdere, med tydelige forbehold.",
     evidence: "Research-basert sammenligning",
-    notice: `<p class="research-note">${researchLabel}</p><p class="disclaimer">Noen lenker kan være annonselenker. Det koster deg ikke noe ekstra, men kan gi Diskgolfguiden en liten provisjon.</p>`,
+    notice: `<p class="research-note">${researchLabel}</p><p class="disclaimer">Noen lenker kan være annonselenker. Det koster deg ikke noe ekstra, men kan gi Diskgolfutstyr en liten provisjon.</p>`,
     related: [links.flight, links.startsett, links.diskvalg, links.typer],
     sources: ["pdgaBeginner", "latitude", "innovaStarter", "innovaCompare"],
     faq: [
@@ -430,7 +430,7 @@ const pages = [
       { id: "minimum", heading: "Minimum for første runde", body: "<p>Én disk, gode sko og klær etter været er nok for å prøve. Skal du kjøpe litt mer, er putter og midrange et trygt startpunkt.</p>" },
       { id: "praktisk", heading: "Praktiske ting som ofte hjelper", body: "<ul><li>Vannflaske</li><li>Lite håndkle</li><li>Telefon med baneapp eller kart</li><li>Klær og sko som tåler vått gress</li></ul>" },
       { id: "vent", heading: "Dette kan vente", body: "<p>Stor sekk, mange drivere, retriever og spesialisert tilbehør kan vente. Kjøp heller etter faktiske behov fra banene du spiller.</p>" },
-      { id: "affiliate", heading: "Affiliate-klar produktstruktur", body: `<p class="disclaimer">Noen lenker kan være annonselenker. Det koster deg ikke noe ekstra, men kan gi Diskgolfguiden en liten provisjon.</p>${productBox({ name: "Nybegynneroppsett", type: "Utstyrspakke", fits: "Første måned", why: "Putter, midrange, håndkle og enkel bæreplass dekker de fleste første runder.", pros: ["Lite å lære", "Lav pris", "Mindre valgstress"], cons: ["Ikke komplett for turnering", "Må tilpasses lokale baner"] })}` }
+      { id: "affiliate", heading: "Affiliate-klar produktstruktur", body: `<p class="disclaimer">Noen lenker kan være annonselenker. Det koster deg ikke noe ekstra, men kan gi Diskgolfutstyr en liten provisjon.</p>${productBox({ name: "Nybegynneroppsett", type: "Utstyrspakke", fits: "Første måned", why: "Putter, midrange, håndkle og enkel bæreplass dekker de fleste første runder.", pros: ["Lite å lære", "Lav pris", "Mindre valgstress"], cons: ["Ikke komplett for turnering", "Må tilpasses lokale baner"] })}` }
     ]
   },
   {
@@ -567,7 +567,7 @@ function hubPage() {
 
 function articlesPage() {
   const list = pages.map((p) => `<article class="guide-card"><p class="eyebrow">${p.category}</p><h3>${p.h1}</h3><p>${p.description}</p><a href="/${p.path}">Les guiden</a></article>`).join("");
-  return `<!doctype html><html lang="no"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Guider om discgolf | Diskgolfguiden</title><meta name="description" content="Alle publiserte discgolfguider på Diskgolfguiden, med særlig fokus på nybegynnere, regler, diskvalg og teknikk."><meta name="robots" content="index, follow"><meta property="og:title" content="Guider om discgolf"><meta property="og:description" content="Norske guider for discgolfspillere."><meta property="og:type" content="website"><meta property="og:url" content="${baseUrl}/artikler.html"><meta property="og:image" content="${baseUrl}/assets/hero-banner.svg"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="assets/favicon.svg" type="image/svg+xml"><link rel="canonical" href="${baseUrl}/artikler.html"><link rel="stylesheet" href="assets/css/styles.css"><script src="assets/js/site.js" defer></script></head><body>${nav("")}<main><section class="page-hero"><div class="container"><p class="eyebrow">Guider</p><h1>Discgolfguider på norsk</h1><p class="lead">Start med nybegynnerklyngen, eller gå rett til regler, diskvalg og teknikk.</p></div></section><section class="section"><div class="container"><div class="section-head"><div><p class="eyebrow">Nybegynnerklynge</p><h2>Publiserte guider</h2></div><a class="button button-dark" href="nybegynnerguide.html">Start her</a></div><div class="grid">${list}</div></div></section></main>${footer("")}</body></html>`;
+  return `<!doctype html><html lang="no"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Guider om discgolf | Diskgolfutstyr</title><meta name="description" content="Alle publiserte discgolfguider på Diskgolfutstyr, med særlig fokus på nybegynnere, regler, diskvalg og teknikk."><meta name="robots" content="index, follow"><meta property="og:title" content="Guider om discgolf"><meta property="og:description" content="Norske guider for discgolfspillere."><meta property="og:type" content="website"><meta property="og:url" content="${baseUrl}/artikler.html"><meta property="og:image" content="${baseUrl}/assets/hero-banner.svg"><meta name="twitter:card" content="summary_large_image"><link rel="icon" href="assets/favicon.svg" type="image/svg+xml"><link rel="canonical" href="${baseUrl}/artikler.html"><link rel="stylesheet" href="assets/css/styles.css"><script src="assets/js/site.js" defer></script></head><body>${nav("")}<main><section class="page-hero"><div class="container"><p class="eyebrow">Guider</p><h1>Discgolfguider på norsk</h1><p class="lead">Start med nybegynnerklyngen, eller gå rett til regler, diskvalg og teknikk.</p></div></section><section class="section"><div class="container"><div class="section-head"><div><p class="eyebrow">Nybegynnerklynge</p><h2>Publiserte guider</h2></div><a class="button button-dark" href="nybegynnerguide.html">Start her</a></div><div class="grid">${list}</div></div></section></main>${footer("")}</body></html>`;
 }
 
 writeFileSync("nybegynnerguide.html", hubPage(), "utf8");

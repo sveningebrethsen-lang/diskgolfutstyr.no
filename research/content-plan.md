@@ -1,4 +1,4 @@
-# Content plan for Diskgolfguiden.no
+# Content plan for Diskgolfutstyr.no
 
 Dato: 2026-06-01
 

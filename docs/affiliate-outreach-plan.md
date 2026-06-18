@@ -7,7 +7,7 @@
 - produsenter/distributører
 - butikker med kurver, bagger og tilbehør
 
-## Hva Diskgolfguiden kan tilby
+## Hva Diskgolfutstyr kan tilby
 
 - norske guider
 - tydelig merking
@@ -27,16 +27,16 @@ Ikke lov trafikk, rangeringer eller anbefalinger som ikke kan dokumenteres.
 
 ## E-postmal: første kontakt
 
-Emne: Mulig samarbeid med Diskgolfguiden.no
+Emne: Mulig samarbeid med Diskgolfutstyr.no
 
 Hei!
 
-Jeg bygger Diskgolfguiden.no som en uavhengig norsk discgolfportal med guider til utstyr, baner, regler og trening.
+Jeg bygger Diskgolfutstyr.no som en uavhengig norsk discgolfportal med guider til utstyr, baner, regler og trening.
 
 Vi vurderer affiliate som sekundær inntektskilde, med tydelig merking og redaksjonell uavhengighet. Har dere et affiliateprogram eller kontaktperson for samarbeid?
 
 Vennlig hilsen
-Diskgolfguiden
+Diskgolfutstyr
 
 ## E-postmal: affiliateprogram
 
@@ -46,10 +46,10 @@ Hei!
 
 Har dere et affiliateprogram for discgolfutstyr, eller mulighet for sporbare annonselenker?
 
-Diskgolfguiden merker annonselenker tydelig og bruker ikke falske priser, lagerstatus eller testpåstander.
+Diskgolfutstyr merker annonselenker tydelig og bruker ikke falske priser, lagerstatus eller testpåstander.
 
 Vennlig hilsen
-Diskgolfguiden
+Diskgolfutstyr
 
 ## E-postmal: produktdata
 
@@ -62,7 +62,7 @@ Vi lager research-baserte produktguider og ønsker å lenke til korrekte produkt
 Vi kopierer ikke produkttekst, men bruker kilder for spesifikasjoner.
 
 Vennlig hilsen
-Diskgolfguiden
+Diskgolfutstyr
 
 ## E-postmal: testprodukt
 
@@ -70,20 +70,20 @@ Emne: Forespørsel om testprodukt
 
 Hei!
 
-Diskgolfguiden planlegger fysiske tester med dokumentert metode. Er det aktuelt å stille [produkt] til test?
+Diskgolfutstyr planlegger fysiske tester med dokumentert metode. Er det aktuelt å stille [produkt] til test?
 
 Eventuell tilsendt vare vil merkes tydelig. Det garanteres ikke positiv omtale eller anbefaling.
 
 Vennlig hilsen
-Diskgolfguiden
+Diskgolfutstyr
 
 ## E-postmal: oppfølging
 
-Emne: Oppfølging - Diskgolfguiden.no
+Emne: Oppfølging - Diskgolfutstyr.no
 
 Hei!
 
 Jeg følger opp forespørselen om affiliate/samarbeid. Hvis dette ikke er relevant nå, er det helt i orden. Send gjerne videre til riktig kontaktperson hvis noen andre håndterer dette.
 
 Vennlig hilsen
-Diskgolfguiden
+Diskgolfutstyr

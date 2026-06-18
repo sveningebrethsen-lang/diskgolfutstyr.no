@@ -46,7 +46,7 @@ for (const file of [
 }
 
 const sitemap = readFileSync("sitemap.xml", "utf8");
-const urls = [...sitemap.matchAll(/<loc>https:\/\/diskgolfguiden\.no\/(.*?)<\/loc>/g)].map((match) => match[1]);
+const urls = [...sitemap.matchAll(/<loc>https:\/\/diskgolfutstyr\.no\/(.*?)<\/loc>/g)].map((match) => match[1]);
 for (const urlPath of urls) {
   const file = urlPath === "" ? "index.html" : urlPath.endsWith("/") ? `${urlPath}index.html` : urlPath;
   if (!existsSync(file)) issues.push(`sitemap: ${urlPath} -> ${file} finnes ikke`);

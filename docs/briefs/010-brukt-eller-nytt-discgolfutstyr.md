@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Brukt eller nytt discgolfutstyr? |
-| Endelig SEO-title | Brukt eller nytt discgolfutstyr? | Diskgolfguiden |
+| Endelig SEO-title | Brukt eller nytt discgolfutstyr? | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til brukt eller nytt discgolfutstyr? med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/brukt-eller-nytt-discgolfutstyr.html |
 | Hovedsøkeord | brukt eller nytt discgolfutstyr? |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Ja, men kun tydelig merket og uten falske priser/testpåstander. |
 | Research-merking | Research-basert. Må merkes hvis konkrete produkter sammenlignes. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

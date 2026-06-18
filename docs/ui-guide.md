@@ -1,6 +1,6 @@
-# UI-guide for Diskgolfguiden.no
+# UI-guide for Diskgolfutstyr.no
 
-Diskgolfguiden skal føles ryddig, norsk, utendørs og troverdig. Designet skal hjelpe brukeren raskt videre til riktig guide, ikke se ut som en generisk affiliate-side.
+Diskgolfutstyr skal føles ryddig, norsk, utendørs og troverdig. Designet skal hjelpe brukeren raskt videre til riktig guide, ikke se ut som en generisk affiliate-side.
 
 ## Farger
 
@@ -76,7 +76,7 @@ Hvis produktet ikke er fysisk testet, skal kortet ikke bruke “best i test”. 
 
 Fysisk test skal merkes:
 
-> Fysisk testet av Diskgolfguiden
+> Fysisk testet av Diskgolfutstyr
 
 Research-basert sammenligning skal merkes:
 

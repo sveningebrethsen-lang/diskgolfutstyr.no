@@ -10,10 +10,10 @@ if (!fs.existsSync(sitemapPath)) {
   issues.push("sitemap.xml finnes ikke.");
 } else {
   const sitemap = fs.readFileSync(sitemapPath, "utf8");
-  const urls = [...sitemap.matchAll(/<loc>https:\/\/diskgolfguiden\.no\/([^<]*)<\/loc>/g)].map((match) => match[1]);
+  const urls = [...sitemap.matchAll(/<loc>https:\/\/diskgolfutstyr\.no\/([^<]*)<\/loc>/g)].map((match) => match[1]);
   const duplicates = urls.filter((url, index) => urls.indexOf(url) !== index);
 
-  if (!urls.length) issues.push("Sitemap har ingen URL-er med https://diskgolfguiden.no/.");
+  if (!urls.length) issues.push("Sitemap har ingen URL-er med https://diskgolfutstyr.no/.");
   for (const duplicate of [...new Set(duplicates)]) issues.push(`Duplikat i sitemap: /${duplicate}`);
 
   for (const urlPath of urls) {
@@ -29,7 +29,7 @@ if (!fs.existsSync(robotsPath)) {
   issues.push("robots.txt finnes ikke.");
 } else {
   const robots = fs.readFileSync(robotsPath, "utf8");
-  if (!robots.includes("Sitemap: https://diskgolfguiden.no/sitemap.xml")) issues.push("robots.txt mangler korrekt Sitemap-linje.");
+  if (!robots.includes("Sitemap: https://diskgolfutstyr.no/sitemap.xml")) issues.push("robots.txt mangler korrekt Sitemap-linje.");
 }
 
 const report = [

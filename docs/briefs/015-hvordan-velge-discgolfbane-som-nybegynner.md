@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Hvordan velge bane som nybegynner |
-| Endelig SEO-title | Hvordan velge bane som nybegynner | Diskgolfguiden |
+| Endelig SEO-title | Hvordan velge bane som nybegynner | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til hvordan velge bane som nybegynner med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/hvordan-velge-discgolfbane-som-nybegynner.html |
 | Hovedsøkeord | hvordan velge bane som nybegynner |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

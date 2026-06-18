@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Hvorfor går disken rett i bakken? |
-| Endelig SEO-title | Hvorfor går disken rett i bakken? | Diskgolfguiden |
+| Endelig SEO-title | Hvorfor går disken rett i bakken? | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til hvorfor går disken rett i bakken? med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/hvorfor-gar-disken-rett-i-bakken.html |
 | Hovedsøkeord | hvorfor går disken rett i bakken? |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

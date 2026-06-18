@@ -1,4 +1,4 @@
-# Neste videreutviklingsplan for Diskgolfguiden.no
+# Neste videreutviklingsplan for Diskgolfutstyr.no
 
 Sist oppdatert: 2026-06-18
 

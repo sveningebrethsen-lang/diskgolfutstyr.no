@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Discgolfbaner nær Oslo |
-| Endelig SEO-title | Discgolfbaner nær Oslo | Diskgolfguiden |
+| Endelig SEO-title | Discgolfbaner nær Oslo | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til discgolfbaner nær oslo med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/discgolfbaner-naer-oslo.html |
 | Hovedsøkeord | discgolfbaner nær oslo |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Nei/lav. |
 | Research-merking | Guide/research. Faktapåstander må kildebelegges. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

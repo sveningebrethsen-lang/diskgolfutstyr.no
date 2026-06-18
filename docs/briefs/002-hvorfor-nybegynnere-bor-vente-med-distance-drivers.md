@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Hvorfor nybegynnere bør vente med distance drivers |
-| Endelig SEO-title | Hvorfor nybegynnere bør vente med distance drivers | Diskgolfguiden |
+| Endelig SEO-title | Hvorfor nybegynnere bør vente med distance drivers | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til hvorfor nybegynnere bør vente med distance drivers med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/hvorfor-nybegynnere-bor-vente-med-distance-drivers.html |
 | Hovedsøkeord | hvorfor nybegynnere bør vente med distance drivers |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Ja, men kun tydelig merket og uten falske priser/testpåstander. |
 | Research-merking | Research-basert. Må merkes hvis konkrete produkter sammenlignes. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

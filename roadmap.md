@@ -1,4 +1,4 @@
-# Roadmap for Diskgolfguiden.no
+# Roadmap for Diskgolfutstyr.no
 
 Generert: 2026-06-03
 

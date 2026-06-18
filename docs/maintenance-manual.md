@@ -1,8 +1,8 @@
-# Vedlikeholdshåndbok for Diskgolfguiden.no
+# Vedlikeholdshåndbok for Diskgolfutstyr.no
 
 Sist oppdatert: 2026-06-03
 
-Diskgolfguiden.no er en statisk norsk discgolfportal på GitHub Pages. Siden har innhold om nybegynnere, regler, teknikk, trening, utstyr, tester, sammenligninger, baner, klubber og turneringer. Målet med vedlikeholdet er å holde innholdet nyttig, korrekt og ærlig over tid.
+Diskgolfutstyr.no er en statisk norsk discgolfportal på GitHub Pages. Siden har innhold om nybegynnere, regler, teknikk, trening, utstyr, tester, sammenligninger, baner, klubber og turneringer. Målet med vedlikeholdet er å holde innholdet nyttig, korrekt og ærlig over tid.
 
 ## Repo-struktur
 

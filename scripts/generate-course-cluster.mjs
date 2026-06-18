@@ -1,6 +1,6 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
-const baseUrl = "https://diskgolfguiden.no";
+const baseUrl = "https://diskgolfutstyr.no";
 const updatedIso = "2026-06-03";
 const updatedDisplay = "3. juni 2026";
 const courseNotice = "Informasjon om baner kan endre seg. Sjekk alltid oppdatert informasjon fra klubb, arrangør eller banetjeneste før du drar.";
@@ -12,7 +12,7 @@ const cityPages = [
   { slug: "stavanger", city: "Stavanger", title: "Discgolf i Stavanger - baner og tips", description: "Oversikt over discgolf i Stavanger og nærområdet, med aktuelle baner, nybegynnertips og kilder.", intro: "Stavanger-regionen har mange baner innen kort reiseavstand. Noen baner ligger i selve Stavanger, mens flere gode alternativer finnes i Sandnes, Sola, Randaberg og Jæren." },
   { slug: "kristiansand", city: "Kristiansand", title: "Discgolf i Kristiansand - baner og nybegynnertips", description: "Finn discgolfbaner i Kristiansand og få tips til hvilke baner som kan passe nye spillere.", intro: "Kristiansand har både større baner og kortere lavterskelalternativer. Bruk siden som startpunkt, og sjekk alltid kilde før du reiser." },
   { slug: "tromso", city: "Tromsø", title: "Discgolf i Tromsø - baner og tips", description: "Oversikt over discgolfbaner i Tromsø, med kilder og praktiske tips til spillere i nord.", intro: "Tromsø har baner der sesong, vær og terreng kan være ekstra viktig. Sjekk status tett på avreise." },
-  { slug: "drammen", city: "Drammen", title: "Discgolf i Drammen - baner og tips", description: "Finn discgolfbane i Drammen, med oppdatert-dato, kilde og praktiske tips.", intro: "Drammen har foreløpig en mindre datapakke i Diskgolfguiden. Derfor er kilde og oppdatert-dato ekstra viktig." },
+  { slug: "drammen", city: "Drammen", title: "Discgolf i Drammen - baner og tips", description: "Finn discgolfbane i Drammen, med oppdatert-dato, kilde og praktiske tips.", intro: "Drammen har foreløpig en mindre datapakke i Diskgolfutstyr. Derfor er kilde og oppdatert-dato ekstra viktig." },
   { slug: "fredrikstad", city: "Fredrikstad", title: "Discgolf i Fredrikstad - baner og nybegynnertips", description: "Oversikt over discgolfbaner i Fredrikstad, inkludert korte baner som kan passe nye spillere.", intro: "Fredrikstad er relevant for lavterskel discgolf på Østlandet, med korte baner som kan være fine for første runder." },
   { slug: "skien", city: "Skien og Porsgrunn", aliases: ["Skien", "Porsgrunn"], title: "Discgolf i Skien og Porsgrunn - baner i Grenland", description: "Finn discgolfbaner i Skien, Porsgrunn og Grenland, med tips for nybegynnere og viderekomne.", intro: "Grenland har flere relevante baner, både i Skien og Porsgrunn. Denne siden samler dem fordi mange lokale søk handler om hele området." },
   { slug: "sandnes", city: "Sandnes", title: "Discgolf i Sandnes - baner og tips", description: "Oversikt over discgolfbaner i Sandnes og nærliggende Jæren-områder, med kildebasert informasjon.", intro: "Sandnes-området har flere baner med ulik vanskelighetsgrad. Nye spillere bør starte med de kortere og enklere alternativene." },
@@ -684,11 +684,11 @@ function attr(value) {
 }
 
 function nav(prefix = "/") {
-  return `<header class="site-header"><div class="nav-wrap"><a class="brand" href="${prefix}index.html"><img src="${prefix}assets/logo-full.svg" alt="Diskgolfguiden"></a><button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>☰</button><nav class="nav" aria-label="Hovedmeny" data-nav><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}artikler.html">Guider</a><a href="${prefix}regler.html">Regler</a><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}tester.html">Tester</a><a href="${prefix}baner/">Baner</a></nav></div></header>`;
+  return `<header class="site-header"><div class="nav-wrap"><a class="brand" href="${prefix}index.html"><img src="${prefix}assets/logo-full.svg" alt="Diskgolfutstyr"></a><button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>☰</button><nav class="nav" aria-label="Hovedmeny" data-nav><a href="${prefix}nybegynnerguide.html">Nybegynner</a><a href="${prefix}artikler.html">Guider</a><a href="${prefix}regler.html">Regler</a><a href="${prefix}utstyr/">Utstyr</a><a href="${prefix}tester.html">Tester</a><a href="${prefix}baner/">Baner</a></nav></div></header>`;
 }
 
 function footer(prefix = "/") {
-  return `<footer class="site-footer"><div class="footer-inner"><div class="footer-brand"><img src="${prefix}assets/logo-light.svg" alt="Diskgolfguiden"><span>Uavhengig norsk discgolfportal. Baneinfo oppdateres manuelt og bør alltid sjekkes mot kilde før spill.</span></div><div class="footer-links"><a href="${prefix}baner/">Baner</a><a href="${prefix}baner/nybegynnervennlige/">Nybegynnervennlige baner</a><a href="${prefix}baner/oslo/">Oslo</a><a href="${prefix}baner/bergen/">Bergen</a><a href="${prefix}baner/trondheim/">Trondheim</a><a href="${prefix}affiliate-info.html">Affiliate-info</a></div></div></footer>`;
+  return `<footer class="site-footer"><div class="footer-inner"><div class="footer-brand"><img src="${prefix}assets/logo-light.svg" alt="Diskgolfutstyr"><span>Uavhengig norsk discgolfportal. Baneinfo oppdateres manuelt og bør alltid sjekkes mot kilde før spill.</span></div><div class="footer-links"><a href="${prefix}baner/">Baner</a><a href="${prefix}baner/nybegynnervennlige/">Nybegynnervennlige baner</a><a href="${prefix}baner/oslo/">Oslo</a><a href="${prefix}baner/bergen/">Bergen</a><a href="${prefix}baner/trondheim/">Trondheim</a><a href="${prefix}affiliate-info.html">Affiliate-info</a></div></div></footer>`;
 }
 
 function slugPath(path) {
@@ -748,8 +748,8 @@ function schemas(page) {
       dateModified: updatedIso,
       inLanguage: "nb-NO",
       mainEntityOfPage: `${baseUrl}/${page.path}`,
-      author: { "@type": "Organization", name: "Diskgolfguiden" },
-      publisher: { "@type": "Organization", name: "Diskgolfguiden", logo: { "@type": "ImageObject", url: `${baseUrl}/assets/logo-icon.svg` } }
+      author: { "@type": "Organization", name: "Diskgolfutstyr" },
+      publisher: { "@type": "Organization", name: "Diskgolfutstyr", logo: { "@type": "ImageObject", url: `${baseUrl}/assets/logo-icon.svg` } }
     },
     {
       "@context": "https://schema.org",
@@ -784,7 +784,7 @@ function schemas(page) {
 
 function pageShell({ path, title, description, h1, eyebrow, intro, body, faq = [], itemList = [], breadcrumb = [] }) {
   const normalized = slugPath(path);
-  const crumbs = breadcrumb.length ? breadcrumb : [{ name: "Diskgolfguiden", path: "" }, { name: h1, path: normalized }];
+  const crumbs = breadcrumb.length ? breadcrumb : [{ name: "Diskgolfutstyr", path: "" }, { name: h1, path: normalized }];
   return `<!doctype html>
 <html lang="no">
 <head>
@@ -860,10 +860,10 @@ writePage("baner", pageShell({
   eyebrow: "Baner",
   intro: "En kildebasert inngang til norske discgolfbaner. Første versjon prioriterer byer, nybegynnervennlige valg og baner med nok åpen informasjon til å lage ryddige statiske sider.",
   itemList: courses,
-  breadcrumb: [{ name: "Diskgolfguiden", path: "" }, { name: "Baner", path: "baner/" }],
+  breadcrumb: [{ name: "Diskgolfutstyr", path: "" }, { name: "Baner", path: "baner/" }],
   faq: [
     { q: "Hvor finner jeg discgolfbaner i Norge?", a: "Start med en byside eller filtrer banekortene. Sjekk alltid oppdatert informasjon hos UDisc, klubb eller arrangør før du drar." },
-    { q: "Hvordan vet jeg om en bane passer for nybegynnere?", a: "Se etter korte hull, lett vanskelighetsgrad, oversiktlige fairwayer og lav risiko for å miste disk. Diskgolfguiden bruker forsiktige formuleringer når vurderingen er basert på åpne kilder." },
+    { q: "Hvordan vet jeg om en bane passer for nybegynnere?", a: "Se etter korte hull, lett vanskelighetsgrad, oversiktlige fairwayer og lav risiko for å miste disk. Diskgolfutstyr bruker forsiktige formuleringer når vurderingen er basert på åpne kilder." },
     { q: "Hva bør jeg ha med på banen?", a: "Start med putter eller midrange, vann, sko etter føre, håndkle og gjerne en telefon med oppdatert banekart." },
     { q: "Hvor lang tid tar en runde?", a: "Korte 6-9 hull kan ta under en time. 18 hull kan ofte ta 1,5-2,5 timer, avhengig av bane, nivå og kø." },
     { q: "Er banene åpne hele året?", a: "Noen baner er sesongbaserte eller påvirkes av snø, vedlikehold og arrangementer. Sjekk alltid kilde tett på runden." }
@@ -887,13 +887,13 @@ for (const city of cityPages) {
     eyebrow: "Lokal baneguide",
     intro: city.intro,
     itemList: items,
-    breadcrumb: [{ name: "Diskgolfguiden", path: "" }, { name: "Baner", path: "baner/" }, { name: `Discgolf ${city.city}`, path: `baner/${city.slug}/` }],
+    breadcrumb: [{ name: "Diskgolfutstyr", path: "" }, { name: "Baner", path: "baner/" }, { name: `Discgolf ${city.city}`, path: `baner/${city.slug}/` }],
     faq: [
       { q: `Hvor kan man spille discgolf i ${city.city}?`, a: items.length ? `Start med banene i listen på denne siden. De er valgt fordi de har åpen kildeinformasjon som kan kontrolleres manuelt.` : `Sjekk UDisc, lokale klubber og arrangører for oppdatert informasjon om discgolf i ${city.city}.` },
       { q: `Finnes det nybegynnervennlige baner i ${city.city}?`, a: items.some((course) => course.beginner_friendly === true) ? "Ja, noen alternativer er merket som nybegynnervennlige basert på tilgjengelige kilder. Sjekk likevel layout og status før du drar." : "Vi har ikke nok kildegrunnlag til å merke en konkret bane som nybegynnervennlig her ennå." },
       { q: "Trenger man eget utstyr for å spille?", a: "Du kan ofte starte med én egen eller lånt disk. Putter eller midrange er tryggest for helt nye spillere." },
       { q: "Er discgolf gratis?", a: "Mange norske baner er gratis, men enkelte kan ha greenfee, frivillig betaling, booking eller sesongregler. Sjekk kilden for banen." },
-      { q: "Hvor finner jeg oppdatert baneinformasjon?", a: "Bruk lenkene til UDisc, klubbside eller annen kilde på banekortene. Diskgolfguiden er en statisk guide og oppdateres manuelt." }
+      { q: "Hvor finner jeg oppdatert baneinformasjon?", a: "Bruk lenkene til UDisc, klubbside eller annen kilde på banekortene. Diskgolfutstyr er en statisk guide og oppdateres manuelt." }
     ],
     body: `<section><h2>Aktuelle baner å vurdere</h2>${items.length ? `<div class="course-grid">${items.map((course) => courseCard(course)).join("")}</div>` : `<p class="notice">Vi har ikke nok verifisert banedata til å liste konkrete baner her ennå. Siden beholdes som lokal SEO-struktur og oppdateres når kilder er kontrollert.</p>`}</section>
     <section><h2>Tips til nye spillere i ${esc(city.city)}</h2><ul><li>Start med den korteste eller letteste banen i området.</li><li>Sjekk om banen ligger i skoleområde, park, skianlegg eller flerbruksområde.</li><li>Unngå travle tidspunkt hvis du er helt ny og vil bruke god tid.</li><li>Ta med håndkle, vann og disk du tåler å miste.</li></ul>${relatedGuides()}</section>
@@ -940,9 +940,9 @@ for (const topic of topicPages) {
     eyebrow: "Banevalg",
     intro: topic.intro,
     itemList: topic.items,
-    breadcrumb: [{ name: "Diskgolfguiden", path: "" }, { name: "Baner", path: "baner/" }, { name: topic.h1, path: `baner/${topic.slug}/` }],
+    breadcrumb: [{ name: "Diskgolfutstyr", path: "" }, { name: "Baner", path: "baner/" }, { name: topic.h1, path: `baner/${topic.slug}/` }],
     faq: [
-      { q: "Kan jeg stole på at listen alltid er oppdatert?", a: "Nei. Diskgolfguiden er statisk og oppdateres manuelt. Bruk listen som startpunkt og sjekk alltid baneinfo hos kilde før du drar." },
+      { q: "Kan jeg stole på at listen alltid er oppdatert?", a: "Nei. Diskgolfutstyr er statisk og oppdateres manuelt. Bruk listen som startpunkt og sjekk alltid baneinfo hos kilde før du drar." },
       { q: "Hva er viktigst for nye spillere?", a: "Korte hull, tydelig retning, lav risiko for å miste disk og mulighet til å spille i rolig tempo." }
     ],
     body: `<section><h2>Hva betyr denne kategorien?</h2>${topic.bodyIntro}</section><section><h2>Baner å vurdere</h2><div class="course-grid">${topic.items.map((course) => courseCard(course)).join("")}</div></section><section><h2>Relevante guider</h2>${relatedGuides()}</section><section><h2>Kilder</h2><ul class="source-list">${sourcesList([...new Set(topic.items.flatMap((course) => course.source_urls))])}</ul></section>`
@@ -959,11 +959,11 @@ for (const course of courses) {
     eyebrow: "Baneprofil",
     intro: course.short_description,
     itemList: nearby,
-    breadcrumb: [{ name: "Diskgolfguiden", path: "" }, { name: "Baner", path: "baner/" }, { name: course.name, path: coursePath(course) }],
+    breadcrumb: [{ name: "Diskgolfutstyr", path: "" }, { name: "Baner", path: "baner/" }, { name: course.name, path: coursePath(course) }],
     faq: [
       { q: `Hvor ligger ${course.name}?`, a: `${course.name} ligger i ${course.city}, ${course.county}. Sjekk kart- eller banekilde for nøyaktig plassering før du drar.` },
       { q: `Hvor mange hull har ${course.name}?`, a: course.holes ? `Åpne kilder viser ${course.holes} hull per ${updatedDisplay}. Dette kan endre seg ved nye layouter.` : "Antall hull er ikke verifisert i denne versjonen." },
-      { q: "Passer banen for nybegynnere?", a: course.beginner_friendly === true ? "Banen virker nybegynnervennlig basert på tilgjengelig informasjon, men sjekk alltid terreng, skilting og status før du drar." : "Denne banen er ikke merket som tydelig nybegynnervennlig i Diskgolfguidens første datapakke. Nye spillere bør lese kilde og vurdere en kortere/lavere vanskelighetsgrad først." }
+      { q: "Passer banen for nybegynnere?", a: course.beginner_friendly === true ? "Banen virker nybegynnervennlig basert på tilgjengelig informasjon, men sjekk alltid terreng, skilting og status før du drar." : "Denne banen er ikke merket som tydelig nybegynnervennlig i Diskgolfutstyrs første datapakke. Nye spillere bør lese kilde og vurdere en kortere/lavere vanskelighetsgrad først." }
     ],
     body: `<section><h2>Kort fakta</h2><table class="comparison"><tbody><tr><th>Sted</th><td>${esc(course.city)}, ${esc(course.county)}</td></tr><tr><th>Hull</th><td>${esc(course.holes ?? "Ukjent")}</td></tr><tr><th>Vanskelighetsgrad</th><td>${esc(course.difficulty || "Ukjent")}</td></tr><tr><th>Banetype</th><td>${esc(course.course_type || "Ukjent")}</td></tr><tr><th>Terreng</th><td>${esc(course.terrain || "Ukjent")}</td></tr><tr><th>Passer for</th><td>${esc(course.good_for.join(", "))}</td></tr></tbody></table></section>
     <section><h2>Vurdering for nye spillere</h2><p>${course.beginner_friendly === true ? "Dette kan være et aktuelt nybegynneralternativ, særlig hvis du spiller rolig og bruker putter eller midrange først." : "Helt nye spillere bør vurdere en kortere eller tydelig nybegynnervennlig bane først, særlig hvis denne banen har lengde, kupering eller tekniske hull."}</p></section>
@@ -979,8 +979,8 @@ writeFileSync("baneguide.html", `<!doctype html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Baneguide for discgolf i Norge | Diskgolfguiden</title>
-  <meta name="description" content="Diskgolfguidens baneseksjon er flyttet til en ny statisk hub for norske discgolfbaner, byguider og nybegynnervennlige baner.">
+  <title>Baneguide for discgolf i Norge | Diskgolfutstyr</title>
+  <meta name="description" content="Diskgolfutstyrs baneseksjon er flyttet til en ny statisk hub for norske discgolfbaner, byguider og nybegynnervennlige baner.">
   <meta name="robots" content="index, follow">
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="canonical" href="${baseUrl}/baner/">
@@ -998,7 +998,7 @@ ${footer("")}
 
 const sitemapPath = "sitemap.xml";
 const existingSitemap = readFileSync(sitemapPath, "utf8");
-const existing = [...existingSitemap.matchAll(/<loc>https:\/\/diskgolfguiden\.no\/(.*?)<\/loc>/g)].map((match) => match[1]);
+const existing = [...existingSitemap.matchAll(/<loc>https:\/\/diskgolfutstyr\.no\/(.*?)<\/loc>/g)].map((match) => match[1]);
 const newPaths = [
   "baner/",
   ...cityPages.map((city) => `baner/${city.slug}/`),

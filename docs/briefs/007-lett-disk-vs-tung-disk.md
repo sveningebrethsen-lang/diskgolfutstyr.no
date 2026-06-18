@@ -3,7 +3,7 @@
 | Felt | Innhold |
 |---|---|
 | Arbeidstittel | Lett disk vs tung disk |
-| Endelig SEO-title | Lett disk vs tung disk | Diskgolfguiden |
+| Endelig SEO-title | Lett disk vs tung disk | Diskgolfutstyr |
 | Meta description | Praktisk norsk guide til lett disk vs tung disk med konkrete råd, interne lenker og tydelig kildebruk. |
 | URL/slug | /guider/lett-disk-vs-tung-disk.html |
 | Hovedsøkeord | lett disk vs tung disk |
@@ -18,7 +18,7 @@
 | Affiliate-merking | Ja, men kun tydelig merket og uten falske priser/testpåstander. |
 | Research-merking | Research-basert. Må merkes hvis konkrete produkter sammenlignes. |
 | Publiseringsstatus | Brief klar |
-| Ansvarlig | Diskgolfguiden |
+| Ansvarlig | Diskgolfutstyr |
 | Dato | 2026-06-03 |
 
 ## Hovedspørsmål

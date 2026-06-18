@@ -390,7 +390,7 @@ const publicationOrder = articles.slice(0, 30).map((item, index) => ({
   reason: index < 10 ? "Høy nytteverdi og lett å produsere uten falske tester." : "Bygger internlenking, portalbredde og norsk søkedekning."
 }));
 
-const contentPlan = `# Content plan for Diskgolfguiden.no
+const contentPlan = `# Content plan for Diskgolfutstyr.no
 
 Generert: 2026-06-03
 
@@ -440,7 +440,7 @@ ${publicationOrder.map((item) => `- Uke ${item.week}, #${item.order}: ${item.tit
 - Norske klubber: baneinfo, lokale arrangement og praktiske oppdateringer.
 `;
 
-const roadmap = `# Roadmap for Diskgolfguiden.no
+const roadmap = `# Roadmap for Diskgolfutstyr.no
 
 Generert: 2026-06-03
 
