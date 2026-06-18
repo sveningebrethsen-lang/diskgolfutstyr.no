@@ -199,7 +199,7 @@ function initMenu() {
   const setMenu = (isOpen) => {
     button.setAttribute("aria-expanded", String(isOpen));
     button.setAttribute("aria-label", isOpen ? "Lukk meny" : "Åpne meny");
-    button.textContent = isOpen ? "×" : "☰";
+    button.textContent = isOpen ? "Lukk" : "Meny";
     nav.toggleAttribute("data-open", isOpen);
     document.body.classList.toggle("menu-open", isOpen);
   };
@@ -232,8 +232,13 @@ function initCurrentNav() {
     const linkPath = new URL(link.href, window.location.origin).pathname.replace(/\/$/, "/index.html");
     const sectionMatch =
       (currentPath.startsWith("/baner/") && linkPath === "/baner/index.html") ||
-      (currentPath.startsWith("/klubber/") && linkPath === "/klubber/index.html") ||
-      (currentPath.startsWith("/turneringer/") && linkPath === "/turneringer/index.html");
+      (currentPath.startsWith("/utstyr/") && linkPath === "/utstyr/index.html") ||
+      (currentPath.startsWith("/teknikk/") && linkPath === "/teknikk/index.html") ||
+      (currentPath.startsWith("/guider/") && linkPath === "/artikler.html") ||
+      (currentPath.startsWith("/tester/") && linkPath === "/tester.html") ||
+      (currentPath.startsWith("/sammenligninger/") && linkPath === "/tester.html") ||
+      (currentPath.startsWith("/klubber/") && linkPath === "/artikler.html") ||
+      (currentPath.startsWith("/turneringer/") && linkPath === "/artikler.html");
 
     if (linkPath === currentPath || sectionMatch) {
       link.setAttribute("aria-current", "page");
