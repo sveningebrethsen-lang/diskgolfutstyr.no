@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200">
+  <defs>
+
+  </defs>
+  <circle cx="200" cy="60" r="35.3" fill="none" stroke="#1A3D2B" stroke-width="2.5"></circle>
+  <line x1="200" y1="24.7" x2="200" y2="37.3" stroke="#1A3D2B" stroke-width="2.5" stroke-linecap="round"></line>
+  <line x1="200" y1="95.3" x2="200" y2="82.7" stroke="#1A3D2B" stroke-width="2.5" stroke-linecap="round"></line>
+  <line x1="235.3" y1="60" x2="222.7" y2="60" stroke="#1A3D2B" stroke-width="2.5" stroke-linecap="round"></line>
+  <line x1="164.7" y1="60" x2="177.3" y2="60" stroke="#1A3D2B" stroke-width="2.5" stroke-linecap="round"></line>
+  <circle cx="200" cy="60" r="4.6" fill="#C9922A"></circle>
+  <text x="200" y="140" text-anchor="middle" font-family="&#39;Space Grotesk&#39;, Arial, sans-serif" font-weight="300" font-size="26" fill="#1A3D2B">Diskgolfutstyr</text>
+  <text x="200" y="162" text-anchor="middle" font-family="&#39;Space Grotesk&#39;, Arial, sans-serif" font-weight="500" font-size="8" letter-spacing="2.2" fill="#C9922A">NORGES GUIDE TIL DISKGOLF</text>
+</svg>
