@@ -2,7 +2,7 @@
 
 Generert: 2026-06-20
 
-Interne lenker kontrollert: 3941
+Interne lenker kontrollert: 3925
 Brutte interne lenker: 0
 Placeholder-lenker: 2489
 
