@@ -214,6 +214,7 @@ p {
   content: "";
   position: absolute;
   inset: auto 0 0;
+  z-index: 3;
   height: 1px;
   background: linear-gradient(90deg, transparent, rgba(201, 146, 42, 0.65), transparent);
 }
@@ -241,13 +242,26 @@ p {
 }
 
 .home-hero .hero-banner {
-  opacity: 0.52;
+  opacity: 1;
+  object-position: center center;
+}
+
+.home-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background:
+    linear-gradient(90deg, rgba(12, 19, 16, 0.88) 0%, rgba(12, 19, 16, 0.7) 36%, rgba(12, 19, 16, 0.32) 68%, rgba(12, 19, 16, 0.16) 100%),
+    linear-gradient(180deg, rgba(12, 19, 16, 0.18) 0%, rgba(12, 19, 16, 0.36) 100%);
+  pointer-events: none;
 }
 
 .home-hero-inner {
   grid-template-columns: minmax(0, 1fr) minmax(280px, 380px);
   gap: 46px;
   min-height: 520px;
+  z-index: 2;
 }
 
 .home-hero h1 {
@@ -1057,9 +1071,59 @@ dd {
   border-bottom: 1px solid rgba(220, 231, 218, 0.7);
 }
 
+.hub-hero {
+  position: relative;
+  overflow: hidden;
+  min-height: 360px;
+  display: grid;
+  align-items: center;
+  color: #ffffff;
+  background:
+    linear-gradient(90deg, rgba(12, 19, 16, 0.9) 0%, rgba(12, 19, 16, 0.72) 42%, rgba(12, 19, 16, 0.38) 78%, rgba(12, 19, 16, 0.22) 100%),
+    url("/assets/images/home/hero-discgolfutstyr.webp") center center / cover no-repeat,
+    var(--color-primary);
+}
+
+.hub-hero::after {
+  content: "";
+  position: absolute;
+  inset: auto 0 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(201, 146, 42, 0.65), transparent);
+}
+
+.hub-hero .container {
+  position: relative;
+  z-index: 1;
+}
+
+.hub-hero h1,
+.hub-hero .eyebrow {
+  color: #ffffff;
+}
+
+.hub-hero .eyebrow {
+  color: var(--color-accent);
+}
+
+.hub-hero .lead {
+  max-width: 720px;
+  color: rgba(255, 255, 255, 0.88);
+}
+
+.hub-hero .article-meta span {
+  border-color: rgba(255, 255, 255, 0.18);
+  background: rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.86);
+}
+
 .page-hero h1 {
   color: var(--color-heading);
   font-size: 3.6rem;
+}
+
+.hub-hero h1 {
+  color: #ffffff;
 }
 
 .content-flow {
@@ -1439,6 +1503,31 @@ dd {
 
   .page-hero h1 {
     font-size: 2.08rem;
+  }
+
+  .hub-hero {
+    min-height: 0;
+    background-position: center center;
+  }
+
+  .hub-hero .lead {
+    font-size: 1rem;
+    line-height: 1.55;
+  }
+
+  .hub-hero .actions {
+    margin-top: 22px;
+  }
+
+  .hub-hero .article-meta {
+    gap: 8px;
+    margin-top: 16px;
+  }
+
+  .hub-hero .article-meta span {
+    min-height: 28px;
+    padding: 4px 9px;
+    font-size: 0.78rem;
   }
 
   .hero h1 {
