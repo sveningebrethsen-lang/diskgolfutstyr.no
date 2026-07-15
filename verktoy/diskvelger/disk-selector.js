@@ -36,6 +36,16 @@ function flightItem(label, value, visual, explanation) {
   `;
 }
 
+function simulatorUrl(result) {
+  const params = new URLSearchParams({
+    speed: result.params.speed,
+    glide: result.params.glide,
+    turn: result.params.turn,
+    fade: result.params.fade
+  });
+  return `/verktoy/flysimulator/?${params.toString()}`;
+}
+
 function renderStep() {
   const step = diskSelectorSteps[state.stepIndex];
   const selectedValue = state.answers[step.id];
@@ -68,6 +78,7 @@ function renderStep() {
 
 function renderResult() {
   const result = getDiskRecommendation(state.answers);
+  const flightUrl = simulatorUrl(result);
   const links = resultLinks.map((link) => `<a class="pill" href="${escapeHtml(link.href)}">${escapeHtml(link.label)}</a>`).join("");
   const examples = result.examples.map((example) => `<li>${escapeHtml(example)}</li>`).join("");
   const flightItems = [
@@ -116,7 +127,7 @@ function renderResult() {
           <h3>Se hvordan denne typen disk flyr</h3>
           <p>Flysimulatoren er ikke klar ennå, men strukturen er satt opp for å forklare speed, glide, turn, fade og kastvinkel.</p>
         </div>
-        <a class="button button-light" href="/verktoy/flysimulator/">Åpne flysimulator</a>
+        <a class="button button-light" href="${escapeHtml(flightUrl)}">Åpne flysimulator</a>
       </section>
       <section>
         <h3>Neste steg</h3>

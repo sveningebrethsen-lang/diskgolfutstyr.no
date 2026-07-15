@@ -3,20 +3,24 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Flyvebanesimulator for discgolf | Kommer snart | Diskgolfutstyr</title>
-  <meta name="description" content="Flyvebanesimulatoren for discgolf kommer snart. Se hvilke parametere som skal brukes: speed, glide, turn, fade, kastestil, vind, nose angle, hyzer og anhyzer.">
+  <title>Flight Visualizer for discgolf | Speed, glide, turn og fade | Diskgolfutstyr</title>
+  <meta name="description" content="Se hvordan speed, glide, turn og fade påvirker flyvebanen i discgolf. Et gratis pedagogisk SVG-verktøy for nye spillere.">
   <meta name="robots" content="index, follow">
-  <meta property="og:title" content="Flyvebanesimulator for discgolf | Diskgolfutstyr">
-  <meta property="og:description" content="Planlagt statisk simulator for å forstå flight numbers, kastestil, vind og vinkler.">
+  <meta property="og:title" content="Flight Visualizer for discgolf | Diskgolfutstyr">
+  <meta property="og:description" content="Forstå flight-tall på under ett minutt med en enkel visuell flyvebane.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://diskgolfutstyr.no/verktoy/flysimulator/">
   <meta property="og:image" content="https://diskgolfutstyr.no/assets/images/home/hero-discgolfutstyr.webp">
   <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Flight Visualizer for discgolf">
+  <meta name="twitter:description" content="Se hvordan speed, glide, turn og fade påvirker flyvebanen.">
+  <meta name="twitter:image" content="https://diskgolfutstyr.no/assets/images/home/hero-discgolfutstyr.webp">
   <link rel="icon" href="/assets/Brand/zero-favicon.svg" type="image/svg+xml">
   <link rel="canonical" href="https://diskgolfutstyr.no/verktoy/flysimulator/">
   <link rel="stylesheet" href="/assets/css/styles.css">
   <script src="/assets/js/site.js" defer></script>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Flyvebanesimulator for discgolf","url":"https://diskgolfutstyr.no/verktoy/flysimulator/","inLanguage":"nb-NO","description":"Plassholder og teknisk struktur for en kommende flyvebanesimulator for discgolf.","isPartOf":{"@type":"WebSite","name":"Diskgolfutstyr","url":"https://diskgolfutstyr.no/"}}</script>
+  <script type="module" src="/verktoy/flysimulator/flight-visualizer.js"></script>
+  <script type="application/ld+json">[{"@context":"https://schema.org","@type":"WebApplication","name":"Flight Visualizer","url":"https://diskgolfutstyr.no/verktoy/flysimulator/","applicationCategory":"SportsApplication","operatingSystem":"Any","inLanguage":"nb-NO","isAccessibleForFree":true,"description":"Pedagogisk SVG-verktøy som viser hvordan flight numbers påvirker en forenklet discgolf-flyvebane."},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Diskgolfutstyr","item":"https://diskgolfutstyr.no/"},{"@type":"ListItem","position":2,"name":"Verktøy","item":"https://diskgolfutstyr.no/verktoy/"},{"@type":"ListItem","position":3,"name":"Flight Visualizer","item":"https://diskgolfutstyr.no/verktoy/flysimulator/"}]}]</script>
 </head>
 <body>
   <header class="site-header"><div class="nav-wrap"><a class="brand" href="/index.html"><img src="/assets/Brand/zero-horizontal.svg" alt="Diskgolfutstyr"></a><button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>Meny</button><nav class="nav" aria-label="Hovedmeny" data-nav><a href="/nybegynnerguide.html">Start her</a><a href="/utstyr/">Utstyr</a><a href="/teknikk/">Teknikk</a><a href="/regler.html">Regler</a><a href="/baner/">Baner</a><a href="/tester.html">Tester</a><a href="/artikler.html">Artikler</a></nav></div></header>
@@ -24,38 +28,106 @@
   <main>
     <section class="page-hero hub-hero">
       <div class="container">
-        <p class="eyebrow">Flysimulator</p>
-        <h1>Kommer snart</h1>
-        <p class="lead">Flyvebanesimulatoren er ikke implementert ennå. Denne siden dokumenterer strukturen som senere kan brukes for en statisk simulator uten backend.</p>
-        <div class="actions"><a class="button" href="/verktoy/diskvelger/">Prøv diskvelgeren</a><a class="button button-secondary" href="/guider/flight-numbers.html">Les om flight numbers</a></div>
-        <div class="article-meta"><span>Oppdatert: 15. juli 2026</span><span>Planlagt verktøy</span><span>Ingen API</span></div>
+        <p class="eyebrow">Verktøy</p>
+        <h1>Flight Visualizer</h1>
+        <p class="lead">Se hvordan flight-tall påvirker flyvebanen. Dette er et pedagogisk verktøy, ikke en realistisk fysikksimulator.</p>
+        <div class="article-meta"><span>Oppdatert: 15. juli 2026</span><span>SVG-basert</span><span>Ingen API</span></div>
       </div>
     </section>
 
     <section class="section">
-      <div class="container content-flow">
-        <section class="quick-panel">
-          <div>
-            <p class="eyebrow">Planlagt modell</p>
-            <h2>Parametere simulatoren kan bruke</h2>
-            <p class="muted">Målet er å visualisere omtrentlige flyvebaner pedagogisk, ikke late som fysikken er perfekt. Første versjon bør være enkel, rask og lett å forstå på mobil.</p>
-          </div>
-          <div class="quick-actions">
-            <span class="quick-action">Speed<span>Hvor rask disken krever at du kaster.</span></span>
-            <span class="quick-action">Glide<span>Hvor lenge disken typisk holder seg i lufta.</span></span>
-            <span class="quick-action">Turn og fade<span>Høyre-/venstretendens for høyrehendt backhand.</span></span>
-            <span class="quick-action">Vinkel og vind<span>Nose angle, hyzer, anhyzer og vindretning.</span></span>
-          </div>
-        </section>
+      <div class="container">
+        <p class="research-note" data-url-prefill hidden>Basert på resultatet ditt fra diskvelgeren. Tallene er fylt inn fra URL-parametere.</p>
+        <div class="visualizer-layout" data-flight-visualizer>
+          <aside class="visualizer-panel" aria-labelledby="flight-controls">
+            <div class="section-head compact-head">
+              <div>
+                <p class="eyebrow">Juster tallene</p>
+                <h2 id="flight-controls">Flight numbers</h2>
+              </div>
+            </div>
 
-        <section>
-          <h2>Senere teknisk struktur</h2>
-          <div class="grid">
-            <article class="guide-card"><h3>Kastestil</h3><p>Backhand, forehand og eventuelt høyre-/venstrehendt visning bør kunne påvirke retningen i visualiseringen.</p></article>
-            <article class="guide-card"><h3>Nose angle</h3><p>En enkel kontroll kan vise hvorfor nesa opp ofte gir stall og kortere kast.</p></article>
-            <article class="guide-card"><h3>Hyzer og anhyzer</h3><p>Vinkel ved release bør forklare hvorfor samme disk kan fly veldig forskjellig.</p></article>
-          </div>
-        </section>
+            <div class="slider-stack">
+              <label class="range-control">
+                <span>Speed <strong data-value-for="speed">7</strong></span>
+                <input type="range" min="1" max="14" step="1" value="7" data-flight-input="speed">
+                <small>Hvor rask disken er laget for å fly.</small>
+              </label>
+              <label class="range-control">
+                <span>Glide <strong data-value-for="glide">5</strong></span>
+                <input type="range" min="1" max="7" step="1" value="5" data-flight-input="glide">
+                <small>Hvor lenge disken holder seg i lufta.</small>
+              </label>
+              <label class="range-control">
+                <span>Turn <strong data-value-for="turn">-2</strong></span>
+                <input type="range" min="-5" max="1" step="1" value="-2" data-flight-input="turn">
+                <small>Hvor mye disken drar tidlig i høy fart.</small>
+              </label>
+              <label class="range-control">
+                <span>Fade <strong data-value-for="fade">1</strong></span>
+                <input type="range" min="0" max="5" step="1" value="1" data-flight-input="fade">
+                <small>Hvor tydelig disken avslutter på slutten.</small>
+              </label>
+            </div>
+
+            <fieldset class="segmented-control">
+              <legend>Kastestil</legend>
+              <label><input type="radio" name="throwStyle" value="backhand" checked data-flight-option="throwStyle"> Backhand</label>
+              <label><input type="radio" name="throwStyle" value="forehand" data-flight-option="throwStyle"> Forehand</label>
+            </fieldset>
+
+            <fieldset class="segmented-control">
+              <legend>Hånd</legend>
+              <label><input type="radio" name="handedness" value="right" checked data-flight-option="handedness"> Høyrehendt</label>
+              <label><input type="radio" name="handedness" value="left" data-flight-option="handedness"> Venstrehendt</label>
+            </fieldset>
+
+            <div class="preset-panel">
+              <p class="eyebrow">Vis typiske disker</p>
+              <div class="preset-buttons" data-preset-buttons></div>
+            </div>
+          </aside>
+
+          <section class="flight-stage" aria-labelledby="flight-graph-title">
+            <div class="flight-stage-head">
+              <div>
+                <p class="eyebrow">Pedagogisk flyvebane</p>
+                <h2 id="flight-graph-title">Slik kan tallene påvirke kastet</h2>
+              </div>
+              <p class="muted" data-flight-summary>Rolig fairway-driver med litt turn og moderat fade.</p>
+            </div>
+            <div class="flight-svg-wrap" data-flight-svg></div>
+            <p class="notice">Forenklet visualisering – faktisk flyvebane påvirkes også av teknikk, vind, plast og slitasje.</p>
+            <div class="example-box visualizer-examples">
+              <h3>Ligner på</h3>
+              <p>Eksempler, ikke affiliate. Diskene er bare referanser for typen flyvebane.</p>
+              <ul data-flight-examples></ul>
+            </div>
+          </section>
+
+          <aside class="visualizer-panel explanation-panel" aria-labelledby="flight-explained">
+            <p class="eyebrow">Forklaring</p>
+            <h2 id="flight-explained">Hva betyr tallene?</h2>
+            <div class="explanation-list">
+              <article>
+                <h3>Speed</h3>
+                <p>Høy speed betyr ikke automatisk lengre kast. Disken må kastes raskt nok for å fly som den skal.</p>
+              </article>
+              <article>
+                <h3>Glide</h3>
+                <p>Glide handler om hvor lenge disken vil holde seg svevende. Mer glide kan hjelpe nye spillere med ekstra flyvetid.</p>
+              </article>
+              <article>
+                <h3>Turn</h3>
+                <p>Turn viser hva disken gjør tidlig i høy fart. Negative tall gjør det lettere å få disken til å rette seg ut.</p>
+              </article>
+              <article>
+                <h3>Fade</h3>
+                <p>Fade er avslutningen på slutten av kastet. Høy fade betyr tydeligere krok når disken mister fart.</p>
+              </article>
+            </div>
+          </aside>
+        </div>
       </div>
     </section>
   </main>
