@@ -117,7 +117,7 @@ function renderResult() {
         <p>${escapeHtml(result.avoid)}</p>
       </section>
       <section class="example-box">
-        <h3>Eksempler, ikke affiliate</h3>
+        <h3>Eksempeldisker</h3>
         <p>Dette er bare eksempler på disker i riktig retning. Velg plast, vekt og håndfølelse med litt sunn skepsis.</p>
         <ul>${examples}</ul>
       </section>
