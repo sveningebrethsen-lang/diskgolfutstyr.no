@@ -14,6 +14,12 @@ function readNumberParam(params, name, fallback, min, max) {
   return clamp(value, min, max);
 }
 
+function hasValidNumberParam(params, name, min, max) {
+  if (!params.has(name)) return false;
+  const value = Number(params.get(name));
+  return Number.isFinite(value) && value >= min && value <= max;
+}
+
 function valuesFromInputs() {
   const values = {};
   root.querySelectorAll("[data-flight-input]").forEach((input) => {
@@ -62,8 +68,13 @@ function renderPresetButtons() {
 
 function initFromUrl() {
   const params = new URLSearchParams(window.location.search);
-  const hasFlightParams = ["speed", "glide", "turn", "fade"].some((name) => params.has(name));
-  if (!hasFlightParams) return;
+  const hasValidFlightParams =
+    hasValidNumberParam(params, "speed", 1, 14) &&
+    hasValidNumberParam(params, "glide", 1, 7) &&
+    hasValidNumberParam(params, "turn", -5, 1) &&
+    hasValidNumberParam(params, "fade", 0, 5);
+
+  if (!hasValidFlightParams) return;
 
   setValues({
     speed: readNumberParam(params, "speed", 7, 1, 14),
