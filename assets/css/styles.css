@@ -1663,19 +1663,47 @@ dd {
 .hub-hero {
   position: relative;
   overflow: hidden;
-  min-height: clamp(430px, 28vw, 500px);
+  min-height: var(--hero-min-height, clamp(430px, 28vw, 500px));
   display: grid;
   align-items: center;
   color: var(--color-surface);
   --hero-position-x: 58%;
   --hero-position-y: 50%;
-  --hero-overlay-start: rgba(12, 19, 16, 0.86);
-  --hero-overlay-mid: rgba(12, 19, 16, 0.62);
-  --hero-overlay-end: rgba(12, 19, 16, 0.14);
+  --hero-size: cover;
+  --hero-overlay-width: 46%;
+  --hero-overlay-strength: 0.86;
+  --hero-overlay-mid-strength: 0.62;
+  --hero-overlay-end-strength: 0.14;
   background:
-    linear-gradient(90deg, var(--hero-overlay-start) 0%, var(--hero-overlay-mid) 46%, var(--hero-overlay-end) 100%),
-    url("/assets/images/home/hero-discgolfutstyr.webp") var(--hero-position-x) var(--hero-position-y) / cover no-repeat,
+    linear-gradient(90deg, rgb(12 19 16 / var(--hero-overlay-strength)) 0%, rgb(12 19 16 / var(--hero-overlay-mid-strength)) var(--hero-overlay-width), rgb(12 19 16 / var(--hero-overlay-end-strength)) 100%),
+    url("/assets/images/home/hero-discgolfutstyr.webp") var(--hero-position-x) var(--hero-position-y) / var(--hero-size) no-repeat,
     var(--color-primary);
+}
+
+.hero-media,
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+}
+
+.hero-media {
+  z-index: 0;
+}
+
+.hero-media img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: var(--hero-position-x) var(--hero-position-y);
+}
+
+.hero-overlay {
+  z-index: 1;
+  pointer-events: none;
+  background:
+    linear-gradient(90deg, rgb(12 19 16 / var(--hero-overlay-strength)) 0%, rgb(12 19 16 / var(--hero-overlay-mid-strength)) var(--hero-overlay-width), rgb(12 19 16 / var(--hero-overlay-end-strength)) 100%),
+    linear-gradient(180deg, rgb(12 19 16 / 0.04) 0%, rgb(12 19 16 / 0.2) 100%);
 }
 
 .page-hero.hub-hero {
@@ -1683,43 +1711,57 @@ dd {
 }
 
 .hub-hero-equipment {
-  --hero-position-x: 62%;
-  --hero-position-y: 50%;
+  --hero-position-x: 60%;
+  --hero-position-y: 48%;
+  --hero-overlay-width: 44%;
 }
 
 .hub-hero-tests {
-  --hero-position-x: 69%;
-  --hero-position-y: 50%;
+  --hero-position-x: 64%;
+  --hero-position-y: 46%;
+  --hero-overlay-width: 45%;
 }
 
 .hub-hero-articles {
-  --hero-position-x: 48%;
-  --hero-position-y: 50%;
+  --hero-position-x: 52%;
+  --hero-position-y: 48%;
+  --hero-overlay-width: 52%;
 }
 
 .hub-hero-technique {
-  --hero-position-x: 60%;
-  --hero-position-y: 50%;
+  --hero-position-x: 57%;
+  --hero-position-y: 46%;
+  --hero-overlay-width: 46%;
 }
 
 .hub-hero-courses {
-  --hero-position-x: 72%;
-  --hero-position-y: 50%;
+  --hero-position-x: 68%;
+  --hero-position-y: 47%;
+  --hero-overlay-width: 44%;
 }
 
 .hub-hero-tools {
-  --hero-position-x: 64%;
-  --hero-position-y: 50%;
+  --hero-position-x: 59%;
+  --hero-position-y: 47%;
+  --hero-overlay-width: 46%;
 }
 
 .hub-hero-selector {
   --hero-position-x: 52%;
-  --hero-position-y: 50%;
+  --hero-position-y: 46%;
+  --hero-overlay-width: 50%;
 }
 
 .hub-hero-visualizer {
-  --hero-position-x: 70%;
-  --hero-position-y: 50%;
+  --hero-position-x: 62%;
+  --hero-position-y: 46%;
+  --hero-overlay-width: 46%;
+}
+
+.hub-hero-rules {
+  --hero-position-x: 63%;
+  --hero-position-y: 47%;
+  --hero-overlay-width: 47%;
 }
 
 .hub-hero::after {
@@ -1732,7 +1774,13 @@ dd {
 
 .hub-hero .container {
   position: relative;
-  z-index: 1;
+  z-index: 2;
+}
+
+.hub-hero .hero-content {
+  width: min(640px, calc(100% - 32px));
+  margin-left: max(16px, calc((100% - var(--max-width)) / 2));
+  margin-right: auto;
 }
 
 .hub-hero h1,
@@ -1762,17 +1810,82 @@ dd {
   }
 
   .hub-hero {
-    min-height: 480px;
+    --hero-min-height: 500px;
+    --hero-overlay-width: 42%;
+    --hero-overlay-strength: 0.82;
+    --hero-overlay-mid-strength: 0.56;
+    --hero-overlay-end-strength: 0.1;
   }
 
-  .hub-hero-equipment { --hero-position-x: 64%; }
-  .hub-hero-tests { --hero-position-x: 72%; }
-  .hub-hero-articles { --hero-position-x: 50%; }
-  .hub-hero-technique { --hero-position-x: 62%; }
-  .hub-hero-courses { --hero-position-x: 76%; }
-  .hub-hero-tools { --hero-position-x: 66%; }
-  .hub-hero-selector { --hero-position-x: 54%; }
-  .hub-hero-visualizer { --hero-position-x: 73%; }
+  .hub-hero-equipment { --hero-position-x: 61%; --hero-position-y: 47%; }
+  .hub-hero-tests { --hero-position-x: 66%; --hero-position-y: 46%; }
+  .hub-hero-articles { --hero-position-x: 54%; --hero-position-y: 48%; --hero-overlay-width: 50%; }
+  .hub-hero-technique { --hero-position-x: 58%; --hero-position-y: 46%; }
+  .hub-hero-courses { --hero-position-x: 70%; --hero-position-y: 47%; }
+  .hub-hero-tools { --hero-position-x: 60%; --hero-position-y: 47%; }
+  .hub-hero-selector { --hero-position-x: 53%; --hero-position-y: 46%; --hero-overlay-width: 50%; }
+  .hub-hero-visualizer { --hero-position-x: 64%; --hero-position-y: 46%; }
+  .hub-hero-rules { --hero-position-x: 64%; --hero-position-y: 47%; }
+}
+
+@media (min-width: 2200px) {
+  .home-hero-inner,
+  .hub-hero .container {
+    width: min(100% - 96px, 1680px);
+  }
+
+  .hub-hero .hero-content {
+    width: min(680px, calc(100% - 96px));
+    margin-left: clamp(96px, 12vw, 520px);
+  }
+
+  .hub-hero {
+    --hero-min-height: 560px;
+    --hero-overlay-width: 39%;
+    --hero-overlay-strength: 0.78;
+    --hero-overlay-mid-strength: 0.5;
+    --hero-overlay-end-strength: 0.08;
+  }
+
+  .hub-hero-equipment { --hero-position-x: 59%; --hero-position-y: 46%; }
+  .hub-hero-tests { --hero-position-x: 63%; --hero-position-y: 45%; }
+  .hub-hero-articles { --hero-position-x: 55%; --hero-position-y: 47%; --hero-overlay-width: 46%; }
+  .hub-hero-technique { --hero-position-x: 56%; --hero-position-y: 45%; }
+  .hub-hero-courses { --hero-position-x: 67%; --hero-position-y: 46%; }
+  .hub-hero-tools { --hero-position-x: 58%; --hero-position-y: 46%; }
+  .hub-hero-selector { --hero-position-x: 52%; --hero-position-y: 45%; }
+  .hub-hero-visualizer { --hero-position-x: 61%; --hero-position-y: 45%; }
+  .hub-hero-rules { --hero-position-x: 62%; --hero-position-y: 46%; }
+}
+
+@media (min-width: 3000px) {
+  .home-hero-inner,
+  .hub-hero .container {
+    width: min(100% - 128px, 1900px);
+  }
+
+  .hub-hero .hero-content {
+    width: min(720px, calc(100% - 128px));
+    margin-left: clamp(128px, 12vw, 620px);
+  }
+
+  .hub-hero {
+    --hero-min-height: 640px;
+    --hero-overlay-width: 37%;
+    --hero-overlay-strength: 0.76;
+    --hero-overlay-mid-strength: 0.48;
+    --hero-overlay-end-strength: 0.07;
+  }
+
+  .hub-hero-equipment { --hero-position-x: 58%; --hero-position-y: 45%; }
+  .hub-hero-tests { --hero-position-x: 61%; --hero-position-y: 44%; }
+  .hub-hero-articles { --hero-position-x: 55%; --hero-position-y: 46%; --hero-overlay-width: 44%; }
+  .hub-hero-technique { --hero-position-x: 55%; --hero-position-y: 44%; }
+  .hub-hero-courses { --hero-position-x: 65%; --hero-position-y: 45%; }
+  .hub-hero-tools { --hero-position-x: 57%; --hero-position-y: 45%; }
+  .hub-hero-selector { --hero-position-x: 51%; --hero-position-y: 44%; }
+  .hub-hero-visualizer { --hero-position-x: 60%; --hero-position-y: 44%; }
+  .hub-hero-rules { --hero-position-x: 61%; --hero-position-y: 45%; }
 }
 
 @media (min-width: 1024px) and (max-width: 1599px) {
@@ -1781,14 +1894,20 @@ dd {
     --home-hero-position-y: 50%;
   }
 
-  .hub-hero-equipment { --hero-position-x: 60%; }
-  .hub-hero-tests { --hero-position-x: 67%; }
-  .hub-hero-articles { --hero-position-x: 46%; }
-  .hub-hero-technique { --hero-position-x: 58%; }
-  .hub-hero-courses { --hero-position-x: 70%; }
-  .hub-hero-tools { --hero-position-x: 62%; }
-  .hub-hero-selector { --hero-position-x: 50%; }
-  .hub-hero-visualizer { --hero-position-x: 68%; }
+  .hub-hero {
+    --hero-min-height: 455px;
+    --hero-overlay-width: 46%;
+  }
+
+  .hub-hero-equipment { --hero-position-x: 59%; --hero-position-y: 47%; }
+  .hub-hero-tests { --hero-position-x: 63%; --hero-position-y: 46%; }
+  .hub-hero-articles { --hero-position-x: 50%; --hero-position-y: 48%; --hero-overlay-width: 54%; }
+  .hub-hero-technique { --hero-position-x: 56%; --hero-position-y: 46%; }
+  .hub-hero-courses { --hero-position-x: 66%; --hero-position-y: 47%; }
+  .hub-hero-tools { --hero-position-x: 58%; --hero-position-y: 47%; }
+  .hub-hero-selector { --hero-position-x: 50%; --hero-position-y: 46%; --hero-overlay-width: 52%; }
+  .hub-hero-visualizer { --hero-position-x: 61%; --hero-position-y: 46%; }
+  .hub-hero-rules { --hero-position-x: 61%; --hero-position-y: 47%; }
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
@@ -1798,20 +1917,22 @@ dd {
   }
 
   .hub-hero {
-    min-height: 410px;
-    --hero-overlay-start: rgba(12, 19, 16, 0.88);
-    --hero-overlay-mid: rgba(12, 19, 16, 0.66);
-    --hero-overlay-end: rgba(12, 19, 16, 0.2);
+    --hero-min-height: 440px;
+    --hero-overlay-width: 58%;
+    --hero-overlay-strength: 0.88;
+    --hero-overlay-mid-strength: 0.66;
+    --hero-overlay-end-strength: 0.2;
   }
 
-  .hub-hero-equipment { --hero-position-x: 56%; }
-  .hub-hero-tests { --hero-position-x: 63%; }
-  .hub-hero-articles { --hero-position-x: 44%; }
-  .hub-hero-technique { --hero-position-x: 55%; }
-  .hub-hero-courses { --hero-position-x: 64%; }
-  .hub-hero-tools { --hero-position-x: 58%; }
-  .hub-hero-selector { --hero-position-x: 48%; }
-  .hub-hero-visualizer { --hero-position-x: 62%; }
+  .hub-hero-equipment { --hero-position-x: 55%; --hero-position-y: 47%; }
+  .hub-hero-tests { --hero-position-x: 59%; --hero-position-y: 46%; }
+  .hub-hero-articles { --hero-position-x: 48%; --hero-position-y: 48%; --hero-overlay-width: 62%; }
+  .hub-hero-technique { --hero-position-x: 54%; --hero-position-y: 46%; }
+  .hub-hero-courses { --hero-position-x: 60%; --hero-position-y: 47%; }
+  .hub-hero-tools { --hero-position-x: 55%; --hero-position-y: 47%; }
+  .hub-hero-selector { --hero-position-x: 47%; --hero-position-y: 46%; --hero-overlay-width: 64%; }
+  .hub-hero-visualizer { --hero-position-x: 58%; --hero-position-y: 46%; }
+  .hub-hero-rules { --hero-position-x: 58%; --hero-position-y: 47%; }
 }
 
 @media (max-width: 767px) {
@@ -1821,20 +1942,22 @@ dd {
   }
 
   .hub-hero {
-    min-height: 470px;
-    --hero-overlay-start: rgba(12, 19, 16, 0.9);
-    --hero-overlay-mid: rgba(12, 19, 16, 0.7);
-    --hero-overlay-end: rgba(12, 19, 16, 0.26);
+    --hero-min-height: 430px;
+    --hero-overlay-width: 100%;
+    --hero-overlay-strength: 0.9;
+    --hero-overlay-mid-strength: 0.72;
+    --hero-overlay-end-strength: 0.44;
   }
 
-  .hub-hero-equipment { --hero-position-x: 54%; }
-  .hub-hero-tests { --hero-position-x: 60%; }
-  .hub-hero-articles { --hero-position-x: 42%; }
-  .hub-hero-technique { --hero-position-x: 53%; }
-  .hub-hero-courses { --hero-position-x: 60%; }
-  .hub-hero-tools { --hero-position-x: 55%; }
-  .hub-hero-selector { --hero-position-x: 46%; }
-  .hub-hero-visualizer { --hero-position-x: 60%; }
+  .hub-hero-equipment { --hero-position-x: 50%; --hero-position-y: 44%; }
+  .hub-hero-tests { --hero-position-x: 52%; --hero-position-y: 44%; }
+  .hub-hero-articles { --hero-position-x: 42%; --hero-position-y: 45%; }
+  .hub-hero-technique { --hero-position-x: 49%; --hero-position-y: 43%; }
+  .hub-hero-courses { --hero-position-x: 55%; --hero-position-y: 45%; }
+  .hub-hero-tools { --hero-position-x: 49%; --hero-position-y: 44%; }
+  .hub-hero-selector { --hero-position-x: 44%; --hero-position-y: 43%; }
+  .hub-hero-visualizer { --hero-position-x: 53%; --hero-position-y: 44%; }
+  .hub-hero-rules { --hero-position-x: 53%; --hero-position-y: 44%; }
 }
 
 @media (max-width: 479px) {
@@ -1844,20 +1967,22 @@ dd {
   }
 
   .hub-hero {
-    min-height: 500px;
-    --hero-overlay-start: rgba(12, 19, 16, 0.92);
-    --hero-overlay-mid: rgba(12, 19, 16, 0.74);
-    --hero-overlay-end: rgba(12, 19, 16, 0.34);
+    --hero-min-height: 455px;
+    --hero-overlay-width: 100%;
+    --hero-overlay-strength: 0.92;
+    --hero-overlay-mid-strength: 0.76;
+    --hero-overlay-end-strength: 0.5;
   }
 
-  .hub-hero-equipment { --hero-position-x: 52%; }
-  .hub-hero-tests { --hero-position-x: 58%; }
-  .hub-hero-articles { --hero-position-x: 40%; }
-  .hub-hero-technique { --hero-position-x: 51%; }
-  .hub-hero-courses { --hero-position-x: 58%; }
-  .hub-hero-tools { --hero-position-x: 53%; }
-  .hub-hero-selector { --hero-position-x: 45%; }
-  .hub-hero-visualizer { --hero-position-x: 58%; }
+  .hub-hero-equipment { --hero-position-x: 48%; --hero-position-y: 43%; }
+  .hub-hero-tests { --hero-position-x: 50%; --hero-position-y: 43%; }
+  .hub-hero-articles { --hero-position-x: 40%; --hero-position-y: 44%; }
+  .hub-hero-technique { --hero-position-x: 47%; --hero-position-y: 42%; }
+  .hub-hero-courses { --hero-position-x: 53%; --hero-position-y: 44%; }
+  .hub-hero-tools { --hero-position-x: 47%; --hero-position-y: 43%; }
+  .hub-hero-selector { --hero-position-x: 42%; --hero-position-y: 42%; }
+  .hub-hero-visualizer { --hero-position-x: 51%; --hero-position-y: 43%; }
+  .hub-hero-rules { --hero-position-x: 51%; --hero-position-y: 43%; }
 }
 
 .page-hero h1 {
@@ -2146,7 +2271,7 @@ dd {
   }
 
   .hub-hero {
-    min-height: 390px;
+    --hero-min-height: 390px;
   }
 
   .home-choice-grid,
@@ -2305,7 +2430,7 @@ dd {
   }
 
   .hub-hero {
-    min-height: 460px;
+    --hero-min-height: 430px;
     background-position: 0 0, var(--hero-position-x) var(--hero-position-y), 0 0;
   }
 

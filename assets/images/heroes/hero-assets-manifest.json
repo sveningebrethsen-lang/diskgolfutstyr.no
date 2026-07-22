@@ -1,0 +1,470 @@
+{
+  "source": "OpenAI built-in image generation, generated 2026-07-22; crops produced locally with Pillow/Lanczos and WebP quality settings.",
+  "note": "Generated masters are WebP conversions from generated PNGs; 4K variants are upscaled/cropped derivatives because the built-in generator did not return native 3840px masters.",
+  "files": [
+    {
+      "hero": "articles",
+      "file": "assets/images/heroes/articles/hero-4k.webp",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 428620
+    },
+    {
+      "hero": "articles",
+      "file": "assets/images/heroes/articles/hero-desktop.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 216344
+    },
+    {
+      "hero": "articles",
+      "file": "assets/images/heroes/articles/hero-master.webp",
+      "width": 1689,
+      "height": 931,
+      "bytes": 253464
+    },
+    {
+      "hero": "articles",
+      "file": "assets/images/heroes/articles/hero-mobile.webp",
+      "width": 900,
+      "height": 1400,
+      "bytes": 88930
+    },
+    {
+      "hero": "articles",
+      "file": "assets/images/heroes/articles/hero-qhd.webp",
+      "width": 2560,
+      "height": 1440,
+      "bytes": 297214
+    },
+    {
+      "hero": "articles",
+      "file": "assets/images/heroes/articles/hero-tablet.webp",
+      "width": 1536,
+      "height": 2048,
+      "bytes": 168498
+    },
+    {
+      "hero": "beginner",
+      "file": "assets/images/heroes/beginner/hero-4k.webp",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 297296
+    },
+    {
+      "hero": "beginner",
+      "file": "assets/images/heroes/beginner/hero-desktop.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 139890
+    },
+    {
+      "hero": "beginner",
+      "file": "assets/images/heroes/beginner/hero-master.webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 168680
+    },
+    {
+      "hero": "beginner",
+      "file": "assets/images/heroes/beginner/hero-mobile.webp",
+      "width": 900,
+      "height": 1400,
+      "bytes": 79132
+    },
+    {
+      "hero": "beginner",
+      "file": "assets/images/heroes/beginner/hero-qhd.webp",
+      "width": 2560,
+      "height": 1440,
+      "bytes": 198450
+    },
+    {
+      "hero": "beginner",
+      "file": "assets/images/heroes/beginner/hero-tablet.webp",
+      "width": 1536,
+      "height": 2048,
+      "bytes": 136818
+    },
+    {
+      "hero": "courses",
+      "file": "assets/images/heroes/courses/hero-4k.webp",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 396070
+    },
+    {
+      "hero": "courses",
+      "file": "assets/images/heroes/courses/hero-desktop.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 195316
+    },
+    {
+      "hero": "courses",
+      "file": "assets/images/heroes/courses/hero-master.webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 233606
+    },
+    {
+      "hero": "courses",
+      "file": "assets/images/heroes/courses/hero-mobile.webp",
+      "width": 900,
+      "height": 1400,
+      "bytes": 101480
+    },
+    {
+      "hero": "courses",
+      "file": "assets/images/heroes/courses/hero-qhd.webp",
+      "width": 2560,
+      "height": 1440,
+      "bytes": 270616
+    },
+    {
+      "hero": "courses",
+      "file": "assets/images/heroes/courses/hero-tablet.webp",
+      "width": 1536,
+      "height": 2048,
+      "bytes": 181872
+    },
+    {
+      "hero": "equipment",
+      "file": "assets/images/heroes/equipment/hero-4k.webp",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 200244
+    },
+    {
+      "hero": "equipment",
+      "file": "assets/images/heroes/equipment/hero-desktop.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 96168
+    },
+    {
+      "hero": "equipment",
+      "file": "assets/images/heroes/equipment/hero-master.webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 107202
+    },
+    {
+      "hero": "equipment",
+      "file": "assets/images/heroes/equipment/hero-mobile.webp",
+      "width": 900,
+      "height": 1400,
+      "bytes": 61638
+    },
+    {
+      "hero": "equipment",
+      "file": "assets/images/heroes/equipment/hero-qhd.webp",
+      "width": 2560,
+      "height": 1440,
+      "bytes": 135016
+    },
+    {
+      "hero": "equipment",
+      "file": "assets/images/heroes/equipment/hero-tablet.webp",
+      "width": 1536,
+      "height": 2048,
+      "bytes": 114428
+    },
+    {
+      "hero": "home",
+      "file": "assets/images/heroes/home/hero-4k.webp",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 562130
+    },
+    {
+      "hero": "home",
+      "file": "assets/images/heroes/home/hero-desktop.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 286426
+    },
+    {
+      "hero": "home",
+      "file": "assets/images/heroes/home/hero-master.webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 361234
+    },
+    {
+      "hero": "home",
+      "file": "assets/images/heroes/home/hero-mobile.webp",
+      "width": 900,
+      "height": 608,
+      "bytes": 69536,
+      "crop_note": "Mobile-specific art-directed homepage image; calm text area left, person/disc/basket right.",
+      "source_note": "Generated as a dedicated compact mobile hero because the wide homepage master placed the player under text in the short mobile container."
+    },
+    {
+      "hero": "home",
+      "file": "assets/images/heroes/home/hero-qhd.webp",
+      "width": 2560,
+      "height": 1440,
+      "bytes": 388816
+    },
+    {
+      "hero": "home",
+      "file": "assets/images/heroes/home/hero-tablet.webp",
+      "width": 1536,
+      "height": 2048,
+      "bytes": 220564
+    },
+    {
+      "hero": "rules",
+      "file": "assets/images/heroes/rules/hero-4k.webp",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 214718
+    },
+    {
+      "hero": "rules",
+      "file": "assets/images/heroes/rules/hero-desktop.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 98316
+    },
+    {
+      "hero": "rules",
+      "file": "assets/images/heroes/rules/hero-master.webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 112266
+    },
+    {
+      "hero": "rules",
+      "file": "assets/images/heroes/rules/hero-mobile.webp",
+      "width": 900,
+      "height": 1400,
+      "bytes": 62276
+    },
+    {
+      "hero": "rules",
+      "file": "assets/images/heroes/rules/hero-qhd.webp",
+      "width": 2560,
+      "height": 1440,
+      "bytes": 140082
+    },
+    {
+      "hero": "rules",
+      "file": "assets/images/heroes/rules/hero-tablet.webp",
+      "width": 1536,
+      "height": 2048,
+      "bytes": 121584
+    },
+    {
+      "hero": "selector",
+      "file": "assets/images/heroes/selector/hero-4k.webp",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 153518
+    },
+    {
+      "hero": "selector",
+      "file": "assets/images/heroes/selector/hero-desktop.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 70902
+    },
+    {
+      "hero": "selector",
+      "file": "assets/images/heroes/selector/hero-master.webp",
+      "width": 1718,
+      "height": 915,
+      "bytes": 78144
+    },
+    {
+      "hero": "selector",
+      "file": "assets/images/heroes/selector/hero-mobile.webp",
+      "width": 900,
+      "height": 1400,
+      "bytes": 37896
+    },
+    {
+      "hero": "selector",
+      "file": "assets/images/heroes/selector/hero-qhd.webp",
+      "width": 2560,
+      "height": 1440,
+      "bytes": 98110
+    },
+    {
+      "hero": "selector",
+      "file": "assets/images/heroes/selector/hero-tablet.webp",
+      "width": 1536,
+      "height": 2048,
+      "bytes": 78546
+    },
+    {
+      "hero": "technique",
+      "file": "assets/images/heroes/technique/hero-4k.webp",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 239618
+    },
+    {
+      "hero": "technique",
+      "file": "assets/images/heroes/technique/hero-desktop.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 114564
+    },
+    {
+      "hero": "technique",
+      "file": "assets/images/heroes/technique/hero-master.webp",
+      "width": 1702,
+      "height": 924,
+      "bytes": 130908
+    },
+    {
+      "hero": "technique",
+      "file": "assets/images/heroes/technique/hero-mobile.webp",
+      "width": 900,
+      "height": 1400,
+      "bytes": 63550
+    },
+    {
+      "hero": "technique",
+      "file": "assets/images/heroes/technique/hero-qhd.webp",
+      "width": 2560,
+      "height": 1440,
+      "bytes": 157078
+    },
+    {
+      "hero": "technique",
+      "file": "assets/images/heroes/technique/hero-tablet.webp",
+      "width": 1536,
+      "height": 2048,
+      "bytes": 129184
+    },
+    {
+      "hero": "tests",
+      "file": "assets/images/heroes/tests/hero-4k.webp",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 288912
+    },
+    {
+      "hero": "tests",
+      "file": "assets/images/heroes/tests/hero-desktop.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 141702
+    },
+    {
+      "hero": "tests",
+      "file": "assets/images/heroes/tests/hero-master.webp",
+      "width": 1717,
+      "height": 916,
+      "bytes": 167062
+    },
+    {
+      "hero": "tests",
+      "file": "assets/images/heroes/tests/hero-mobile.webp",
+      "width": 900,
+      "height": 1400,
+      "bytes": 58574
+    },
+    {
+      "hero": "tests",
+      "file": "assets/images/heroes/tests/hero-qhd.webp",
+      "width": 2560,
+      "height": 1440,
+      "bytes": 195018
+    },
+    {
+      "hero": "tests",
+      "file": "assets/images/heroes/tests/hero-tablet.webp",
+      "width": 1536,
+      "height": 2048,
+      "bytes": 120606
+    },
+    {
+      "hero": "tools",
+      "file": "assets/images/heroes/tools/hero-4k.webp",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 151400
+    },
+    {
+      "hero": "tools",
+      "file": "assets/images/heroes/tools/hero-desktop.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 68618
+    },
+    {
+      "hero": "tools",
+      "file": "assets/images/heroes/tools/hero-master.webp",
+      "width": 1774,
+      "height": 887,
+      "bytes": 80096
+    },
+    {
+      "hero": "tools",
+      "file": "assets/images/heroes/tools/hero-mobile.webp",
+      "width": 900,
+      "height": 1400,
+      "bytes": 33444
+    },
+    {
+      "hero": "tools",
+      "file": "assets/images/heroes/tools/hero-qhd.webp",
+      "width": 2560,
+      "height": 1440,
+      "bytes": 97884
+    },
+    {
+      "hero": "tools",
+      "file": "assets/images/heroes/tools/hero-tablet.webp",
+      "width": 1536,
+      "height": 2048,
+      "bytes": 65312
+    },
+    {
+      "hero": "visualizer",
+      "file": "assets/images/heroes/visualizer/hero-4k.webp",
+      "width": 3840,
+      "height": 2160,
+      "bytes": 129946
+    },
+    {
+      "hero": "visualizer",
+      "file": "assets/images/heroes/visualizer/hero-desktop.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 58966
+    },
+    {
+      "hero": "visualizer",
+      "file": "assets/images/heroes/visualizer/hero-master.webp",
+      "width": 1918,
+      "height": 820,
+      "bytes": 64394
+    },
+    {
+      "hero": "visualizer",
+      "file": "assets/images/heroes/visualizer/hero-mobile.webp",
+      "width": 900,
+      "height": 1400,
+      "bytes": 29154
+    },
+    {
+      "hero": "visualizer",
+      "file": "assets/images/heroes/visualizer/hero-qhd.webp",
+      "width": 2560,
+      "height": 1440,
+      "bytes": 84190
+    },
+    {
+      "hero": "visualizer",
+      "file": "assets/images/heroes/visualizer/hero-tablet.webp",
+      "width": 1536,
+      "height": 2048,
+      "bytes": 55836
+    }
+  ]
+}

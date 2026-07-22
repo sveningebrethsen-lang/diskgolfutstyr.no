@@ -26,7 +26,13 @@
 
   <main>
     <section class="hero home-hero">
-      <img class="hero-banner" src="assets/images/home/hero-discgolfutstyr.webp" width="1672" height="941" alt="Diskgolfspiller på norsk skogsbane ved solnedgang" fetchpriority="high" decoding="async">
+      <picture class="home-hero-media">
+        <source media="(min-width: 3000px)" srcset="/assets/images/heroes/home/hero-4k.webp">
+        <source media="(min-width: 1920px)" srcset="/assets/images/heroes/home/hero-qhd.webp">
+        <source media="(min-width: 1024px)" srcset="/assets/images/heroes/home/hero-desktop.webp">
+        <source media="(min-width: 768px)" srcset="/assets/images/heroes/home/hero-tablet.webp">
+                <img class="hero-banner" src="/assets/images/heroes/home/hero-mobile.webp" width="900" height="608" alt="Diskgolfspiller på norsk skogsbane ved solnedgang" fetchpriority="high" decoding="async">
+      </picture>
       <div class="hero-inner home-hero-inner">
         <div class="hero-content">
           <p class="eyebrow">Den norske kunnskapsportalen for discgolf</p>

@@ -26,7 +26,15 @@
 
   <main>
     <section class="page-hero hub-hero hub-hero-tools">
-      <div class="container">
+      <picture class="hero-media" aria-hidden="true">
+        <source media="(min-width: 3000px)" srcset="/assets/images/heroes/tools/hero-4k.webp">
+        <source media="(min-width: 1920px)" srcset="/assets/images/heroes/tools/hero-qhd.webp">
+        <source media="(min-width: 1024px)" srcset="/assets/images/heroes/tools/hero-desktop.webp">
+        <source media="(min-width: 768px)" srcset="/assets/images/heroes/tools/hero-tablet.webp">
+        <img src="/assets/images/heroes/tools/hero-mobile.webp" width="900" height="1400" alt="" loading="eager" decoding="async">
+      </picture>
+      <div class="hero-overlay" aria-hidden="true"></div>
+      <div class="container hero-content">
         <p class="eyebrow">Verktøy</p>
         <h1>Discgolf-verktøy</h1>
         <p class="lead">Praktiske, gratis hjelpemidler for deg som vil velge riktigere disk og forstå hvordan kast, stabilitet og teknikk henger sammen.</p>

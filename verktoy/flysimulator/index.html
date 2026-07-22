@@ -27,7 +27,15 @@
 
   <main>
     <section class="page-hero hub-hero hub-hero-visualizer">
-      <div class="container">
+      <picture class="hero-media" aria-hidden="true">
+        <source media="(min-width: 3000px)" srcset="/assets/images/heroes/visualizer/hero-4k.webp">
+        <source media="(min-width: 1920px)" srcset="/assets/images/heroes/visualizer/hero-qhd.webp">
+        <source media="(min-width: 1024px)" srcset="/assets/images/heroes/visualizer/hero-desktop.webp">
+        <source media="(min-width: 768px)" srcset="/assets/images/heroes/visualizer/hero-tablet.webp">
+        <img src="/assets/images/heroes/visualizer/hero-mobile.webp" width="900" height="1400" alt="" loading="eager" decoding="async">
+      </picture>
+      <div class="hero-overlay" aria-hidden="true"></div>
+      <div class="container hero-content">
         <p class="eyebrow">Verktøy</p>
         <h1>Flight Visualizer</h1>
         <p class="lead">Se hvordan flight-tall påvirker flyvebanen. Flyvebanen er forenklet og laget for rask forståelse.</p>
