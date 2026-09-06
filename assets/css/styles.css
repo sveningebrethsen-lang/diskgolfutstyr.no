@@ -46,8 +46,9 @@ html {
   background: var(--color-page-background);
   color-scheme: light;
   scroll-behavior: smooth;
+  scroll-padding-top: calc(var(--header-height, 90px) + 12px);
   -webkit-text-size-adjust: 100%;
-  overflow-x: hidden;
+  overflow-x: clip;
 }
 
 body {
@@ -58,7 +59,7 @@ body {
   font-size: 16px;
   line-height: 1.7;
   text-rendering: optimizeLegibility;
-  overflow-x: hidden;
+  overflow-x: clip;
 }
 
 a {
@@ -139,9 +140,8 @@ p {
   top: 0;
   z-index: 50;
   border-bottom: 1px solid rgba(28, 28, 28, 0.11);
-  background: rgba(244, 241, 235, 0.92);
-  backdrop-filter: blur(18px);
-  box-shadow: 0 10px 30px rgba(28, 28, 28, 0.07);
+  background: var(--color-page-background);
+  padding-top: env(safe-area-inset-top, 0px);
 }
 
 .nav-wrap {
@@ -1606,10 +1606,6 @@ dd {
   line-height: 1.78;
 }
 
-.article-body section {
-  scroll-margin-top: 96px;
-}
-
 .article-body h2 {
   padding-top: 8px;
   text-wrap: balance;
@@ -1637,7 +1633,7 @@ dd {
 
 .toc {
   position: sticky;
-  top: 104px;
+  top: calc(var(--header-height, 90px) + 12px);
   padding: 18px;
 }
 
@@ -1789,7 +1785,7 @@ dd {
     position: absolute;
     left: 16px;
     right: 16px;
-    top: 74px;
+    top: calc(100% + 8px);
     display: none;
     flex-direction: column;
     align-items: stretch;
@@ -1799,11 +1795,18 @@ dd {
     border-radius: 16px;
     background: var(--color-surface);
     box-shadow: var(--shadow-header);
-    overflow: hidden;
+    max-height: calc(100vh - var(--header-height, 90px) - 24px);
+    max-height: calc(100dvh - var(--header-height, 90px) - 24px - env(safe-area-inset-bottom, 0px));
+    overflow-y: auto;
+    overscroll-behavior: contain;
   }
 
   .nav[data-open] {
     display: flex;
+  }
+
+  html.menu-open {
+    overflow: hidden;
   }
 
   .nav a {

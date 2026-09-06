@@ -190,17 +190,47 @@ async function renderContentRoadmap() {
 function initMenu() {
   const button = document.querySelector("[data-menu-button]");
   const nav = document.querySelector("[data-nav]");
-  if (!button || !nav) return;
+  const header = document.querySelector(".site-header");
+  if (!button || !nav || !header) return;
+
+  const mobile = window.matchMedia("(max-width: 980px)");
+  const background = Array.from(document.body.children).filter((element) =>
+    element !== header && !["SCRIPT", "STYLE", "LINK"].includes(element.tagName)
+  );
+  const previousInert = new Map();
+  nav.id ||= "main-navigation";
+  button.setAttribute("aria-controls", nav.id);
+
+  // Measure only when the header changes size, never on scroll.
+  const updateOffset = () => document.documentElement.style.setProperty(
+    "--header-height", `${header.getBoundingClientRect().height}px`
+  );
+  updateOffset();
+  new ResizeObserver(updateOffset).observe(header);
 
   const setMenu = (isOpen) => {
+    isOpen = isOpen && mobile.matches;
     button.setAttribute("aria-expanded", String(isOpen));
     button.setAttribute("aria-label", isOpen ? "Lukk meny" : "Åpne meny");
     button.textContent = isOpen ? "Lukk" : "Meny";
     nav.toggleAttribute("data-open", isOpen);
-    document.body.classList.toggle("menu-open", isOpen);
+    document.documentElement.classList.toggle("menu-open", isOpen);
+    background.forEach((element) => {
+      if (isOpen) {
+        if (!previousInert.has(element)) previousInert.set(element, element.inert);
+        element.inert = true;
+      } else if (previousInert.has(element)) {
+        element.inert = previousInert.get(element);
+      }
+    });
+    if (!isOpen) previousInert.clear();
   };
 
-  const closeMenu = () => setMenu(false);
+  const closeMenu = () => {
+    const wasOpen = button.getAttribute("aria-expanded") === "true";
+    setMenu(false);
+    if (wasOpen && mobile.matches) button.focus({ preventScroll: true });
+  };
 
   button.addEventListener("click", () => {
     const isOpen = button.getAttribute("aria-expanded") === "true";
@@ -218,8 +248,27 @@ function initMenu() {
   });
 
   document.addEventListener("keydown", (event) => {
-    if (event.key === "Escape") closeMenu();
+    if (button.getAttribute("aria-expanded") !== "true") return;
+    if (event.key === "Escape") {
+      event.preventDefault();
+      closeMenu();
+    }
+    if (event.key === "Tab") {
+      const items = Array.from(header.querySelectorAll("a[href], button"));
+      const first = items[0];
+      const last = items[items.length - 1];
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus({ preventScroll: true });
+        nav.scrollTop = nav.scrollHeight;
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus({ preventScroll: true });
+      }
+    }
   });
+  mobile.addEventListener("change", closeMenu);
+  window.addEventListener("pagehide", () => setMenu(false));
 }
 
 function initCurrentNav() {
