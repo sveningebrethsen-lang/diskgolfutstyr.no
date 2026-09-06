@@ -4822,287 +4822,287 @@ Noen placeholders er bevisste, særlig affiliate-lenker som ikke er aktivert enn
 | href="#" | docs/placeholder-report.md:4818 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
 | href="#" | docs/placeholder-report.md:4819 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
 | href="#" | docs/placeholder-report.md:4820 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7325 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7326 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7342 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7350 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7351 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7352 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7353 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7354 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7355 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7356 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7357 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7358 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7359 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7360 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7361 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7362 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7363 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7364 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7365 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7366 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7367 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7368 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7369 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7370 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7371 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7372 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7373 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7374 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7375 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7376 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7377 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7378 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7379 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7380 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7381 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7382 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7383 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7384 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7392 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7404 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7407 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7408 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7409 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7412 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7415 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7416 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7417 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7418 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7419 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7420 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7421 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7422 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7423 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7424 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7425 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7426 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7427 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7428 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7429 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7430 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7431 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7432 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7433 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7434 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7435 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7436 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7437 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7438 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7439 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7440 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7441 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7442 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7443 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7444 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7445 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7446 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7447 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7448 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7449 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7450 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7451 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7452 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7453 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7454 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7455 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7456 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7457 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7458 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7459 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7460 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| href="#" | docs/placeholder-report.md:7461 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4821 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4822 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4823 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4824 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4825 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4826 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4827 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4828 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4829 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4830 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4831 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4832 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4833 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4834 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4835 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4836 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4837 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4838 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4839 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4840 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4841 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4842 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4843 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4844 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4845 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4846 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4847 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4848 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4849 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4850 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4851 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4852 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4853 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4854 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4855 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4856 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4857 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4858 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4859 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4860 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4861 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4862 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4863 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4864 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4865 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4866 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4867 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4868 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4869 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4870 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4871 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4872 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4873 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4874 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4875 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4876 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4877 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4878 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4879 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4880 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4881 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4882 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4883 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4884 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4885 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4886 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4887 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4888 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4889 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4890 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4891 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4892 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4893 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4894 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4895 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4896 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4897 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4898 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4899 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4900 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4901 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4902 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4903 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4904 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4905 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4906 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4907 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4908 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4909 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4910 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4911 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4912 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4913 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4914 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4915 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4916 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4917 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4918 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4919 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4920 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4921 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4922 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4923 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4924 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4925 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4926 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4927 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4928 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4929 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4930 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4931 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4932 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4933 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4934 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4935 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4936 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4937 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4938 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4939 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4940 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4941 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4942 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4943 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4944 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4945 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4946 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4947 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4948 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4949 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4950 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4951 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4952 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4953 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4954 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4955 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4956 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4957 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4958 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4959 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4960 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4961 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4962 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4963 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4964 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4965 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4966 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4967 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4968 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4969 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4970 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4971 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4972 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4973 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4974 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4975 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4976 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4977 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4978 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4979 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4980 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4981 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4982 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4983 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4984 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4985 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4986 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4987 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4988 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4989 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4990 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4991 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4992 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4993 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4994 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4995 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4996 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4997 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4998 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:4999 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:5000 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:5001 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:5002 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:5003 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:5004 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:5005 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:5006 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:5007 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:5008 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:5009 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:5010 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4821 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4822 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4823 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4824 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4825 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4826 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4827 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4828 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4829 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4830 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4831 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4832 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4833 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4834 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4835 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4836 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4837 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4838 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4839 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4840 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4841 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4842 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4843 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4844 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4845 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4846 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4847 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4848 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4849 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4850 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4851 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4852 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4853 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4854 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4855 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4856 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4857 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4858 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4859 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4860 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4861 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4862 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4863 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4864 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4865 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4866 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4867 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4868 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4869 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4870 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4871 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4872 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4873 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4874 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4875 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4876 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4877 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4878 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4879 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4880 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4881 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4882 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4883 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4884 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4885 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4886 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4887 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4888 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4889 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4890 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4891 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4892 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4893 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4894 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4895 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4896 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4897 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4898 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4899 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4900 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4901 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4902 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4903 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4904 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4905 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4906 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4907 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4908 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4909 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4910 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4911 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4912 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4913 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4914 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4915 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4916 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4917 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4918 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4919 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4920 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4921 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4922 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4923 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4924 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4925 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4926 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4927 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4928 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4929 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4930 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4931 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4932 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4933 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4934 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4935 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4936 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4937 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4938 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4939 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4940 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4941 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4942 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4943 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4944 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4945 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4946 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4947 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4948 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4949 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4950 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4951 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4952 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4953 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4954 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4955 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4956 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4957 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4958 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4959 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4960 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4961 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4962 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4963 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4964 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4965 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4966 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4967 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4968 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4969 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4970 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4971 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4972 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4973 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4974 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4975 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4976 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4977 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4978 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4979 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4980 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4981 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4982 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4983 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4984 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4985 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4986 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4987 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4988 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4989 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4990 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4991 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4992 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4993 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4994 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4995 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4996 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4997 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4998 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:4999 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:5000 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:5001 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:5002 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:5003 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:5004 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:5005 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:5006 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:5007 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:5008 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:5009 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:5010 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7625 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7626 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7642 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7650 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7651 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7652 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7653 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7654 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7655 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7656 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7657 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7658 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7659 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7660 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7661 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7662 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7663 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7664 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7665 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7666 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7667 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7668 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7669 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7670 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7671 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7672 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7673 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7674 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7675 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7676 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7677 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7678 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7679 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7680 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7681 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7682 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7683 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7684 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7692 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7704 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7707 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7708 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7709 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7712 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7715 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7716 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7717 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7718 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7719 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7720 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7721 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7722 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7723 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7724 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7725 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7726 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7727 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7728 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7729 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7730 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7731 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7732 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7733 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7734 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7735 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7736 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7737 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7738 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7739 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7740 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7741 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7742 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7743 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7744 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7745 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7746 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7747 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7748 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7749 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7750 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7751 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7752 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7753 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7754 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7755 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7756 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7757 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7758 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7759 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7760 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
+| href="#" | docs/placeholder-report.md:7761 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
 | TODO | docs/placeholder-report.md:5011 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
 | TODO | docs/placeholder-report.md:5012 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
 | TODO | docs/placeholder-report.md:5013 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
@@ -5161,211 +5161,211 @@ Noen placeholders er bevisste, særlig affiliate-lenker som ikke er aktivert enn
 | TODO | docs/placeholder-report.md:5066 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
 | TODO | docs/placeholder-report.md:5067 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
 | TODO | docs/placeholder-report.md:5068 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:7327 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:7385 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:7386 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:7393 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TODO | docs/placeholder-report.md:7410 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5069 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5070 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5071 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5072 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5073 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5074 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5075 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5076 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5077 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5078 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5079 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5080 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5081 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5082 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5083 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5084 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5085 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5086 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5087 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5088 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5089 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5090 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5091 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5092 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5093 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5094 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5095 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5096 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5097 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5098 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5099 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5100 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5101 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5102 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5103 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5104 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5105 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5106 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5107 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5108 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5109 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5110 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5111 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5112 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5113 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5114 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5115 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5116 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5117 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5118 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5119 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5120 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5121 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5122 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5123 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5124 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5125 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5126 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5127 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5128 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5129 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5130 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5131 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5132 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5133 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5134 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5135 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5136 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5137 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5138 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5139 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5140 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5141 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5142 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5143 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5144 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5145 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5146 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5147 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5148 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5149 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5150 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5151 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5152 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5153 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5154 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5155 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5156 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5157 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5158 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5159 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5160 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5161 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5162 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5163 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5164 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5165 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5166 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5167 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5168 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5169 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5170 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5171 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5172 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5173 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5174 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5175 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5176 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5177 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5178 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5179 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5180 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5181 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5182 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5183 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5184 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5185 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5186 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5187 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5188 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5189 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5190 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5191 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5192 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5193 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5194 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5195 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5196 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5197 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5198 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5199 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5200 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5201 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5202 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5203 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5204 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5205 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5206 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5207 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5208 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5209 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5210 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5211 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5212 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5213 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5214 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5215 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5216 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5217 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5218 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5219 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5220 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5221 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5222 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5223 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5224 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5225 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5226 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5227 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5228 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5229 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5230 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5231 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5232 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5233 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5234 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5235 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5236 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5237 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5238 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5239 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5240 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5241 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5242 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5243 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5244 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5245 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5246 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5247 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5248 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5249 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5250 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5251 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5252 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5253 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5254 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5255 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5256 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5257 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5258 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5259 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5260 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5261 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5262 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5263 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5264 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5265 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5266 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5267 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:5268 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5069 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5070 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5071 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5072 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5073 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5074 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5075 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5076 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5077 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5078 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5079 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5080 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5081 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5082 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5083 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5084 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5085 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5086 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5087 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5088 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5089 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5090 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5091 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5092 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5093 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5094 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5095 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5096 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5097 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5098 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5099 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5100 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5101 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5102 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5103 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5104 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5105 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5106 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5107 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5108 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5109 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5110 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5111 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5112 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5113 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5114 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5115 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5116 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5117 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5118 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5119 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5120 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5121 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5122 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5123 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5124 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5125 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5126 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5127 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5128 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5129 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5130 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5131 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5132 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5133 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5134 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5135 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5136 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5137 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5138 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5139 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5140 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5141 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5142 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5143 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5144 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5145 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5146 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5147 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5148 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5149 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5150 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5151 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5152 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5153 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5154 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5155 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5156 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5157 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5158 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5159 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5160 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5161 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5162 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5163 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5164 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5165 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5166 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5167 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5168 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5169 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5170 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5171 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5172 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5173 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5174 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5175 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5176 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5177 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5178 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5179 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5180 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5181 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5182 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5183 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5184 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5185 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5186 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5187 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5188 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5189 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5190 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5191 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5192 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5193 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5194 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5195 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5196 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5197 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5198 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5199 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5200 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5201 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5202 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5203 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5204 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5205 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5206 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5207 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5208 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5209 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5210 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5211 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5212 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5213 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5214 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5215 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5216 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5217 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5218 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5219 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5220 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5221 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5222 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5223 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5224 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5225 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5226 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5227 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5228 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5229 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5230 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5231 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5232 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5233 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5234 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5235 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5236 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5237 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5238 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5239 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5240 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5241 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5242 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5243 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5244 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5245 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5246 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5247 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5248 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5249 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5250 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5251 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5252 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5253 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5254 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5255 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5256 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5257 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5258 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5259 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5260 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5261 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5262 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5263 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5264 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5265 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5266 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5267 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:5268 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:7627 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:7685 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:7686 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:7693 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TODO | docs/placeholder-report.md:7710 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
 | FIXME | docs/placeholder-report.md:5269 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
 | FIXME | docs/placeholder-report.md:5270 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
 | FIXME | docs/placeholder-report.md:5271 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
@@ -5414,11 +5414,221 @@ Noen placeholders er bevisste, særlig affiliate-lenker som ikke er aktivert enn
 | FIXME | docs/placeholder-report.md:5314 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
 | FIXME | docs/placeholder-report.md:5315 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
 | FIXME | docs/placeholder-report.md:5316 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:7328 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:7387 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:7388 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:7394 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| FIXME | docs/placeholder-report.md:7411 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5317 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5318 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5319 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5320 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5321 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5322 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5323 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5324 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5325 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5326 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5327 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5328 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5329 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5330 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5331 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5332 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5333 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5334 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5335 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5336 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5337 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5338 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5339 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5340 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5341 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5342 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5343 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5344 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5345 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5346 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5347 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5348 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5349 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5350 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5351 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5352 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5353 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5354 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5355 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5356 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5357 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5358 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5359 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5360 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5361 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5362 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5363 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5364 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5365 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5366 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5367 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5368 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5369 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5370 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5371 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5372 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5373 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5374 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5375 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5376 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5377 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5378 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5379 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5380 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5381 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5382 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5383 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5384 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5385 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5386 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5387 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5388 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5389 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5390 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5391 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5392 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5393 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5394 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5395 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5396 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5397 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5398 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5399 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5400 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5401 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5402 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5403 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5404 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5405 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5406 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5407 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5408 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5409 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5410 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5411 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5412 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5413 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5414 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5415 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5416 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5417 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5418 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5419 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5420 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5421 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5422 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5423 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5424 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5425 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5426 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5427 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5428 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5429 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5430 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5431 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5432 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5433 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5434 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5435 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5436 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5437 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5438 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5439 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5440 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5441 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5442 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5443 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5444 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5445 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5446 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5447 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5448 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5449 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5450 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5451 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5452 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5453 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5454 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5455 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5456 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5457 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5458 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5459 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5460 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5461 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5462 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5463 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5464 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5465 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5466 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5467 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5468 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5469 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5470 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5471 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5472 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5473 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5474 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5475 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5476 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5477 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5478 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5479 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5480 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5481 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5482 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5483 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5484 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5485 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5486 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5487 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5488 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5489 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5490 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5491 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5492 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5493 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5494 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5495 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5496 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5497 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5498 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5499 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5500 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5501 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5502 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5503 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5504 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5505 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5506 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5507 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5508 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5509 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5510 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5511 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5512 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5513 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5514 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5515 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5516 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5517 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5518 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5519 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5520 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5521 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5522 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5523 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5524 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5525 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:5526 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:7628 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:7687 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:7688 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:7694 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| FIXME | docs/placeholder-report.md:7711 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
 | KOMMER | docs/placeholder-report.md:9 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
 | KOMMER | docs/placeholder-report.md:10 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
 | KOMMER | docs/placeholder-report.md:11 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
@@ -5426,216 +5636,6 @@ Noen placeholders er bevisste, særlig affiliate-lenker som ikke er aktivert enn
 | KOMMER | docs/placeholder-report.md:38 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
 | KOMMER | docs/placeholder-report.md:41 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
 | KOMMER | docs/placeholder-report.md:42 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5317 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5318 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5319 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5320 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5321 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5322 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5323 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5324 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5325 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5326 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5327 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5328 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5329 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5330 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5331 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5332 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5333 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5334 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5335 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5336 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5337 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5338 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5339 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5340 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5341 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5342 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5343 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5344 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5345 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5346 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5347 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5348 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5349 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5350 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5351 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5352 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5353 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5354 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5355 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5356 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5357 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5358 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5359 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5360 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5361 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5362 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5363 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5364 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5365 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5366 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5367 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5368 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5369 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5370 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5371 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5372 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5373 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5374 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5375 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5376 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5377 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5378 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5379 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5380 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5381 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5382 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5383 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5384 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5385 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5386 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5387 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5388 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5389 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5390 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5391 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5392 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5393 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5394 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5395 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5396 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5397 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5398 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5399 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5400 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5401 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5402 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5403 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5404 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5405 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5406 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5407 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5408 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5409 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5410 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5411 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5412 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5413 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5414 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5415 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5416 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5417 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5418 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5419 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5420 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5421 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5422 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5423 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5424 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5425 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5426 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5427 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5428 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5429 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5430 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5431 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5432 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5433 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5434 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5435 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5436 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5437 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5438 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5439 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5440 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5441 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5442 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5443 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5444 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5445 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5446 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5447 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5448 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5449 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5450 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5451 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5452 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5453 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5454 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5455 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5456 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5457 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5458 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5459 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5460 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5461 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5462 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5463 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5464 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5465 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5466 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5467 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5468 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5469 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5470 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5471 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5472 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5473 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5474 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5475 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5476 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5477 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5478 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5479 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5480 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5481 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5482 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5483 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5484 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5485 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5486 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5487 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5488 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5489 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5490 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5491 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5492 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5493 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5494 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5495 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5496 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5497 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5498 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5499 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5500 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5501 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5502 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5503 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5504 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5505 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5506 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5507 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5508 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5509 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5510 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5511 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5512 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5513 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5514 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5515 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5516 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5517 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5518 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5519 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5520 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5521 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5522 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5523 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5524 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5525 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:5526 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
 | KOMMER | docs/placeholder-report.md:5527 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
 | KOMMER | docs/placeholder-report.md:5528 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
 | KOMMER | docs/placeholder-report.md:5529 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
@@ -6950,528 +6950,828 @@ Noen placeholders er bevisste, særlig affiliate-lenker som ikke er aktivert enn
 | KOMMER | docs/placeholder-report.md:6838 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
 | KOMMER | docs/placeholder-report.md:6839 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
 | KOMMER | docs/placeholder-report.md:6840 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7329 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7330 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7331 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7332 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7333 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7334 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7335 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7336 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7337 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7338 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7339 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7340 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7341 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7343 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7344 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7345 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7346 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7347 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7348 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7349 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7389 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7395 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7403 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7405 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7406 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7413 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7414 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| KOMMER | docs/placeholder-report.md:7462 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6841 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6842 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6843 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6844 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6845 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6846 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6847 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6848 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6849 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6850 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6851 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6852 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6853 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6854 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6855 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6856 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6857 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6858 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6859 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6860 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6861 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6862 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6863 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6864 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6865 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6866 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6867 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6868 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6869 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6870 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6871 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6872 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6873 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6874 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6875 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6876 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6877 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6878 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6879 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6880 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6881 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6882 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6883 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6884 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6885 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6886 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6887 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6888 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6889 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:6890 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| TBD | docs/placeholder-report.md:7396 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6891 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6892 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6893 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6894 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6895 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6896 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6897 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6898 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6899 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6900 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6901 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6902 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6903 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6904 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6905 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6906 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6907 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6908 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6909 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6910 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6911 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6912 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6913 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6914 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6915 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6916 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6917 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6918 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6919 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6920 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6921 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6922 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6923 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6924 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6925 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6926 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6927 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6928 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6929 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6930 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6931 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6932 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6933 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6934 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6935 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6936 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6937 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6938 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6939 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6940 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6941 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6942 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6943 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6944 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6945 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6946 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6947 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6948 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6949 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6950 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6951 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6952 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6953 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6954 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6955 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6956 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6957 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6958 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6959 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6960 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6961 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6962 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6963 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6964 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6965 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6966 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6967 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6968 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6969 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6970 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6971 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6972 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6973 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6974 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6975 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6976 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6977 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6978 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6979 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6980 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6981 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6982 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6983 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6984 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6985 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6986 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6987 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6988 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6989 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6990 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6991 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6992 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6993 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6994 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6995 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6996 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6997 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6998 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:6999 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7000 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7001 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7002 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7003 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7004 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7005 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7006 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7007 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7008 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7009 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7010 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7011 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7012 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7013 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7014 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7015 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7016 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7017 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7018 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7019 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7020 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7021 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7022 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7023 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7024 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7025 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7026 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7027 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7028 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7029 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7030 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7031 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7032 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7033 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7034 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7035 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7036 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7037 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7038 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7039 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7040 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7041 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7042 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7043 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7044 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7045 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7046 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7047 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7048 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7049 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7050 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7051 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7052 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7053 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7054 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7055 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7056 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7057 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7058 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7059 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7060 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7061 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7062 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7063 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7064 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7065 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7066 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7067 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7068 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7069 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7070 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7071 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7072 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7073 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7074 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7075 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7076 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7077 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7078 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7079 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7080 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7081 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7082 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7083 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7084 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7085 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7086 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7087 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7088 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7390 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7391 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7397 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| Lorem ipsum | docs/placeholder-report.md:7398 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7089 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7090 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7091 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7092 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7093 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7094 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7095 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7096 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7097 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7098 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7099 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7100 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7101 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7102 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7103 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7104 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7105 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7106 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7107 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7108 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7109 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7110 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7111 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7112 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7113 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7114 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7115 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7116 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7117 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7118 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7119 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7120 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7121 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7122 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7123 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7124 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7125 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7126 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7127 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7128 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7129 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7130 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7131 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7132 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7133 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7134 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7135 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7136 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7137 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7138 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7139 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7140 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7141 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7142 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7143 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7144 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7145 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7146 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7147 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7148 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7149 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7150 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7151 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7152 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7153 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7154 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7155 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7156 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7157 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7158 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7159 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7160 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7161 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7162 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7163 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7164 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7165 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7166 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7167 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7168 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7169 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7170 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7171 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7172 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7173 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7174 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7175 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7176 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7177 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7178 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7179 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7180 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7181 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7182 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7183 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7184 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7185 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7186 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7187 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
-| kilde mangler | docs/placeholder-report.md:7188 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6841 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6842 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6843 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6844 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6845 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6846 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6847 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6848 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6849 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6850 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6851 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6852 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6853 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6854 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6855 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6856 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6857 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6858 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6859 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6860 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6861 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6862 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6863 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6864 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6865 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6866 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6867 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6868 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6869 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6870 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6871 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6872 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6873 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6874 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6875 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6876 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6877 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6878 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6879 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6880 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6881 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6882 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6883 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6884 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6885 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6886 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6887 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6888 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6889 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6890 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6891 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6892 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6893 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6894 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6895 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6896 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6897 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6898 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6899 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6900 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6901 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6902 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6903 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6904 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6905 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6906 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6907 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6908 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6909 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6910 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6911 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6912 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6913 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6914 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6915 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6916 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6917 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6918 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6919 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6920 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6921 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6922 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6923 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6924 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6925 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6926 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6927 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6928 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6929 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6930 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6931 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6932 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6933 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6934 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6935 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6936 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6937 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6938 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6939 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6940 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6941 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6942 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6943 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6944 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6945 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6946 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6947 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6948 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6949 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6950 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6951 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6952 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6953 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6954 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6955 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6956 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6957 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6958 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6959 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6960 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6961 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6962 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6963 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6964 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6965 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6966 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6967 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6968 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6969 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6970 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6971 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6972 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6973 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6974 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6975 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6976 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6977 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6978 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6979 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6980 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6981 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6982 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6983 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6984 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6985 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6986 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6987 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6988 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6989 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6990 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6991 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6992 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6993 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6994 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6995 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6996 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6997 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6998 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:6999 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7000 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7001 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7002 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7003 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7004 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7005 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7006 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7007 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7008 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7009 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7010 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7011 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7012 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7013 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7014 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7015 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7016 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7017 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7018 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7019 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7020 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7021 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7022 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7023 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7024 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7025 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7026 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7027 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7028 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7029 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7030 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7031 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7032 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7033 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7034 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7035 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7036 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7037 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7038 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7039 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7040 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7041 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7042 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7043 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7044 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7045 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7046 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7047 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7048 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7049 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7050 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7051 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7052 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7053 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7054 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7055 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7056 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7057 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7058 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7059 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7060 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7061 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7062 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7063 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7064 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7065 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7066 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7067 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7068 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7069 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7070 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7071 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7072 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7073 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7074 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7075 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7076 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7077 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7078 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7079 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7080 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7081 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7082 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7083 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7084 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7085 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7086 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7087 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7088 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7089 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7090 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7091 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7092 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7093 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7094 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7095 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7096 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7097 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7098 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7099 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7100 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7101 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7102 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7103 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7104 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7105 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7106 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7107 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7108 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7109 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7110 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7111 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7112 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7113 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7114 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7115 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7116 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7117 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7118 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7119 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7120 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7629 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7630 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7631 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7632 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7633 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7634 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7635 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7636 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7637 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7638 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7639 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7640 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7641 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7643 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7644 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7645 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7646 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7647 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7648 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7649 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7689 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7695 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7703 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7705 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7706 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7713 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7714 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| KOMMER | docs/placeholder-report.md:7762 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7121 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7122 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7123 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7124 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7125 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7126 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7127 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7128 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7129 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7130 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7131 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7132 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7133 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7134 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7135 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7136 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7137 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7138 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7139 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7140 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7141 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7142 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7143 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7144 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7145 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7146 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7147 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7148 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7149 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7150 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7151 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7152 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7153 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7154 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7155 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7156 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7157 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7158 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7159 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7160 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7161 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7162 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7163 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7164 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7165 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7166 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7167 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7168 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7169 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7170 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7171 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7172 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| TBD | docs/placeholder-report.md:7696 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7173 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7174 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7175 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7176 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7177 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7178 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7179 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7180 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7181 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7182 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7183 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7184 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7185 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7186 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7187 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7188 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7189 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7190 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7191 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7192 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7193 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7194 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7195 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7196 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7197 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7198 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7199 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7200 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7201 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7202 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7203 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7204 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7205 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7206 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7207 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7208 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7209 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7210 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7211 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7212 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7213 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7214 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7215 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7216 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7217 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7218 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7219 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7220 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7221 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7222 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7223 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7224 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7225 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7226 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7227 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7228 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7229 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7230 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7231 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7232 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7233 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7234 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7235 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7236 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7237 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7238 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7239 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7240 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7241 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7242 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7243 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7244 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7245 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7246 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7247 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7248 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7249 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7250 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7251 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7252 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7253 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7254 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7255 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7256 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7257 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7258 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7259 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7260 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7261 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7262 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7263 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7264 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7265 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7266 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7267 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7268 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7269 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7270 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7271 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7272 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7273 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7274 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7275 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7276 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7277 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7278 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7279 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7280 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7281 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7282 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7283 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7284 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7285 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7286 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7287 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7288 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7289 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7290 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7291 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7292 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7293 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7294 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7295 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7296 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7297 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7298 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7299 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7300 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7301 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7302 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7303 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7304 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7305 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7306 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7307 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7308 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7309 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7310 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7311 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7312 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7313 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7314 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7315 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7316 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7317 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7318 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7319 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7320 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7321 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7322 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7323 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7324 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7325 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7326 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7327 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7328 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7329 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7330 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7331 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7332 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7333 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7334 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7335 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7336 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7337 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7338 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7339 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7340 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7341 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7342 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7343 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7344 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7345 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7346 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7347 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7348 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7349 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7350 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7351 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7352 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7353 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7354 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7355 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7356 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7357 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7358 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7359 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7360 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7361 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7362 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7363 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7364 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7365 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7366 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7367 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7368 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7369 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7370 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7371 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7372 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7373 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7374 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7375 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7376 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7377 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7378 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7690 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7691 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7697 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| Lorem ipsum | docs/placeholder-report.md:7698 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7379 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7380 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7381 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7382 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7383 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7384 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7385 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7386 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7387 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7388 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7389 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7390 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7391 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7392 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7393 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7394 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7395 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7396 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7397 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7398 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
 | kilde mangler | docs/placeholder-report.md:7399 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
 | kilde mangler | docs/placeholder-report.md:7400 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7401 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7402 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7403 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7404 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7405 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7406 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7407 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7408 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7409 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7410 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7411 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7412 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7413 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7414 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7415 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7416 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7417 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7418 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7419 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7420 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7421 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7422 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7423 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7424 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7425 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7426 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7427 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7428 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7429 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7430 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7431 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7432 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7433 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7434 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7435 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7436 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7437 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7438 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7439 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7440 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7441 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7442 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7443 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7444 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7445 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7446 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7447 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7448 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7449 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7450 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7451 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7452 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7453 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7454 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7455 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7456 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7457 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7458 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7459 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7460 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7461 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7462 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7463 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7464 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7465 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7466 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7467 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7468 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7469 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7470 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7471 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7472 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7473 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7474 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7475 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7476 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7477 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7478 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7479 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7480 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7481 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7482 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7699 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
+| kilde mangler | docs/placeholder-report.md:7700 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |
 | bilde mangler | docs/placeholder-report.md:40 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7189 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7190 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7191 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7192 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7193 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7194 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7195 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7196 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7197 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7198 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7199 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7200 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7201 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7202 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7203 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7204 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7205 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7206 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7207 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7208 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7209 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7210 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7211 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7212 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7213 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7214 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7215 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7216 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7217 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7218 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7219 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7220 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7221 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7222 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7223 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7224 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7225 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7226 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7227 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7228 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7229 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7230 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7231 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7232 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7233 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7234 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7235 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7236 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7237 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7238 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7239 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7240 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7241 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7242 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7243 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7244 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7245 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7246 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7247 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7248 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7249 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7250 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7251 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7252 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7253 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7254 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7255 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7256 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7257 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7258 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7259 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7260 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7261 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7262 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7263 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7264 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7265 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7266 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7267 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7268 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7269 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7270 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7271 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7272 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7273 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7274 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7275 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7276 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7277 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7278 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7279 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7280 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7281 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7282 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7283 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7284 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7285 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7286 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7287 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7288 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7289 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7290 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7291 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7292 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7293 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7294 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7295 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7296 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7297 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7298 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7299 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7300 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7301 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7302 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7303 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7304 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7305 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7306 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7307 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7308 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7309 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7310 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7311 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7312 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7313 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7314 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7315 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7316 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7317 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7318 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7319 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7320 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7321 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7322 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7323 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7324 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7401 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
-| bilde mangler | docs/placeholder-report.md:7402 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7483 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7484 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7485 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7486 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7487 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7488 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7489 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7490 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7491 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7492 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7493 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7494 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7495 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7496 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7497 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7498 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7499 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7500 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7501 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7502 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7503 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7504 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7505 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7506 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7507 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7508 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7509 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7510 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7511 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7512 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7513 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7514 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7515 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7516 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7517 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7518 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7519 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7520 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7521 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7522 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7523 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7524 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7525 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7526 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7527 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7528 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7529 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7530 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7531 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7532 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7533 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7534 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7535 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7536 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7537 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7538 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7539 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7540 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7541 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7542 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7543 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7544 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7545 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7546 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7547 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7548 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7549 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7550 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7551 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7552 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7553 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7554 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7555 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7556 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7557 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7558 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7559 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7560 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7561 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7562 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7563 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7564 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7565 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7566 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7567 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7568 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7569 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7570 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7571 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7572 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7573 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7574 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7575 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7576 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7577 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7578 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7579 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7580 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7581 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7582 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7583 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7584 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7585 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7586 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7587 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7588 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7589 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7590 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7591 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7592 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7593 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7594 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7595 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7596 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7597 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7598 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7599 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7600 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7601 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7602 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7603 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7604 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7605 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7606 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7607 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7608 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7609 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7610 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7611 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7612 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7613 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7614 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7615 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7616 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7617 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7618 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7619 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7620 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7621 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7622 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7623 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7624 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7701 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
+| bilde mangler | docs/placeholder-report.md:7702 | Placeholder/kontrollpunkt | Vurderes | Kontroller manuelt før publisering. |
 | href="#" | docs/product-content-guidelines.md:80 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
 | href="#" | docs/scripts.md:11 | Placeholder/kontrollpunkt | Nei, hvis bevisst affiliate-placeholder | Kontroller manuelt før publisering. |
 | TODO | docs/scripts.md:11 | Placeholder/kontrollpunkt | Ja | Kontroller manuelt før publisering. |

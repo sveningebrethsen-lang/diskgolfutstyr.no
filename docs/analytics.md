@@ -6,9 +6,9 @@ Fase 21A, stopp A: repoet er kontrollert fra UI-commit `071c9efaad8328b6e77ae023
 
 ## Status
 
-**Stopp B: Cloudflare Web Analytics er installert lokalt, med aktiv kode i repoet og eierens offisielle browser-side site-token.** Snippetet finnes én gang før `</body>` på hver av de 158 statiske HTML-sidene. Tokenet er offentlig klientkonfigurasjon, ikke en hemmelig API-nøkkel. GA4, GTM, Plausible og Umami er ikke installert.
+**Cloudflare Web Analytics er installert og publisert med commit `fbe4a9b6ac0ba1406ba614e1f142381fe910f856`.** Snippetet finnes én gang før `</body>` på hver av de 158 statiske HTML-sidene. Tokenet er offentlig klientkonfigurasjon, ikke en hemmelig API-nøkkel. GA4, GTM, Plausible og Umami er ikke installert.
 
-Endringen er ikke committet, pushet eller publisert i denne fasen. Installasjon i repoet bekrefter ikke at beaconen er live eller at Cloudflare har mottatt trafikk. Dashboard-data og domenematching må kontrolleres etter en senere godkjent publisering. Search Console-kontostatus er fortsatt uverifisert.
+Live-kontrollen i fase 21A bekreftet beacon HTTP 200 og innsamlingskall HTTP 204 på fem sider, uten konsollfeil. Eieren bekrefter i fase 22A, stopp C at trafikk vises i Cloudflare-dashboardet, og at Google Search Console Domain property er verifisert via DNS. Kontostatusen nedenfor bygger på eierens bekreftelse; agenten har ikke gjort en ny selvstendig dashboardkontroll.
 
 GitHub Pages kan fortsatt brukes. Cloudflare Web Analytics støtter manuell installasjon uten Cloudflare-proxy eller flytting av domenets DNS. [Offisiell oppsettveiledning](https://developers.cloudflare.com/web-analytics/get-started/).
 
@@ -49,13 +49,13 @@ Hvis vi senere trenger detaljert UTM-attribusjon, events eller funnels, skal GA4
 
 ## Google Search Console
 
-**Kontostatus er ikke verifisert.** Repoet har ingen Google verification-meta eller verifiseringsfil. Eksisterende planer i `search-console-plan.md` og et gyldig sitemap dokumenterer forberedelse, ikke at en Google-property er aktiv. Denne kontrollen har ikke åpnet eierens Google-konto eller endret DNS.
+**Domain property `diskgolfutstyr.no` er verifisert via DNS.** Eieren bekrefter i fase 22A, stopp C at DNS-verifisering er utført, `sitemap.xml` er sendt inn, og viktige URL-er er kontrollert og OK. Search Console behandler fortsatt data; ytelsesdata kan bruke tid på å bli tilgjengelige. Dette bekrefter ikke at alle nettstedets sider er indeksert. DNS-verifisering krever ingen verification-meta eller verifiseringsfil i repoet.
 
 Repoet inneholder `robots.txt` med `Allow: /` og `Sitemap: https://diskgolfutstyr.no/sitemap.xml`. Sitemapet skal valideres med prosjektets QA-script. Gyldige filer innebærer ikke at Google har indeksert sidene.
 
 Ved stopp A ble sitemap.xml lest som XML med 147 URL-er. Robots og sitemap er ikke endret. DNS-verifisering kan eksistere uten en fil eller meta-tag i repoet.
 
-Eierens manuelle kontroll:
+Ved senere manuell kontroll eller oppsett av en ny property:
 
 1. Åpne [Google Search Console](https://search.google.com/search-console/), og velg riktig property hvis den finnes.
 2. Kontroller **Innstillinger → Eierskapsbekreftelse**. Hvis property mangler, opprett en domene-property for `diskgolfutstyr.no`, og legg Googles eksakte TXT-post hos DNS-leverandøren. Ikke gjett verifiseringsverdien.
@@ -68,6 +68,39 @@ Eierens manuelle kontroll:
 9. Kontroller **Manual Actions / Manuelle tiltak** og **Security Issues / Sikkerhetsproblemer**. Noter dato og faktisk resultat; disse rapportene er ikke kontrollert i denne fasen.
 
 CTR er andelen visninger som gir klikk; gjennomsnittlig plassering er et aggregat og ikke en fast rangering. Search Console dekker Googles søkeresultater, ikke all trafikk fra sosiale medier, direkte lenker eller andre nettsteder. Enkelte søk anonymiseres, så søketabellen gir ikke nødvendigvis alle søk. [Googles veiledning til ytelsesrapporten](https://support.google.com/webmasters/answer/7576553?hl=en-GB).
+
+## Fase 21B – teknisk kontroll og oppdatert kontostatus
+
+Kontrollert 6. september 2026: forsiden, robots.txt og sitemap.xml svarer HTTP 200 over HTTPS og samsvarer med lokale filer. Forsidens canonical er `https://diskgolfutstyr.no/`. Robots tillater crawling og oppgir riktig sitemap. Sitemapet har 147 unike URL-er, alle under `https://diskgolfutstyr.no/`, med tilhørende lokale sider. Ingen gamle diskgolfguiden.no-adresser ble funnet i HTML, robots eller sitemap.
+
+Alle 11 hoved-/hero-sider ble kontrollert live: HTTP 200, riktig canonical, `index, follow` og ingen X-Robots-Tag som blokkerer indeksering. Ti eldre HTML-sider har eksisterende `noindex, follow`; dette gjelder ikke hovedsidene. Ingen indekseringsdirektiver er endret. Teknisk tilgjengelighet er ikke bevis på at Google har indeksert sidene.
+
+Ved agentens opprinnelige kontroll åpnet Search Console kun den offentlige innloggingsinngangen. Domain property og innsendt sitemap kunne da ikke bekreftes. Det tidligere DNS-oppslaget var heller ikke en bekreftelse på kontostatus.
+
+Oppdatert etter eierens bekreftelse i fase 22A, stopp C:
+
+- Domain property `diskgolfutstyr.no` er verifisert.
+- DNS-verifisering er utført.
+- `https://diskgolfutstyr.no/sitemap.xml` er sendt inn.
+- Viktige URL-er er kontrollert og OK.
+- Search Console behandler fortsatt data; ytelsesrapportene kan mangle data i starten.
+
+Videre oppfølging er å kontrollere behandlingsstatus og tilgjengelige rapporter når data foreligger. Ingen ny DNS- eller kontoendring er utført av agenten i denne sluttkontrollen.
+
+I URL Inspection kontrolleres først `/`, `/verktoy/`, `/verktoy/diskvelger/`, `/verktoy/flysimulator/`, `/utstyr/` og `/nybegynnerguide.html`. Noter for hver URL om den er kjent for Google og indeksert, brukerangitt og Google-valgt canonical, crawling tillatt og siste crawl når tilgjengelig. Be om indeksering bare for viktige nye/endrede sider ved konkret behov.
+
+## Ukentlig trafikkrutine
+
+Gjør én samlet gjennomgang hver uke. Bruk siste 7 dager mot foregående 7 dager når datagrunnlaget er tilstrekkelig; bruk 28-dagersperioder ved liten trafikk og for å vurdere retning. Unngå daglige endringer basert på små svingninger.
+
+| Verktøy | Kontroller og noter |
+|---|---|
+| Cloudflare Web Analytics | Visits, page views, utvikling over tid, mest besøkte sider og referrers |
+| Search Console | Total impressions, total clicks, CTR og average position for samme periode og søketype |
+| Search Console → Queries | Søk som gir visninger, søk som gir klikk, og endringer fra sammenligningsperioden |
+| Search Console → Pages | Landingssider med Google-trafikk og sider med økende visninger |
+
+Se etter muligheter med mange visninger og lav CTR, gjennomsnittlig posisjon 4–15, økende visninger og relevante søk der siden allerede vises, men ikke besvarer behovet godt nok. Vurder søkeintensjon og tilstrekkelig datamengde før tiltak; gjennomsnittsposisjon er ikke en fast rangering. Bruk land/enhet som filtre ved behov. Noter periode, observasjon og eventuelt ett prioritert tiltak, og vurder resultatet over flere uker.
 
 ## UTM-standard for eksterne kampanjelenker
 

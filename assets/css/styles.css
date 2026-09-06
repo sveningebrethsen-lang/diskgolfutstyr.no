@@ -433,10 +433,6 @@ p {
   padding: 38px 0 52px;
 }
 
-.home-popular .grid {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-}
-
 .section-head {
   display: flex;
   align-items: end;
@@ -2307,4 +2303,87 @@ dd {
   .feature-hero .home-updated { display: none; }
   .feature-hero-media img { border-radius: 12px; }
   .feature-hero + .section { padding-top: 24px; }
+}
+
+/* Content cards need readable columns, even when a narrow grid does not overflow. */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .grid,
+  .grid-2,
+  .product-grid,
+  .course-grid,
+  .roadmap-grid,
+  .journey-grid,
+  .home-choice-grid,
+  .home-topic-grid,
+  .quick-actions,
+  .flight-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .article-layout,
+  .visualizer-layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .article-body { max-width: 100%; }
+}
+
+@media (max-width: 767px) {
+  .grid,
+  .grid-2,
+  .product-grid,
+  .course-grid,
+  .roadmap-grid,
+  .journey-grid,
+  .home-topic-grid,
+  .flight-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 16px;
+  }
+
+  .section { padding: 36px 0; }
+  .home-nav-hub { padding: 24px 0; }
+  .home-popular { padding: 32px 0 36px; }
+  .feature-hero + .section { padding-top: 24px; }
+
+  .section-head,
+  .section-head.compact-head {
+    gap: 10px;
+    margin-bottom: 20px;
+    align-items: flex-start;
+  }
+
+  .section-head h2 { margin-bottom: 0; }
+  .section-head .eyebrow { margin-bottom: 8px; }
+  .section-head .text-link { white-space: normal; }
+  .content-flow { gap: 24px; }
+  .article-body { gap: 24px; }
+
+  .comparison:has(tr > :nth-child(3)) th,
+  .comparison:has(tr > :nth-child(3)) td {
+    min-width: 180px;
+  }
+
+  .home-nav-hub .home-choice-card {
+    min-height: 0;
+    padding: 16px;
+  }
+
+  .card,
+  .guide-card,
+  .tool-card { min-height: 0; }
+
+  .guide-card > a,
+  .card > a,
+  .section-head .text-link {
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+}
+
+@media (max-width: 479px) {
+  .home-choice-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 12px;
+  }
 }
