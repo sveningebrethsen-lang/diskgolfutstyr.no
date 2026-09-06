@@ -2,6 +2,8 @@
 
 Denne planen brukes etter lansering av Diskgolfutstyr.no.
 
+Kontostatus er ikke verifisert. Se [analytics.md](analytics.md) for nåværende status og eierens manuelle kontroll.
+
 ## Oppsett
 
 1. Legg til `diskgolfutstyr.no` i Google Search Console.
@@ -14,7 +16,7 @@ Denne planen brukes etter lansering av Diskgolfutstyr.no.
 
 1. Se etter 404-feil.
 2. Se etter sider som er oppdaget, men ikke indeksert.
-3. Sjekk mobilbrukervennlighet.
+3. Kontroller viktige sider på mobil og bruk URL-inspeksjon ved indekseringsproblemer.
 4. Sjekk Core Web Vitals når data finnes.
 5. Sjekk at canonical peker riktig.
 

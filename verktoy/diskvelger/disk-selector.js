@@ -125,7 +125,7 @@ function renderResult() {
         <div>
           <p class="eyebrow">Neste verktøy</p>
           <h3>Se hvordan denne typen disk flyr</h3>
-          <p>Flysimulatoren er ikke klar ennå, men strukturen er satt opp for å forklare speed, glide, turn, fade og kastvinkel.</p>
+          <p>Se anbefalingens flight-tall i simulatoren, og utforsk hvordan disken kan fly.</p>
         </div>
         <a class="button button-light" href="${escapeHtml(flightUrl)}">Åpne flysimulator</a>
       </section>

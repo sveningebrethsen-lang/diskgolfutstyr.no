@@ -1,6 +1,6 @@
 # Generert innholdskvalitetsrapport
 
-Generert: 2026-07-22
+Generert: 2026-09-06
 
 | Fil | Funn |
 |---|---|

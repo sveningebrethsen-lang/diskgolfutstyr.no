@@ -16,6 +16,7 @@ Sist oppdatert: 2026-06-03
 |---|---|
 | `seo-checklist.md` | Grunnleggende SEO-sjekk |
 | `search-console-plan.md` | Oppsett og bruk av Google Search Console |
+| `analytics.md` | Status, Cloudflare-oppsett, trafikkilder, Search Console og UTM-standard |
 | `monthly-seo-routine.md` | Månedlig SEO-arbeid |
 | `technical-seo-maintenance-report.md` | Funn fra teknisk SEO-kontroll |
 | `sitemap-robots-maintenance.md` | Vedlikehold av sitemap og robots |

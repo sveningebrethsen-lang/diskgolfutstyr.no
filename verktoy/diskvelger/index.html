@@ -26,16 +26,12 @@
   <header class="site-header"><div class="nav-wrap"><a class="brand" href="/index.html"><img src="/assets/Brand/zero-horizontal.svg" alt="Diskgolfutstyr"></a><button class="menu-button" type="button" aria-label="Åpne meny" aria-expanded="false" data-menu-button>Meny</button><nav class="nav" aria-label="Hovedmeny" data-nav><a href="/nybegynnerguide.html">Start her</a><a href="/utstyr/">Utstyr</a><a href="/teknikk/">Teknikk</a><a href="/regler.html">Regler</a><a href="/baner/">Baner</a><a href="/tester.html">Tester</a><a href="/artikler.html">Artikler</a></nav></div></header>
 
   <main>
-    <section class="page-hero hub-hero hub-hero-selector tool-hero">
-      <picture class="hero-media" aria-hidden="true">
-        <source media="(min-width: 3000px)" srcset="/assets/images/heroes/selector/hero-4k.webp">
-        <source media="(min-width: 1920px)" srcset="/assets/images/heroes/selector/hero-qhd.webp">
-        <source media="(min-width: 1024px)" srcset="/assets/images/heroes/selector/hero-desktop.webp">
-        <source media="(min-width: 768px)" srcset="/assets/images/heroes/selector/hero-tablet.webp">
-        <img src="/assets/images/heroes/selector/hero-mobile.webp" width="900" height="1400" alt="" loading="eager" decoding="async">
+    <section class="feature-hero feature-hero-selector">
+      <picture class="feature-hero-media" aria-hidden="true">
+        <source srcset="/assets/images/heroes/selector/hero-desktop.webp 1920w, /assets/images/heroes/selector/hero-qhd.webp 2560w, /assets/images/heroes/selector/hero-4k.webp 3840w" sizes="(min-width: 1840px) 986px, (min-width: 960px) 54vw, (min-width: 768px) 720px, calc(100vw - 32px)" width="1920" height="1080">
+        <img src="/assets/images/heroes/selector/hero-desktop.webp" width="1920" height="1080" alt="" fetchpriority="high" decoding="async">
       </picture>
-      <div class="hero-overlay" aria-hidden="true"></div>
-      <div class="container hero-content">
+      <div class="feature-hero-copy">
         <p class="eyebrow">Gratis verktøy</p>
         <h1>Diskvelger</h1>
         <p class="lead">Svar på fem spørsmål og få et praktisk forslag til diskkategori, flight numbers og hva du bør unngå akkurat nå.</p>
@@ -46,9 +42,27 @@
     <section class="section">
       <div class="container">
         <div class="tool-shell" data-disk-selector>
-          <noscript>
+          <noscript><style>[data-selector-initial] { display: none; }</style>
             <p class="notice">Diskvelgeren trenger JavaScript for å fungere. Du kan fortsatt lese guiden <a href="/guider/hvilken-discgolfdisk-skal-jeg-velge.html">hvilken discgolfdisk skal jeg velge</a>.</p>
           </noscript>
+
+          <!-- First step reserves the exact responsive layout before module startup. -->
+          <div data-selector-initial aria-hidden="true">
+            <div class="tool-progress" aria-label="Steg 1 av 5">
+              <div class="tool-progress-bar"><span style="width: 20%"></span></div>
+              <p>Steg 1 av 5</p>
+            </div>
+            <div class="tool-question">
+              <p class="eyebrow">Diskvelger</p>
+              <h2>Hvor mye har du spilt?</h2>
+              <p class="muted">Velg det som ligner mest på deg.</p>
+              <div class="choice-grid"><button class="choice-button" type="button" disabled>Aldri spilt</button><button class="choice-button" type="button" disabled>Nybegynner</button><button class="choice-button" type="button" disabled>Litt erfaring</button><button class="choice-button" type="button" disabled>Viderekommen</button><button class="choice-button" type="button" disabled>Erfaren</button></div>
+            </div>
+            <div class="tool-controls">
+              <button class="button button-light" type="button" disabled>Tilbake</button>
+              <button class="button" type="button" disabled>Neste</button>
+            </div>
+          </div>
         </div>
       </div>
     </section>
@@ -69,6 +83,6 @@
     </section>
   </main>
 
-  <footer class="site-footer"><div class="footer-inner"><div class="footer-brand"><img src="/assets/Brand/zero-horizontal.svg" alt="Diskgolfutstyr"><span>Praktiske guider for norske discgolfspillere.</span></div><div class="footer-links"><a href="/verktoy/">Verktøy</a><a href="/utstyr/beste-discgolfdisker-for-nybegynnere.html">Nybegynnerdisker</a><a href="/guider/backhand-for-nybegynnere.html">Backhand</a><a href="/guider/hvilken-discgolfdisk-skal-jeg-velge.html">Velge disk</a></div></div></footer>
+  <footer class="site-footer"><div class="footer-inner"><div class="footer-brand"><img src="/assets/Brand/zero-horizontal.svg" alt="Diskgolfutstyr"><span>Praktiske guider for norske discgolfspillere.</span></div><div class="footer-links"><a href="/affiliate-info.html">Åpenhet</a><a href="/verktoy/">Verktøy</a><a href="/utstyr/beste-discgolfdisker-for-nybegynnere.html">Nybegynnerdisker</a><a href="/guider/backhand-for-nybegynnere.html">Backhand</a><a href="/guider/hvilken-discgolfdisk-skal-jeg-velge.html">Velge disk</a></div></div></footer>
 </body>
 </html>
