@@ -8,7 +8,7 @@ export const QUALIFIED_SOURCE_TYPES = new Set([
 
 const VALID_STATUSES = new Set(["active", "seasonal", "temporarily_closed", "closed", "unknown"]);
 const VALID_PUBLICATION_STATES = new Set(["legacy", "draft", "verified", "publishable", "withheld"]);
-const VALID_REVIEW_STATES = new Set(["not_requested", "required", "approved", "rejected"]);
+const VALID_REVIEW_STATES = new Set(["not_requested", "required", "approved", "changes_required", "rejected"]);
 const VALID_COORDINATE_PRECISIONS = new Set(["first_tee", "entrance", "course_center", "approximate", null]);
 const VALID_TRI_STATES = new Set(["yes", "no", "unknown"]);
 const VALID_LAYOUT_STATUSES = new Set(["primary", "alternative", "seasonal", "inactive", "unknown"]);

@@ -46,6 +46,8 @@ Koordinater krever `coordinate_source_id` og `coordinate_checked_at`. Source-ID 
 
 ## Review og publisering
 
+`editorial.review_status` bruker `not_requested`, `required`, `approved`, `changes_required` eller `rejected`. `changes_required` registrerer en gjennomført menneskelig review som har funnet et konkret forbedringsbehov, uten å gjøre posten godkjent eller publishable.
+
 Minimal publiseringsport for en ny bane krever:
 
 1. stabil ID og slug

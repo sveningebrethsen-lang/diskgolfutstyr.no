@@ -602,7 +602,7 @@
           "Kupert terreng og en full 18-hulls layout gir flere krav enn en kort lavterskelbane."
         ],
         "confidence": "medium",
-        "reviewed_at": null,
+        "reviewed_at": "2026-09-29",
         "source_ids": [
           "source_holmenkollen_official",
           "source_holmenkollen_map_pdf"
@@ -718,17 +718,17 @@
     },
     "source_conflicts": [],
     "publication": {
-      "state": "legacy",
+      "state": "publishable",
       "grandfathered_existing_page": true
     },
     "editorial": {
       "data_quality_status": "complete",
       "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "required",
-      "reviewed_at": null,
-      "reviewed_by": null,
-      "review_notes": null,
+      "review_status": "approved",
+      "reviewed_at": "2026-09-29",
+      "reviewed_by": "Sven",
+      "review_notes": "Kjernefakta, layouter og redaksjonell vanskelighetsvurdering er godkjent.",
       "notes": "Fase 24A: kjernefakta kontrollert mot operatørside og banekart. Koordinatet er et omtrentlig banepunkt. Krever menneskelig review før statusendring."
     }
   },
@@ -829,7 +829,7 @@
           "Full 18-hullsrunde i et åpent, flerbruks parkmiljø krever kontroll og oppmerksomhet på andre brukere."
         ],
         "confidence": "low",
-        "reviewed_at": null,
+        "reviewed_at": "2026-09-29",
         "source_ids": [
           "source_ekeberg_municipality"
         ]
@@ -923,17 +923,17 @@
     },
     "source_conflicts": [],
     "publication": {
-      "state": "legacy",
+      "state": "publishable",
       "grandfathered_existing_page": true
     },
     "editorial": {
       "data_quality_status": "complete",
       "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "required",
-      "reviewed_at": null,
-      "reviewed_by": null,
-      "review_notes": null,
+      "review_status": "approved",
+      "reviewed_at": "2026-09-29",
+      "reviewed_by": "Sven",
+      "review_notes": "Kjernefakta og forsiktig redaksjonell vanskelighetsvurdering er godkjent.",
       "notes": "Fase 24A: kommunen bekrefter navn, område og 18 kurver. Difficulty er en forsiktig redaksjonell vurdering med lav confidence."
     }
   },
@@ -1466,10 +1466,10 @@
       "data_quality_status": "complete",
       "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "required",
-      "reviewed_at": null,
-      "reviewed_by": null,
-      "review_notes": null,
+      "review_status": "changes_required",
+      "reviewed_at": "2026-09-29",
+      "reviewed_by": "Sven",
+      "review_notes": "Nåværende installerte hull og layout er ikke tilstrekkelig bekreftet av kvalifisert kilde.",
       "notes": "Fase 24A: klubbkilden bekrefter identitet, sted, operatør og krevende profil. Nåværende 9 hull støttes av sekundærkilden; klubbens 18-hullsmål er ikke registrert som ferdig layout."
     }
   },
@@ -1583,7 +1583,7 @@
           "Korte avstander senker terskelen, mens vann og gjenbruk av kurver og spillelinjer krever oppmerksomhet."
         ],
         "confidence": "medium",
-        "reviewed_at": null,
+        "reviewed_at": "2026-09-29",
         "source_ids": [
           "source_hetlevik_club",
           "source_hetlevik_club_article"
@@ -1699,17 +1699,17 @@
     },
     "source_conflicts": [],
     "publication": {
-      "state": "legacy",
+      "state": "publishable",
       "grandfathered_existing_page": true
     },
     "editorial": {
       "data_quality_status": "complete",
       "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "required",
-      "reviewed_at": null,
-      "reviewed_by": null,
-      "review_notes": null,
+      "review_status": "approved",
+      "reviewed_at": "2026-09-29",
+      "reviewed_by": "Sven",
+      "review_notes": "Kjernefakta, layoutstruktur og avgrenset nybegynnervurdering er godkjent.",
       "notes": "Fase 24A: klubbkilder dokumenterer fem kurver og både 9- og 18-hullsoppsett. Beginner-vurderingen gjelder primært det kortere oppsettet."
     }
   },
@@ -2406,7 +2406,7 @@
           "Kupert skogsterreng og en 10-hullsrunde gir en moderat samlet utfordring."
         ],
         "confidence": "medium",
-        "reviewed_at": null,
+        "reviewed_at": "2026-09-29",
         "source_ids": [
           "source_trolla_club"
         ]
@@ -2500,17 +2500,17 @@
     },
     "source_conflicts": [],
     "publication": {
-      "state": "legacy",
+      "state": "publishable",
       "grandfathered_existing_page": true
     },
     "editorial": {
       "data_quality_status": "complete",
       "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "required",
-      "reviewed_at": null,
-      "reviewed_by": null,
-      "review_notes": null,
+      "review_status": "approved",
+      "reviewed_at": "2026-09-29",
+      "reviewed_by": "Sven",
+      "review_notes": "Kjernefakta og redaksjonell vanskelighetsvurdering er godkjent.",
       "notes": "Fase 24A: klubbkilden dokumenterer 10 hull, aktiv bane og kupert trasé rundt lysløypa. Difficulty krever menneskelig review."
     }
   },
@@ -2612,7 +2612,7 @@
           "Kombinasjonen av åpne hull, skogshull og en full 18-hullsrunde gir variert, moderat utfordring."
         ],
         "confidence": "medium",
-        "reviewed_at": null,
+        "reviewed_at": "2026-09-29",
         "source_ids": [
           "source_bolgane_club"
         ]
@@ -2717,17 +2717,17 @@
     },
     "source_conflicts": [],
     "publication": {
-      "state": "legacy",
+      "state": "publishable",
       "grandfathered_existing_page": true
     },
     "editorial": {
       "data_quality_status": "complete",
       "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "required",
-      "reviewed_at": null,
-      "reviewed_by": null,
-      "review_notes": null,
+      "review_status": "approved",
+      "reviewed_at": "2026-09-29",
+      "reviewed_by": "Sven",
+      "review_notes": "Kjernefakta og redaksjonell vanskelighetsvurdering er godkjent.",
       "notes": "Fase 24A: klubbkilden dokumenterer 18 hull og blanding av åpne partier og skog. Lokale ombygginger gjør at status bør sjekkes før senere publiseringsoppdatering."
     }
   },
@@ -3115,7 +3115,7 @@
           "Kupert terreng trekker opp, mens operatøren samtidig beskriver banen som egnet for flere ferdighetsnivåer."
         ],
         "confidence": "low",
-        "reviewed_at": null,
+        "reviewed_at": "2026-09-29",
         "source_ids": [
           "source_skimore_operator"
         ]
@@ -3224,17 +3224,17 @@
     },
     "source_conflicts": [],
     "publication": {
-      "state": "legacy",
+      "state": "publishable",
       "grandfathered_existing_page": true
     },
     "editorial": {
       "data_quality_status": "complete",
       "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "required",
-      "reviewed_at": null,
-      "reviewed_by": null,
-      "review_notes": null,
+      "review_status": "approved",
+      "reviewed_at": "2026-09-29",
+      "reviewed_by": "Sven",
+      "review_notes": "Kjernefakta og forsiktig redaksjonell vanskelighetsvurdering er godkjent.",
       "notes": "Fase 24A: operatørkilden dokumenterer 18 hull, sommerdrift og bred målgruppe. Koordinatet er et omtrentlig anleggspunkt, ikke bekreftet første tee."
     }
   },
@@ -3733,7 +3733,7 @@
           "Hovedbanen har 18 hull i både park og skog, mens en egen kortbane gir et enklere alternativ."
         ],
         "confidence": "medium",
-        "reviewed_at": null,
+        "reviewed_at": "2026-09-29",
         "source_ids": [
           "source_skien_operator",
           "source_skien_club"
@@ -3851,17 +3851,17 @@
     },
     "source_conflicts": [],
     "publication": {
-      "state": "legacy",
+      "state": "publishable",
       "grandfathered_existing_page": true
     },
     "editorial": {
       "data_quality_status": "complete",
       "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "required",
-      "reviewed_at": null,
-      "reviewed_by": null,
-      "review_notes": null,
+      "review_status": "approved",
+      "reviewed_at": "2026-09-29",
+      "reviewed_by": "Sven",
+      "review_notes": "Kjernefakta, layouter og avgrenset nybegynnervurdering er godkjent.",
       "notes": "Fase 24A: operatør og klubb dokumenterer 18-hullsbane; operatøren dokumenterer også en 6-hulls kortbane. Koordinatet følger operatørens kartlenke til første tee."
     }
   },
@@ -4129,7 +4129,7 @@
           "Full 18-hullsrunde med par 58, skog, åpne partier og høydeforskjeller gir flere tekniske og fysiske krav."
         ],
         "confidence": "medium",
-        "reviewed_at": null,
+        "reviewed_at": "2026-09-29",
         "source_ids": [
           "source_heistad_club"
         ]
@@ -4245,17 +4245,17 @@
     },
     "source_conflicts": [],
     "publication": {
-      "state": "legacy",
+      "state": "publishable",
       "grandfathered_existing_page": true
     },
     "editorial": {
       "data_quality_status": "complete",
       "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "required",
-      "reviewed_at": null,
-      "reviewed_by": null,
-      "review_notes": null,
+      "review_status": "approved",
+      "reviewed_at": "2026-09-29",
+      "reviewed_by": "Sven",
+      "review_notes": "Kjernefakta, par og redaksjonell vanskelighetsvurdering er godkjent.",
       "notes": "Fase 24A: klubbkilden dokumenterer 18 hull, par 58, terreng og lokale sikkerhetsbegrensninger. Difficulty krever menneskelig review."
     }
   },

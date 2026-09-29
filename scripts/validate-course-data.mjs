@@ -38,7 +38,10 @@ const lines = [
 for (const course of courses) {
   const result = validation.results.find((item) => item.id === course.id);
   const freshness = sourceFreshness(course, now);
-  lines.push(`| ${course.name} | ${coreCoverage(course)} | ${coverage(course, RECOMMENDED_PATHS)} | ${(course.sources || []).length} | ${freshness.age_days ?? "?"} dager / ${freshness.status} | ${(course.source_conflicts || []).length} | ${result.research_complete ? "klar" : "mangler"} | ${result.validation_passed ? "bestått" : "stopp"} | ${result.review_approved ? "godkjent" : result.review_required ? "kreves" : course.editorial?.review_status || "-"} | ${course.publication?.state || "-"} | ${result.errors.length}/${result.warnings.length} |`);
+  const reviewStatus = ["changes_required", "rejected"].includes(course.editorial?.review_status)
+    ? course.editorial.review_status
+    : result.review_approved ? "godkjent" : result.review_required ? "kreves" : course.editorial?.review_status || "-";
+  lines.push(`| ${course.name} | ${coreCoverage(course)} | ${coverage(course, RECOMMENDED_PATHS)} | ${(course.sources || []).length} | ${freshness.age_days ?? "?"} dager / ${freshness.status} | ${(course.source_conflicts || []).length} | ${result.research_complete ? "klar" : "mangler"} | ${result.validation_passed ? "bestått" : "stopp"} | ${reviewStatus} | ${course.publication?.state || "-"} | ${result.errors.length}/${result.warnings.length} |`);
 }
 
 lines.push("", "## Issues per bane", "");

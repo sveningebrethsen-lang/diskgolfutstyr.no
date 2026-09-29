@@ -27,7 +27,10 @@ const lines = [
 for (const course of courses) {
   const result = validation.results.find((entry) => entry.id === course.id);
   const conflicts = (course.source_conflicts || []).map((item) => `${item.id}:${item.status}`).join(", ") || "Ingen";
-  lines.push(`| ${course.name} | ${coreCoverage(course)} | ${result.source_quality_passed ? "bestått" : "stopp"} | ${conflicts} | ${result.validation_passed ? "bestått" : "stopp"} | ${result.review_approved ? "approved" : result.review_required ? "required" : course.editorial.review_status} | ${course.publication.state} | ${result.publishable ? "ja" : "nei"} |`);
+  const reviewStatus = ["changes_required", "rejected"].includes(course.editorial.review_status)
+    ? course.editorial.review_status
+    : result.review_approved ? "approved" : result.review_required ? "required" : course.editorial.review_status;
+  lines.push(`| ${course.name} | ${coreCoverage(course)} | ${result.source_quality_passed ? "bestått" : "stopp"} | ${conflicts} | ${result.validation_passed ? "bestått" : "stopp"} | ${reviewStatus} | ${course.publication.state} | ${result.publishable ? "ja" : "nei"} |`);
 }
 writeFileSync(output, `${lines.join("\n")}\n`, "utf8");
 console.log(JSON.stringify(Object.fromEntries(rows), null, 2));

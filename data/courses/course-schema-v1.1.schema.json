@@ -62,7 +62,7 @@
       "required": ["data_quality_status", "source_checked_at", "content_last_updated_at", "review_status", "reviewed_at", "reviewed_by", "review_notes", "notes"],
       "properties": {
         "data_quality_status": { "enum": ["complete", "incomplete", "legacy_incomplete"] }, "source_checked_at": { "type": ["string", "null"], "format": "date" }, "content_last_updated_at": { "type": ["string", "null"], "format": "date" },
-        "review_status": { "enum": ["not_requested", "required", "approved", "rejected"] }, "reviewed_at": { "type": ["string", "null"], "format": "date" }, "reviewed_by": { "type": ["string", "null"] }, "review_notes": { "type": ["string", "null"] }, "notes": { "type": ["string", "null"] }
+        "review_status": { "enum": ["not_requested", "required", "approved", "changes_required", "rejected"] }, "reviewed_at": { "type": ["string", "null"], "format": "date" }, "reviewed_by": { "type": ["string", "null"] }, "review_notes": { "type": ["string", "null"] }, "notes": { "type": ["string", "null"] }
       }
     }
   },
