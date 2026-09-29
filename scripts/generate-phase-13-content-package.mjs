@@ -1,5 +1,6 @@
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
+import { toLegacyCourseView } from "./lib/course-data-v1.mjs";
 
 const root = process.cwd();
 const today = "2026-06-03";
@@ -339,7 +340,7 @@ function courseCards(courses) {
   return `<div class="course-grid">${courses.map((course) => `<article class="course-card"><div class="product-card__top"><p class="eyebrow">${course.city}</p><span class="badge">${course.holes ? `${course.holes} hull` : "Hull ukjent"}</span></div><h3>${course.name}</h3><p>${course.short_description}</p><dl class="product-facts"><div><dt>Sted</dt><dd>${course.city}, ${course.county}</dd></div><div><dt>Vanskelighetsgrad</dt><dd>${course.difficulty || "Ukjent"}</dd></div></dl><div class="actions course-actions"><a class="button" href="/baner/${course.slug}/">Les baneprofil</a><a class="button button-dark" href="${course.udisc_url || course.map_url}">Sjekk baneinfo</a></div></article>`).join("")}</div>`;
 }
 
-const courses = JSON.parse(read("data/courses/norway.json"));
+const courses = JSON.parse(read("data/courses/norway.json")).map(toLegacyCourseView);
 const osloCourses = courses.filter((course) => course.city === "Oslo" || course.municipality === "Oslo" || course.slug === "krokhol-disc-golf-course");
 const beginnerOslo = courses.filter((course) => course.county === "Oslo" && course.beginner_friendly);
 

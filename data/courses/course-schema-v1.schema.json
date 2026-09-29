@@ -1,0 +1,142 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://diskgolfutstyr.no/schemas/course-v1.json",
+  "title": "Diskgolfutstyr Course Schema V1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "id",
+    "slug",
+    "name",
+    "status",
+    "location",
+    "summary",
+    "holes",
+    "course_type",
+    "terrain",
+    "access",
+    "facilities",
+    "suitability",
+    "links",
+    "sources",
+    "field_sources",
+    "editorial"
+  ],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "name": { "type": "string", "minLength": 2 },
+    "status": {
+      "enum": ["active", "seasonal", "temporarily_closed", "closed", "unknown"]
+    },
+    "location": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["locality", "municipality", "county", "country", "latitude", "longitude", "coordinate_precision"],
+      "properties": {
+        "locality": { "type": ["string", "null"] },
+        "municipality": { "type": ["string", "null"] },
+        "county": { "type": ["string", "null"] },
+        "country": { "type": ["string", "null"] },
+        "latitude": { "type": ["number", "null"], "minimum": -90, "maximum": 90 },
+        "longitude": { "type": ["number", "null"], "minimum": -180, "maximum": 180 },
+        "coordinate_precision": {
+          "enum": ["entrance", "first_tee", "course_center", "approximate", "unknown"]
+        }
+      }
+    },
+    "summary": { "type": "string", "minLength": 20 },
+    "holes": { "type": ["integer", "null"], "minimum": 1 },
+    "course_type": { "type": ["string", "null"] },
+    "terrain": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "access": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["fee", "season", "opening_hours", "booking_required", "notes"],
+      "properties": {
+        "fee": { "type": ["string", "boolean", "null"] },
+        "season": { "type": ["string", "null"] },
+        "opening_hours": { "type": ["string", "null"] },
+        "booking_required": { "type": ["boolean", "null"] },
+        "notes": { "type": ["string", "null"] }
+      }
+    },
+    "facilities": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["parking", "toilet", "practice_basket", "other"],
+      "properties": {
+        "parking": { "type": ["boolean", "string", "null"] },
+        "toilet": { "type": ["boolean", "string", "null"] },
+        "practice_basket": { "type": ["boolean", "string", "null"] },
+        "other": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "suitability": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["difficulty", "beginner_friendly", "family_friendly", "good_for", "assessment_basis"],
+      "properties": {
+        "difficulty": { "type": ["string", "null"] },
+        "beginner_friendly": { "type": ["boolean", "null"] },
+        "family_friendly": { "type": ["boolean", "null"] },
+        "good_for": { "type": "array", "items": { "type": "string" } },
+        "assessment_basis": { "type": ["string", "null"] }
+      }
+    },
+    "links": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["official_url", "club_url", "map_url", "external_course_url", "external_course_provider"],
+      "properties": {
+        "official_url": { "type": ["string", "null"], "format": "uri" },
+        "club_url": { "type": ["string", "null"], "format": "uri" },
+        "map_url": { "type": ["string", "null"], "format": "uri" },
+        "external_course_url": { "type": ["string", "null"], "format": "uri" },
+        "external_course_provider": { "type": ["string", "null"] }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "source_name", "source_url", "publisher", "source_type", "license", "checked_at", "automation_allowed", "qualification"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^source_[a-z0-9_-]+$" },
+          "source_name": { "type": "string" },
+          "source_url": { "type": "string", "format": "uri" },
+          "publisher": { "type": "string" },
+          "source_type": { "type": "string" },
+          "license": { "type": ["string", "null"] },
+          "checked_at": { "type": "string", "format": "date" },
+          "automation_allowed": { "type": "boolean" },
+          "qualification": { "enum": ["primary", "open_data", "manual_secondary", "unknown"] }
+        }
+      }
+    },
+    "field_sources": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "array",
+        "items": { "type": "string" },
+        "uniqueItems": true
+      }
+    },
+    "editorial": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["legacy", "publication_status", "data_quality_status", "source_checked_at", "content_last_updated_at", "notes"],
+      "properties": {
+        "legacy": { "type": "boolean" },
+        "publication_status": { "enum": ["draft", "review", "publishable", "published", "published_legacy", "archived"] },
+        "data_quality_status": { "enum": ["complete", "incomplete", "legacy_incomplete"] },
+        "source_checked_at": { "type": ["string", "null"], "format": "date" },
+        "content_last_updated_at": { "type": ["string", "null"], "format": "date" },
+        "notes": { "type": ["string", "null"] }
+      }
+    }
+  }
+}

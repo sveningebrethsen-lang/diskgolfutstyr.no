@@ -1,0 +1,490 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-28",
+  "purpose": "Research-kø. Inneholder ikke nye banefakta og skal ikke brukes direkte til publisering.",
+  "source_priority": [
+    "club_or_operator",
+    "municipality_or_public_authority",
+    "permitted_open_data",
+    "manual_secondary_check"
+  ],
+  "udisc_policy": "Kun manuell kontroll og ekstern lenke. Ingen automatisert innhenting.",
+  "areas": [
+    {
+      "priority_order": 1,
+      "id": "trondheim",
+      "label": "Trondheim",
+      "courses": [
+        {
+          "id": "dragvoll-diskgolfarena",
+          "slug": "dragvoll-diskgolfarena",
+          "name": "Dragvoll Diskgolfarena",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "reverify_primary",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "reverify_primary",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        },
+        {
+          "id": "hallset-diskgolfpark",
+          "slug": "hallset-diskgolfpark",
+          "name": "Hallset Diskgolfpark",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "reverify_primary",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "missing",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        },
+        {
+          "id": "trolla-diskgolfpark",
+          "slug": "trolla-diskgolfpark",
+          "name": "Trolla Diskgolfpark",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "missing",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "missing",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        }
+      ]
+    },
+    {
+      "priority_order": 2,
+      "id": "fredrikstad",
+      "label": "Fredrikstad",
+      "courses": [
+        {
+          "id": "kvernhuset-discgolfpark",
+          "slug": "kvernhuset-discgolfpark",
+          "name": "Kvernhuset DiscGolfpark",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "reverify_primary",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "missing",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        },
+        {
+          "id": "ambjornrod-skole-discgolfbane",
+          "slug": "ambjornrod-skole-discgolfbane",
+          "name": "Ambjørnrød Skole Discgolfbane",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "missing",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "missing",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        }
+      ]
+    },
+    {
+      "priority_order": 3,
+      "id": "oslo",
+      "label": "Oslo",
+      "courses": [
+        {
+          "id": "klemetsrud-diskgolfbane",
+          "slug": "klemetsrud-diskgolfbane",
+          "name": "Klemetsrud diskgolfbane",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "reverify_primary",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "reverify_primary",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        },
+        {
+          "id": "holmenkollen-discgolfpark",
+          "slug": "holmenkollen-discgolfpark",
+          "name": "Holmenkollen DiscGolfpark",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "reverify_primary",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "reverify_primary",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        },
+        {
+          "id": "ekeberg-frisbeegolfbane",
+          "slug": "ekeberg-frisbeegolfbane",
+          "name": "Ekeberg Frisbeegolfbane",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "reverify_primary",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "missing",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        },
+        {
+          "id": "hauketo-diskgolfbane",
+          "slug": "hauketo-diskgolfbane",
+          "name": "Hauketo Diskgolfbane",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "missing",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "missing",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        },
+        {
+          "id": "lambertseter-diskgolfbane",
+          "slug": "lambertseter-diskgolfbane",
+          "name": "Lambertseter Diskgolfbane",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "missing",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "missing",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        }
+      ]
+    },
+    {
+      "priority_order": 4,
+      "id": "bergen",
+      "label": "Bergen",
+      "courses": [
+        {
+          "id": "alvoen-frisbeegolfbane",
+          "slug": "alvoen-frisbeegolfbane",
+          "name": "Alvøen Frisbeegolfbane",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "missing",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "missing",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        },
+        {
+          "id": "sondre-hetlevik",
+          "slug": "sondre-hetlevik",
+          "name": "Søndre Hetlevik",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "missing",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "missing",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        },
+        {
+          "id": "kalandeid-il",
+          "slug": "kalandeid-il",
+          "name": "Kalandeid IL",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "missing",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "missing",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        }
+      ]
+    },
+    {
+      "priority_order": 5,
+      "id": "krokhol",
+      "label": "Krokhol",
+      "courses": [
+        {
+          "id": "krokhol-disc-golf-course",
+          "slug": "krokhol-disc-golf-course",
+          "name": "Krokhol Disc Golf Course",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "reverify_primary",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "missing",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        }
+      ]
+    },
+    {
+      "priority_order": 6,
+      "id": "kristiansand",
+      "label": "Kristiansand",
+      "courses": [
+        {
+          "id": "bolgane-frisbeegolfpark",
+          "slug": "bolgane-frisbeegolfpark",
+          "name": "Bølgane Frisbeegolfpark",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "reverify_primary",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "missing",
+            "official_url": "missing",
+            "beginner_suitability": "missing"
+          }
+        },
+        {
+          "id": "sukkevann-frisbeegolfpark",
+          "slug": "sukkevann-frisbeegolfpark",
+          "name": "Sukkevann Frisbeegolfpark",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "missing",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "missing",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        }
+      ]
+    },
+    {
+      "priority_order": 7,
+      "id": "grenland",
+      "label": "Porsgrunn/Skien",
+      "courses": [
+        {
+          "id": "skien-frisbeegolfbane",
+          "slug": "skien-frisbeegolfbane",
+          "name": "Skien Frisbeegolfbane",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "missing",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "missing",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        },
+        {
+          "id": "kollmyr-frisbeegolf",
+          "slug": "kollmyr-frisbeegolf",
+          "name": "Kollmyr Frisbeegolf",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "missing",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "missing",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        },
+        {
+          "id": "porsgrunn-heistad",
+          "slug": "porsgrunn-heistad",
+          "name": "Porsgrunn - Heistad",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "reverify_primary",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "reverify_primary",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        },
+        {
+          "id": "porsgrunn-kjolnes",
+          "slug": "porsgrunn-kjolnes",
+          "name": "Porsgrunn - Kjølnes",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "reverify_primary",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "reverify_primary",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        }
+      ]
+    },
+    {
+      "priority_order": 8,
+      "id": "drammen",
+      "label": "Drammen",
+      "courses": [
+        {
+          "id": "skimore-drammen",
+          "slug": "skimore-drammen",
+          "name": "Skimore Drammen",
+          "research_fields": {
+            "coordinates": "missing",
+            "status": "missing",
+            "holes": "reverify_primary",
+            "terrain": "reverify_primary",
+            "access": "missing",
+            "season": "missing",
+            "price": "missing",
+            "parking": "missing",
+            "toilet": "missing",
+            "practice_basket": "missing",
+            "club_or_operator": "missing",
+            "official_url": "missing",
+            "beginner_suitability": "reverify_method"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { toLegacyCourseView } from "./lib/course-data-v1.mjs";
 
 const baseUrl = "https://diskgolfutstyr.no";
 const updatedIso = "2026-06-03";
@@ -20,7 +21,8 @@ const cityPages = [
   { slug: "bodo", city: "Bodø", title: "Discgolf i Bodø - baner og tips", description: "Oversikt over discgolfbaner i Bodø, med kilder, nivå og praktiske tips.", intro: "Bodø har flere baner og tydelige sesong-/terrenghensyn. Bruk oppdatert baneinformasjon før du planlegger runden." }
 ];
 
-const courses = [
+// Historisk seed beholdes kun for sporbarhet. Publisering leser V1-kilden nedenfor.
+const legacyCourseSeed = [
   {
     id: "krokhol-disc-golf-course",
     name: "Krokhol Disc Golf Course",
@@ -671,6 +673,9 @@ const courses = [
   }
 ];
 
+const courses = JSON.parse(readFileSync("data/courses/norway.json", "utf8")).map(toLegacyCourseView);
+void legacyCourseSeed;
+
 function esc(value) {
   return String(value ?? "")
     .replaceAll("&", "&amp;")
@@ -845,7 +850,6 @@ function writePage(path, html) {
 }
 
 mkdirSync("data/courses", { recursive: true });
-writeFileSync("data/courses/norway.json", JSON.stringify(courses, null, 2), "utf8");
 
 const popularCities = cityPages.slice(0, 9);
 const beginnerCourses = courses.filter((course) => course.beginner_friendly === true);

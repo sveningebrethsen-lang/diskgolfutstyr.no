@@ -82,20 +82,25 @@ async function renderProducts() {
 }
 
 function courseCard(course) {
+  const location = course.location || {};
+  const suitability = course.suitability || {};
+  const links = course.links || {};
+  const sourceUrl = links.official_url || links.club_url || links.external_course_url || links.map_url || "/baner/";
+  const checkedAt = course.editorial?.source_checked_at || "ikke registrert";
   return `
     <article class="course-card">
       <div class="product-card__top">
-        <p class="eyebrow">${escapeHtml(course.region)}</p>
-        <span class="badge">${escapeHtml(course.profileStatus)}</span>
+        <p class="eyebrow">${escapeHtml(location.county || "Norge")}</p>
+        <span class="badge">${escapeHtml(course.status === "unknown" ? "Status må kontrolleres" : course.status)}</span>
       </div>
       <h3>${escapeHtml(course.name)}</h3>
-      <p>${escapeHtml(course.why)}</p>
+      <p>${escapeHtml(course.summary)}</p>
       <dl class="product-facts">
-        <div><dt>Sted</dt><dd>${escapeHtml(course.location)}</dd></div>
-        <div><dt>Passer for</dt><dd>${escapeHtml(course.bestFor)}</dd></div>
-        <div><dt>Datastatus</dt><dd>${escapeHtml(course.sourceStatus)}</dd></div>
+        <div><dt>Sted</dt><dd>${escapeHtml([location.locality, location.county].filter(Boolean).join(", "))}</dd></div>
+        <div><dt>Passer for</dt><dd>${escapeHtml((suitability.good_for || []).join(", ") || "Ikke vurdert")}</dd></div>
+        <div><dt>Kilder kontrollert</dt><dd>${escapeHtml(checkedAt)}</dd></div>
       </dl>
-      <a href="${escapeHtml(course.sourceUrl)}">Sjekk kilde</a>
+      <a href="${escapeHtml(sourceUrl)}">Sjekk kilde</a>
     </article>
   `;
 }
@@ -105,7 +110,7 @@ async function renderCourses() {
   if (!target) return;
 
   try {
-    const response = await fetch("data/courses.json");
+    const response = await fetch("/data/courses/norway.json");
     const courses = await response.json();
     target.innerHTML = courses.map(courseCard).join("");
   } catch (error) {

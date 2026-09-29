@@ -53,42 +53,28 @@ Bruk alltid forbeholdet:
 
 ## Datastruktur
 
-Baneinfo ligger i `data/courses/norway.json`.
+Baneinfo ligger i `data/courses/norway.json`, som er eneste autoritative publiseringskilde. `data/courses.json` er kun historisk research/backlog.
 
-Nye baner bør ha:
+Nye baner skal følge Course Schema V1. Se `docs/course-schema-v1.md` og `data/courses/course-schema-v1.schema.json`.
 
-- `id`
-- `name`
-- `slug`
-- `city`
-- `municipality`
-- `county`
-- `country`
-- `holes`
-- `difficulty`
-- `beginner_friendly`
-- `family_friendly`
-- `course_type`
-- `terrain`
-- `short_description`
-- `good_for`
-- `facilities`
-- `udisc_url`
-- `club_url`
-- `map_url`
-- `source_urls`
-- `last_checked`
-- `notes`
+- identitet og status
+- strukturert sted og koordinater
+- egenformulert sammendrag
+- tilgang, fasiliteter og egnethet uten antakelser
+- standardiserte kilder i `sources`
+- kobling mellom fakta og kilder i `field_sources`
+- redaksjonell status i `editorial`
 
 ## Slik legger du til ny bane
 
-1. Finn minst én åpen kilde.
-2. Verifiser navn, sted og antall hull hvis mulig.
-3. Skriv egen kort beskrivelse.
-4. Sett usikre felt til `null`, tom streng eller "Ukjent".
-5. Oppdater `last_checked`.
-6. Kjør `node scripts/generate-course-cluster.mjs`.
-7. Kjør intern lenkesjekk og SEO-sjekk.
+1. Finn minst én kvalifisert primær- eller åpen kilde.
+2. Verifiser navn, status, sted og koordinater.
+3. Dokumenter minst tre nyttige faktagrupper utover navn og plassering.
+4. Skriv egen kort beskrivelse.
+5. Sett usikre felt til `null`, tom liste eller eksplisitt `unknown`.
+6. Oppdater kilde- og redaksjonsdato.
+7. Kjør course-data-tester og validering.
+8. Generer side først etter redaksjonell godkjenning.
 
 ## Lokale SEO-sider
 

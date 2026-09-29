@@ -47,6 +47,10 @@ Sist oppdatert: 2026-06-03
 |---|---|
 | `course-content-guidelines.md` | Hvordan banesider skal skrives |
 | `course-data-maintenance.md` | Vedlikehold av banedata |
+| `course-schema-v1.md` | Datakontrakt og publiseringsport for norske baner |
+| `course-source-strategy.md` | Kildeprioritet, OSM-vurdering og lisenshensyn |
+| `course-research-pilot-23C.md` | Manuell researchpilot, gate-resultater og forslag til Schema V1.1 |
+| `generated-course-data-report.md` | Generert dekning, kildealder og datamangler per bane |
 | `club-data-maintenance.md` | Vedlikehold av klubbdata |
 | `tournament-content-maintenance.md` | Vedlikehold av turneringsinnhold |
 
