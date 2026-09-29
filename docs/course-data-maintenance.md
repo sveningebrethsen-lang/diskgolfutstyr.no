@@ -6,18 +6,21 @@ Sist oppdatert: 2026-09-28
 
 `data/courses.json` er historisk research/backlog. Den skal ikke brukes til publisering, sidegenerering eller som kilde til faktapåstander.
 
-Banedata følger Course Schema V1, dokumentert i `docs/course-schema-v1.md` og maskinlesbart i `data/courses/course-schema-v1.schema.json`.
+Banedata følger Course Schema V1.1, dokumentert i `docs/course-schema-v1.1.md` og maskinlesbart i `data/courses/course-schema-v1.1.schema.json`. V1 beholdes kun for migreringshistorikk.
 
 ## Nye baner
 
 1. Verifiser banenavn, sted og aktiv status fra åpne kilder.
-2. Verifiser koordinater og angi `coordinate_precision`.
-3. Verifiser antall hull før feltet fylles ut.
+2. Verifiser koordinater og angi `coordinate_precision`, `coordinate_source_id` og `coordinate_checked_at`.
+3. Verifiser antall hull eller legg inn tydelig layoutinformasjon.
 4. Legg kilden i `sources` og koble faktagruppen i `field_sources`.
 5. Bruk `editorial.source_checked_at` når informasjonen faktisk er kontrollert.
-6. En ny bane må passere `node scripts/validate-course-data.mjs`.
-7. Skriv kort beskrivelse med egne ord.
-8. Oppdater relevante lokale sider og sitemap bare etter redaksjonell godkjenning.
+6. Legg inn en redaksjonell difficulty-vurdering på kontrollert skala, eller bruk `Ukjent`.
+7. En ny bane må passere `node scripts/validate-course-data.mjs` og eksplisitt redaksjonell review.
+8. Skriv kort beskrivelse med egne ord.
+9. Sett aldri `publishable` automatisk. Oppdater relevante lokale sider og sitemap bare etter redaksjonell godkjenning.
+
+Fasiliteter, kollektivtransport, tilgjengelighet, hunderegler, sesong, åpningstid og booking er valgfrie. Behold dokumenterte verdier, men ikke gjør systematisk research på disse feltene for å passere publiseringsporten.
 
 Ikke dikt opp antall hull, vanskelighetsgrad, fasiliteter, åpningstider, banestatus eller popularitet.
 

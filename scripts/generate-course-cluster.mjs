@@ -1,5 +1,5 @@
-import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
-import { toLegacyCourseView } from "./lib/course-data-v1.mjs";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { canGenerateCourse, toLegacyCourseView } from "./lib/course-data-v1.1.mjs";
 
 const baseUrl = "https://diskgolfutstyr.no";
 const updatedIso = "2026-06-03";
@@ -673,7 +673,10 @@ const legacyCourseSeed = [
   }
 ];
 
-const courses = JSON.parse(readFileSync("data/courses/norway.json", "utf8")).map(toLegacyCourseView);
+const courseRecords = JSON.parse(readFileSync("data/courses/norway.json", "utf8"));
+const courses = courseRecords
+  .filter((course) => canGenerateCourse(course, { existingPage: existsSync(`baner/${course.slug}/index.html`) }))
+  .map(toLegacyCourseView);
 void legacyCourseSeed;
 
 function esc(value) {

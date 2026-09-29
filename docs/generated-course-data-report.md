@@ -2,285 +2,187 @@
 
 Generert: 2026-09-29
 
-Autoritativ publiseringskilde: `data/courses/norway.json`.
-
-`data/courses.json` er historisk research/backlog og skal ikke brukes til publisering.
-
-## Aggregert status
+Autoritativ publiseringskilde: `data/courses/norway.json` (Course Schema V1.1).
 
 | Målepunkt | Resultat |
 |---|---:|
 | Poster | 27 |
-| Legacy-poster | 27 |
-| Klare for ny V1-publisering | 4 |
-| Valideringsfeil | 0 |
-| Advarsler | 225 |
-| Informasjonspunkter | 27 |
-| Kilder totalt | 38 |
-| Kvalifiserte primær-/åpne kilder | 5 |
-| Fresh (0–90 dager) | 5 |
-| Aging (91–180 dager) | 22 |
-| Stale (>180 dager eller ugyldig dato) | 0 |
+| Legacy | 23 |
+| Research complete | 5 |
+| Validation pass | 4 |
+| Review required | 0 |
+| Verified | 4 |
+| Publishable | 4 |
+| Withheld | 0 |
+| Feil | 0 |
+| Advarsler | 312 |
+| Info | 46 |
 
-## Kildedomener
+## Status per bane
 
-| Domene | Antall |
-|---|---:|
-| udisc.com | 29 |
-| krokholdgc.no | 2 |
-| app.udisc.com | 2 |
-| www.klemetsrudil.no | 1 |
-| www.trondheimfrisbeeklubb.no | 1 |
-| www.pdga.com | 1 |
-| www.discgolfscene.com | 1 |
-| www.pdsk.no | 1 |
+| Bane | Kjerne | Recommended | Kilder | Kildealder | Konflikter | Research | Validate | Review | Publication | Feil/advarsler |
+|---|---:|---:|---:|---|---:|---|---|---|---|---:|
+| Krokhol Disc Golf Course | 11/11 | 5/6 | 3 | 1 dager / fresh | 0 | klar | bestått | godkjent | publishable | 0/2 |
+| Klemetsrud diskgolfbane | 11/11 | 5/6 | 2 | 1 dager / fresh | 0 | klar | bestått | godkjent | publishable | 0/2 |
+| Holmenkollen DiscGolfpark | 9/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/13 |
+| Ekeberg Frisbeegolfbane | 9/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/13 |
+| Hauketo Diskgolfbane | 9/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/14 |
+| Lambertseter Diskgolfbane | 9/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/14 |
+| Alvøen Frisbeegolfbane | 9/11 | 1/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/15 |
+| Søndre Hetlevik | 8/11 | 1/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/14 |
+| Kalandeid IL | 9/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/14 |
+| Dragvoll Diskgolfpark | 11/11 | 5/6 | 2 | 1 dager / fresh | 0 | klar | bestått | godkjent | publishable | 0/2 |
+| Hallset Diskgolfpark | 9/11 | 4/6 | 2 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/13 |
+| Trolla Diskgolfpark | 9/11 | 1/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/15 |
+| Bølgane Frisbeegolfpark | 9/11 | 2/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/13 |
+| Sukkevann Frisbeegolfpark | 10/11 | 4/6 | 3 | 1 dager / fresh | 1 | klar | stopp | not_requested | legacy | 0/8 |
+| Skimore Drammen | 8/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/12 |
+| Kvernhuset DiscGolfpark | 8/11 | 3/6 | 2 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/12 |
+| Ambjørnrød Skole Discgolfbane | 9/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/14 |
+| Skien Frisbeegolfbane | 9/11 | 1/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/15 |
+| Kollmyr Frisbeegolf | 9/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/14 |
+| Porsgrunn - Heistad | 9/11 | 3/6 | 2 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/13 |
+| Kjølnes-banen | 11/11 | 5/6 | 2 | 1 dager / fresh | 0 | klar | bestått | godkjent | publishable | 0/1 |
+| Charlottenlund Discgolfbane | 8/11 | 2/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/12 |
+| Ørndalen diskgolfpark | 8/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/12 |
+| Sandnes Disc Golf Park | 9/11 | 2/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/14 |
+| Egeland Diskgolfpark | 9/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/14 |
+| Enga Discgolfpark Offisiell | 9/11 | 3/6 | 2 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/13 |
+| Borg Golfbane | 9/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/14 |
 
-## Dekning per bane
-
-| Bane | Required | Recommended | Kilder | Alder/status | Koordinater | Fasiliteter | Tilgang | Egnethet | V1-gate | Feil/advarsler |
-|---|---:|---:|---:|---|---|---:|---:|---:|---|---:|
-| Krokhol Disc Golf Course | 15/15 | 10/12 | 3 | 1 dager / fresh | course_center | 2/3 | 3/4 | 2/3 | klar | 0/0 |
-| Klemetsrud diskgolfbane | 15/15 | 10/12 | 2 | 1 dager / fresh | course_center | 1/3 | 2/4 | 2/3 | klar | 0/0 |
-| Holmenkollen DiscGolfpark | 11/15 | 6/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 2/3 | legacy/incomplete | 0/10 |
-| Ekeberg Frisbeegolfbane | 11/15 | 5/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 2/3 | legacy/incomplete | 0/10 |
-| Hauketo Diskgolfbane | 11/15 | 4/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 3/3 | legacy/incomplete | 0/10 |
-| Lambertseter Diskgolfbane | 11/15 | 4/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 3/3 | legacy/incomplete | 0/10 |
-| Alvøen Frisbeegolfbane | 11/15 | 3/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 2/3 | legacy/incomplete | 0/10 |
-| Søndre Hetlevik | 11/15 | 3/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 2/3 | legacy/incomplete | 0/10 |
-| Kalandeid IL | 11/15 | 4/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 3/3 | legacy/incomplete | 0/10 |
-| Dragvoll Diskgolfpark | 15/15 | 11/12 | 2 | 1 dager / fresh | course_center | 2/3 | 4/4 | 2/3 | klar | 0/0 |
-| Hallset Diskgolfpark | 11/15 | 5/12 | 2 | 118 dager / aging | mangler | 0/3 | 0/4 | 3/3 | legacy/incomplete | 0/10 |
-| Trolla Diskgolfpark | 11/15 | 3/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 2/3 | legacy/incomplete | 0/10 |
-| Bølgane Frisbeegolfpark | 11/15 | 4/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 1/3 | legacy/incomplete | 0/10 |
-| Sukkevann Frisbeegolfpark | 15/15 | 8/12 | 3 | 1 dager / fresh | first_tee | 2/3 | 2/4 | 1/3 | legacy/incomplete | 0/5 |
-| Skimore Drammen | 11/15 | 4/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 1/3 | legacy/incomplete | 0/10 |
-| Kvernhuset DiscGolfpark | 11/15 | 5/12 | 2 | 118 dager / aging | mangler | 0/3 | 0/4 | 2/3 | legacy/incomplete | 0/10 |
-| Ambjørnrød Skole Discgolfbane | 11/15 | 4/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 3/3 | legacy/incomplete | 0/10 |
-| Skien Frisbeegolfbane | 11/15 | 3/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 2/3 | legacy/incomplete | 0/10 |
-| Kollmyr Frisbeegolf | 11/15 | 4/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 3/3 | legacy/incomplete | 0/10 |
-| Porsgrunn - Heistad | 11/15 | 6/12 | 2 | 118 dager / aging | mangler | 0/3 | 0/4 | 2/3 | legacy/incomplete | 0/10 |
-| Kjølnes-banen | 15/15 | 10/12 | 2 | 1 dager / fresh | course_center | 2/3 | 2/4 | 2/3 | klar | 0/0 |
-| Charlottenlund Discgolfbane | 11/15 | 4/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 1/3 | legacy/incomplete | 0/10 |
-| Ørndalen diskgolfpark | 11/15 | 5/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 2/3 | legacy/incomplete | 0/10 |
-| Sandnes Disc Golf Park | 11/15 | 4/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 2/3 | legacy/incomplete | 0/10 |
-| Egeland Diskgolfpark | 11/15 | 4/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 3/3 | legacy/incomplete | 0/10 |
-| Enga Discgolfpark Offisiell | 11/15 | 5/12 | 2 | 118 dager / aging | mangler | 0/3 | 0/4 | 2/3 | legacy/incomplete | 0/10 |
-| Borg Golfbane | 11/15 | 4/12 | 1 | 118 dager / aging | mangler | 0/3 | 0/4 | 3/3 | legacy/incomplete | 0/10 |
-
-## Mangler per bane
+## Issues per bane
 
 ### Krokhol Disc Golf Course
 
-- Required mangler: Ingen
-- Recommended mangler: facilities.practice_basket, links.club_url
-- Kvalifiserte kilder: 2
-- Verifiserte faktagrupper utover navn/plassering: status, course_type, terrain, access.fee, access.season, access.booking_required, facilities.other, suitability.difficulty, suitability.beginner_friendly, links.official_url
-- Issues: INFO:legacy_record
+- Pipeline: research=true, validate=true, review_required=false, approved=true, publishable=true
+- Issues: WARNING:recommended_missing, WARNING:layout_par_missing
 
 ### Klemetsrud diskgolfbane
 
-- Required mangler: Ingen
-- Recommended mangler: facilities.parking, facilities.practice_basket
-- Kvalifiserte kilder: 1
-- Verifiserte faktagrupper utover navn/plassering: status, holes, course_type, terrain, access.fee, access.season, facilities.other, suitability.beginner_friendly, links.official_url, links.club_url
-- Issues: INFO:legacy_record
+- Pipeline: research=true, validate=true, review_required=false, approved=true, publishable=true
+- Issues: WARNING:recommended_missing, WARNING:layout_par_missing
 
 ### Holmenkollen DiscGolfpark
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Ekeberg Frisbeegolfbane
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Hauketo Diskgolfbane
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: terrain, access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Lambertseter Diskgolfbane
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: terrain, access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Alvøen Frisbeegolfbane
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: course_type, terrain, access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Søndre Hetlevik
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: course_type, terrain, access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Kalandeid IL
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: terrain, access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Dragvoll Diskgolfpark
 
-- Required mangler: Ingen
-- Recommended mangler: facilities.practice_basket
-- Kvalifiserte kilder: 1
-- Verifiserte faktagrupper utover navn/plassering: status, holes, course_type, access.season, facilities.parking, links.official_url, links.club_url
-- Issues: INFO:legacy_record
+- Pipeline: research=true, validate=true, review_required=false, approved=true, publishable=true
+- Issues: WARNING:recommended_missing, WARNING:layout_par_missing
 
 ### Hallset Diskgolfpark
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Trolla Diskgolfpark
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: course_type, terrain, access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Bølgane Frisbeegolfpark
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, suitability.beginner_friendly, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Sukkevann Frisbeegolfpark
 
-- Required mangler: Ingen
-- Recommended mangler: access.season, facilities.practice_basket, suitability.beginner_friendly, links.official_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, INFO:legacy_record
+- Pipeline: research=true, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:recommended_missing, WARNING:recommended_missing, WARNING:layout_par_missing, WARNING:layout_par_missing, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, INFO:legacy_record, INFO:research_candidate
 
 ### Skimore Drammen
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, suitability.difficulty, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Kvernhuset DiscGolfpark
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Ambjørnrød Skole Discgolfbane
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: terrain, access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Skien Frisbeegolfbane
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: course_type, terrain, access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Kollmyr Frisbeegolf
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: terrain, access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Porsgrunn - Heistad
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Kjølnes-banen
 
-- Required mangler: Ingen
-- Recommended mangler: access.season, facilities.practice_basket
-- Kvalifiserte kilder: 1
-- Verifiserte faktagrupper utover navn/plassering: status, holes, course_type, facilities.parking, suitability.beginner_friendly, links.official_url, links.club_url
-- Issues: INFO:legacy_record
+- Pipeline: research=true, validate=true, review_required=false, approved=true, publishable=true
+- Issues: WARNING:recommended_missing
 
 ### Charlottenlund Discgolfbane
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, suitability.beginner_friendly, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Ørndalen diskgolfpark
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Sandnes Disc Golf Park
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: terrain, access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Egeland Diskgolfpark
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: terrain, access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Enga Discgolfpark Offisiell
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
 ### Borg Golfbane
 
-- Required mangler: status, location.latitude, location.longitude, location.coordinate_precision
-- Recommended mangler: terrain, access.season, access.fee, facilities.parking, facilities.toilet, facilities.practice_basket, links.official_url, links.club_url
-- Kvalifiserte kilder: 0
-- Verifiserte faktagrupper utover navn/plassering: Ingen etter V1-krav
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:required_missing, WARNING:qualified_source_missing, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:insufficient_verified_facts, WARNING:sources_aging, INFO:legacy_record
+- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate

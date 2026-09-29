@@ -15,7 +15,7 @@ const areas = [
 ];
 
 function state(value, mode = "missing") {
-  if (value === null || value === undefined || value === "" || value === "unknown" || (Array.isArray(value) && value.length === 0)) return "missing";
+  if (value === null || value === undefined || value === "" || value === "unknown" || value === "Ukjent" || (Array.isArray(value) && value.length === 0)) return "missing";
   return mode;
 }
 
@@ -27,23 +27,19 @@ function researchFields(course) {
 
   return {
     coordinates: state(hasCoordinates ? true : null, "reverify"),
-    status: state(course.status, "reverify"),
-    holes: state(course.holes, "reverify_primary"),
+    installed_holes: state(course.installed_holes, "reverify_primary"),
+    layouts: state(course.layouts, "reverify_primary"),
+    difficulty: state(course.suitability?.difficulty?.value, "editorial_review"),
     terrain: state(course.terrain, "reverify_primary"),
-    access: state(course.access?.notes, "reverify_primary"),
-    season: state(course.access?.season, "reverify_primary"),
-    price: state(course.access?.fee, "reverify_primary"),
-    parking: state(course.facilities?.parking, "reverify_primary"),
-    toilet: state(course.facilities?.toilet, "reverify_primary"),
-    practice_basket: state(course.facilities?.practice_basket, "reverify_primary"),
-    club_or_operator: state(course.links?.club_url, "reverify_primary"),
+    course_type: state(course.course_type, "reverify_primary"),
+    club_or_operator: state(course.operator?.name, "reverify_primary"),
     official_url: state(course.links?.official_url, "reverify_primary"),
-    beginner_suitability: state(course.suitability?.beginner_friendly, "reverify_method")
+    beginner_suitability: state(course.suitability?.beginner?.value, "reverify_method")
   };
 }
 
 const queue = {
-  schema_version: 1,
+  schema_version: "1.1",
   generated_at: new Date().toISOString().slice(0, 10),
   purpose: "Research-kø. Inneholder ikke nye banefakta og skal ikke brukes direkte til publisering.",
   source_priority: [

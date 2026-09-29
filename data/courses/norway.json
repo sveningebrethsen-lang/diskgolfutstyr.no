@@ -1,6 +1,6 @@
 [
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "krokhol-disc-golf-course",
     "slug": "krokhol-disc-golf-course",
     "name": "Krokhol Disc Golf Course",
@@ -12,10 +12,27 @@
       "country": "Norge",
       "latitude": 59.80289655805656,
       "longitude": 10.926047017006706,
-      "coordinate_precision": "course_center"
+      "coordinate_precision": "course_center",
+      "coordinate_source_id": "source_krokhol_udisc",
+      "coordinate_checked_at": "2026-09-28"
     },
     "summary": "Krokhol er et dedikert diskgolfanlegg ved Siggerud med krevende skogshull, åpne lengdehull, vann og tydelige høydeforskjeller.",
-    "holes": 18,
+    "installed_holes": 18,
+    "legacy_reported_holes": 18,
+    "layouts": [
+      {
+        "id": "main-layout",
+        "name": "Dokumentert hovedlayout",
+        "holes": 18,
+        "par": null,
+        "status": "primary",
+        "seasonal": null,
+        "notes": null,
+        "source_ids": [
+          "source_krokhol_udisc"
+        ]
+      }
+    ],
     "course_type": "Dedikert diskgolfbane på golfbaneområde",
     "terrain": [
       "Skog",
@@ -23,32 +40,107 @@
       "Vannhull",
       "Store høydeforskjeller"
     ],
+    "operator": {
+      "name": "Krokhol Disc Golf Course",
+      "type": "company",
+      "official_url": "https://krokholdgc.no/",
+      "source_ids": [
+        "source_krokhol_official"
+      ]
+    },
     "access": {
-      "fee": "Gratis hverdager før kl. 11 og helge-/helligdager etter kl. 17; ellers 50 kr på hverdager og 80 kr i helger/helligdager",
+      "fee_status": "conditional",
+      "fee_details": "Gratis hverdager før kl. 11 og helge-/helligdager etter kl. 17; ellers 50 kr på hverdager og 80 kr i helger/helligdager",
+      "booking_required": "yes",
+      "booking_url": "https://udisc.com/courses/krokhol-disc-golf-course-TKtF",
       "season": "Sesongstyrt; kontroller baneåpning på den offisielle siden",
-      "opening_hours": null,
-      "booking_required": true,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "yes",
+        "details": "Operatøren beskriver kollektivtransport til området.",
+        "source_ids": [
+          "source_krokhol_official"
+        ]
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": "Alle runder må bookes i UDisc, også i gratisperiodene."
     },
     "facilities": {
-      "parking": true,
-      "toilet": true,
-      "practice_basket": null,
+      "parking": {
+        "status": "yes",
+        "details": null,
+        "source_ids": [
+          "source_krokhol_udisc"
+        ]
+      },
+      "toilet": {
+        "status": "yes",
+        "details": null,
+        "source_ids": [
+          "source_krokhol_udisc"
+        ]
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": [
         "Kafé i sesong",
         "Proshop"
       ]
     },
     "suitability": {
-      "difficulty": "Svært krevende",
-      "beginner_friendly": false,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Svært krevende",
+        "legacy_value": "Svært krevende",
+        "rationale": [
+          "Vann, store høydeforskjeller, tette skogshull og lange åpne hull tilsier svært høy teknisk og fysisk vanskelighetsgrad."
+        ],
+        "confidence": "medium",
+        "reviewed_at": "2026-09-29",
+        "source_ids": [
+          "source_krokhol_official",
+          "source_krokhol_udisc"
+        ]
+      },
+      "beginner": {
+        "value": false,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [
+          "Operatøren beskriver en krevende layout med vann, høydeforskjeller, tette skogshull og åpne lange hull. UDisc klassifiserer banen som svært krevende."
+        ],
+        "confidence": "medium",
+        "source_ids": [
+          "source_krokhol_official",
+          "source_krokhol_udisc"
+        ],
+        "migration_status": "verified"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "viderekomne",
         "turneringsspillere",
         "banetur"
-      ],
-      "assessment_basis": "Operatøren beskriver en krevende layout med vann, høydeforskjeller, tette skogshull og åpne lange hull. UDisc klassifiserer banen som svært krevende."
+      ]
     },
     "links": {
       "official_url": "https://krokholdgc.no/",
@@ -145,17 +237,24 @@
         "source_krokhol_official"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "publishable",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-09-28",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "approved",
+      "reviewed_at": "2026-09-29",
+      "reviewed_by": "Sven",
+      "review_notes": "Godkjent av Sven etter redaksjonell kontroll av kjernefakta og difficulty.",
       "notes": "23C-pilot: faktagrunnlaget er kontrollert. Koordinatet er UDisc sitt baneplasspunkt og er registrert som course_center, ikke som første tee. Publisert HTML er ikke oppdatert i denne fasen."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "klemetsrud-diskgolfbane",
     "slug": "klemetsrud-diskgolfbane",
     "name": "Klemetsrud diskgolfbane",
@@ -167,41 +266,129 @@
       "country": "Norge",
       "latitude": 59.83211054150041,
       "longitude": 10.858167457214478,
-      "coordinate_precision": "course_center"
+      "coordinate_precision": "course_center",
+      "coordinate_source_id": "source_klemetsrud_udisc",
+      "coordinate_checked_at": "2026-09-28"
     },
     "summary": "Klemetsrud er en teknisk skogsbane i Klemetsrud idrettspark med 18 hull og tydelig klubbdrift.",
-    "holes": 18,
+    "installed_holes": 18,
+    "legacy_reported_holes": 18,
+    "layouts": [
+      {
+        "id": "main-layout",
+        "name": "Dokumentert hovedlayout",
+        "holes": 18,
+        "par": null,
+        "status": "primary",
+        "seasonal": null,
+        "notes": null,
+        "source_ids": [
+          "source_klemetsrud_club",
+          "source_klemetsrud_udisc"
+        ]
+      }
+    ],
     "course_type": "Skogsbane",
     "terrain": [
       "Skog",
       "Tydelige fairwayer",
       "Store høydeforskjeller"
     ],
+    "operator": {
+      "name": "Klemetsrud IL",
+      "type": "club",
+      "official_url": "https://www.klemetsrudil.no/diskgolf/",
+      "source_ids": [
+        "source_klemetsrud_club"
+      ]
+    },
     "access": {
-      "fee": "Gratis; frivillig bidrag til vedlikehold",
+      "fee_status": "free",
+      "fee_details": "Gratis; frivillig bidrag til vedlikehold",
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": "Hovedsesong sommer; UDisc oppgir at banen ikke er tilgjengelig i vintersesongen",
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": "Ukesgolf og arrangementer kan begrense casual spill; kontroller oppdatert baneinformasjon."
     },
     "facilities": {
-      "parking": null,
-      "toilet": "Kun ved turneringer og ukesgolf ifølge UDisc",
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "yes",
+        "details": "Kun ved turneringer og ukesgolf ifølge UDisc",
+        "source_ids": [
+          "source_klemetsrud_udisc"
+        ]
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": [
         "Disker kan lånes fra BUA Mortensrud"
       ]
     },
     "suitability": {
-      "difficulty": "Svært krevende",
-      "beginner_friendly": false,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Svært krevende",
+        "legacy_value": "Svært krevende",
+        "rationale": [
+          "Store høydeforskjeller og lange, tekniske skogshull tilsier svært høy vanskelighetsgrad."
+        ],
+        "confidence": "medium",
+        "reviewed_at": "2026-09-29",
+        "source_ids": [
+          "source_klemetsrud_udisc"
+        ]
+      },
+      "beginner": {
+        "value": false,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [
+          "Klubben beskriver Elgtråkket som en skogsbane. UDisc oppgir store høydeforskjeller, lange tekniske hull og svært krevende vanskelighetsgrad."
+        ],
+        "confidence": "medium",
+        "source_ids": [
+          "source_klemetsrud_club",
+          "source_klemetsrud_udisc"
+        ],
+        "migration_status": "verified"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "viderekomne",
         "teknisk trening",
         "lokale spillere"
-      ],
-      "assessment_basis": "Klubben beskriver Elgtråkket som en skogsbane. UDisc oppgir store høydeforskjeller, lange tekniske hull og svært krevende vanskelighetsgrad."
+      ]
     },
     "links": {
       "official_url": "https://www.klemetsrudil.no/diskgolf/",
@@ -286,17 +473,24 @@
         "source_klemetsrud_club"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "publishable",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-09-28",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "approved",
+      "reviewed_at": "2026-09-29",
+      "reviewed_by": "Sven",
+      "review_notes": "Godkjent av Sven etter redaksjonell kontroll av kjernefakta og difficulty.",
       "notes": "23C-pilot: klubbens 2026-banekart bekrefter aktiv drift. Koordinatet er UDisc sitt baneplasspunkt og er registrert som course_center. Publisert HTML er ikke oppdatert."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "holmenkollen-discgolfpark",
     "slug": "holmenkollen-discgolfpark",
     "name": "Holmenkollen DiscGolfpark",
@@ -308,39 +502,102 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Holmenkollen er en 18-hullsbane i kupert terreng. Den kan være fin for spillere som vil ha Oslo-nær bane med utsikt, men helt nye spillere bør starte roligere.",
-    "holes": 18,
+    "installed_holes": null,
+    "legacy_reported_holes": 18,
+    "layouts": [],
     "course_type": "Park/skianlegg",
     "terrain": [
       "Kupert park- og skiterreng"
     ],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": "https://www.skiforeningen.no/holmenkollen/se-og-gjore/holmenkollen-frisbeegolf/",
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": [
         "Se oppdatert kilde for toalett og sesong"
       ]
     },
     "suitability": {
-      "difficulty": "Middels",
-      "beginner_friendly": false,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Moderat",
+        "legacy_value": "Middels",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": false,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "hobbyspillere",
         "viderekomne",
         "Oslo-runde"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -385,17 +642,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc viser 18 hull og sesongstatus."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "ekeberg-frisbeegolfbane",
     "slug": "ekeberg-frisbeegolfbane",
     "name": "Ekeberg Frisbeegolfbane",
@@ -407,37 +671,100 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Ekeberg er en mye spilt Oslo-bane. Den er aktuell for mange nivåer, men nye spillere bør ta hensyn til andre brukere og tempo på banen.",
-    "holes": 18,
+    "installed_holes": null,
+    "legacy_reported_holes": 18,
+    "layouts": [],
     "course_type": "Parkbane",
     "terrain": [
       "Park og blandet terreng"
     ],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Middels",
-      "beginner_friendly": false,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Moderat",
+        "legacy_value": "Middels",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": false,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "Oslo-spillere",
         "hobbyspillere",
         "trening"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -482,17 +809,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc byoversikt viser Ekeberg som 18-hullsbane i Oslo."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "hauketo-diskgolfbane",
     "slug": "hauketo-diskgolfbane",
     "name": "Hauketo Diskgolfbane",
@@ -504,35 +838,98 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Hauketo er markert som lett og nybegynnervennlig i UDisc sin Oslo-oversikt, og kan derfor være et aktuelt førstevalg i byen.",
-    "holes": 11,
+    "installed_holes": null,
+    "legacy_reported_holes": 11,
+    "layouts": [],
     "course_type": "Lavterskelbane",
     "terrain": [],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Lett",
-      "beginner_friendly": true,
-      "family_friendly": true,
+      "difficulty": {
+        "value": "Lett",
+        "legacy_value": "Lett",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
       "good_for": [
         "nybegynnere",
         "kort runde",
         "første runde"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -577,17 +974,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "Byoversikt oppgir 11 hull og beginner-friendly. Sjekk egen baneinfo før du drar."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "lambertseter-diskgolfbane",
     "slug": "lambertseter-diskgolfbane",
     "name": "Lambertseter Diskgolfbane",
@@ -599,35 +1003,98 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Lambertseter er et kortere Oslo-alternativ som UDisc markerer som lett og nybegynnervennlig.",
-    "holes": 9,
+    "installed_holes": null,
+    "legacy_reported_holes": 9,
+    "layouts": [],
     "course_type": "Lavterskelbane",
     "terrain": [],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Lett",
-      "beginner_friendly": true,
-      "family_friendly": true,
+      "difficulty": {
+        "value": "Lett",
+        "legacy_value": "Lett",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
       "good_for": [
         "nybegynnere",
         "kort runde",
         "familier"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -672,17 +1139,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "Byoversikt oppgir 9 hull og beginner-friendly."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "alvoen-frisbeegolfbane",
     "slug": "alvoen-frisbeegolfbane",
     "name": "Alvøen Frisbeegolfbane",
@@ -694,34 +1168,97 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Alvøen fremstår som et mer krevende Bergen-alternativ, og bør vurderes etter nivå og dagsform.",
-    "holes": 9,
+    "installed_holes": null,
+    "legacy_reported_holes": 9,
+    "layouts": [],
     "course_type": null,
     "terrain": [],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Krevende",
-      "beginner_friendly": false,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Krevende",
+        "legacy_value": "Krevende",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": false,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "viderekomne",
         "Bergen-spillere"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -760,17 +1297,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc byoversikt oppgir 9 hull og hard difficulty."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "sondre-hetlevik",
     "slug": "sondre-hetlevik",
     "name": "Søndre Hetlevik",
@@ -782,35 +1326,98 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Søndre Hetlevik er et 18-hullsvalg i Bergen som UDisc markerer som nybegynnervennlig, men runden er lengre enn korte lavterskelbaner.",
-    "holes": 18,
+    "installed_holes": null,
+    "legacy_reported_holes": 18,
+    "layouts": [],
     "course_type": null,
     "terrain": [],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Lett til middels",
-      "beginner_friendly": true,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Ukjent",
+        "legacy_value": "Lett til middels",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "nybegynnere",
         "hobbyspillere",
         "18-hulls runde"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -849,17 +1456,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc byoversikt oppgir 18 hull og beginner-friendly."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "kalandeid-il",
     "slug": "kalandeid-il",
     "name": "Kalandeid IL",
@@ -871,35 +1485,98 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Kalandeid IL er et kortere Bergen-alternativ som kan passe nye spillere basert på tilgjengelig UDisc-informasjon.",
-    "holes": 9,
+    "installed_holes": null,
+    "legacy_reported_holes": 9,
+    "layouts": [],
     "course_type": "Lavterskelbane",
     "terrain": [],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Lett",
-      "beginner_friendly": true,
-      "family_friendly": true,
+      "difficulty": {
+        "value": "Lett",
+        "legacy_value": "Lett",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
       "good_for": [
         "nybegynnere",
         "kort runde",
         "familier"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -944,17 +1621,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc byoversikt oppgir 9 hull og beginner-friendly."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "dragvoll-diskgolfarena",
     "slug": "dragvoll-diskgolfarena",
     "name": "Dragvoll Diskgolfpark",
@@ -966,39 +1650,129 @@
       "country": "Norge",
       "latitude": 63.406616008423484,
       "longitude": 10.47384286943275,
-      "coordinate_precision": "course_center"
+      "coordinate_precision": "course_center",
+      "coordinate_source_id": "source_dragvoll_udisc",
+      "coordinate_checked_at": "2026-09-28"
     },
     "summary": "Dragvoll Diskgolfpark er en 18-hullsbane i friluftsområdet rundt NTNU, med én layout og hensyn til andre brukere av området.",
-    "holes": 18,
+    "installed_holes": 18,
+    "legacy_reported_holes": 18,
+    "layouts": [
+      {
+        "id": "main-layout",
+        "name": "Hovedlayout",
+        "holes": 18,
+        "par": null,
+        "status": "primary",
+        "seasonal": null,
+        "notes": null,
+        "source_ids": [
+          "source_dragvoll_club",
+          "source_dragvoll_udisc"
+        ]
+      }
+    ],
     "course_type": "Blandet frilufts- og universitetsområde",
     "terrain": [
       "Kuperte park- og friluftsområder"
     ],
+    "operator": {
+      "name": "Trondheim Frisbeeklubb",
+      "type": "club",
+      "official_url": "https://www.trondheimfrisbeeklubb.no/discgolf/",
+      "source_ids": [
+        "source_dragvoll_club"
+      ]
+    },
     "access": {
-      "fee": "Gratis spill; gjesteparkering kan være avgiftsbelagt hverdager kl. 08–16",
+      "fee_status": "free",
+      "fee_details": "Gratis spill; gjesteparkering kan være avgiftsbelagt hverdager kl. 08–16",
+      "booking_required": "yes",
+      "booking_url": "https://udisc.com/courses/dragvoll-diskgolfpark-J0NI",
       "season": "Normalt åpen gjennom vinteren",
-      "opening_hours": "Spill etter kl. 22 er ikke tillatt; kontroller arrangementer og reservasjoner",
-      "booking_required": true,
+      "opening_notes": "Spill etter kl. 22 er ikke tillatt; kontroller arrangementer og reservasjoner",
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": "Gratis teetid registreres via UDisc. Banen kan være stengt under ukesgolf og turneringer."
     },
     "facilities": {
-      "parking": true,
-      "toilet": true,
-      "practice_basket": null,
+      "parking": {
+        "status": "yes",
+        "details": null,
+        "source_ids": [
+          "source_dragvoll_club",
+          "source_dragvoll_udisc"
+        ]
+      },
+      "toilet": {
+        "status": "yes",
+        "details": null,
+        "source_ids": [
+          "source_dragvoll_udisc"
+        ]
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": [
         "Drikkevann oppført i UDisc"
       ]
     },
     "suitability": {
-      "difficulty": "Krevende",
-      "beginner_friendly": false,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Krevende",
+        "legacy_value": "Krevende",
+        "rationale": [
+          "Kupert terreng og krevende linjer i et flerbruksområde tilsier en krevende bane."
+        ],
+        "confidence": "medium",
+        "reviewed_at": "2026-09-29",
+        "source_ids": [
+          "source_dragvoll_udisc"
+        ]
+      },
+      "beginner": {
+        "value": false,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [
+          "UDisc oppgir kupert terreng og krevende vanskelighetsgrad. Klubben understreker at banen ligger i et flerbruksområde der spillere må ta hensyn til andre."
+        ],
+        "confidence": "medium",
+        "source_ids": [
+          "source_dragvoll_udisc"
+        ],
+        "migration_status": "verified"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "viderekomne",
         "turnering",
         "teknisk trening"
-      ],
-      "assessment_basis": "UDisc oppgir kupert terreng og krevende vanskelighetsgrad. Klubben understreker at banen ligger i et flerbruksområde der spillere må ta hensyn til andre."
+      ]
     },
     "links": {
       "official_url": "https://www.trondheimfrisbeeklubb.no/discgolf/",
@@ -1087,17 +1861,24 @@
         "source_dragvoll_club"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "publishable",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-09-28",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "approved",
+      "reviewed_at": "2026-09-29",
+      "reviewed_by": "Sven",
+      "review_notes": "Godkjent av Sven etter redaksjonell kontroll av kjernefakta og difficulty.",
       "notes": "23C-pilot: offisielt navn er Dragvoll Diskgolfpark; slug og URL beholdes av stabilitetshensyn. Koordinatet er UDisc sitt baneplasspunkt, registrert som course_center. Publisert HTML er ikke oppdatert."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "hallset-diskgolfpark",
     "slug": "hallset-diskgolfpark",
     "name": "Hallset Diskgolfpark",
@@ -1109,37 +1890,101 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Hallset er en kort 6-hullsbane i Trondheim som virker godt egnet for første runder og korte treningsøkter.",
-    "holes": 6,
+    "installed_holes": null,
+    "legacy_reported_holes": 6,
+    "layouts": [],
     "course_type": "Kort parkbane",
     "terrain": [
       "Park"
     ],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Lett",
-      "beginner_friendly": true,
-      "family_friendly": true,
+      "difficulty": {
+        "value": "Lett",
+        "legacy_value": "Lett",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1",
+          "source_2"
+        ]
+      },
+      "beginner": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
       "good_for": [
         "nybegynnere",
         "familier",
         "kort runde"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -1206,17 +2051,24 @@
         "source_2"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc oppgir 6 hull og beginner-friendly."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "trolla-diskgolfpark",
     "slug": "trolla-diskgolfpark",
     "name": "Trolla Diskgolfpark",
@@ -1228,34 +2080,97 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Trolla ligger høyt i UDisc sin Trondheim-oversikt og kan være aktuell for spillere som vil ha en middels krevende runde.",
-    "holes": 10,
+    "installed_holes": null,
+    "legacy_reported_holes": 10,
+    "layouts": [],
     "course_type": null,
     "terrain": [],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Middels",
-      "beginner_friendly": false,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Moderat",
+        "legacy_value": "Middels",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": false,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "hobbyspillere",
         "Trondheim-runde"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -1294,17 +2209,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc byoversikt oppgir 10 hull og moderate difficulty."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "bolgane-frisbeegolfpark",
     "slug": "bolgane-frisbeegolfpark",
     "name": "Bølgane Frisbeegolfpark",
@@ -1316,37 +2238,100 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Bølgane er en 18-hullsbane i Kristiansand med blandet terreng. Høyt gress og lokale forhold kan påvirke runden.",
-    "holes": 18,
+    "installed_holes": null,
+    "legacy_reported_holes": 18,
+    "layouts": [],
     "course_type": "Blandet bane",
     "terrain": [
       "Åpne hull og lettere skog"
     ],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Middels",
-      "beginner_friendly": null,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Moderat",
+        "legacy_value": "Middels",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "hobbyspillere",
         "18-hulls runde",
         "Kristiansand"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -1388,17 +2373,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc viser 18 hull. Sjekk lokale forhold, spesielt i vekstsesong."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "sukkevann-frisbeegolfpark",
     "slug": "sukkevann-frisbeegolfpark",
     "name": "Sukkevann Frisbeegolfpark",
@@ -1410,10 +2402,40 @@
       "country": "Norge",
       "latitude": 58.152508520794,
       "longitude": 8.090799927715,
-      "coordinate_precision": "first_tee"
+      "coordinate_precision": "first_tee",
+      "coordinate_source_id": "source_sukkevann_pdga",
+      "coordinate_checked_at": "2026-09-28"
     },
     "summary": "Sukkevann er et kupert skogsanlegg i Kristiansand med 27 installerte hull og flere 18-hullsoppsett, inkludert en egen kortsløyfe.",
-    "holes": 27,
+    "installed_holes": 27,
+    "legacy_reported_holes": 27,
+    "layouts": [
+      {
+        "id": "documented-18-hole-layout",
+        "name": "Dokumentert 18-hullsoppsett",
+        "holes": 18,
+        "par": null,
+        "status": "primary",
+        "seasonal": null,
+        "notes": "Navn og detaljert konfigurasjon er ikke verifisert i datagrunnlaget.",
+        "source_ids": [
+          "source_sukkevann_udisc",
+          "source_sukkevann_event"
+        ]
+      },
+      {
+        "id": "short-layout",
+        "name": "Kortsløyfe",
+        "holes": null,
+        "par": null,
+        "status": "alternative",
+        "seasonal": null,
+        "notes": "Hullantall er ikke verifisert i datagrunnlaget.",
+        "source_ids": [
+          "source_sukkevann_udisc"
+        ]
+      }
+    ],
     "course_type": "Større skogsanlegg med flere layouter",
     "terrain": [
       "Skog",
@@ -1421,31 +2443,102 @@
       "Kupert terreng",
       "Vann i spill"
     ],
+    "operator": {
+      "name": "Sukkevann Frisbeeklubb",
+      "type": "club",
+      "official_url": "https://www.sukkevannfrisbeeklubb.no/",
+      "source_ids": [
+        "source_sukkevann_event"
+      ]
+    },
     "access": {
-      "fee": "Gratis",
+      "fee_status": "free",
+      "fee_details": "Gratis",
+      "booking_required": "no",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": false,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": "Midlertidige stenginger ved klubbarrangementer kan forekomme; kontroller oppdatert baneinformasjon."
     },
     "facilities": {
-      "parking": true,
-      "toilet": true,
-      "practice_basket": null,
+      "parking": {
+        "status": "yes",
+        "details": null,
+        "source_ids": [
+          "source_sukkevann_pdga"
+        ]
+      },
+      "toilet": {
+        "status": "yes",
+        "details": null,
+        "source_ids": [
+          "source_sukkevann_udisc"
+        ]
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": [
         "Drikkevann oppført ved fotballbaner og idrettshaller i UDisc"
       ]
     },
     "suitability": {
-      "difficulty": "Layoutavhengig: lett til svært krevende",
-      "beginner_friendly": null,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Ukjent",
+        "legacy_value": "Layoutavhengig: lett til svært krevende",
+        "rationale": [
+          "Vanskelighetsgraden varierer mellom spilleoppsettene, så anlegget får ikke én samlet vanskelighetsgrad."
+        ],
+        "confidence": "medium",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_sukkevann_udisc"
+        ]
+      },
+      "beginner": {
+        "value": true,
+        "scope": "layout",
+        "layout_id": "short-layout",
+        "rationale": [
+          "UDisc anbefaler korthullssløyfen for nybegynnere, men beskriver hovedbanen som krevende for viderekomne. V1 kan ikke uttrykke at egnetheten gjelder én layout og ikke hele anlegget."
+        ],
+        "confidence": "medium",
+        "source_ids": [
+          "source_sukkevann_udisc"
+        ],
+        "migration_status": "verified"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "flere ferdighetsnivåer",
         "teknisk skogsspill",
         "Kristiansand"
-      ],
-      "assessment_basis": "UDisc anbefaler korthullssløyfen for nybegynnere, men beskriver hovedbanen som krevende for viderekomne. V1 kan ikke uttrykke at egnetheten gjelder én layout og ikke hele anlegget."
+      ]
     },
     "links": {
       "official_url": null,
@@ -1539,17 +2632,50 @@
         "source_sukkevann_udisc"
       ]
     },
+    "source_conflicts": [
+      {
+        "id": "installed-holes-vs-layout-holes",
+        "field": "installed_holes/layouts.holes",
+        "critical": true,
+        "status": "resolved",
+        "values": [
+          {
+            "value": 27,
+            "source_id": "source_sukkevann_pdga",
+            "note": "Installert anlegg."
+          },
+          {
+            "value": 18,
+            "source_id": "source_sukkevann_event",
+            "note": "Dokumentert spilleoppsett."
+          }
+        ],
+        "resolution": "Tallene beskriver ulike nivåer: 27 installerte hull og 18 hull i et dokumentert spilleoppsett.",
+        "resolved_value": {
+          "installed_holes": 27,
+          "layout_holes": 18
+        },
+        "resolved_at": "2026-09-28",
+        "rationale": "Historikken beholdes; verdiene er ikke konkurrerende når installasjon og layout modelleres separat."
+      }
+    ],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-09-28",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "23C-pilot: PDGA og UDisc viser 27 installerte hull, mens navngitte layouter og Vårslippen bruker 18 hull. Tallet 27 beskriver anlegget, ikke alle spilleoppsett. Klubbens domene var utilgjengelig under kontrollen, så posten mangler kvalifisert primærkilde."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "skimore-drammen",
     "slug": "skimore-drammen",
     "name": "Skimore Drammen",
@@ -1561,39 +2687,100 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Skimore Drammen er en ny 18-hullsbane i kupert terreng. Siden banen er ny, bør spillere sjekke oppdatert status før de drar.",
-    "holes": 18,
+    "installed_holes": null,
+    "legacy_reported_holes": 18,
+    "layouts": [],
     "course_type": "Skianlegg",
     "terrain": [
       "Kupert skianlegg"
     ],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": [
         "Se UDisc for heis, parkering og status"
       ]
     },
     "suitability": {
-      "difficulty": null,
-      "beginner_friendly": false,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Ukjent",
+        "legacy_value": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": []
+      },
+      "beginner": {
+        "value": false,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "viderekomne",
         "lokale spillere",
         "ny bane"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -1635,17 +2822,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc viser etablert 2026 og difficulty pending."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "kvernhuset-discgolfpark",
     "slug": "kvernhuset-discgolfpark",
     "name": "Kvernhuset DiscGolfpark",
@@ -1657,37 +2851,101 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Kvernhuset er en kort 9-hullsbane i Fredrikstad. Den kan være aktuell for nybegynnere, men tekniske partier og andre brukere bør tas hensyn til.",
-    "holes": 9,
+    "installed_holes": null,
+    "legacy_reported_holes": 9,
+    "layouts": [],
     "course_type": "Skole-/skogsområde",
     "terrain": [
       "Kort og teknisk"
     ],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Lett til middels",
-      "beginner_friendly": true,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Ukjent",
+        "legacy_value": "Lett til middels",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1",
+          "source_2"
+        ]
+      },
+      "beginner": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "nybegynnere",
         "kort runde",
         "lokale spillere"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -1750,17 +3008,24 @@
         "source_2"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc viser 9 hull og beginner-friendly i byoversikten."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "ambjornrod-skole-discgolfbane",
     "slug": "ambjornrod-skole-discgolfbane",
     "name": "Ambjørnrød Skole Discgolfbane",
@@ -1772,35 +3037,98 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Ambjørnrød er en kort skolebane i Fredrikstad som kan passe korte lavterskelrunder når området er tilgjengelig.",
-    "holes": 9,
+    "installed_holes": null,
+    "legacy_reported_holes": 9,
+    "layouts": [],
     "course_type": "Skolebane",
     "terrain": [],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Lett",
-      "beginner_friendly": true,
-      "family_friendly": true,
+      "difficulty": {
+        "value": "Lett",
+        "legacy_value": "Lett",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
       "good_for": [
         "nybegynnere",
         "familier",
         "kort runde"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -1845,17 +3173,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc byoversikt oppgir 9 hull og beginner-friendly."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "skien-frisbeegolfbane",
     "slug": "skien-frisbeegolfbane",
     "name": "Skien Frisbeegolfbane",
@@ -1867,35 +3202,98 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Skien Frisbeegolfbane er et 18-hullsvalg i Grenland og en naturlig hovedbane for spillere som søker discgolf i Skien.",
-    "holes": 18,
+    "installed_holes": null,
+    "legacy_reported_holes": 18,
+    "layouts": [],
     "course_type": null,
     "terrain": [],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Middels",
-      "beginner_friendly": false,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Moderat",
+        "legacy_value": "Middels",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": false,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "hobbyspillere",
         "18-hulls runde",
         "Grenland"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -1934,17 +3332,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc byoversikt oppgir 18 hull."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "kollmyr-frisbeegolf",
     "slug": "kollmyr-frisbeegolf",
     "name": "Kollmyr Frisbeegolf",
@@ -1956,35 +3361,98 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Kollmyr er et kortere Skien-alternativ som virker godt egnet for nye spillere basert på UDisc sin byoversikt.",
-    "holes": 9,
+    "installed_holes": null,
+    "legacy_reported_holes": 9,
+    "layouts": [],
     "course_type": "Lavterskelbane",
     "terrain": [],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Lett",
-      "beginner_friendly": true,
-      "family_friendly": true,
+      "difficulty": {
+        "value": "Lett",
+        "legacy_value": "Lett",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
       "good_for": [
         "nybegynnere",
         "kort runde",
         "familier"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -2029,17 +3497,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc byoversikt oppgir 9 hull og beginner-friendly."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "porsgrunn-heistad",
     "slug": "porsgrunn-heistad",
     "name": "Porsgrunn - Heistad",
@@ -2051,37 +3526,101 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Heistad er en 18-hullsbane i Porsgrunn med variert terreng. Sjekk lokale restriksjoner og ukesgolf før du spiller.",
-    "holes": 18,
+    "installed_holes": null,
+    "legacy_reported_holes": 18,
+    "layouts": [],
     "course_type": "Blandet bane",
     "terrain": [
       "Åpent og skog"
     ],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": "https://www.pdsk.no/",
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Middels",
-      "beginner_friendly": false,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Moderat",
+        "legacy_value": "Middels",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1",
+          "source_2"
+        ]
+      },
+      "beginner": {
+        "value": false,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "hobbyspillere",
         "Grenland",
         "18-hulls runde"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -2144,17 +3683,24 @@
         "source_2"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc viser 18 hull og sesong/restriksjoner."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "porsgrunn-kjolnes",
     "slug": "porsgrunn-kjolnes",
     "name": "Kjølnes-banen",
@@ -2166,39 +3712,129 @@
       "country": "Norge",
       "latitude": 59.14265198173794,
       "longitude": 9.6636972219261,
-      "coordinate_precision": "course_center"
+      "coordinate_precision": "course_center",
+      "coordinate_source_id": "source_kjolnes_udisc",
+      "coordinate_checked_at": "2026-09-28"
     },
     "summary": "Kjølnes-banen er en offentlig 18-hullsbane i Porsgrunn med par 54, relativt flatt terreng og delt bruk av området.",
-    "holes": 18,
+    "installed_holes": 18,
+    "legacy_reported_holes": 18,
+    "layouts": [
+      {
+        "id": "main-layout",
+        "name": "Dokumentert hovedlayout",
+        "holes": 18,
+        "par": 54,
+        "status": "primary",
+        "seasonal": null,
+        "notes": null,
+        "source_ids": [
+          "source_kjolnes_club",
+          "source_kjolnes_udisc"
+        ]
+      }
+    ],
     "course_type": "Blandet park-, skole- og universitetsområde",
     "terrain": [
       "Forholdsvis flatt område"
     ],
+    "operator": {
+      "name": "Porsgrunn Disc Golf Klubb",
+      "type": "club",
+      "official_url": "https://www.pdsk.no/next/p/78405/kjolnes",
+      "source_ids": [
+        "source_kjolnes_club"
+      ]
+    },
     "access": {
-      "fee": "Gratis; frivillig greenfee oppgitt i UDisc",
+      "fee_status": "free",
+      "fee_details": "Gratis; frivillig greenfee oppgitt i UDisc",
+      "booking_required": "no",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": false,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": "Området deles med flere aktører. Spillere har vikeplikt og må prioritere sikkerhet."
     },
     "facilities": {
-      "parking": true,
-      "toilet": false,
-      "practice_basket": null,
+      "parking": {
+        "status": "yes",
+        "details": null,
+        "source_ids": [
+          "source_kjolnes_club"
+        ]
+      },
+      "toilet": {
+        "status": "no",
+        "details": null,
+        "source_ids": [
+          "source_kjolnes_udisc"
+        ]
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": [
         "Parkering ved hull 1"
       ]
     },
     "suitability": {
-      "difficulty": "Moderat",
-      "beginner_friendly": true,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Moderat",
+        "legacy_value": "Lett",
+        "rationale": [
+          "En 18-hulls par-54-bane i forholdsvis flatt terreng vurderes som moderat; vurderingen støttes også av nyere baneinformasjon."
+        ],
+        "confidence": "medium",
+        "reviewed_at": "2026-09-29",
+        "source_ids": [
+          "source_kjolnes_udisc"
+        ]
+      },
+      "beginner": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [
+          "Klubben oppgir 18 par-3-hull. UDisc beskriver banen som moderat og markerer den som nybegynnervennlig; sikkerhet i flerbruksområdet må fortsatt vurderes."
+        ],
+        "confidence": "medium",
+        "source_ids": [
+          "source_kjolnes_club",
+          "source_kjolnes_udisc"
+        ],
+        "migration_status": "verified"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "nybegynnere",
         "hobbyspillere",
         "Grenland"
-      ],
-      "assessment_basis": "Klubben oppgir 18 par-3-hull. UDisc beskriver banen som moderat og markerer den som nybegynnervennlig; sikkerhet i flerbruksområdet må fortsatt vurderes."
+      ]
     },
     "links": {
       "official_url": "https://www.pdsk.no/next/p/78405/kjolnes",
@@ -2281,17 +3917,24 @@
         "source_kjolnes_club"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "publishable",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-09-28",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "approved",
+      "reviewed_at": "2026-09-29",
+      "reviewed_by": "Sven",
+      "review_notes": "Godkjent av Sven etter redaksjonell kontroll av kjernefakta og difficulty; Kjølnes er vurdert som Moderat.",
       "notes": "23C-pilot: offisielt klubbnavn er Kjølnes-banen; slug og URL beholdes. UDisc viser nå moderat vanskelighetsgrad, mens legacy-data omtalte banen som lett. Koordinatet er registrert som course_center. Publisert HTML er ikke oppdatert."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "charlottenlund-discgolfbane",
     "slug": "charlottenlund-discgolfbane",
     "name": "Charlottenlund Discgolfbane",
@@ -2303,39 +3946,102 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Charlottenlund er en 13-hullsbane i Tromsø. Sesong, vær og føre bør sjekkes før runden.",
-    "holes": 13,
+    "installed_holes": null,
+    "legacy_reported_holes": 13,
+    "layouts": [],
     "course_type": "Park/skianlegg",
     "terrain": [
       "Kort og teknisk"
     ],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": [
         "Se UDisc for tilgjengelige fasiliteter"
       ]
     },
     "suitability": {
-      "difficulty": "Teknisk/kort",
-      "beginner_friendly": null,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Ukjent",
+        "legacy_value": "Teknisk/kort",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "Tromsø-spillere",
         "kort runde",
         "teknisk trening"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -2377,17 +4083,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc viser 13 hull og etablert 2015."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "orndalen-diskgolfpark",
     "slug": "orndalen-diskgolfpark",
     "name": "Ørndalen diskgolfpark",
@@ -2399,37 +4112,100 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Ørndalen er et 18-hullsvalg i Tromsø for spillere som tåler teknisk og kupert terreng.",
-    "holes": 18,
+    "installed_holes": null,
+    "legacy_reported_holes": 18,
+    "layouts": [],
     "course_type": "Skogsbane",
     "terrain": [
       "Kupert og teknisk"
     ],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Middels til svært krevende",
-      "beginner_friendly": false,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Ukjent",
+        "legacy_value": "Middels til svært krevende",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": false,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "viderekomne",
         "Tromsø-spillere",
         "teknisk runde"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -2474,17 +4250,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc viser 18 hull, sesong og begrensninger ved arrangementer."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "sandnes-disc-golf-park",
     "slug": "sandnes-disc-golf-park",
     "name": "Sandnes Disc Golf Park",
@@ -2496,35 +4279,98 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Sandnes Disc Golf Park virker som et krevende alternativ i Stavanger/Sandnes-regionen, og passer best for spillere med litt erfaring.",
-    "holes": 20,
+    "installed_holes": null,
+    "legacy_reported_holes": 20,
+    "layouts": [],
     "course_type": "Større bane",
     "terrain": [],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Svært krevende",
-      "beginner_friendly": false,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Svært krevende",
+        "legacy_value": "Svært krevende",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": false,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "viderekomne",
         "Sandnes",
         "konkurransepreget runde"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -2566,17 +4412,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc søkeresultat for Stavanger-regionen oppgir 20 hull og very hard difficulty."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "egeland-diskgolfpark",
     "slug": "egeland-diskgolfpark",
     "name": "Egeland Diskgolfpark",
@@ -2588,35 +4441,98 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Egeland er et kortere Stavanger-alternativ som kan passe nye spillere basert på UDisc sin regionale oversikt.",
-    "holes": 9,
+    "installed_holes": null,
+    "legacy_reported_holes": 9,
+    "layouts": [],
     "course_type": "Lavterskelbane",
     "terrain": [],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Lett",
-      "beginner_friendly": true,
-      "family_friendly": true,
+      "difficulty": {
+        "value": "Lett",
+        "legacy_value": "Lett",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
       "good_for": [
         "nybegynnere",
         "Stavanger",
         "kort runde"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -2661,17 +4577,24 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc søkeresultat oppgir 9 hull og beginner-friendly."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "enga-discgolfpark-offisiell",
     "slug": "enga-discgolfpark-offisiell",
     "name": "Enga Discgolfpark Offisiell",
@@ -2683,37 +4606,101 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Enga er en krevende 18-hullsbane i Bodø. Den passer best for spillere som tåler lengde og høydeforskjell.",
-    "holes": 18,
+    "installed_holes": null,
+    "legacy_reported_holes": 18,
+    "layouts": [],
     "course_type": "Skianlegg",
     "terrain": [
       "Kupert og langt"
     ],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Krevende",
-      "beginner_friendly": false,
-      "family_friendly": null,
+      "difficulty": {
+        "value": "Krevende",
+        "legacy_value": "Krevende",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1",
+          "source_2"
+        ]
+      },
+      "beginner": {
+        "value": false,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": null,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "unknown"
+      },
       "good_for": [
         "viderekomne",
         "Bodø",
         "lang runde"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -2776,17 +4763,24 @@
         "source_2"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc viser 18 hull og hard difficulty. Layout kan endres."
     }
   },
   {
-    "schema_version": 1,
+    "schema_version": "1.1",
     "id": "borg-golfbane",
     "slug": "borg-golfbane",
     "name": "Borg Golfbane",
@@ -2798,35 +4792,98 @@
       "country": "Norge",
       "latitude": null,
       "longitude": null,
-      "coordinate_precision": "unknown"
+      "coordinate_precision": null,
+      "coordinate_source_id": null,
+      "coordinate_checked_at": null
     },
     "summary": "Borg Golfbane er et kort Ålesund-alternativ som kan passe en lavterskelrunde.",
-    "holes": 6,
+    "installed_holes": null,
+    "legacy_reported_holes": 6,
+    "layouts": [],
     "course_type": "Kort bane",
     "terrain": [],
+    "operator": {
+      "name": null,
+      "type": "unknown",
+      "official_url": null,
+      "source_ids": []
+    },
     "access": {
-      "fee": null,
+      "fee_status": "unknown",
+      "fee_details": null,
+      "booking_required": "unknown",
+      "booking_url": null,
       "season": null,
-      "opening_hours": null,
-      "booking_required": null,
+      "opening_notes": null,
+      "public_transport": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "accessibility": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "dog_rules": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "notes": null
     },
     "facilities": {
-      "parking": null,
-      "toilet": null,
-      "practice_basket": null,
+      "parking": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "toilet": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
+      "practice_basket": {
+        "status": "unknown",
+        "details": null,
+        "source_ids": []
+      },
       "other": []
     },
     "suitability": {
-      "difficulty": "Lett",
-      "beginner_friendly": true,
-      "family_friendly": true,
+      "difficulty": {
+        "value": "Lett",
+        "legacy_value": "Lett",
+        "rationale": [],
+        "confidence": "unknown",
+        "reviewed_at": null,
+        "source_ids": [
+          "source_1"
+        ]
+      },
+      "beginner": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
+      "family": {
+        "value": true,
+        "scope": "course",
+        "layout_id": null,
+        "rationale": [],
+        "confidence": "unknown",
+        "source_ids": [],
+        "migration_status": "legacy_value"
+      },
       "good_for": [
         "nybegynnere",
         "familier",
         "kort runde"
-      ],
-      "assessment_basis": "legacy_migration"
+      ]
     },
     "links": {
       "official_url": null,
@@ -2871,12 +4928,19 @@
         "source_1"
       ]
     },
+    "source_conflicts": [],
+    "publication": {
+      "state": "legacy",
+      "grandfathered_existing_page": true
+    },
     "editorial": {
-      "legacy": true,
-      "publication_status": "published_legacy",
       "data_quality_status": "legacy_incomplete",
       "source_checked_at": "2026-06-03",
       "content_last_updated_at": "2026-06-03",
+      "review_status": "not_requested",
+      "reviewed_at": null,
+      "reviewed_by": null,
+      "review_notes": null,
       "notes": "UDisc byoversikt oppgir 6 hull og beginner-friendly."
     }
   }

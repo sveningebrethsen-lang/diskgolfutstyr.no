@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://diskgolfutstyr.no/schemas/course-v1.1.json",
+  "title": "Diskgolfutstyr Course Schema V1.1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "id", "slug", "name", "status", "location", "summary", "installed_holes", "legacy_reported_holes", "layouts", "course_type", "terrain", "operator", "access", "facilities", "suitability", "links", "sources", "field_sources", "source_conflicts", "publication", "editorial"],
+  "properties": {
+    "schema_version": { "const": "1.1" },
+    "id": { "$ref": "#/$defs/slug" },
+    "slug": { "$ref": "#/$defs/slug" },
+    "name": { "type": "string", "minLength": 2 },
+    "status": { "enum": ["active", "seasonal", "temporarily_closed", "closed", "unknown"] },
+    "location": {
+      "type": "object", "additionalProperties": false,
+      "required": ["locality", "municipality", "county", "country", "latitude", "longitude", "coordinate_precision", "coordinate_source_id", "coordinate_checked_at"],
+      "properties": {
+        "locality": { "type": ["string", "null"] }, "municipality": { "type": ["string", "null"] }, "county": { "type": ["string", "null"] }, "country": { "type": ["string", "null"] },
+        "latitude": { "type": ["number", "null"], "minimum": -90, "maximum": 90 }, "longitude": { "type": ["number", "null"], "minimum": -180, "maximum": 180 },
+        "coordinate_precision": { "enum": ["first_tee", "entrance", "course_center", "approximate", null] },
+        "coordinate_source_id": { "type": ["string", "null"] }, "coordinate_checked_at": { "type": ["string", "null"], "format": "date" }
+      }
+    },
+    "summary": { "type": "string", "minLength": 20 },
+    "installed_holes": { "type": ["integer", "null"], "minimum": 1 },
+    "legacy_reported_holes": { "type": ["integer", "null"], "minimum": 1 },
+    "layouts": { "type": "array", "items": { "$ref": "#/$defs/layout" } },
+    "course_type": { "type": ["string", "null"] },
+    "terrain": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "operator": {
+      "type": "object", "additionalProperties": false, "required": ["name", "type", "official_url", "source_ids"],
+      "properties": { "name": { "type": ["string", "null"] }, "type": { "enum": ["club", "municipality", "company", "association", "other", "unknown"] }, "official_url": { "type": ["string", "null"], "format": "uri" }, "source_ids": { "$ref": "#/$defs/sourceIds" } }
+    },
+    "access": {
+      "type": "object", "additionalProperties": false,
+      "required": ["fee_status", "fee_details", "booking_required", "booking_url", "season", "opening_notes", "public_transport", "accessibility", "dog_rules", "notes"],
+      "properties": {
+        "fee_status": { "enum": ["free", "paid", "conditional", "unknown"] }, "fee_details": { "type": ["string", "null"] },
+        "booking_required": { "enum": ["yes", "no", "unknown"] }, "booking_url": { "type": ["string", "null"], "format": "uri" },
+        "season": { "type": ["string", "null"] }, "opening_notes": { "type": ["string", "null"] },
+        "public_transport": { "$ref": "#/$defs/triState" }, "accessibility": { "$ref": "#/$defs/triState" }, "dog_rules": { "$ref": "#/$defs/triState" }, "notes": { "type": ["string", "null"] }
+      }
+    },
+    "facilities": {
+      "type": "object", "additionalProperties": false, "required": ["parking", "toilet", "practice_basket", "other"],
+      "properties": { "parking": { "$ref": "#/$defs/triState" }, "toilet": { "$ref": "#/$defs/triState" }, "practice_basket": { "$ref": "#/$defs/triState" }, "other": { "type": "array", "items": { "type": "string" } } }
+    },
+    "suitability": {
+      "type": "object", "additionalProperties": false, "required": ["difficulty", "beginner", "family", "good_for"],
+      "properties": { "difficulty": { "$ref": "#/$defs/difficulty" }, "beginner": { "$ref": "#/$defs/suitability" }, "family": { "$ref": "#/$defs/suitability" }, "good_for": { "type": "array", "items": { "type": "string" } } }
+    },
+    "links": { "$ref": "#/$defs/links" },
+    "sources": { "type": "array", "items": { "$ref": "#/$defs/source" } },
+    "field_sources": { "type": "object", "additionalProperties": { "$ref": "#/$defs/sourceIds" } },
+    "source_conflicts": { "type": "array", "items": { "$ref": "#/$defs/conflict" } },
+    "publication": {
+      "type": "object", "additionalProperties": false, "required": ["state", "grandfathered_existing_page"],
+      "properties": { "state": { "enum": ["legacy", "draft", "verified", "publishable", "withheld"] }, "grandfathered_existing_page": { "type": "boolean" } }
+    },
+    "editorial": {
+      "type": "object", "additionalProperties": false,
+      "required": ["data_quality_status", "source_checked_at", "content_last_updated_at", "review_status", "reviewed_at", "reviewed_by", "review_notes", "notes"],
+      "properties": {
+        "data_quality_status": { "enum": ["complete", "incomplete", "legacy_incomplete"] }, "source_checked_at": { "type": ["string", "null"], "format": "date" }, "content_last_updated_at": { "type": ["string", "null"], "format": "date" },
+        "review_status": { "enum": ["not_requested", "required", "approved", "rejected"] }, "reviewed_at": { "type": ["string", "null"], "format": "date" }, "reviewed_by": { "type": ["string", "null"] }, "review_notes": { "type": ["string", "null"] }, "notes": { "type": ["string", "null"] }
+      }
+    }
+  },
+  "$defs": {
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "sourceIds": { "type": "array", "items": { "type": "string" }, "uniqueItems": true },
+    "triState": { "type": "object", "additionalProperties": false, "required": ["status", "details", "source_ids"], "properties": { "status": { "enum": ["yes", "no", "unknown"] }, "details": { "type": ["string", "null"] }, "source_ids": { "$ref": "#/$defs/sourceIds" } } },
+    "layout": { "type": "object", "additionalProperties": false, "required": ["id", "name", "holes", "par", "status", "seasonal", "notes", "source_ids"], "properties": { "id": { "$ref": "#/$defs/slug" }, "name": { "type": "string" }, "holes": { "type": ["integer", "null"], "minimum": 1 }, "par": { "type": ["integer", "null"], "minimum": 1 }, "status": { "enum": ["primary", "alternative", "seasonal", "inactive", "unknown"] }, "seasonal": { "type": ["boolean", "null"] }, "notes": { "type": ["string", "null"] }, "source_ids": { "$ref": "#/$defs/sourceIds" } } },
+    "suitability": { "type": "object", "additionalProperties": false, "required": ["value", "scope", "layout_id", "rationale", "confidence", "source_ids", "migration_status"], "properties": { "value": { "type": ["boolean", "null"] }, "scope": { "enum": ["course", "layout", "unknown"] }, "layout_id": { "type": ["string", "null"] }, "rationale": { "type": "array", "items": { "type": "string" } }, "confidence": { "enum": ["high", "medium", "low", "unknown"] }, "source_ids": { "$ref": "#/$defs/sourceIds" }, "migration_status": { "enum": ["verified", "legacy_value", "unknown"] } } },
+    "difficulty": { "type": "object", "additionalProperties": false, "required": ["value", "legacy_value", "rationale", "confidence", "reviewed_at", "source_ids"], "properties": { "value": { "enum": ["Lett", "Moderat", "Krevende", "Svært krevende", "Ukjent"] }, "legacy_value": { "type": ["string", "null"] }, "rationale": { "type": "array", "items": { "type": "string" } }, "confidence": { "enum": ["high", "medium", "low", "unknown"] }, "reviewed_at": { "type": ["string", "null"], "format": "date" }, "source_ids": { "$ref": "#/$defs/sourceIds" } } },
+    "links": { "type": "object", "additionalProperties": false, "required": ["official_url", "club_url", "map_url", "external_course_url", "external_course_provider"], "properties": { "official_url": { "type": ["string", "null"], "format": "uri" }, "club_url": { "type": ["string", "null"], "format": "uri" }, "map_url": { "type": ["string", "null"], "format": "uri" }, "external_course_url": { "type": ["string", "null"], "format": "uri" }, "external_course_provider": { "type": ["string", "null"] } } },
+    "source": { "type": "object", "additionalProperties": false, "required": ["id", "source_name", "source_url", "publisher", "source_type", "license", "checked_at", "automation_allowed", "qualification"], "properties": { "id": { "type": "string" }, "source_name": { "type": "string" }, "source_url": { "type": "string", "format": "uri" }, "publisher": { "type": "string" }, "source_type": { "type": "string" }, "license": { "type": ["string", "null"] }, "checked_at": { "type": "string", "format": "date" }, "automation_allowed": { "type": "boolean" }, "qualification": { "enum": ["primary", "open_data", "manual_secondary", "unknown"] } } },
+    "conflict": { "type": "object", "additionalProperties": false, "required": ["id", "field", "critical", "status", "values", "resolution", "resolved_value", "resolved_at", "rationale"], "properties": { "id": { "$ref": "#/$defs/slug" }, "field": { "type": "string" }, "critical": { "type": "boolean" }, "status": { "enum": ["resolved", "unresolved"] }, "values": { "type": "array", "minItems": 2, "items": { "type": "object", "additionalProperties": false, "required": ["value", "source_id", "note"], "properties": { "value": {}, "source_id": { "type": ["string", "null"] }, "note": { "type": ["string", "null"] } } } }, "resolution": { "type": ["string", "null"] }, "resolved_value": {}, "resolved_at": { "type": ["string", "null"], "format": "date" }, "rationale": { "type": ["string", "null"] } } }
+  }
+}

@@ -1,13 +1,15 @@
 # Scripts
 
-## Banedata V1
+## Banedata V1.1
 
 | Kommando | Formål |
 |---|---|
-| `node scripts/test-course-data.mjs` | Tester publiseringsport, duplikater, koordinater, kilder og legacy-policy |
+| `node scripts/test-course-data.mjs` | Tester migrering, pipeline, review-port, layouts, koordinater, konflikter og generator-policy |
 | `node scripts/validate-course-data.mjs` | Validerer `data/courses/norway.json` og oppdaterer coverage-rapport |
+| `node scripts/generate-course-production-report.mjs` | Lager operatørstatus for research, validation, review og publisering |
 | `node scripts/generate-course-research-queue.mjs` | Oppdaterer P1 research-kø uten å hente eksterne data |
-| `node scripts/migrate-course-data-v1.mjs` | Idempotent engangsmigrering fra tidligere flat modell |
+| `node scripts/migrate-course-data-v1.1.mjs` | Kontrollert migrering fra V1 til V1.1 med semantic parity |
+| `node scripts/migrate-course-data-v1.mjs` | Historisk migrator; stopper dersom V1.1 allerede er aktivt |
 
 Autoritativ banekilde er `data/courses/norway.json`. `data/courses.json` er historisk backlog.
 

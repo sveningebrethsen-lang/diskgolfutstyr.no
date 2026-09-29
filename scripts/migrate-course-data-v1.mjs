@@ -3,6 +3,11 @@ import { readFileSync, writeFileSync } from "node:fs";
 const path = "data/courses/norway.json";
 const courses = JSON.parse(readFileSync(path, "utf8"));
 
+if (courses.some((course) => course.schema_version === "1.1")) {
+  console.error("V1.1 er aktivt. V1-migratoren kan ikke kjøres mot nyere data.");
+  process.exit(1);
+}
+
 if (courses.every((course) => course.schema_version === 1)) {
   console.log(`Course Schema V1 er allerede aktivt for ${courses.length} poster.`);
   process.exit(0);
