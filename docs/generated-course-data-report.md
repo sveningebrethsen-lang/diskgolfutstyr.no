@@ -8,15 +8,15 @@ Autoritativ publiseringskilde: `data/courses/norway.json` (Course Schema V1.1).
 |---|---:|
 | Poster | 27 |
 | Legacy | 23 |
-| Research complete | 5 |
-| Validation pass | 4 |
-| Review required | 0 |
+| Research complete | 15 |
+| Validation pass | 13 |
+| Review required | 9 |
 | Verified | 4 |
 | Publishable | 4 |
 | Withheld | 0 |
 | Feil | 0 |
-| Advarsler | 312 |
-| Info | 46 |
+| Advarsler | 220 |
+| Info | 37 |
 
 ## Status per bane
 
@@ -24,24 +24,24 @@ Autoritativ publiseringskilde: `data/courses/norway.json` (Course Schema V1.1).
 |---|---:|---:|---:|---|---:|---|---|---|---|---:|
 | Krokhol Disc Golf Course | 11/11 | 5/6 | 3 | 1 dager / fresh | 0 | klar | bestått | godkjent | publishable | 0/2 |
 | Klemetsrud diskgolfbane | 11/11 | 5/6 | 2 | 1 dager / fresh | 0 | klar | bestått | godkjent | publishable | 0/2 |
-| Holmenkollen DiscGolfpark | 9/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/13 |
-| Ekeberg Frisbeegolfbane | 9/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/13 |
+| Holmenkollen frisbeegolf | 11/11 | 5/6 | 4 | 118 dager / aging | 0 | klar | bestått | kreves | legacy | 0/4 |
+| Ekebergsletta frisbeegolfbane | 11/11 | 4/6 | 3 | 118 dager / aging | 0 | klar | bestått | kreves | legacy | 0/4 |
 | Hauketo Diskgolfbane | 9/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/14 |
 | Lambertseter Diskgolfbane | 9/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/14 |
-| Alvøen Frisbeegolfbane | 9/11 | 1/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/15 |
-| Søndre Hetlevik | 8/11 | 1/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/14 |
+| Alvøen Frisbeegolfbane | 11/11 | 4/6 | 3 | 118 dager / aging | 0 | klar | bestått | kreves | legacy | 0/4 |
+| Søndre Hetlevik frisbeegolfbane | 11/11 | 5/6 | 4 | 118 dager / aging | 0 | klar | bestått | kreves | legacy | 0/4 |
 | Kalandeid IL | 9/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/14 |
 | Dragvoll Diskgolfpark | 11/11 | 5/6 | 2 | 1 dager / fresh | 0 | klar | bestått | godkjent | publishable | 0/2 |
 | Hallset Diskgolfpark | 9/11 | 4/6 | 2 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/13 |
-| Trolla Diskgolfpark | 9/11 | 1/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/15 |
-| Bølgane Frisbeegolfpark | 9/11 | 2/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/13 |
+| Trolla Diskgolfpark | 11/11 | 4/6 | 3 | 118 dager / aging | 0 | klar | bestått | kreves | legacy | 0/4 |
+| Bølgane Frisbeegolfpark | 11/11 | 4/6 | 4 | 118 dager / aging | 0 | klar | bestått | kreves | legacy | 0/4 |
 | Sukkevann Frisbeegolfpark | 10/11 | 4/6 | 3 | 1 dager / fresh | 1 | klar | stopp | not_requested | legacy | 0/8 |
-| Skimore Drammen | 8/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/12 |
-| Kvernhuset DiscGolfpark | 8/11 | 3/6 | 2 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/12 |
+| Skimore Drammen | 11/11 | 6/6 | 3 | 118 dager / aging | 0 | klar | bestått | kreves | legacy | 0/2 |
+| Kvernhuset DiscGolfpark | 10/11 | 2/6 | 5 | 118 dager / aging | 0 | klar | stopp | not_requested | legacy | 0/10 |
 | Ambjørnrød Skole Discgolfbane | 9/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/14 |
-| Skien Frisbeegolfbane | 9/11 | 1/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/15 |
+| Skien Frisbeegolfbane | 11/11 | 5/6 | 4 | 118 dager / aging | 0 | klar | bestått | kreves | legacy | 0/4 |
 | Kollmyr Frisbeegolf | 9/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/14 |
-| Porsgrunn - Heistad | 9/11 | 3/6 | 2 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/13 |
+| Heistad-banen | 11/11 | 4/6 | 5 | 118 dager / aging | 0 | klar | bestått | kreves | legacy | 0/3 |
 | Kjølnes-banen | 11/11 | 5/6 | 2 | 1 dager / fresh | 0 | klar | bestått | godkjent | publishable | 0/1 |
 | Charlottenlund Discgolfbane | 8/11 | 2/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/12 |
 | Ørndalen diskgolfpark | 8/11 | 3/6 | 1 | 118 dager / aging | 0 | mangler | stopp | not_requested | legacy | 0/12 |
@@ -62,15 +62,15 @@ Autoritativ publiseringskilde: `data/courses/norway.json` (Course Schema V1.1).
 - Pipeline: research=true, validate=true, review_required=false, approved=true, publishable=true
 - Issues: WARNING:recommended_missing, WARNING:layout_par_missing
 
-### Holmenkollen DiscGolfpark
+### Holmenkollen frisbeegolf
 
-- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
+- Pipeline: research=true, validate=true, review_required=true, approved=false, publishable=false
+- Issues: WARNING:recommended_missing, WARNING:layout_par_missing, WARNING:layout_par_missing, WARNING:sources_aging, INFO:legacy_record
 
-### Ekeberg Frisbeegolfbane
+### Ekebergsletta frisbeegolfbane
 
-- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
+- Pipeline: research=true, validate=true, review_required=true, approved=false, publishable=false
+- Issues: WARNING:recommended_missing, WARNING:recommended_missing, WARNING:layout_par_missing, WARNING:sources_aging, INFO:legacy_record
 
 ### Hauketo Diskgolfbane
 
@@ -84,13 +84,13 @@ Autoritativ publiseringskilde: `data/courses/norway.json` (Course Schema V1.1).
 
 ### Alvøen Frisbeegolfbane
 
-- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
+- Pipeline: research=true, validate=true, review_required=true, approved=false, publishable=false
+- Issues: WARNING:recommended_missing, WARNING:recommended_missing, WARNING:layout_par_missing, WARNING:sources_aging, INFO:legacy_record
 
-### Søndre Hetlevik
+### Søndre Hetlevik frisbeegolfbane
 
-- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
+- Pipeline: research=true, validate=true, review_required=true, approved=false, publishable=false
+- Issues: WARNING:recommended_missing, WARNING:layout_par_missing, WARNING:layout_par_missing, WARNING:sources_aging, INFO:legacy_record
 
 ### Kalandeid IL
 
@@ -109,13 +109,13 @@ Autoritativ publiseringskilde: `data/courses/norway.json` (Course Schema V1.1).
 
 ### Trolla Diskgolfpark
 
-- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
+- Pipeline: research=true, validate=true, review_required=true, approved=false, publishable=false
+- Issues: WARNING:recommended_missing, WARNING:recommended_missing, WARNING:layout_par_missing, WARNING:sources_aging, INFO:legacy_record
 
 ### Bølgane Frisbeegolfpark
 
-- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
+- Pipeline: research=true, validate=true, review_required=true, approved=false, publishable=false
+- Issues: WARNING:recommended_missing, WARNING:recommended_missing, WARNING:layout_par_missing, WARNING:sources_aging, INFO:legacy_record
 
 ### Sukkevann Frisbeegolfpark
 
@@ -124,13 +124,13 @@ Autoritativ publiseringskilde: `data/courses/norway.json` (Course Schema V1.1).
 
 ### Skimore Drammen
 
-- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
+- Pipeline: research=true, validate=true, review_required=true, approved=false, publishable=false
+- Issues: WARNING:layout_par_missing, WARNING:sources_aging, INFO:legacy_record
 
 ### Kvernhuset DiscGolfpark
 
-- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
+- Pipeline: research=true, validate=false, review_required=false, approved=false, publishable=false
+- Issues: WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:layout_par_missing, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, INFO:research_candidate
 
 ### Ambjørnrød Skole Discgolfbane
 
@@ -139,18 +139,18 @@ Autoritativ publiseringskilde: `data/courses/norway.json` (Course Schema V1.1).
 
 ### Skien Frisbeegolfbane
 
-- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
+- Pipeline: research=true, validate=true, review_required=true, approved=false, publishable=false
+- Issues: WARNING:recommended_missing, WARNING:layout_par_missing, WARNING:layout_par_missing, WARNING:sources_aging, INFO:legacy_record
 
 ### Kollmyr Frisbeegolf
 
 - Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
 - Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
 
-### Porsgrunn - Heistad
+### Heistad-banen
 
-- Pipeline: research=false, validate=false, review_required=false, approved=false, publishable=false
-- Issues: WARNING:required_missing, WARNING:required_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:recommended_missing, WARNING:difficulty_rationale_missing, WARNING:legacy_suitability_without_rationale, WARNING:qualified_source_missing, WARNING:secondary_without_primary, WARNING:required_fact_unverified, WARNING:required_fact_unverified, WARNING:sources_aging, INFO:legacy_record, WARNING:hole_information_missing, INFO:research_candidate
+- Pipeline: research=true, validate=true, review_required=true, approved=false, publishable=false
+- Issues: WARNING:recommended_missing, WARNING:recommended_missing, WARNING:sources_aging, INFO:legacy_record
 
 ### Kjølnes-banen
 

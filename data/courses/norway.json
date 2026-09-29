@@ -493,32 +493,62 @@
     "schema_version": "1.1",
     "id": "holmenkollen-discgolfpark",
     "slug": "holmenkollen-discgolfpark",
-    "name": "Holmenkollen DiscGolfpark",
-    "status": "unknown",
+    "name": "Holmenkollen frisbeegolf",
+    "status": "seasonal",
     "location": {
       "locality": "Oslo",
       "municipality": "Oslo",
       "county": "Oslo",
       "country": "Norge",
-      "latitude": null,
-      "longitude": null,
-      "coordinate_precision": null,
-      "coordinate_source_id": null,
-      "coordinate_checked_at": null
+      "latitude": 59.9656882,
+      "longitude": 10.6658179,
+      "coordinate_precision": "approximate",
+      "coordinate_source_id": "source_holmenkollen_map",
+      "coordinate_checked_at": "2026-09-29"
     },
-    "summary": "Holmenkollen er en 18-hullsbane i kupert terreng. Den kan være fin for spillere som vil ha Oslo-nær bane med utsikt, men helt nye spillere bør starte roligere.",
-    "installed_holes": null,
+    "summary": "Holmenkollen har en 18-hulls hovedbane i kupert park- og skiterreng, samt en kortere B-bane som operatøren anbefaler til nybegynnere.",
+    "installed_holes": 18,
     "legacy_reported_holes": 18,
-    "layouts": [],
-    "course_type": "Park/skianlegg",
+    "layouts": [
+      {
+        "id": "hovedbane",
+        "name": "Hovedbane",
+        "holes": 18,
+        "par": null,
+        "status": "primary",
+        "seasonal": true,
+        "notes": null,
+        "source_ids": [
+          "source_holmenkollen_official"
+        ]
+      },
+      {
+        "id": "b-bane",
+        "name": "B-bane",
+        "holes": 8,
+        "par": null,
+        "status": "alternative",
+        "seasonal": true,
+        "notes": "Kortere alternativ som operatøren anbefaler for nybegynnere.",
+        "source_ids": [
+          "source_holmenkollen_official",
+          "source_holmenkollen_map_pdf"
+        ]
+      }
+    ],
+    "course_type": "Park- og skianlegg",
     "terrain": [
-      "Kupert park- og skiterreng"
+      "Kupert terreng",
+      "Skog",
+      "Åpnere parkpartier"
     ],
     "operator": {
-      "name": null,
-      "type": "unknown",
-      "official_url": "https://www.skiforeningen.no/holmenkollen/se-og-gjore/holmenkollen-frisbeegolf/",
-      "source_ids": []
+      "name": "Holmenkollen nasjonalanlegg",
+      "type": "company",
+      "official_url": "https://holmenkollen.com/aktiviteter/frisbeegolf/",
+      "source_ids": [
+        "source_holmenkollen_official"
+      ]
     },
     "access": {
       "fee_status": "unknown",
@@ -568,21 +598,28 @@
       "difficulty": {
         "value": "Moderat",
         "legacy_value": "Middels",
-        "rationale": [],
-        "confidence": "unknown",
+        "rationale": [
+          "Kupert terreng og en full 18-hulls layout gir flere krav enn en kort lavterskelbane."
+        ],
+        "confidence": "medium",
         "reviewed_at": null,
         "source_ids": [
-          "source_1"
+          "source_holmenkollen_official",
+          "source_holmenkollen_map_pdf"
         ]
       },
       "beginner": {
-        "value": false,
-        "scope": "course",
-        "layout_id": null,
-        "rationale": [],
-        "confidence": "unknown",
-        "source_ids": [],
-        "migration_status": "legacy_value"
+        "value": true,
+        "scope": "layout",
+        "layout_id": "b-bane",
+        "rationale": [
+          "Operatøren anbefaler den kortere B-banen til nybegynnere."
+        ],
+        "confidence": "high",
+        "source_ids": [
+          "source_holmenkollen_official"
+        ],
+        "migration_status": "verified"
       },
       "family": {
         "value": null,
@@ -596,13 +633,13 @@
       "good_for": [
         "hobbyspillere",
         "viderekomne",
-        "Oslo-runde"
+        "nybegynnere på B-banen"
       ]
     },
     "links": {
-      "official_url": null,
-      "club_url": "https://www.skiforeningen.no/holmenkollen/se-og-gjore/holmenkollen-frisbeegolf/",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Holmenkollen%20DiscGolfpark",
+      "official_url": "https://holmenkollen.com/aktiviteter/frisbeegolf/",
+      "club_url": null,
+      "map_url": "https://www.google.com/maps/search/?api=1&query=59.9656882%2C10.6658179",
       "external_course_url": "https://udisc.com/courses/holmenkollen-disc-golfpark-Zh8g",
       "external_course_provider": "UDisc"
     },
@@ -617,29 +654,66 @@
         "checked_at": "2026-06-03",
         "automation_allowed": false,
         "qualification": "manual_secondary"
+      },
+      {
+        "id": "source_holmenkollen_official",
+        "source_name": "Frisbeegolf i Holmenkollen",
+        "source_url": "https://holmenkollen.com/aktiviteter/frisbeegolf/",
+        "publisher": "Holmenkollen nasjonalanlegg",
+        "source_type": "operator",
+        "license": "Offentlig nettside; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "primary"
+      },
+      {
+        "id": "source_holmenkollen_map_pdf",
+        "source_name": "Banekart for Holmenkollen frisbeegolf",
+        "source_url": "https://www.skiforeningen.no/globalassets/tidligere-ars-innhold/bilder/holmenkollen/aktiviteter/frisbeegolf/banekart.pdf",
+        "publisher": "Skiforeningen",
+        "source_type": "operator",
+        "license": "Offentlig nettside; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "primary"
+      },
+      {
+        "id": "source_holmenkollen_map",
+        "source_name": "Holmenkollen frisbeegolf i Google Maps",
+        "source_url": "https://www.google.com/maps/search/?api=1&query=59.9656882%2C10.6658179",
+        "publisher": "Google Maps",
+        "source_type": "third_party_map",
+        "license": "Offentlig tilgjengelig sekundærkilde; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "manual_secondary"
       }
     ],
     "field_sources": {
       "name": [
-        "source_1"
+        "source_holmenkollen_official"
       ],
       "location": [
-        "source_1"
+        "source_holmenkollen_official",
+        "source_holmenkollen_map"
       ],
       "holes": [
-        "source_1"
+        "source_holmenkollen_official",
+        "source_holmenkollen_map_pdf"
       ],
       "course_type": [
-        "source_1"
+        "source_holmenkollen_official"
       ],
       "terrain": [
-        "source_1"
+        "source_holmenkollen_official",
+        "source_holmenkollen_map_pdf"
       ],
       "suitability.difficulty": [
-        "source_1"
+        "source_holmenkollen_official",
+        "source_holmenkollen_map_pdf"
       ],
-      "suitability.beginner_friendly": [
-        "source_1"
+      "suitability.beginner": [
+        "source_holmenkollen_official"
       ]
     },
     "source_conflicts": [],
@@ -648,46 +722,62 @@
       "grandfathered_existing_page": true
     },
     "editorial": {
-      "data_quality_status": "legacy_incomplete",
-      "source_checked_at": "2026-06-03",
+      "data_quality_status": "complete",
+      "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "not_requested",
+      "review_status": "required",
       "reviewed_at": null,
       "reviewed_by": null,
       "review_notes": null,
-      "notes": "UDisc viser 18 hull og sesongstatus."
+      "notes": "Fase 24A: kjernefakta kontrollert mot operatørside og banekart. Koordinatet er et omtrentlig banepunkt. Krever menneskelig review før statusendring."
     }
   },
   {
     "schema_version": "1.1",
     "id": "ekeberg-frisbeegolfbane",
     "slug": "ekeberg-frisbeegolfbane",
-    "name": "Ekeberg Frisbeegolfbane",
-    "status": "unknown",
+    "name": "Ekebergsletta frisbeegolfbane",
+    "status": "active",
     "location": {
       "locality": "Oslo",
       "municipality": "Oslo",
       "county": "Oslo",
       "country": "Norge",
-      "latitude": null,
-      "longitude": null,
-      "coordinate_precision": null,
-      "coordinate_source_id": null,
-      "coordinate_checked_at": null
+      "latitude": 59.8950717,
+      "longitude": 10.787095,
+      "coordinate_precision": "course_center",
+      "coordinate_source_id": "source_ekeberg_map",
+      "coordinate_checked_at": "2026-09-29"
     },
-    "summary": "Ekeberg er en mye spilt Oslo-bane. Den er aktuell for mange nivåer, men nye spillere bør ta hensyn til andre brukere og tempo på banen.",
-    "installed_holes": null,
+    "summary": "Ekebergsletta frisbeegolfbane er en 18-hullsbane i Ekeberg idrettspark, lagt i et åpent og mye brukt park- og rekreasjonsområde.",
+    "installed_holes": 18,
     "legacy_reported_holes": 18,
-    "layouts": [],
+    "layouts": [
+      {
+        "id": "hovedbane",
+        "name": "Hovedbane",
+        "holes": 18,
+        "par": null,
+        "status": "primary",
+        "seasonal": null,
+        "notes": null,
+        "source_ids": [
+          "source_ekeberg_municipality"
+        ]
+      }
+    ],
     "course_type": "Parkbane",
     "terrain": [
-      "Park og blandet terreng"
+      "Åpent parkterreng",
+      "Idretts- og rekreasjonsområde"
     ],
     "operator": {
-      "name": null,
-      "type": "unknown",
-      "official_url": null,
-      "source_ids": []
+      "name": "Oslo kommune",
+      "type": "municipality",
+      "official_url": "https://www.oslo.kommune.no/natur-kultur-og-fritid/idrett/idrettsanlegg/ekeberg-idrettspark/",
+      "source_ids": [
+        "source_ekeberg_municipality"
+      ]
     },
     "access": {
       "fee_status": "unknown",
@@ -735,21 +825,23 @@
       "difficulty": {
         "value": "Moderat",
         "legacy_value": "Middels",
-        "rationale": [],
-        "confidence": "unknown",
+        "rationale": [
+          "Full 18-hullsrunde i et åpent, flerbruks parkmiljø krever kontroll og oppmerksomhet på andre brukere."
+        ],
+        "confidence": "low",
         "reviewed_at": null,
         "source_ids": [
-          "source_1"
+          "source_ekeberg_municipality"
         ]
       },
       "beginner": {
-        "value": false,
+        "value": null,
         "scope": "course",
         "layout_id": null,
         "rationale": [],
         "confidence": "unknown",
         "source_ids": [],
-        "migration_status": "legacy_value"
+        "migration_status": "unknown"
       },
       "family": {
         "value": null,
@@ -761,15 +853,15 @@
         "migration_status": "unknown"
       },
       "good_for": [
-        "Oslo-spillere",
         "hobbyspillere",
-        "trening"
+        "trening",
+        "18-hulls runde"
       ]
     },
     "links": {
-      "official_url": null,
+      "official_url": "https://www.oslo.kommune.no/natur-kultur-og-fritid/idrett/idrettsanlegg/ekeberg-idrettspark/",
       "club_url": null,
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Ekeberg%20Frisbeegolfbane",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=59.8950717%2C10.787095",
       "external_course_url": "https://udisc.com/places/no/oslo-region-norway",
       "external_course_provider": "UDisc"
     },
@@ -784,29 +876,49 @@
         "checked_at": "2026-06-03",
         "automation_allowed": false,
         "qualification": "manual_secondary"
+      },
+      {
+        "id": "source_ekeberg_municipality",
+        "source_name": "Ekeberg idrettspark",
+        "source_url": "https://www.oslo.kommune.no/natur-kultur-og-fritid/idrett/idrettsanlegg/ekeberg-idrettspark/",
+        "publisher": "Oslo kommune",
+        "source_type": "municipality",
+        "license": "Offentlig nettside; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "primary"
+      },
+      {
+        "id": "source_ekeberg_map",
+        "source_name": "Ekebergsletta frisbeegolfbane i Google Maps",
+        "source_url": "https://www.google.com/maps/search/?api=1&query=59.8950717%2C10.787095",
+        "publisher": "Google Maps",
+        "source_type": "third_party_map",
+        "license": "Offentlig tilgjengelig sekundærkilde; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "manual_secondary"
       }
     ],
     "field_sources": {
       "name": [
-        "source_1"
+        "source_ekeberg_municipality"
       ],
       "location": [
-        "source_1"
+        "source_ekeberg_municipality",
+        "source_ekeberg_map"
       ],
       "holes": [
-        "source_1"
+        "source_ekeberg_municipality"
       ],
       "course_type": [
-        "source_1"
+        "source_ekeberg_municipality"
       ],
       "terrain": [
-        "source_1"
+        "source_ekeberg_municipality"
       ],
       "suitability.difficulty": [
-        "source_1"
-      ],
-      "suitability.beginner_friendly": [
-        "source_1"
+        "source_ekeberg_municipality"
       ]
     },
     "source_conflicts": [],
@@ -815,14 +927,14 @@
       "grandfathered_existing_page": true
     },
     "editorial": {
-      "data_quality_status": "legacy_incomplete",
-      "source_checked_at": "2026-06-03",
+      "data_quality_status": "complete",
+      "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "not_requested",
+      "review_status": "required",
       "reviewed_at": null,
       "reviewed_by": null,
       "review_notes": null,
-      "notes": "UDisc byoversikt viser Ekeberg som 18-hullsbane i Oslo."
+      "notes": "Fase 24A: kommunen bekrefter navn, område og 18 kurver. Difficulty er en forsiktig redaksjonell vurdering med lav confidence."
     }
   },
   {
@@ -1160,29 +1272,48 @@
     "id": "alvoen-frisbeegolfbane",
     "slug": "alvoen-frisbeegolfbane",
     "name": "Alvøen Frisbeegolfbane",
-    "status": "unknown",
+    "status": "active",
     "location": {
-      "locality": "Bergen",
+      "locality": "Godvik",
       "municipality": "Bergen",
       "county": "Vestland",
       "country": "Norge",
-      "latitude": null,
-      "longitude": null,
-      "coordinate_precision": null,
-      "coordinate_source_id": null,
-      "coordinate_checked_at": null
+      "latitude": 60.3658608,
+      "longitude": 5.1960182,
+      "coordinate_precision": "course_center",
+      "coordinate_source_id": "source_alvoen_map",
+      "coordinate_checked_at": "2026-09-29"
     },
-    "summary": "Alvøen fremstår som et mer krevende Bergen-alternativ, og bør vurderes etter nivå og dagsform.",
-    "installed_holes": null,
+    "summary": "Alvøen er en kompakt bane ved Alvøen idrettspark. Klubben beskriver banen som utfordrende for viderekomne, med planlagte eller alternative utkast for lavere terskel.",
+    "installed_holes": 9,
     "legacy_reported_holes": 9,
-    "layouts": [],
-    "course_type": null,
-    "terrain": [],
+    "layouts": [
+      {
+        "id": "dokumentert-layout",
+        "name": "Dokumentert layout",
+        "holes": 9,
+        "par": null,
+        "status": "primary",
+        "seasonal": null,
+        "notes": "Hullantallet er kontrollert mot den eksisterende sekundærkilden; klubbkilden beskriver utvikling mot 18 hull.",
+        "source_ids": [
+          "source_1"
+        ]
+      }
+    ],
+    "course_type": "Park- og skogsbane",
+    "terrain": [
+      "Idrettspark",
+      "Skogkanter",
+      "Variert terreng"
+    ],
     "operator": {
-      "name": null,
-      "type": "unknown",
-      "official_url": null,
-      "source_ids": []
+      "name": "Loddefjord IL Frisbeegolf",
+      "type": "club",
+      "official_url": "https://www.loddefjordil.no/grupper/frisbeegolf/",
+      "source_ids": [
+        "source_alvoen_club"
+      ]
     },
     "access": {
       "fee_status": "unknown",
@@ -1230,21 +1361,23 @@
       "difficulty": {
         "value": "Krevende",
         "legacy_value": "Krevende",
-        "rationale": [],
-        "confidence": "unknown",
+        "rationale": [
+          "Klubben opplyser at banen er utformet for å utfordre viderekomne spillere."
+        ],
+        "confidence": "high",
         "reviewed_at": null,
         "source_ids": [
-          "source_1"
+          "source_alvoen_club"
         ]
       },
       "beginner": {
-        "value": false,
+        "value": null,
         "scope": "course",
         "layout_id": null,
         "rationale": [],
         "confidence": "unknown",
         "source_ids": [],
-        "migration_status": "legacy_value"
+        "migration_status": "unknown"
       },
       "family": {
         "value": null,
@@ -1257,13 +1390,14 @@
       },
       "good_for": [
         "viderekomne",
-        "Bergen-spillere"
+        "lokale spillere",
+        "teknisk trening"
       ]
     },
     "links": {
-      "official_url": null,
-      "club_url": null,
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Alv%C3%B8en%20Frisbeegolfbane",
+      "official_url": "https://www.loddefjordil.no/grupper/frisbeegolf/",
+      "club_url": "https://www.loddefjordil.no/grupper/frisbeegolf/",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=60.3658608%2C5.1960182",
       "external_course_url": "https://udisc.com/places/no/bergen-norway",
       "external_course_provider": "UDisc"
     },
@@ -1278,23 +1412,49 @@
         "checked_at": "2026-06-03",
         "automation_allowed": false,
         "qualification": "manual_secondary"
+      },
+      {
+        "id": "source_alvoen_club",
+        "source_name": "Frisbeegolf i Loddefjord IL",
+        "source_url": "https://www.loddefjordil.no/grupper/frisbeegolf/",
+        "publisher": "Loddefjord IL",
+        "source_type": "club",
+        "license": "Offentlig nettside; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "primary"
+      },
+      {
+        "id": "source_alvoen_map",
+        "source_name": "Alvøen frisbeegolfbane i Google Maps",
+        "source_url": "https://www.google.com/maps/search/?api=1&query=60.3658608%2C5.1960182",
+        "publisher": "Google Maps",
+        "source_type": "third_party_map",
+        "license": "Offentlig tilgjengelig sekundærkilde; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "manual_secondary"
       }
     ],
     "field_sources": {
       "name": [
-        "source_1"
+        "source_alvoen_club"
       ],
       "location": [
-        "source_1"
+        "source_alvoen_club",
+        "source_alvoen_map"
       ],
       "holes": [
         "source_1"
       ],
-      "suitability.difficulty": [
-        "source_1"
+      "course_type": [
+        "source_alvoen_club"
       ],
-      "suitability.beginner_friendly": [
-        "source_1"
+      "terrain": [
+        "source_alvoen_club"
+      ],
+      "suitability.difficulty": [
+        "source_alvoen_club"
       ]
     },
     "source_conflicts": [],
@@ -1303,44 +1463,75 @@
       "grandfathered_existing_page": true
     },
     "editorial": {
-      "data_quality_status": "legacy_incomplete",
-      "source_checked_at": "2026-06-03",
+      "data_quality_status": "complete",
+      "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "not_requested",
+      "review_status": "required",
       "reviewed_at": null,
       "reviewed_by": null,
       "review_notes": null,
-      "notes": "UDisc byoversikt oppgir 9 hull og hard difficulty."
+      "notes": "Fase 24A: klubbkilden bekrefter identitet, sted, operatør og krevende profil. Nåværende 9 hull støttes av sekundærkilden; klubbens 18-hullsmål er ikke registrert som ferdig layout."
     }
   },
   {
     "schema_version": "1.1",
     "id": "sondre-hetlevik",
     "slug": "sondre-hetlevik",
-    "name": "Søndre Hetlevik",
-    "status": "unknown",
+    "name": "Søndre Hetlevik frisbeegolfbane",
+    "status": "active",
     "location": {
-      "locality": "Bergen",
+      "locality": "Loddefjord",
       "municipality": "Bergen",
       "county": "Vestland",
       "country": "Norge",
-      "latitude": null,
-      "longitude": null,
-      "coordinate_precision": null,
-      "coordinate_source_id": null,
-      "coordinate_checked_at": null
+      "latitude": 60.3471786,
+      "longitude": 5.2243979,
+      "coordinate_precision": "course_center",
+      "coordinate_source_id": "source_hetlevik_map",
+      "coordinate_checked_at": "2026-09-29"
     },
-    "summary": "Søndre Hetlevik er et 18-hullsvalg i Bergen som UDisc markerer som nybegynnervennlig, men runden er lengre enn korte lavterskelbaner.",
-    "installed_holes": null,
+    "summary": "Søndre Hetlevik er en kompakt klubbane ved Haakonsvern. Fem kurver brukes i 9- og 18-hullsoppsett, med korte avstander og enkelte vann- og kryssende spillelinjer.",
+    "installed_holes": 5,
     "legacy_reported_holes": 18,
-    "layouts": [],
-    "course_type": null,
-    "terrain": [],
+    "layouts": [
+      {
+        "id": "18-hull",
+        "name": "18-hullsoppsett",
+        "holes": 18,
+        "par": null,
+        "status": "primary",
+        "seasonal": null,
+        "notes": null,
+        "source_ids": [
+          "source_hetlevik_club"
+        ]
+      },
+      {
+        "id": "9-hull",
+        "name": "9-hullsoppsett",
+        "holes": 9,
+        "par": null,
+        "status": "alternative",
+        "seasonal": null,
+        "notes": "Kortere oppsett på de samme fem kurvene.",
+        "source_ids": [
+          "source_hetlevik_club_article"
+        ]
+      }
+    ],
+    "course_type": "Kompakt nærmiljøbane",
+    "terrain": [
+      "Kystnært grøntområde",
+      "Vann i spill",
+      "Kryssende spillelinjer"
+    ],
     "operator": {
-      "name": null,
-      "type": "unknown",
-      "official_url": null,
-      "source_ids": []
+      "name": "Stormkast Bergen Frisbeeklubb",
+      "type": "club",
+      "official_url": "https://stormkast.no/Hetlevik/",
+      "source_ids": [
+        "source_hetlevik_club"
+      ]
     },
     "access": {
       "fee_status": "unknown",
@@ -1386,23 +1577,30 @@
     },
     "suitability": {
       "difficulty": {
-        "value": "Ukjent",
+        "value": "Moderat",
         "legacy_value": "Lett til middels",
-        "rationale": [],
-        "confidence": "unknown",
+        "rationale": [
+          "Korte avstander senker terskelen, mens vann og gjenbruk av kurver og spillelinjer krever oppmerksomhet."
+        ],
+        "confidence": "medium",
         "reviewed_at": null,
         "source_ids": [
-          "source_1"
+          "source_hetlevik_club",
+          "source_hetlevik_club_article"
         ]
       },
       "beginner": {
         "value": true,
-        "scope": "course",
-        "layout_id": null,
-        "rationale": [],
-        "confidence": "unknown",
-        "source_ids": [],
-        "migration_status": "legacy_value"
+        "scope": "layout",
+        "layout_id": "9-hull",
+        "rationale": [
+          "Klubben beskriver banen som utviklet med nybegynnere i tankene, men vann og kryssende linjer krever forsiktighet."
+        ],
+        "confidence": "medium",
+        "source_ids": [
+          "source_hetlevik_club_article"
+        ],
+        "migration_status": "verified"
       },
       "family": {
         "value": null,
@@ -1414,15 +1612,15 @@
         "migration_status": "unknown"
       },
       "good_for": [
-        "nybegynnere",
+        "nybegynnere på 9-hullsoppsettet",
         "hobbyspillere",
-        "18-hulls runde"
+        "kort runde"
       ]
     },
     "links": {
-      "official_url": null,
-      "club_url": null,
-      "map_url": "https://www.google.com/maps/search/?api=1&query=S%C3%B8ndre%20Hetlevik%20discgolf",
+      "official_url": "https://stormkast.no/Hetlevik/",
+      "club_url": "https://stormkast.no/Hetlevik/",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=60.3471786%2C5.2243979",
       "external_course_url": "https://udisc.com/places/no/bergen-norway",
       "external_course_provider": "UDisc"
     },
@@ -1437,23 +1635,66 @@
         "checked_at": "2026-06-03",
         "automation_allowed": false,
         "qualification": "manual_secondary"
+      },
+      {
+        "id": "source_hetlevik_club",
+        "source_name": "Søndre Hetlevik baneoversikt",
+        "source_url": "https://stormkast.no/Hetlevik/",
+        "publisher": "Stormkast Bergen Frisbeeklubb",
+        "source_type": "club",
+        "license": "Offentlig nettside; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "primary"
+      },
+      {
+        "id": "source_hetlevik_club_article",
+        "source_name": "Hetlevik: 9- og 18-hullsoppsett",
+        "source_url": "https://www.stormkast.no/index.php?artikkelId=26259414&r=site%2FshowArtikkel",
+        "publisher": "Stormkast Bergen Frisbeeklubb",
+        "source_type": "club",
+        "license": "Offentlig nettside; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "primary"
+      },
+      {
+        "id": "source_hetlevik_map",
+        "source_name": "Søndre Hetlevik frisbeegolfbane i Google Maps",
+        "source_url": "https://www.google.com/maps/search/?api=1&query=60.3471786%2C5.2243979",
+        "publisher": "Google Maps",
+        "source_type": "third_party_map",
+        "license": "Offentlig tilgjengelig sekundærkilde; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "manual_secondary"
       }
     ],
     "field_sources": {
       "name": [
-        "source_1"
+        "source_hetlevik_club"
       ],
       "location": [
-        "source_1"
+        "source_hetlevik_club",
+        "source_hetlevik_map"
       ],
       "holes": [
-        "source_1"
+        "source_hetlevik_club",
+        "source_hetlevik_club_article"
+      ],
+      "course_type": [
+        "source_hetlevik_club"
+      ],
+      "terrain": [
+        "source_hetlevik_club",
+        "source_hetlevik_club_article"
       ],
       "suitability.difficulty": [
-        "source_1"
+        "source_hetlevik_club",
+        "source_hetlevik_club_article"
       ],
-      "suitability.beginner_friendly": [
-        "source_1"
+      "suitability.beginner": [
+        "source_hetlevik_club_article"
       ]
     },
     "source_conflicts": [],
@@ -1462,14 +1703,14 @@
       "grandfathered_existing_page": true
     },
     "editorial": {
-      "data_quality_status": "legacy_incomplete",
-      "source_checked_at": "2026-06-03",
+      "data_quality_status": "complete",
+      "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "not_requested",
+      "review_status": "required",
       "reviewed_at": null,
       "reviewed_by": null,
       "review_notes": null,
-      "notes": "UDisc byoversikt oppgir 18 hull og beginner-friendly."
+      "notes": "Fase 24A: klubbkilder dokumenterer fem kurver og både 9- og 18-hullsoppsett. Beginner-vurderingen gjelder primært det kortere oppsettet."
     }
   },
   {
@@ -2072,29 +2313,48 @@
     "id": "trolla-diskgolfpark",
     "slug": "trolla-diskgolfpark",
     "name": "Trolla Diskgolfpark",
-    "status": "unknown",
+    "status": "active",
     "location": {
-      "locality": "Trondheim",
+      "locality": "Trolla",
       "municipality": "Trondheim",
       "county": "Trøndelag",
       "country": "Norge",
-      "latitude": null,
-      "longitude": null,
-      "coordinate_precision": null,
-      "coordinate_source_id": null,
-      "coordinate_checked_at": null
+      "latitude": 63.4502985,
+      "longitude": 10.2943328,
+      "coordinate_precision": "course_center",
+      "coordinate_source_id": "source_trolla_map",
+      "coordinate_checked_at": "2026-09-29"
     },
-    "summary": "Trolla ligger høyt i UDisc sin Trondheim-oversikt og kan være aktuell for spillere som vil ha en middels krevende runde.",
-    "installed_holes": null,
+    "summary": "Trolla Diskgolfpark er en 10-hullsbane som går fra idrettsplassen og rundt lysløypa ved Ålbumyra, i kupert og skogpreget terreng.",
+    "installed_holes": 10,
     "legacy_reported_holes": 10,
-    "layouts": [],
-    "course_type": null,
-    "terrain": [],
+    "layouts": [
+      {
+        "id": "hovedbane",
+        "name": "Hovedbane",
+        "holes": 10,
+        "par": null,
+        "status": "primary",
+        "seasonal": null,
+        "notes": null,
+        "source_ids": [
+          "source_trolla_club"
+        ]
+      }
+    ],
+    "course_type": "Idretts- og skogsbane",
+    "terrain": [
+      "Kupert terreng",
+      "Skog",
+      "Lysløypeområde"
+    ],
     "operator": {
-      "name": null,
-      "type": "unknown",
-      "official_url": null,
-      "source_ids": []
+      "name": "Trolla IL",
+      "type": "club",
+      "official_url": "https://trollail.spond.club/diskgolf",
+      "source_ids": [
+        "source_trolla_club"
+      ]
     },
     "access": {
       "fee_status": "unknown",
@@ -2142,21 +2402,23 @@
       "difficulty": {
         "value": "Moderat",
         "legacy_value": "Middels",
-        "rationale": [],
-        "confidence": "unknown",
+        "rationale": [
+          "Kupert skogsterreng og en 10-hullsrunde gir en moderat samlet utfordring."
+        ],
+        "confidence": "medium",
         "reviewed_at": null,
         "source_ids": [
-          "source_1"
+          "source_trolla_club"
         ]
       },
       "beginner": {
-        "value": false,
+        "value": null,
         "scope": "course",
         "layout_id": null,
         "rationale": [],
         "confidence": "unknown",
         "source_ids": [],
-        "migration_status": "legacy_value"
+        "migration_status": "unknown"
       },
       "family": {
         "value": null,
@@ -2169,13 +2431,14 @@
       },
       "good_for": [
         "hobbyspillere",
-        "Trondheim-runde"
+        "lokale spillere",
+        "skogsrunde"
       ]
     },
     "links": {
-      "official_url": null,
-      "club_url": null,
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Trolla%20Diskgolfpark",
+      "official_url": "https://trollail.spond.club/diskgolf",
+      "club_url": "https://trollail.spond.club/diskgolf",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=63.4502985%2C10.2943328",
       "external_course_url": "https://udisc.com/places/trondheim-norway",
       "external_course_provider": "UDisc"
     },
@@ -2190,23 +2453,49 @@
         "checked_at": "2026-06-03",
         "automation_allowed": false,
         "qualification": "manual_secondary"
+      },
+      {
+        "id": "source_trolla_club",
+        "source_name": "Diskgolf i Trolla IL",
+        "source_url": "https://trollail.spond.club/diskgolf",
+        "publisher": "Trolla IL",
+        "source_type": "club",
+        "license": "Offentlig nettside; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "primary"
+      },
+      {
+        "id": "source_trolla_map",
+        "source_name": "Trolla Diskgolfpark i Google Maps",
+        "source_url": "https://www.google.com/maps/search/?api=1&query=63.4502985%2C10.2943328",
+        "publisher": "Google Maps",
+        "source_type": "third_party_map",
+        "license": "Offentlig tilgjengelig sekundærkilde; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "manual_secondary"
       }
     ],
     "field_sources": {
       "name": [
-        "source_1"
+        "source_trolla_club"
       ],
       "location": [
-        "source_1"
+        "source_trolla_club",
+        "source_trolla_map"
       ],
       "holes": [
-        "source_1"
+        "source_trolla_club"
+      ],
+      "course_type": [
+        "source_trolla_club"
+      ],
+      "terrain": [
+        "source_trolla_club"
       ],
       "suitability.difficulty": [
-        "source_1"
-      ],
-      "suitability.beginner_friendly": [
-        "source_1"
+        "source_trolla_club"
       ]
     },
     "source_conflicts": [],
@@ -2215,14 +2504,14 @@
       "grandfathered_existing_page": true
     },
     "editorial": {
-      "data_quality_status": "legacy_incomplete",
-      "source_checked_at": "2026-06-03",
+      "data_quality_status": "complete",
+      "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "not_requested",
+      "review_status": "required",
       "reviewed_at": null,
       "reviewed_by": null,
       "review_notes": null,
-      "notes": "UDisc byoversikt oppgir 10 hull og moderate difficulty."
+      "notes": "Fase 24A: klubbkilden dokumenterer 10 hull, aktiv bane og kupert trasé rundt lysløypa. Difficulty krever menneskelig review."
     }
   },
   {
@@ -2230,31 +2519,48 @@
     "id": "bolgane-frisbeegolfpark",
     "slug": "bolgane-frisbeegolfpark",
     "name": "Bølgane Frisbeegolfpark",
-    "status": "unknown",
+    "status": "active",
     "location": {
       "locality": "Kristiansand",
       "municipality": "Kristiansand",
       "county": "Agder",
       "country": "Norge",
-      "latitude": null,
-      "longitude": null,
-      "coordinate_precision": null,
-      "coordinate_source_id": null,
-      "coordinate_checked_at": null
+      "latitude": 58.1638304,
+      "longitude": 7.9872641,
+      "coordinate_precision": "course_center",
+      "coordinate_source_id": "source_bolgane_map",
+      "coordinate_checked_at": "2026-09-29"
     },
-    "summary": "Bølgane er en 18-hullsbane i Kristiansand med blandet terreng. Høyt gress og lokale forhold kan påvirke runden.",
-    "installed_holes": null,
+    "summary": "Bølgane frisbeegolfpark er en 18-hullsbane på Egsjordene med en blanding av åpne fairwayer og skogshull. Banen har blitt justert i takt med utviklingen i området.",
+    "installed_holes": 18,
     "legacy_reported_holes": 18,
-    "layouts": [],
-    "course_type": "Blandet bane",
+    "layouts": [
+      {
+        "id": "hovedbane",
+        "name": "Hovedbane",
+        "holes": 18,
+        "par": null,
+        "status": "primary",
+        "seasonal": null,
+        "notes": null,
+        "source_ids": [
+          "source_bolgane_club"
+        ]
+      }
+    ],
+    "course_type": "Park- og skogsbane",
     "terrain": [
-      "Åpne hull og lettere skog"
+      "Åpne fairwayer",
+      "Skog",
+      "Jordekanter"
     ],
     "operator": {
-      "name": null,
-      "type": "unknown",
-      "official_url": null,
-      "source_ids": []
+      "name": "Kristiansand Frisbeegolfklubb",
+      "type": "club",
+      "official_url": "https://kfgk.no/?page_id=40",
+      "source_ids": [
+        "source_bolgane_club"
+      ]
     },
     "access": {
       "fee_status": "unknown",
@@ -2302,11 +2608,13 @@
       "difficulty": {
         "value": "Moderat",
         "legacy_value": "Middels",
-        "rationale": [],
-        "confidence": "unknown",
+        "rationale": [
+          "Kombinasjonen av åpne hull, skogshull og en full 18-hullsrunde gir variert, moderat utfordring."
+        ],
+        "confidence": "medium",
         "reviewed_at": null,
         "source_ids": [
-          "source_1"
+          "source_bolgane_club"
         ]
       },
       "beginner": {
@@ -2330,13 +2638,13 @@
       "good_for": [
         "hobbyspillere",
         "18-hulls runde",
-        "Kristiansand"
+        "variert spill"
       ]
     },
     "links": {
-      "official_url": null,
-      "club_url": null,
-      "map_url": "https://www.google.com/maps/search/?api=1&query=B%C3%B8lgane%20Frisbeegolfpark",
+      "official_url": "https://kfgk.no/?page_id=40",
+      "club_url": "https://kfgk.no/?page_id=2253",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=58.1638304%2C7.9872641",
       "external_course_url": "https://udisc.com/courses/bolgane-frisbeegolfpark-8egx",
       "external_course_provider": "UDisc"
     },
@@ -2351,26 +2659,60 @@
         "checked_at": "2026-06-03",
         "automation_allowed": false,
         "qualification": "manual_secondary"
+      },
+      {
+        "id": "source_bolgane_club",
+        "source_name": "Bølgane frisbeegolfpark",
+        "source_url": "https://kfgk.no/?page_id=40",
+        "publisher": "Kristiansand Frisbeegolfklubb",
+        "source_type": "club",
+        "license": "Offentlig nettside; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "primary"
+      },
+      {
+        "id": "source_bolgane_club_info",
+        "source_name": "Om Kristiansand Frisbeegolfklubb",
+        "source_url": "https://kfgk.no/?page_id=2253",
+        "publisher": "Kristiansand Frisbeegolfklubb",
+        "source_type": "club",
+        "license": "Offentlig nettside; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "primary"
+      },
+      {
+        "id": "source_bolgane_map",
+        "source_name": "Bølgane frisbeegolfpark i Google Maps",
+        "source_url": "https://www.google.com/maps/search/?api=1&query=58.1638304%2C7.9872641",
+        "publisher": "Google Maps",
+        "source_type": "third_party_map",
+        "license": "Offentlig tilgjengelig sekundærkilde; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "manual_secondary"
       }
     ],
     "field_sources": {
       "name": [
-        "source_1"
+        "source_bolgane_club"
       ],
       "location": [
-        "source_1"
+        "source_bolgane_club",
+        "source_bolgane_map"
       ],
       "holes": [
-        "source_1"
+        "source_bolgane_club"
       ],
       "course_type": [
-        "source_1"
+        "source_bolgane_club"
       ],
       "terrain": [
-        "source_1"
+        "source_bolgane_club"
       ],
       "suitability.difficulty": [
-        "source_1"
+        "source_bolgane_club"
       ]
     },
     "source_conflicts": [],
@@ -2379,14 +2721,14 @@
       "grandfathered_existing_page": true
     },
     "editorial": {
-      "data_quality_status": "legacy_incomplete",
-      "source_checked_at": "2026-06-03",
+      "data_quality_status": "complete",
+      "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "not_requested",
+      "review_status": "required",
       "reviewed_at": null,
       "reviewed_by": null,
       "review_notes": null,
-      "notes": "UDisc viser 18 hull. Sjekk lokale forhold, spesielt i vekstsesong."
+      "notes": "Fase 24A: klubbkilden dokumenterer 18 hull og blanding av åpne partier og skog. Lokale ombygginger gjør at status bør sjekkes før senere publiseringsoppdatering."
     }
   },
   {
@@ -2679,31 +3021,47 @@
     "id": "skimore-drammen",
     "slug": "skimore-drammen",
     "name": "Skimore Drammen",
-    "status": "unknown",
+    "status": "seasonal",
     "location": {
       "locality": "Drammen",
       "municipality": "Drammen",
       "county": "Buskerud",
       "country": "Norge",
-      "latitude": null,
-      "longitude": null,
-      "coordinate_precision": null,
-      "coordinate_source_id": null,
-      "coordinate_checked_at": null
+      "latitude": 59.762644,
+      "longitude": 10.125132,
+      "coordinate_precision": "approximate",
+      "coordinate_source_id": "source_skimore_map",
+      "coordinate_checked_at": "2026-09-29"
     },
-    "summary": "Skimore Drammen er en ny 18-hullsbane i kupert terreng. Siden banen er ny, bør spillere sjekke oppdatert status før de drar.",
-    "installed_holes": null,
+    "summary": "Skimore Drammen har en 18-hulls sommerbane i kupert naturterreng ved skianlegget. Operatøren beskriver tilbudet som aktuelt for både nye og erfarne spillere.",
+    "installed_holes": 18,
     "legacy_reported_holes": 18,
-    "layouts": [],
-    "course_type": "Skianlegg",
+    "layouts": [
+      {
+        "id": "hovedbane",
+        "name": "Hovedbane",
+        "holes": 18,
+        "par": null,
+        "status": "primary",
+        "seasonal": true,
+        "notes": null,
+        "source_ids": [
+          "source_skimore_operator"
+        ]
+      }
+    ],
+    "course_type": "Skianlegg og naturbane",
     "terrain": [
-      "Kupert skianlegg"
+      "Kupert naturterreng",
+      "Skianlegg"
     ],
     "operator": {
-      "name": null,
-      "type": "unknown",
-      "official_url": null,
-      "source_ids": []
+      "name": "Skimore Drammen",
+      "type": "company",
+      "official_url": "https://drammen.skimore.no/frisbeegolf",
+      "source_ids": [
+        "source_skimore_operator"
+      ]
     },
     "access": {
       "fee_status": "unknown",
@@ -2751,41 +3109,54 @@
     },
     "suitability": {
       "difficulty": {
-        "value": "Ukjent",
+        "value": "Moderat",
         "legacy_value": null,
-        "rationale": [],
-        "confidence": "unknown",
+        "rationale": [
+          "Kupert terreng trekker opp, mens operatøren samtidig beskriver banen som egnet for flere ferdighetsnivåer."
+        ],
+        "confidence": "low",
         "reviewed_at": null,
-        "source_ids": []
+        "source_ids": [
+          "source_skimore_operator"
+        ]
       },
       "beginner": {
-        "value": false,
+        "value": true,
         "scope": "course",
         "layout_id": null,
-        "rationale": [],
-        "confidence": "unknown",
-        "source_ids": [],
-        "migration_status": "legacy_value"
+        "rationale": [
+          "Operatøren opplyser at banen passer for både nybegynnere og erfarne spillere."
+        ],
+        "confidence": "medium",
+        "source_ids": [
+          "source_skimore_operator"
+        ],
+        "migration_status": "verified"
       },
       "family": {
-        "value": null,
+        "value": true,
         "scope": "course",
         "layout_id": null,
-        "rationale": [],
-        "confidence": "unknown",
-        "source_ids": [],
-        "migration_status": "unknown"
+        "rationale": [
+          "Operatøren omtaler banen som en aktivitet for familie og grupper."
+        ],
+        "confidence": "medium",
+        "source_ids": [
+          "source_skimore_operator"
+        ],
+        "migration_status": "verified"
       },
       "good_for": [
-        "viderekomne",
-        "lokale spillere",
-        "ny bane"
+        "nybegynnere",
+        "hobbyspillere",
+        "familier",
+        "18-hulls runde"
       ]
     },
     "links": {
-      "official_url": null,
+      "official_url": "https://drammen.skimore.no/frisbeegolf",
       "club_url": null,
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Skimore%20Drammen%20discgolf",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=59.762644%2C10.125132",
       "external_course_url": "https://udisc.com/courses/skimore-drammen-o4Ol",
       "external_course_provider": "UDisc"
     },
@@ -2800,26 +3171,55 @@
         "checked_at": "2026-06-03",
         "automation_allowed": false,
         "qualification": "manual_secondary"
+      },
+      {
+        "id": "source_skimore_operator",
+        "source_name": "Frisbeegolf i Skimore Drammen",
+        "source_url": "https://drammen.skimore.no/frisbeegolf",
+        "publisher": "Skimore Drammen",
+        "source_type": "operator",
+        "license": "Offentlig nettside; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "primary"
+      },
+      {
+        "id": "source_skimore_map",
+        "source_name": "Skimore Drammen i Google Maps",
+        "source_url": "https://www.google.com/maps/search/?api=1&query=59.762644%2C10.125132",
+        "publisher": "Google Maps",
+        "source_type": "third_party_map",
+        "license": "Offentlig tilgjengelig sekundærkilde; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "manual_secondary"
       }
     ],
     "field_sources": {
       "name": [
-        "source_1"
+        "source_skimore_operator"
       ],
       "location": [
-        "source_1"
+        "source_skimore_operator",
+        "source_skimore_map"
       ],
       "holes": [
-        "source_1"
+        "source_skimore_operator"
       ],
       "course_type": [
-        "source_1"
+        "source_skimore_operator"
       ],
       "terrain": [
-        "source_1"
+        "source_skimore_operator"
       ],
-      "suitability.beginner_friendly": [
-        "source_1"
+      "suitability.difficulty": [
+        "source_skimore_operator"
+      ],
+      "suitability.beginner": [
+        "source_skimore_operator"
+      ],
+      "suitability.family": [
+        "source_skimore_operator"
       ]
     },
     "source_conflicts": [],
@@ -2828,14 +3228,14 @@
       "grandfathered_existing_page": true
     },
     "editorial": {
-      "data_quality_status": "legacy_incomplete",
-      "source_checked_at": "2026-06-03",
+      "data_quality_status": "complete",
+      "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "not_requested",
+      "review_status": "required",
       "reviewed_at": null,
       "reviewed_by": null,
       "review_notes": null,
-      "notes": "UDisc viser etablert 2026 og difficulty pending."
+      "notes": "Fase 24A: operatørkilden dokumenterer 18 hull, sommerdrift og bred målgruppe. Koordinatet er et omtrentlig anleggspunkt, ikke bekreftet første tee."
     }
   },
   {
@@ -2849,19 +3249,32 @@
       "municipality": "Fredrikstad",
       "county": "Østfold",
       "country": "Norge",
-      "latitude": null,
-      "longitude": null,
-      "coordinate_precision": null,
-      "coordinate_source_id": null,
-      "coordinate_checked_at": null
+      "latitude": 59.2373218,
+      "longitude": 10.935689,
+      "coordinate_precision": "approximate",
+      "coordinate_source_id": "source_kvernhuset_map",
+      "coordinate_checked_at": "2026-09-29"
     },
-    "summary": "Kvernhuset er en kort 9-hullsbane i Fredrikstad. Den kan være aktuell for nybegynnere, men tekniske partier og andre brukere bør tas hensyn til.",
-    "installed_holes": null,
+    "summary": "Kvernhuset er omtalt som en 9-hullsbane ved Kvernhuset skole i Fredrikstad. Oppdatert kjerneinformasjon bør bekreftes av klubb, kommune eller operatør før videre behandling.",
+    "installed_holes": 9,
     "legacy_reported_holes": 9,
-    "layouts": [],
-    "course_type": "Skole-/skogsområde",
+    "layouts": [
+      {
+        "id": "omtalt-layout",
+        "name": "Omtalt 9-hullsoppsett",
+        "holes": 9,
+        "par": null,
+        "status": "unknown",
+        "seasonal": null,
+        "notes": "Sekundærkilde fra 2020; krever nyere kvalifisert kilde.",
+        "source_ids": [
+          "source_kvernhuset_article"
+        ]
+      }
+    ],
+    "course_type": "Skole- og nærmiljøbane",
     "terrain": [
-      "Kort og teknisk"
+      "Nærmiljø ved skole"
     ],
     "operator": {
       "name": null,
@@ -2918,19 +3331,16 @@
         "rationale": [],
         "confidence": "unknown",
         "reviewed_at": null,
-        "source_ids": [
-          "source_1",
-          "source_2"
-        ]
+        "source_ids": []
       },
       "beginner": {
-        "value": true,
+        "value": null,
         "scope": "course",
         "layout_id": null,
         "rationale": [],
         "confidence": "unknown",
         "source_ids": [],
-        "migration_status": "legacy_value"
+        "migration_status": "unknown"
       },
       "family": {
         "value": null,
@@ -2942,7 +3352,6 @@
         "migration_status": "unknown"
       },
       "good_for": [
-        "nybegynnere",
         "kort runde",
         "lokale spillere"
       ]
@@ -2950,7 +3359,7 @@
     "links": {
       "official_url": null,
       "club_url": null,
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Kvernhuset%20DiscGolfpark",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=59.2373218%2C10.935689",
       "external_course_url": "https://udisc.com/courses/kvernhuset-disc-golfpark-tp6J",
       "external_course_provider": "UDisc"
     },
@@ -2976,36 +3385,60 @@
         "checked_at": "2026-06-03",
         "automation_allowed": false,
         "qualification": "manual_secondary"
+      },
+      {
+        "id": "source_kvernhuset_article",
+        "source_name": "Hva er frisbeegolf?",
+        "source_url": "https://aktivitetsrad.no/2020/07/hva-er-frisbee-golf/",
+        "publisher": "Aktivitetsrådet i Fredrikstad",
+        "source_type": "editorial_article",
+        "license": "Offentlig tilgjengelig sekundærkilde; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "manual_secondary"
+      },
+      {
+        "id": "source_kvernhuset_league",
+        "source_name": "Flobergseter-ligaen 2026",
+        "source_url": "https://udisc.com/leagues/flobergseter-ligaen-2026-FUzrIn",
+        "publisher": "UDisc",
+        "source_type": "third_party_tournament",
+        "license": "Offentlig tilgjengelig sekundærkilde; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "manual_secondary"
+      },
+      {
+        "id": "source_kvernhuset_map",
+        "source_name": "Kvernhuset DiscGolfpark i Google Maps",
+        "source_url": "https://www.google.com/maps/search/?api=1&query=59.2373218%2C10.935689",
+        "publisher": "Google Maps",
+        "source_type": "third_party_map",
+        "license": "Offentlig tilgjengelig sekundærkilde; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "manual_secondary"
       }
     ],
     "field_sources": {
       "name": [
         "source_1",
-        "source_2"
+        "source_kvernhuset_article",
+        "source_kvernhuset_league"
       ],
       "location": [
-        "source_1",
-        "source_2"
+        "source_kvernhuset_article",
+        "source_kvernhuset_map"
       ],
       "holes": [
-        "source_1",
-        "source_2"
+        "source_kvernhuset_article",
+        "source_1"
       ],
       "course_type": [
-        "source_1",
-        "source_2"
+        "source_kvernhuset_article"
       ],
       "terrain": [
-        "source_1",
-        "source_2"
-      ],
-      "suitability.difficulty": [
-        "source_1",
-        "source_2"
-      ],
-      "suitability.beginner_friendly": [
-        "source_1",
-        "source_2"
+        "source_kvernhuset_article"
       ]
     },
     "source_conflicts": [],
@@ -3015,13 +3448,13 @@
     },
     "editorial": {
       "data_quality_status": "legacy_incomplete",
-      "source_checked_at": "2026-06-03",
+      "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
       "review_status": "not_requested",
       "reviewed_at": null,
       "reviewed_by": null,
       "review_notes": null,
-      "notes": "UDisc viser 9 hull og beginner-friendly i byoversikten."
+      "notes": "Fase 24A stoppkandidat: nyere aktivitet kan spores i sekundærkilde, men ingen kvalifisert klubb-, kommune- eller operatørkilde ble funnet for kjerneinformasjonen. Ikke klar for review."
     }
   },
   {
@@ -3194,29 +3627,61 @@
     "id": "skien-frisbeegolfbane",
     "slug": "skien-frisbeegolfbane",
     "name": "Skien Frisbeegolfbane",
-    "status": "unknown",
+    "status": "active",
     "location": {
       "locality": "Skien",
       "municipality": "Skien",
       "county": "Telemark",
       "country": "Norge",
-      "latitude": null,
-      "longitude": null,
-      "coordinate_precision": null,
-      "coordinate_source_id": null,
-      "coordinate_checked_at": null
+      "latitude": 59.1866013,
+      "longitude": 9.5969181,
+      "coordinate_precision": "first_tee",
+      "coordinate_source_id": "source_skien_official_map",
+      "coordinate_checked_at": "2026-09-29"
     },
-    "summary": "Skien Frisbeegolfbane er et 18-hullsvalg i Grenland og en naturlig hovedbane for spillere som søker discgolf i Skien.",
-    "installed_holes": null,
+    "summary": "Skien Frisbeegolfbane ligger i Skien fritidspark og har en full 18-hullsbane gjennom park- og skogsterreng, i tillegg til en kort 6-hullsbane.",
+    "installed_holes": 18,
     "legacy_reported_holes": 18,
-    "layouts": [],
-    "course_type": null,
-    "terrain": [],
+    "layouts": [
+      {
+        "id": "hovedbane",
+        "name": "Hovedbane",
+        "holes": 18,
+        "par": null,
+        "status": "primary",
+        "seasonal": null,
+        "notes": null,
+        "source_ids": [
+          "source_skien_operator",
+          "source_skien_club"
+        ]
+      },
+      {
+        "id": "kortbane",
+        "name": "Kortbane",
+        "holes": 6,
+        "par": null,
+        "status": "alternative",
+        "seasonal": null,
+        "notes": null,
+        "source_ids": [
+          "source_skien_operator"
+        ]
+      }
+    ],
+    "course_type": "Park- og skogsbane",
+    "terrain": [
+      "Park",
+      "Skog",
+      "Idrettsanlegg"
+    ],
     "operator": {
-      "name": null,
-      "type": "unknown",
-      "official_url": null,
-      "source_ids": []
+      "name": "Skien fritidspark",
+      "type": "company",
+      "official_url": "https://skienfritidspark.no/aktiviteter/aktivitetsparken/frisbeegolf",
+      "source_ids": [
+        "source_skien_operator"
+      ]
     },
     "access": {
       "fee_status": "unknown",
@@ -3264,21 +3729,28 @@
       "difficulty": {
         "value": "Moderat",
         "legacy_value": "Middels",
-        "rationale": [],
-        "confidence": "unknown",
+        "rationale": [
+          "Hovedbanen har 18 hull i både park og skog, mens en egen kortbane gir et enklere alternativ."
+        ],
+        "confidence": "medium",
         "reviewed_at": null,
         "source_ids": [
-          "source_1"
+          "source_skien_operator",
+          "source_skien_club"
         ]
       },
       "beginner": {
-        "value": false,
-        "scope": "course",
-        "layout_id": null,
-        "rationale": [],
-        "confidence": "unknown",
-        "source_ids": [],
-        "migration_status": "legacy_value"
+        "value": true,
+        "scope": "layout",
+        "layout_id": "kortbane",
+        "rationale": [
+          "Den separate 6-hulls kortbanen gir et lavere terskelnivå enn hovedbanen."
+        ],
+        "confidence": "medium",
+        "source_ids": [
+          "source_skien_operator"
+        ],
+        "migration_status": "verified"
       },
       "family": {
         "value": null,
@@ -3292,13 +3764,13 @@
       "good_for": [
         "hobbyspillere",
         "18-hulls runde",
-        "Grenland"
+        "nybegynnere på kortbanen"
       ]
     },
     "links": {
-      "official_url": null,
-      "club_url": null,
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Skien%20Frisbeegolfbane",
+      "official_url": "https://skienfritidspark.no/aktiviteter/aktivitetsparken/frisbeegolf",
+      "club_url": "https://skienfrisbee.com/?page_id=11",
+      "map_url": "https://goo.gl/maps/zvEq2qY8hPR8NuPi7",
       "external_course_url": "https://udisc.com/places/skien-norway",
       "external_course_provider": "UDisc"
     },
@@ -3313,23 +3785,68 @@
         "checked_at": "2026-06-03",
         "automation_allowed": false,
         "qualification": "manual_secondary"
+      },
+      {
+        "id": "source_skien_operator",
+        "source_name": "Frisbeegolf i Skien fritidspark",
+        "source_url": "https://skienfritidspark.no/aktiviteter/aktivitetsparken/frisbeegolf",
+        "publisher": "Skien fritidspark",
+        "source_type": "operator",
+        "license": "Offentlig nettside; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "primary"
+      },
+      {
+        "id": "source_skien_club",
+        "source_name": "Skien frisbeegolfbane",
+        "source_url": "https://skienfrisbee.com/?page_id=11",
+        "publisher": "Skien Frisbeeklubb",
+        "source_type": "club",
+        "license": "Offentlig nettside; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "primary"
+      },
+      {
+        "id": "source_skien_official_map",
+        "source_name": "Kartlenke fra Skien fritidspark",
+        "source_url": "https://goo.gl/maps/zvEq2qY8hPR8NuPi7",
+        "publisher": "Skien fritidspark",
+        "source_type": "operator",
+        "license": "Offentlig nettside; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "primary"
       }
     ],
     "field_sources": {
       "name": [
-        "source_1"
+        "source_skien_operator",
+        "source_skien_club"
       ],
       "location": [
-        "source_1"
+        "source_skien_operator",
+        "source_skien_official_map"
       ],
       "holes": [
-        "source_1"
+        "source_skien_operator",
+        "source_skien_club"
+      ],
+      "course_type": [
+        "source_skien_operator",
+        "source_skien_club"
+      ],
+      "terrain": [
+        "source_skien_operator",
+        "source_skien_club"
       ],
       "suitability.difficulty": [
-        "source_1"
+        "source_skien_operator",
+        "source_skien_club"
       ],
-      "suitability.beginner_friendly": [
-        "source_1"
+      "suitability.beginner": [
+        "source_skien_operator"
       ]
     },
     "source_conflicts": [],
@@ -3338,14 +3855,14 @@
       "grandfathered_existing_page": true
     },
     "editorial": {
-      "data_quality_status": "legacy_incomplete",
-      "source_checked_at": "2026-06-03",
+      "data_quality_status": "complete",
+      "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "not_requested",
+      "review_status": "required",
       "reviewed_at": null,
       "reviewed_by": null,
       "review_notes": null,
-      "notes": "UDisc byoversikt oppgir 18 hull."
+      "notes": "Fase 24A: operatør og klubb dokumenterer 18-hullsbane; operatøren dokumenterer også en 6-hulls kortbane. Koordinatet følger operatørens kartlenke til første tee."
     }
   },
   {
@@ -3517,32 +4034,50 @@
     "schema_version": "1.1",
     "id": "porsgrunn-heistad",
     "slug": "porsgrunn-heistad",
-    "name": "Porsgrunn - Heistad",
-    "status": "unknown",
+    "name": "Heistad-banen",
+    "status": "active",
     "location": {
-      "locality": "Porsgrunn",
+      "locality": "Heistad",
       "municipality": "Porsgrunn",
       "county": "Telemark",
       "country": "Norge",
-      "latitude": null,
-      "longitude": null,
-      "coordinate_precision": null,
-      "coordinate_source_id": null,
-      "coordinate_checked_at": null
+      "latitude": 59.0883238,
+      "longitude": 9.6797079,
+      "coordinate_precision": "course_center",
+      "coordinate_source_id": "source_heistad_map",
+      "coordinate_checked_at": "2026-09-29"
     },
-    "summary": "Heistad er en 18-hullsbane i Porsgrunn med variert terreng. Sjekk lokale restriksjoner og ukesgolf før du spiller.",
-    "installed_holes": null,
+    "summary": "Heistad-banen er en 18-hullsbane i Lundedalen med åpne partier, skog og høydeforskjeller. Området deles med andre aktiviteter, så spillerne må følge lokale sikkerhetsbegrensninger.",
+    "installed_holes": 18,
     "legacy_reported_holes": 18,
-    "layouts": [],
-    "course_type": "Blandet bane",
+    "layouts": [
+      {
+        "id": "hovedbane",
+        "name": "Hovedbane",
+        "holes": 18,
+        "par": 58,
+        "status": "primary",
+        "seasonal": null,
+        "notes": null,
+        "source_ids": [
+          "source_heistad_club"
+        ]
+      }
+    ],
+    "course_type": "Blandet park- og skogsbane",
     "terrain": [
-      "Åpent og skog"
+      "Åpne partier",
+      "Skog",
+      "Høydeforskjeller",
+      "Flerbruksområde"
     ],
     "operator": {
-      "name": null,
-      "type": "unknown",
-      "official_url": "https://www.pdsk.no/",
-      "source_ids": []
+      "name": "Porsgrunn Disksportklubb",
+      "type": "club",
+      "official_url": "https://www.pdsk.no/next/p/78404/heistad",
+      "source_ids": [
+        "source_heistad_club"
+      ]
     },
     "access": {
       "fee_status": "unknown",
@@ -3588,24 +4123,25 @@
     },
     "suitability": {
       "difficulty": {
-        "value": "Moderat",
+        "value": "Krevende",
         "legacy_value": "Middels",
-        "rationale": [],
-        "confidence": "unknown",
+        "rationale": [
+          "Full 18-hullsrunde med par 58, skog, åpne partier og høydeforskjeller gir flere tekniske og fysiske krav."
+        ],
+        "confidence": "medium",
         "reviewed_at": null,
         "source_ids": [
-          "source_1",
-          "source_2"
+          "source_heistad_club"
         ]
       },
       "beginner": {
-        "value": false,
+        "value": null,
         "scope": "course",
         "layout_id": null,
         "rationale": [],
         "confidence": "unknown",
         "source_ids": [],
-        "migration_status": "legacy_value"
+        "migration_status": "unknown"
       },
       "family": {
         "value": null,
@@ -3618,14 +4154,14 @@
       },
       "good_for": [
         "hobbyspillere",
-        "Grenland",
+        "viderekomne",
         "18-hulls runde"
       ]
     },
     "links": {
-      "official_url": null,
+      "official_url": "https://www.pdsk.no/next/p/78404/heistad",
       "club_url": "https://www.pdsk.no/",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Porsgrunn%20Heistad%20discgolf",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=59.0883238%2C9.6797079",
       "external_course_url": "https://udisc.com/courses/porsgrunn-heistad-jbco",
       "external_course_provider": "UDisc"
     },
@@ -3651,36 +4187,60 @@
         "checked_at": "2026-06-03",
         "automation_allowed": false,
         "qualification": "manual_secondary"
+      },
+      {
+        "id": "source_heistad_club",
+        "source_name": "Heistad-banen",
+        "source_url": "https://www.pdsk.no/next/p/78404/heistad",
+        "publisher": "Porsgrunn Disksportklubb",
+        "source_type": "club",
+        "license": "Offentlig nettside; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "primary"
+      },
+      {
+        "id": "source_heistad_municipality",
+        "source_name": "Porsgrunn Disksportklubb i Aktivitetsportalen",
+        "source_url": "https://aktivitetsportalenporsgrunn.no/aktivitetstilbyder/porsgrunn-disksportklubb/",
+        "publisher": "Porsgrunn kommune",
+        "source_type": "municipality",
+        "license": "Offentlig nettside; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "primary"
+      },
+      {
+        "id": "source_heistad_map",
+        "source_name": "Heistad-banen i Google Maps",
+        "source_url": "https://www.google.com/maps/search/?api=1&query=59.0883238%2C9.6797079",
+        "publisher": "Google Maps",
+        "source_type": "third_party_map",
+        "license": "Offentlig tilgjengelig sekundærkilde; manuell faktakontroll, ingen kopiering",
+        "checked_at": "2026-09-29",
+        "automation_allowed": false,
+        "qualification": "manual_secondary"
       }
     ],
     "field_sources": {
       "name": [
-        "source_1",
-        "source_2"
+        "source_heistad_club"
       ],
       "location": [
-        "source_1",
-        "source_2"
+        "source_heistad_club",
+        "source_heistad_map"
       ],
       "holes": [
-        "source_1",
-        "source_2"
+        "source_heistad_club"
       ],
       "course_type": [
-        "source_1",
-        "source_2"
+        "source_heistad_club"
       ],
       "terrain": [
-        "source_1",
-        "source_2"
+        "source_heistad_club"
       ],
       "suitability.difficulty": [
-        "source_1",
-        "source_2"
-      ],
-      "suitability.beginner_friendly": [
-        "source_1",
-        "source_2"
+        "source_heistad_club"
       ]
     },
     "source_conflicts": [],
@@ -3689,14 +4249,14 @@
       "grandfathered_existing_page": true
     },
     "editorial": {
-      "data_quality_status": "legacy_incomplete",
-      "source_checked_at": "2026-06-03",
+      "data_quality_status": "complete",
+      "source_checked_at": "2026-09-29",
       "content_last_updated_at": "2026-06-03",
-      "review_status": "not_requested",
+      "review_status": "required",
       "reviewed_at": null,
       "reviewed_by": null,
       "review_notes": null,
-      "notes": "UDisc viser 18 hull og sesong/restriksjoner."
+      "notes": "Fase 24A: klubbkilden dokumenterer 18 hull, par 58, terreng og lokale sikkerhetsbegrensninger. Difficulty krever menneskelig review."
     }
   },
   {
