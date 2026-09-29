@@ -1,6 +1,10 @@
 # Diskvelger: roadmap
 
-Sist oppdatert: 15. juli 2026
+Sist oppdatert: 29. september 2026
+
+## Status etter 24C
+
+Betinget hånd/kastavklaring, skille mellom tidlig sving og sen avslutning, ukjent kastelengde, revidert regelmodell og parameteroverføring til Flight Visualizer er implementert. Se [gjeldende beslutningstre](disk-selector-decision-tree.md) og [24C-rapport](disc-tools-p0-hardening-24c.md). P1 er nå kortere vei til grafen, kortere resultatvisning og brukertest på fysisk mobil. Produktmodell, vind, vinkler, sammenligning og deling nedenfor er muligheter, ikke godkjent implementeringsplan.
 
 Diskvelgeren er første interaktive verktøy på Diskgolfutstyr.no. Første versjon skal være enkel, forståelig og trygg for nybegynnere. Denne roadmapen beskriver mulige forbedringer uten å innføre backend, database eller API i nærmeste fase.
 
@@ -85,7 +89,7 @@ Effekt:
 
 ## Fase 5: Hyzer og anhyzer
 
-Legg til enkel vinkelveiledning etter resultatet:
+Mulig fremtidig vinkelveiledning etter resultatet. Eksemplene nedenfor gjelder kun høyrehendt backhand og må speiles for andre rotasjoner:
 
 - Hvis disken går hardt venstre: prøv roligere disk eller mindre hyzer.
 - Hvis disken brenner høyre: prøv mer hyzer, roligere kast eller mer stabil disk.
@@ -95,12 +99,12 @@ Dette bør kobles til teknikkartiklene.
 
 ## Fase 6: Høyre-/venstrehendt
 
-MVP-en bruker forenklet språk og tar ikke hensyn til hånddominans. Senere bør verktøyet spørre:
+Implementert betinget i 24C ved retningsavhengige problemer:
 
 - Høyrehendt
 - Venstrehendt
 
-Da kan forklaringer om "venstre" og "høyre" bli mer presise.
+Felles retningsfunksjon brukes av begge verktøyene. Ingen hånd antas som et faktisk brukersvar.
 
 ## Fase 7: Delbare resultater
 
@@ -134,8 +138,8 @@ Favoritter kan brukes til:
 
 | Prioritet | Tiltak | Hvorfor |
 |---|---|---|
-| Høy | Legg inn høyre-/venstrehendt forklaring | Gjør venstre/høyre-problemer mer presise |
-| Høy | Skill "for lite lengde" fra "vil optimalisere lengde" | Unngår for konservative anbefalinger for viderekomne |
+| Utført 24C | Betinget høyre-/venstrehendt forklaring | Gjør venstre/høyre-problemer mer presise |
+| Utført 24C | Skill "for lite lengde" fra "vil optimalisere lengde" | Unngår for konservative anbefalinger for viderekomne |
 | Middels | Koble til statisk diskdatasett | Gir mer konkrete anbefalinger |
 | Middels | Enkel URL-deling | Nyttig for forum, venner og klubbmiljø |
 | Lav | Favoritter | Praktisk, men ikke nødvendig for MVP |

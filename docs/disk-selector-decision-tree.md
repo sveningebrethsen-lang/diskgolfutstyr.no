@@ -1,82 +1,79 @@
 # Diskvelger: beslutningstre
 
-Sist oppdatert: 15. juli 2026
+Sist oppdatert: 29. september 2026 (24C). Erstatter first-match-modellen fra 18C. Reglene er redaksjonelle startpunkter, ikke en vitenskapelig kalibrert produktanbefaling.
 
-Dette dokumentet beskriver logikken i Diskgolfutstyr sin diskvelger. Målet er at reglene skal være enkle å forstå, teste og endre senere.
+## Inndata og betingelser
 
-## Inndata
+Fem faste spørsmål: erfaring, vanlig kastelengde, kastestil, mål og problem. Kastelengde har nå «Vet ikke ennå». Problemer skiller tidlig venstre/høyre fra hard avslutning venstre/høyre, samt stall, kort, linje og ukjent.
 
-Diskvelgeren bruker fem svar:
+Hånd spørres kun ved et av de fire retningsproblemene og når målet ikke er putting. Ved «begge» spørres først hvilket kast problemet gjelder. Det gir fem, seks eller syv spørsmål. Endring av kastestil, mål eller problem sletter gamle betingede svar. Ingen sidebestemt diagnose uten kjent hånd og aktuell kastestil.
 
-| Felt | Verdier | Brukes til |
+## Regelrekkefølge
+
+| Prioritet | Betingelse | Valg |
 |---|---|---|
-| Erfaring | Aldri spilt, nybegynner, litt erfaring, viderekommen, erfaren | Hvor konservativ anbefalingen skal være |
-| Kastelengde | Under 50 m, 50-70 m, 70-90 m, 90-110 m, 110 m+ | Om spilleren bør holde seg til putter/midrange eller kan få fairway-driver |
-| Kastestil | Backhand, forehand, begge | Om forehand bør få litt mer stabilitet |
-| Mål | Lengde, kontroll, rettere kast, enklere kast, putting, innspill | Hvilken diskrolle som prioriteres |
-| Problem | Venstre, høyre, stall, kort, linje, vet ikke | Justerer stabilitet og konservativitet |
+| 1 | Mål putting | Nøytral putter; ignorér driveproblem i vurderingen |
+| 2 | Mål innspill | Putter til kast/innspill, også for erfarne langtkastere |
+| 3 | Aldri spilt/nybegynner + under 50 eller ukjent lengde | Putter til kast/innspill som konservativ start |
+| 4 | Har spilt mer enn nybegynnernivå + minst 70 m + mål lengde/kontroll + ikke stall | Fairway-familien |
+| 5 | Ellers | Midrange-familien |
+| 6 | Innen familien: tidlig sving i turn-retningen | Nøytral, ikke ekstra understabilitet |
+| 7 | Ellers: hard avslutning i fade-retningen, mål enklere kast, eller lengdemål med backhand | Lett understabil |
+| 8 | Ellers | Nøytral |
 
-## Prioritert beslutningslogikk
+Forehand velger ikke automatisk en overstabil disk. Lengdemål med forehand får nøytral profil med råd om grep/slipp, mens backhand normalt får litt turn. Ved kjent hard fade kan begge få mindre fade/litt turn. «Begge» uten retningsproblem får et nøytralt kompromiss og råd om å prøve begge kast.
 
-Reglene kjøres i denne rekkefølgen. Første treff vinner.
+Stall holder anbefalingen i midrange-familien etter spesialmål/nybegynnerstart og forklares med mulig høy forkant. Kort kast alene blokkerer ikke en erfaren langtkasters fairway. Linjebom gir råd om sikte/slipp, ikke automatisk mer understabilitet. Alle problemforklaringer har teknikkforbehold.
 
-| Prioritet | Regel | Resultat | Hvorfor |
-|---|---|---|---|
-| 1 | Målet er bedre putting | Nøytral putter | Putting bør ikke løses med driver eller midrange |
-| 2 | Målet er bedre innspill | Putter eller lett midrange | Innspill handler mest om kontroll og lav fart |
-| 3 | Ny spiller og kast under 70 m | Putter eller lett midrange | Nye spillere lærer mer av sakte disker |
-| 4 | Ny spiller, kortkastende spiller, kontrollmål, rettere kast, enklere kast, stall, venstrefade eller for lite lengde | Understabil midrange | Trygg standardanbefaling for de fleste nye/hobbyspillere |
-| 5 | Kaster 90 m+ og vil ha mer lengde | Kontrollert fairway-driver | Fairway-driver gir mer lengde uten å hoppe rett til distance driver |
-| 6 | Forehand som ikke er fanget av tidligere regler | Stabil midrange eller fairway-driver | Forehand tåler ofte litt mer stabilitet |
-| 7 | Fallback | Stabil midrange eller rolig fairway-driver | Trygt alternativ for viderekomne profiler uten tydelig spesialbehov |
+Ukjent lengde blir aldri tolket som et målt antall meter. Ny spiller får putter; andre får midrange dersom ikke putting/innspill allerede bestemmer rollen.
 
-## Resultatkategorier
+## Profiler
 
-| Resultat | Typisk flight-område | Eksempelbruk |
-|---|---|---|
-| Nøytral putter | Speed 2-3, glide 3-5, turn 0 til -1, fade 0-1 | Putting, korte innspill, rolig teknikktrening |
-| Putter eller lett midrange | Speed 3-5, glide 4-5, turn -1 til 0, fade 0-1 | Første runder, innspill, korte hull |
-| Understabil midrange | Speed 4-6, glide 5-6, turn -2 til -1, fade 0-2 | Rette kast, hyzerflip, skogshull, kontroll |
-| Kontrollert fairway-driver | Speed 7-9, glide 5-6, turn -2 til -1, fade 1-2 | Lengde med kontroll for spillere som kaster ca. 90 m+ |
-| Stabil midrange eller fairway-driver | Speed 5-8, glide 4-5, turn -1 til 0, fade 1-2 | Forehand og kontrollkast med mer stabilitet |
-| Stabil midrange eller rolig fairway-driver | Speed 5-7, glide 5-6, turn -2 til -1, fade 1-2 | Fallback for viderekomne profiler |
+| ID | Kategori | Speed | Glide | Turn | Fade | Eksempel |
+|---|---|---|---|---|---|---|
+| putter | Nøytral putter | 2–3 | 3–5 | -1–0 | 0–1 | Aviar Putt & Approach |
+| approach | Putter til kast/innspill | 2–4 | 3–5 | -1–0 | 0–1 | Aviar Putt & Approach |
+| neutralMid | Nøytral midrange | 4–5 | 4–5 | -1–0 | 0–1 | Mako3 |
+| easyMid | Lett understabil midrange | 4–5 | 5–6 | -2–-1 | 0–1 | Fuse |
+| neutralFairway | Nøytral fairway | 6–9 | 4–7 | -1–0 | 1–2 | S-Line FD |
+| easyFairway | Lett understabil fairway | 6–9 | 5–6 | -2–-1 | 1–2 | Neo Essence |
 
-## Kombinasjoner og regelvalg
+Tallgrenser er anbefalingsregler, ikke produsentfakta om alle disker i kategorien. Se [kildekontrollen](disc-tools-example-sources.md) for produsenttall og endringene i alle 16 tidligere eksempler.
 
-| Kombinasjon | Regel som treffer | Kommentar |
-|---|---|---|
-| Aldri spilt + under 50 m | Regel 3 | Veldig konservativt med putter/lett midrange |
-| Nybegynner + 50-70 m + rettere kast | Regel 3 | Kort kastelengde prioriteres før mål |
-| Litt erfaring + 70-90 m + kontroll | Regel 4 | Understabil midrange er trygg kontrollanbefaling |
-| Viderekommen + 90-110 m + lengde | Regel 5 hvis problemet ikke er stall/venstre/kort | Fairway-driver når spilleren allerede har nok fart |
-| Viderekommen + 90-110 m + lengde + for lite lengde | Regel 4 | Konservativt valg fordi "for lite lengde" tolkes som mulig fart-/teknikkproblem |
-| Erfaren + forehand | Regel 6 hvis tidligere regler ikke treffer | Gir mer stabilitet, men ikke ekstrem utility-disk |
-| Putting som mål | Regel 1 | Overstyrer alle andre svar |
+## Retning, overføring og evidens
 
-## Fallback
+Felles `verktoy/flight-core.js` definerer RHBH/LHFH: turn høyre, fade venstre; LHBH/RHFH: turn venstre, fade høyre. Sett fra kasteren langs kastelinjen. Diskvelger bruker bare sidepiler når konteksten er kjent, ellers nøytral indikator og forklaring om hånd/kastestil.
 
-Fallback brukes bare når ingen tydelig nybegynner-, putting-, innspill-, kontroll-, lengde- eller forehandregel treffer. Den gir en stabil midrange eller rolig fairway-driver fordi dette er et trygt kompromiss.
+Simulatorlenken sender fire representative heltall, eksplisitt `origin=selector`, kastestil når kjent og hånd når kjent. «Begge» bruker problemmets kastestil dersom den ble avklart; ellers beskrives backhand som illustrasjonsstandard. Ukjent hånd merkes som høyrehendt illustrasjonsstandard, ikke som et innhentet svar.
 
-## Reality check 18C
+Resultatets interne `evidence` skiller produsenteksempler (FACT), redaksjonell regelanbefaling (RULE-BASED RECOMMENDATION) og pedagogisk flight (PEDAGOGICAL EXPLANATION). UI hevder aldri fysisk test.
 
-Testmotoren simulerte 60 konkrete profiler og gikk i tillegg gjennom alle 2700 mulige kombinasjoner.
+## Testfordeling
 
-| Resultat | Antall i alle kombinasjoner |
-|---|---:|
-| Putter eller lett midrange | 738 |
-| Nøytral putter | 450 |
-| Understabil midrange | 1431 |
-| Stabil midrange eller rolig fairway-driver | 18 |
-| Stabil midrange eller fairway-driver | 9 |
-| Kontrollert fairway-driver | 54 |
+Før: 2700 faste kombinasjoner. Etter: 4320 grunnkombinasjoner, som med relevante hånd-/kastavklaringer gir 7320 fullstendige svarløp. Dette er uttømmende kombinasjonstesting, ikke faktisk brukerfordeling eller trafikkdata. Prosentene er ikke direkte sammenlignbare fordi svarrommet er endret.
 
-## Kjente gule forbedringspunkter
+| Før | Antall | Andel |
+|---|---:|---:|
+| Putter/lett midrange | 738 | 27,3 % |
+| Nøytral putter | 450 | 16,7 % |
+| Understabil midrange | 1431 | 53,0 % |
+| Stabil midrange/rolig fairway | 18 | 0,7 % |
+| Forehand-gren | 9 | 0,3 % |
+| Kontrollert fairway | 54 | 2,0 % |
 
-| Funn | Status | Mulig senere justering |
-|---|---|---|
-| "For lite lengde" gjør anbefalingen konservativ og kan hindre fairway-driver for noen 90 m+ spillere | Gul | Skill mellom "for lite lengde fordi disken staller" og "jeg vil optimalisere lengde" |
-| "Disken går til høyre" tolkes ikke separat i første MVP | Gul | Spør om spilleren er høyre-/venstrehendt og om kastet er backhand/forehand |
-| Forehand-regelen kommer sent i treet | Gul | Vurder egen forehand-gren etter erfaring/kastelengde |
-| Ingen vekt/plast/vind i modellen | Bevisst MVP-avgrensning | Legges i senere versjon |
+| Etter | Antall | Andel |
+|---|---:|---:|
+| Putter til kast/innspill | 2024 | 27,7 % |
+| Nøytral putter | 720 | 9,8 % |
+| Lett understabil midrange | 1629 | 22,3 % |
+| Nøytral midrange | 2209 | 30,2 % |
+| Lett understabil fairway | 243 | 3,3 % |
+| Nøytral fairway | 495 | 6,8 % |
 
-Ingen røde logikkfeil ble funnet i 18C. MVP-en er bevisst konservativ for å unngå at nye spillere blir sendt til for raske disker.
+Alle seks profiler er nå reelt tilgjengelige. Fairway forblir begrenset med hensikt: bare mål lengde/kontroll, kjent distanse, tilstrekkelig erfaring og ingen stall. Ingen terskel er justert for å oppnå en ønsket prosentfordeling.
+
+## Vedlikehold
+
+Kjør `node scripts/test-disc-tools.mjs` ved endringer. Testen sjekker alle svarløp, 12 navngitte profiler, intervallparitet for eksempler, speiling, URL-validering og 4116 flight-profiler i fire orienteringer.
+
+Se [24C-rapporten](disc-tools-p0-hardening-24c.md) for nettleser-QA og gjenstående P1. Ingen power, vind, release angle, slitasjemodell, sammenligning, produktmatching eller affiliate er lagt til.

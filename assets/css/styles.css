@@ -858,6 +858,7 @@ p {
 
 .range-control input {
   display: block;
+  min-height: 44px;
   width: 100%;
   max-width: 100%;
   min-width: 0;
@@ -998,7 +999,7 @@ p {
 
 .flight-label {
   fill: rgba(26, 61, 43, 0.72);
-  font-size: 15px;
+  font-size: 24px;
   font-weight: 850;
 }
 
@@ -2155,12 +2156,17 @@ dd {
     width: calc(100% - 2px);
   }
 
+  .visualizer-panel .segmented-control,
+  .visualizer-panel .preset-buttons {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .flight-svg {
     min-height: 230px;
   }
 
   .flight-label {
-    font-size: 13px;
+    font-size: 30px;
   }
 }
 

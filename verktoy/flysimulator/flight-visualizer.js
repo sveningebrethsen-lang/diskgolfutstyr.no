@@ -1,24 +1,9 @@
-import { examplesFor, flightPresets, summaryFor } from "./flight-presets.js";
+import { exampleFor, flightPresets } from "./flight-presets.js";
+import { parseFlightQuery, summaryFor, flightDirections } from "../flight-core.js";
 import { createFlightSvg, renderFlight } from "./flight-renderer.js";
 
 const root = document.querySelector("[data-flight-visualizer]");
 const urlNotice = document.querySelector("[data-url-prefill]");
-
-function clamp(value, min, max) {
-  return Math.max(min, Math.min(max, value));
-}
-
-function readNumberParam(params, name, fallback, min, max) {
-  const value = Number(params.get(name));
-  if (!Number.isFinite(value)) return fallback;
-  return clamp(value, min, max);
-}
-
-function hasValidNumberParam(params, name, min, max) {
-  if (!params.has(name)) return false;
-  const value = Number(params.get(name));
-  return Number.isFinite(value) && value >= min && value <= max;
-}
 
 function valuesFromInputs() {
   const values = {};
@@ -51,12 +36,17 @@ function updateValueLabels(values) {
 
 function renderExamples(values) {
   const target = root.querySelector("[data-flight-examples]");
-  target.innerHTML = examplesFor(values).map((example) => `<li>${example}</li>`).join("");
+  const preset = exampleFor(values);
+  target.innerHTML = preset
+    ? `<li>${preset.example} (${Object.values(preset.values).join(" / ")}) · <a href="${preset.source}">Produsentens tall</a></li>`
+    : "<li>Ingen verifisert eksempelmodell for disse tallene. Dette er en illustrasjon, ikke en produktanbefaling.</li>";
 }
 
 function updateSummary(values) {
   const target = root.querySelector("[data-flight-summary]");
   if (target) target.textContent = summaryFor(values);
+  const directions = flightDirections(optionsFromInputs());
+  root.querySelector("[data-flight-direction]").textContent = `Sett fra kasteren: negativ turn mot ${directions.turn}, fade mot ${directions.fade}. I grafen er fremover mot høyre på skjermen, kasterens høyre nedover og venstre oppover.`;
 }
 
 function renderPresetButtons() {
@@ -67,23 +57,18 @@ function renderPresetButtons() {
 }
 
 function initFromUrl() {
-  const params = new URLSearchParams(window.location.search);
-  const hasValidFlightParams =
-    hasValidNumberParam(params, "speed", 1, 14) &&
-    hasValidNumberParam(params, "glide", 1, 7) &&
-    hasValidNumberParam(params, "turn", -5, 1) &&
-    hasValidNumberParam(params, "fade", 0, 5);
-
-  if (!hasValidFlightParams) return;
-
-  setValues({
-    speed: readNumberParam(params, "speed", 7, 1, 14),
-    glide: readNumberParam(params, "glide", 5, 1, 7),
-    turn: readNumberParam(params, "turn", -2, -5, 1),
-    fade: readNumberParam(params, "fade", 1, 0, 5)
-  });
-
-  if (urlNotice) urlNotice.hidden = false;
+  const parsed = parseFlightQuery(window.location.search);
+  setValues(parsed.values);
+  for (const [key, value] of Object.entries(parsed.options)) {
+    root.querySelector(`[data-flight-option="${key}"][value="${value}"]`).checked = true;
+  }
+  if (urlNotice) {
+    urlNotice.hidden = !parsed.fromSelector;
+    urlNotice.textContent = "Basert på resultatet ditt fra diskvelgeren. Gyldige flight-tall er fylt inn." +
+      (parsed.rejected.length ? " Ugyldige tall er erstattet med standardverdier." : "") +
+      (parsed.assumedStyle ? " Backhand er valgt som illustrasjon; du kan bytte kastestil." : "") +
+      (parsed.assumedHand ? " Hånden var ikke oppgitt; illustrasjonen starter høyrehendt." : "");
+  }
 }
 
 function init() {
@@ -106,10 +91,6 @@ function init() {
 
   root.addEventListener("input", (event) => {
     if (event.target.matches("[data-flight-input], [data-flight-option]")) update();
-  });
-
-  root.addEventListener("change", (event) => {
-    if (event.target.matches("[data-flight-option]")) update();
   });
 
   root.addEventListener("click", (event) => {

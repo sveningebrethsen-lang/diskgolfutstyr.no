@@ -1,4 +1,5 @@
-import { diskSelectorSteps, getDiskRecommendation, resultLinks } from "./disk-selector-data.js";
+import { stepsFor, needsDirection, getDiskRecommendation, resultLinks } from "./disk-selector-data.js";
+import { simulatorUrl } from "../flight-core.js";
 
 const state = {
   stepIndex: 0,
@@ -17,7 +18,7 @@ function escapeHtml(value) {
 }
 
 function progressPercent() {
-  return Math.round(((state.stepIndex + 1) / diskSelectorSteps.length) * 100);
+  return Math.round(((state.stepIndex + 1) / stepsFor(state.answers).length) * 100);
 }
 
 function meter(value, max = 8) {
@@ -36,17 +37,8 @@ function flightItem(label, value, visual, explanation) {
   `;
 }
 
-function simulatorUrl(result) {
-  const params = new URLSearchParams({
-    speed: result.params.speed,
-    glide: result.params.glide,
-    turn: result.params.turn,
-    fade: result.params.fade
-  });
-  return `/verktoy/flysimulator/?${params.toString()}`;
-}
-
 function renderStep() {
+  const diskSelectorSteps = stepsFor(state.answers);
   const step = diskSelectorSteps[state.stepIndex];
   const selectedValue = state.answers[step.id];
   const options = step.options.map((option) => {
@@ -65,7 +57,7 @@ function renderStep() {
     </div>
     <div class="tool-question">
       <p class="eyebrow">Diskvelger</p>
-      <h2>${escapeHtml(step.title)}</h2>
+      <h2 tabindex="-1">${escapeHtml(step.title)}</h2>
       <p class="muted">${escapeHtml(step.help)}</p>
       <div class="choice-grid">${options}</div>
     </div>
@@ -78,14 +70,18 @@ function renderStep() {
 
 function renderResult() {
   const result = getDiskRecommendation(state.answers);
-  const flightUrl = simulatorUrl(result);
-  const links = resultLinks.map((link) => `<a class="pill" href="${escapeHtml(link.href)}">${escapeHtml(link.label)}</a>`).join("");
-  const examples = result.examples.map((example) => `<li>${escapeHtml(example)}</li>`).join("");
+  const flightUrl = simulatorUrl(result.params, state.answers);
+  const nextLinks = resultLinks.map((link) => state.answers.throw === "forehand" && link.href.includes("backhand")
+    ? { label: "Hvordan kaste forehand", href: "/guider/forehand-for-nybegynnere.html" } : link);
+  const links = nextLinks.map((link) => `<a class="pill" href="${escapeHtml(link.href)}">${escapeHtml(link.label)}</a>`).join("");
+  const examples = result.examples.map((example) => `<li>${escapeHtml(example.name)} (${Object.values(example.values).join(" / ")}) · <a href="${escapeHtml(example.source)}">Produsentens tall</a></li>`).join("");
+  const direction = result.direction;
+  const context = direction ? `Sett fra deg som kaster: ${state.answers.handedness === "right" ? "høyrehendt" : "venstrehendt"} ${state.answers.throw === "both" ? state.answers.problemStyle : state.answers.throw}.` : "Retningen avhenger av hånd og kastestil.";
   const flightItems = [
     flightItem("Speed", result.flight.speed, meter(result.visual.speed), "Lavere speed er lettere å få opp i fart."),
     flightItem("Glide", result.flight.glide, meter(result.visual.glide), "Mer glide kan gi mer flyvetid uten mer kraft."),
-    flightItem("Turn", result.flight.turn, result.visual.turn, "Pil mot venstre betyr lettere turn for høyrehendt backhand."),
-    flightItem("Fade", result.flight.fade, result.visual.fade, "Pil mot høyre viser hvor tydelig disken avslutter.")
+    flightItem("Turn", result.flight.turn, direction ? (direction.turn === "høyre" ? "►" : "◄") : "↔", `Mer negativt tall betyr større tendens til tidlig sving${direction ? ` mot ${direction.turn}` : ""}. ${context}`),
+    flightItem("Fade", result.flight.fade, direction ? (direction.fade === "høyre" ? "►" : "◄") : "↔", `Høyere tall betyr tydeligere avslutning${direction ? ` mot ${direction.fade}` : ""}. ${direction ? "" : context}`)
   ].join("");
 
   selector.innerHTML = `
@@ -94,7 +90,7 @@ function renderResult() {
         <div class="result-icon" aria-hidden="true">🥏</div>
         <div>
           <p class="eyebrow">Din anbefaling</p>
-          <h2>${escapeHtml(result.title)}</h2>
+          <h2 tabindex="-1">${escapeHtml(result.title)}</h2>
           <div class="result-category">
             <span>Anbefalt kategori</span>
             <strong>${escapeHtml(result.category)}</strong>
@@ -118,14 +114,14 @@ function renderResult() {
       </section>
       <section class="example-box">
         <h3>Eksempeldisker</h3>
-        <p>Dette er bare eksempler på disker i riktig retning. Velg plast, vekt og håndfølelse med litt sunn skepsis.</p>
+        <p>Eksempler innenfor intervallet, ikke fysisk testet her. Produsenttall er veiledende; plast, vekt og slitasje kan endre flyvebanen.</p>
         <ul>${examples}</ul>
       </section>
       <section class="simulator-teaser">
         <div>
           <p class="eyebrow">Neste verktøy</p>
           <h3>Se hvordan denne typen disk flyr</h3>
-          <p>Se anbefalingens flight-tall i simulatoren, og utforsk hvordan disken kan fly.</p>
+          <p>Se et eksempel innenfor intervallet. ${state.answers.throw === "both" && !state.answers.problemStyle ? "Illustrasjonen starter med backhand; du kan bytte kastestil." : "Kastestilen din følger med."} ${state.answers.handedness ? "" : "Høyrehendt brukes som illustrasjon til du velger hånd."}</p>
         </div>
         <a class="button button-light" href="${escapeHtml(flightUrl)}">Åpne flysimulator</a>
       </section>
@@ -142,7 +138,7 @@ function renderResult() {
 }
 
 function goNext() {
-  if (state.stepIndex < diskSelectorSteps.length - 1) {
+  if (state.stepIndex < stepsFor(state.answers).length - 1) {
     state.stepIndex += 1;
     renderStep();
     return;
@@ -172,15 +168,30 @@ if (selector) {
     const restartButton = event.target.closest("[data-restart]");
 
     if (answer) {
-      const step = diskSelectorSteps[state.stepIndex];
+      const step = stepsFor(state.answers)[state.stepIndex];
       state.answers[step.id] = answer.dataset.answer;
-      renderStep();
+      if (["throw", "goal", "problem"].includes(step.id)) {
+        delete state.answers.problemStyle;
+        delete state.answers.handedness;
+      }
+      if (!needsDirection(state.answers)) delete state.answers.handedness;
+      // Preserve the actual focused button; selecting an answer must not replace the DOM.
+      selector.querySelectorAll("[data-answer]").forEach((button) => button.setAttribute("aria-pressed", String(button === answer)));
+      const count = stepsFor(state.answers).length;
+      const progress = selector.querySelector(".tool-progress");
+      progress.setAttribute("aria-label", `Steg ${state.stepIndex + 1} av ${count}`);
+      progress.querySelector("p").textContent = `Steg ${state.stepIndex + 1} av ${count}`;
+      progress.querySelector("span").style.width = `${progressPercent()}%`;
+      const nextButton = selector.querySelector("[data-next]");
+      nextButton.disabled = false;
+      nextButton.textContent = state.stepIndex === count - 1 ? "Vis anbefaling" : "Neste";
       return;
     }
 
     if (next) goNext();
     if (back) goBack();
     if (restartButton) restart();
+    if ((next || back || restartButton) && event.detail === 0) selector.querySelector("h2")?.focus();
   });
 
   renderStep();
